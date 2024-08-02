@@ -1,0 +1,576 @@
+{
+  "hate_speech_instances": [
+    {
+      "tweet": {
+        "id": "1623823644391612416",
+        "span": [
+          {
+            "text_span": "#KonyadaSuriyeliİstemiyoruz",
+            "hate_speech_category": "Exclusive/Discriminatory Discourse"
+          },
+          {
+            "text_span": "Suriyelilerin yeri Konya değil sınır dışı edilmek",
+            "hate_speech_category": "Exclusive/Discriminatory Discourse"
+          }
+        ]
+      }
+    },
+    {
+      "tweet": {
+        "id": "1624168342125699075",
+        "span": [
+          {
+            "text_span": "ÜLKEEMDEEE MÜLTECİİ İSTEMİYORUUMM",
+            "hate_speech_category": "Exclusive/Discriminatory Discourse"
+          }
+        ]
+      }
+    },
+    {
+      "tweet": {
+        "id": "1624728009352613889",
+        "span": [
+          {
+            "text_span": "#ülkemdemülteciistemiyorum",
+            "hate_speech_category": "Exclusive/Discriminatory Discourse"
+          }
+        ]
+      }
+    },
+    {
+      "tweet": {
+        "id": "1623825448865001480",
+        "span": [
+          {
+            "text_span": "Yardım ve gasp Suriyeliler'e, Sürmek de Bizlere...",
+            "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+          }
+        ]
+      }
+    },
+    {
+      "tweet": {
+        "id": "1624170671960907802",
+        "span": [
+          {
+            "text_span": "#ÜlkemdeMülteciİstemiyorum",
+            "hate_speech_category": "Exclusive/Discriminatory Discourse"
+          },
+          {
+            "text_span": "#SuriyelilerSuriyeye",
+            "hate_speech_category": "Exclusive/Discriminatory Discourse"
+          }
+        ]
+      }
+    },
+    {
+      "tweet": {
+        "id": "1623756920413716481",
+        "span": [
+          {
+            "text_span": "#ÜlkemdeMülteciİstemiyorum",
+            "hate_speech_category": "Exclusive/Discriminatory Discourse"
+          }
+        ]
+      }
+    },
+    {
+        "tweet": {
+            "id": "1624166577082884126",
+            "span": [
+                {
+                    "text_span": "#ülkemdemülteciistemiyorum",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                }
+            ]
+        }
+    },
+    {
+        "tweet": {
+            "id": "1623466808551387140",
+            "span": [
+                {
+                    "text_span": "Allah hepinizin belasını versin be bıktık sizden sizin gibi din kardeşi olmaz olsun kendi nefesinizde boğulursunuz inşallah Allahın belaları",
+                    "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                },
+                {
+                    "text_span": "#serefsiz",
+                    "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                },
+                {
+                    "text_span": "#ülkemdemülteciistemiyorum",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                },
+                {
+                    "text_span": "#uelkemdesuriyeliistemiyorum",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                }
+            ]
+        }
+    },
+    {
+        "tweet": {
+            "id": "1624167435212316705",
+            "span": [
+                {
+                    "text_span": "Siktirolup gidin artık bu ülkeden.Vatan hainleri sabrımız taştı artık suriyenin piçleri",
+                    "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                },
+                {
+                    "text_span": "#ülkemdemülteciistemiyorum",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                }
+            ]
+        }
+    },
+    {
+        "tweet": {
+            "id": "1623824556006772738",
+            "span": [
+                {
+                    "text_span": "HIRSIZLARLI, GASPCILARLI, FIRSATCILARI, SAPIKLARI ULKEMIZDE ISTEMIYORUZ!!!",
+                    "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+                },
+                {
+                    "text_span": "#SuriyelilerSehirlerdenCıkartın",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                }
+            ]
+        }
+    },
+    {
+        "tweet": {
+            "id": "1624403688348319744",
+            "span": [
+                {
+                    "text_span": "#ÜLKEMDEMÜLTECİİSTEMİYORUM",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                }
+            ]
+        }
+    },
+    {
+        "tweet": {
+            "id": "1624183180029730816",
+            "span": [
+                {
+                    "text_span": "#UElkemdeMuelteciİstemiyorum",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                },
+                {
+                    "text_span": "#UElkemdeSuriyeliİstemiyorum",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                }
+            ]
+        }
+    },
+    {
+        "tweet": {
+            "id": "1624244302149832705",
+            "span": [
+                {
+                    "text_span": "#ülkemdemülteciistemiyorum",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                },
+                {
+                    "text_span": "#suriyeliyağmacılarıistemiyorum",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                }
+            ]
+        }
+    },
+    {
+        "tweet": {
+            "id": "1624379851179192320",
+            "span": [
+                {
+                    "text_span": "#ülkemdemülteciistemiyorum",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                }
+            ]
+        }
+    },
+    {
+        "tweet": {
+            "id": "1624714686930251776",
+            "span": [
+                {
+                    "text_span": "#ÜlkemdeMülteciİstemiyorum",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                }
+            ]
+        }
+    },
+    {
+        "tweet": {
+            "id": "1623751737654886400",
+            "span": [
+                {
+                    "text_span": "#UELKEMDESURİYELİİSTEMİYORUM",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                },
+                {
+                    "text_span": "#uelkemdesuriyeliistemiyorum",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                },
+                {
+                    "text_span": "#UElkemdeMuelteciİstemiyorum",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                },
+                {
+                    "text_span": "#UElkemdeSuriyeliİstemiyorum",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                }
+            ]
+        }
+    },
+    {
+        "tweet": {
+            "id": "1624244378901311491",
+            "span": [
+                {
+                    "text_span": "#ülkemdemülteciistemiyorum",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                },
+                {
+                    "text_span": "#suriyeliyağmacılarıistemiyorum",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                }
+            ]
+        }
+    },
+    {
+        "tweet": {
+            "id": "1623765651096584200",
+            "span": [
+                {
+                    "text_span": "Mültecilerden nefret ettiğim bir radde",
+                    "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                },
+                {
+                    "text_span": "şerefsizler",
+                    "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                },
+                {
+                    "text_span": "#ülkemdemülteciistemiyorum",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                }
+            ]
+        }
+    },
+    {
+        "tweet": {
+            "id": "1624170659013091348",
+            "span": [
+                {
+                    "text_span": "#ülkemdemülteciistemiyorum",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                }
+            ]
+        }
+    },
+    {
+        "tweet": {
+            "id": "1624166538528841767",
+            "span": [
+                {
+                    "text_span": "#ülkemdemülteciistemiyorum",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                }
+            ]
+        }
+    },
+    {
+        "tweet": {
+            "id": "1624334610946576384",
+            "span": [
+                {
+                    "text_span": "#UElkemdemuelteciistemiyorum",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                },
+                {
+                    "text_span": "#UElkemdeSığınmacıİstemiyorum",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                },
+                {
+                    "text_span": "#Muelteciistemiyorum",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                },
+                {
+                    "text_span": "#artıkyeter",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                }
+            ]
+        }
+    },
+    {
+        "tweet": {
+            "id": "1624925697918529537",
+            "span": [
+                {
+                    "text_span": "#ülkemdemülteciistemiyorum",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                }
+            ]
+        }
+    },
+    {
+        "tweet": {
+            "id": "1624167918287085571",
+            "span": [
+                {
+                    "text_span": "#ülkemdemülteciistemiyorum",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                }
+            ]
+        }
+    },
+    {
+        "tweet": {
+            "id": "1624330403245969408",
+            "span": [
+                {
+                    "text_span": "#ülkemdemülteciistemiyorum",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                }
+            ]
+        }
+    },
+    {
+        "tweet": {
+            "id": "1624180465333686273",
+            "span": [
+                {
+                    "text_span": "#ülkemdemuelteciistemiyorum",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                }
+            ]
+        }
+    },
+    {
+        "tweet": {
+            "id": "1624398691959201793",
+            "span": [
+                {
+                    "text_span": "#ÜLKEMDEMÜLTECİİSTEMİYORUM",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                }
+            ]
+        }
+    },
+    {
+        "tweet": {
+            "id": "1623811024645226497",
+            "span": [
+                {
+                    "text_span": "#ÜlkemdeMülteciİstemiyorum",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                },
+                {
+                    "text_span": "#suriyeliistemiyoruz",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                }
+            ]
+        }
+    },
+    {
+        "tweet": {
+            "id": "1624166555054399496",
+            "span": [
+                {
+                    "text_span": "#ülkemdemülteciistemiyorum",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                }
+            ]
+        }
+    },
+    {
+        "tweet": {
+            "id": "1624247980755759104",
+            "span": [
+                {
+                    "text_span": "#ülkemdemülteciistemiyorum",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                },
+                {
+                    "text_span": "#suriyeliyağmacılarıistemiyorum",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                }
+            ]
+        }
+    },
+    {
+        "tweet": {
+            "id": "1624244967295135744",
+            "span": [
+                {
+                    "text_span": "#ülkemdemülteciistemiyorum",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                },
+                {
+                    "text_span": "#suriyeliyağmacılarıistemiyorum",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                }
+            ]
+        }
+    },
+    {
+        "tweet": {
+            "id": "1624509034211540995",
+            "span": [
+                {
+                    "text_span": "#ülkemdesuriyeliistemiyorum",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                },
+                {
+                    "text_span": "#UElkemdeMuelteciİstemiyorum",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                },
+                {
+                    "text_span": "#uelkemdeoruspucocuğuistemiyorum",
+                    "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                },
+                {
+                    "text_span": "#UElkemdeSığınmacıİstemiyorum",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                },
+                {
+                    "text_span": "#uelkemdeYağmacıİstemiyorum",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                }
+            ]
+        }
+    },
+    {
+        "tweet": {
+            "id": "1623460376128937984",
+            "span": [
+                {
+                    "text_span": "Sktir olun gidin lan bu ülkeden srefsizz yağmacılar ",
+                    "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                },
+                {
+                    "text_span": "#suriyeliler",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                },
+                {
+                    "text_span": "Suriyeliler",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                }
+            ]
+        }
+    },
+    {
+        "tweet": {
+            "id": "1623823541832499201",
+            "span": [
+                {
+                    "text_span": "Türkiye Cumhuriyeti vatandaşı yapılan suriyeliler değil!!",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                }
+            ]
+        }
+    },
+    {
+        "tweet": {
+            "id": "1625584158931050528",
+            "span": [
+                {
+                    "text_span": "Mall türkler çadır bulamazken suriyeliler kykda",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                },
+                {
+                    "text_span": "mallll",
+                    "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                }
+            ]
+        }
+    },
+    {
+        "tweet": {
+            "id": "1624168852287283239",
+            "span": [
+                {
+                    "text_span": "Ne boş beleş suriyeli",
+                    "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                },
+                {
+                    "text_span": "#ülkemdemülteciistemiyorum",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                }
+            ]
+        }
+    },
+    {
+        "tweet": {
+            "id": "1624834326947921920",
+            "span": [
+                {
+                    "text_span": "#ÜlkemdeMülteciİstemiyorum",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                },
+                {
+                    "text_span": "#ÜlkemdeSuriyeliİstemiyorum",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                }
+            ]
+        }
+    },
+    {
+        "tweet": {
+            "id": "1624331793015922690",
+            "span": [
+                {
+                    "text_span": "#ülkemdemülteciistemiyorum",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                }
+            ]
+        }
+    },
+    {
+        "tweet": {
+            "id": "1623822949542240256",
+            "span": [
+                {
+                    "text_span": "supportını suriyeliler kyk'yı yağmaladı, kızları taciz etti",
+                    "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+                },
+                {
+                    "text_span": "kabul ettiğiniz 10 milyon boş insan",
+                    "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+                }
+            ]
+        }
+    },
+    {
+        "tweet": {
+            "id": "1624272510404464641",
+            "span": [
+                {
+                    "text_span": "#UElkemdeSığınmacıİstemiyorum",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                },
+                {
+                    "text_span": "#UElkemdemuelteciistemiyorum",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                },
+                {
+                    "text_span": "#uelkemdeoruspucocuğuistemiyorum",
+                    "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                }
+            ]
+        }
+    },
+    {
+        "tweet": {
+            "id": "1624290515918155776",
+            "span": [
+                {
+                    "text_span": "#ülkemdemülteciistemiyorum",
+                    "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                }
+            ]
+        }
+    }
+]
+}

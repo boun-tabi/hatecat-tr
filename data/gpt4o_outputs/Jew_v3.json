@@ -1,0 +1,561 @@
+{
+  "hate_speech_instances": [
+    {
+      "tweet": {
+         "id": "1556025770488774658",
+         "span": [
+            {
+               "text_span": "Çocuk katilleri!",
+               "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            },
+            {
+               "text_span": "Lanetli kavim!",
+               "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            },
+            {
+               "text_span": "Çöllere düşün son kez ve bir daha çıkamayın.",
+               "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+            }
+         ]
+      }
+    },
+    {
+      "tweet": {
+         "id": "1473971550542090246",
+         "span": [
+            {
+               "text_span": "it",
+               "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            },
+            {
+               "text_span": "her seyiyle insanlığın yüzkarasi.",
+               "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            }
+         ]
+      }
+    },
+    {
+      "tweet": {
+         "id": "1394653950444457988",
+         "span": [
+            {
+               "text_span": "yeryüzunden silinme vaktin gelmiştir Allahın izniyle",
+               "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+            },
+            {
+               "text_span": "itrail",
+               "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            }
+         ]
+      }
+    },
+    {
+      "tweet": {
+         "id": "1392252623902978049",
+         "span": [
+            {
+               "text_span": "#Yıkılsınİsrail",
+               "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+            },
+            {
+               "text_span": "#Kahrolsunİsrail",
+               "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+            },
+            {
+               "text_span": "#Yansınİsrail",
+               "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+            },
+            {
+               "text_span": "#ALLAHINNALETİİSRAİLİNÜZERİNEOLSUNİNŞALLAH",
+               "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+            },
+            {
+               "text_span": "#israilteroerdevletidir",
+               "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+            }
+         ]
+      }
+    },
+    {
+      "tweet": {
+         "id": "1392494449675145217",
+         "span": [
+            {
+               "text_span": "#AllahbelanıversinİSRAİL",
+               "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+            }
+         ]
+      }
+    },
+    {
+      "tweet": {
+         "id": "1393467610600288257",
+         "span": [
+            {
+               "text_span": "Soysuz #Katilİsrail #Soykırımcıİsrail #SoyunKurusunİsrail'i",
+               "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            },
+            {
+               "text_span": "Kahru Perişan Eylesin İnşallah",
+               "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+            }
+         ]
+      }
+    },
+    {
+      "tweet": {
+         "id": "1393484053677056001",
+         "span": [
+            {
+               "text_span": "işgalciisrail",
+               "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+            },
+            {
+               "text_span": "i̇sraildevletdeğildir",
+               "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+            },
+            {
+               "text_span": "siyonistisrail",
+               "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            },
+            {
+               "text_span": "israelterrorist",
+               "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+            },
+            {
+               "text_span": "soysuzisrailkopekleri",
+               "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            }
+         ]
+      }
+    },
+    {
+      "tweet": {
+         "id": "1393671699623723010",
+         "span": [
+            {
+               "text_span": "İsrail kendi kanında boğül inşaallah yakahar yakahar",
+               "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+            },
+            {
+               "text_span": "#Katilİsrail",
+               "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            }
+         ]
+      }
+    },
+    {
+      "tweet": {
+         "id": "1394971396929896448",
+         "span": [
+            {
+               "text_span": "yahudi itlerine asla merhamet göstermeyin",
+               "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            },
+            {
+               "text_span": "it",
+               "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            },
+            {
+               "text_span": "itrail",
+               "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            },
+            {
+               "text_span": "yahudi itlerine yapacaklarımızı düşünemiyorum bile",
+               "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+            }
+         ]
+      }
+    },
+    {
+      "tweet": {
+         "id": "1392833730495107078",
+         "span": [
+            {
+               "text_span": "Bunların hepsi şerefsiz",
+               "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            },
+            {
+               "text_span": "numara yapıyorlar",
+               "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+            },
+            {
+               "text_span": "Katilİsrail",
+               "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            }
+         ]
+      }
+    },
+    {
+      "tweet": {
+         "id": "1391693183155904515",
+         "span": [
+            {
+               "text_span": "İsrail barbarlarının",
+               "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            }
+         ]
+      }
+    },
+    {
+      "tweet": {
+         "id": "1515156707390984193",
+         "span": [
+            {
+               "text_span": "İngilizi siyonisti hiç rahat durmaz bu alçaklardan dost müttefik olmaz",
+               "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            }
+         ]
+      }
+    },
+    {
+      "tweet": {
+         "id": "1391920935343636483",
+         "span": [
+            {
+               "text_span": "Şerefsizler, caniler",
+               "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            },
+            {
+               "text_span": "Katilİsrail",
+               "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            }
+         ]
+      }
+    },
+    {
+      "tweet": {
+         "id": "1393264750969163780",
+         "span": [
+            {
+               "text_span": "Terör devleti #Katilİsrail'in sonu gelir.",
+               "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+            }
+         ]
+      }
+    },
+    {
+      "tweet": {
+         "id": "1393909569798213634",
+         "span": [
+            {
+               "text_span": "KAHROLSUN İSRAİL",
+               "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+            }
+         ]
+      }
+    },
+    {
+      "tweet": {
+         "id": "1498727839524429831",
+         "span": [
+            {
+               "text_span": "#Katilİsrail",
+               "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            }
+         ]
+      }
+    },
+    {
+      "tweet": {
+         "id": "1392474492610433024",
+         "span": [
+            {
+               "text_span": "Teröristisrail",
+               "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+            }
+         ]
+      }
+    },
+    {
+      "tweet": {
+         "id": "1394185880932429825",
+         "span": [
+            {
+               "text_span": "katilisrail",
+               "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            },
+            {
+               "text_span": "thekillerisrael",
+               "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            }
+         ]
+      }
+    },
+    {
+      "tweet": {
+         "id": "1393434648647192577",
+         "span": [
+            {
+               "text_span": "KATİL, SİYONİST, İŞGALCİ",
+               "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            }
+         ]
+      }
+    },
+    {
+      "tweet": {
+         "id": "1557968706315190277",
+         "span": [
+            {
+               "text_span": "itrail",
+               "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            }
+         ]
+      }
+    },
+    {
+      "tweet": {
+         "id": "1392613428691357699",
+         "span": [
+            {
+               "text_span": "yahudilerin sokak aralarinda gördüğü filistinlilere ateş ettiği",
+               "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+            },
+            {
+               "text_span": "Katilİsrail",
+               "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            }
+         ]
+      }
+    },
+    {
+      "tweet": {
+         "id": "1458303659641540608",
+         "span": [
+            {
+               "text_span": "itrail'liler",
+               "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            }
+         ]
+      }
+    },
+    {
+      "tweet": {
+         "id": "1557215313791442945",
+         "span": [
+            {
+               "text_span": "İsrailHaddiniBil",
+               "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            }
+         ]
+      }
+    },
+    {
+      "tweet": {
+         "id": "1397241789145300999",
+         "span": [
+            {
+               "text_span": "kahrolsunisrail",
+               "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+            }
+         ]
+      }
+    },
+    {
+      "tweet": {
+         "id": "1392492782338596864",
+         "span": [
+            {
+               "text_span": "ShameOnYouIsrael",
+               "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            }
+         ]
+      }
+    },
+    {
+      "tweet": {
+         "id": "1393864800300580867",
+         "span": [
+            {
+               "text_span": "SonunGeldiKöpekİsrail",
+               "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+            }
+         ]
+      }
+    },
+    {
+      "tweet": {
+         "id": "1393078421064929280",
+         "span": [
+            {
+               "text_span": "İtrailler!",
+               "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            },
+            {
+               "text_span": "Sonunuz yakındır",
+               "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+            }
+         ]
+      }
+    },
+    {
+      "tweet": {
+         "id": "1391187031972270080",
+         "span": [
+            {
+               "text_span": "itrail",
+               "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            }
+         ]
+      }
+    },
+    {
+      "tweet": {
+         "id": "1392876146929414145",
+         "span": [
+            {
+               "text_span": "kahrolsunisraill",
+               "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+            }
+         ]
+      }
+    },
+    {
+      "tweet": {
+         "id": "1390786231336939523",
+         "span": [
+            {
+               "text_span": "kahrolsunisrail",
+               "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+            }
+         ]
+      }
+    },
+    {
+      "tweet": {
+         "id": "1555835005770911744",
+         "span": [
+            {
+               "text_span": "Katil İsrail",
+               "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            },
+            {
+               "text_span": "Çocuk katili İsrail",
+               "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            },
+            {
+               "text_span": "Katilisrail",
+               "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            }
+         ]
+      }
+    },
+    {
+      "tweet": {
+         "id": "1392554620711485440",
+         "span": [
+            {
+               "text_span": "katilisrail",
+               "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            }
+         ]
+      }
+    },
+    {
+      "tweet": {
+         "id": "1390786503752699910",
+         "span": [
+            {
+               "text_span": "kahrolsunisrail",
+               "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+            }
+         ]
+      }
+    },
+    {
+      "tweet": {
+         "id": "1391549459633524737",
+         "span": [
+            {
+               "text_span": "ey teroris itrail",
+               "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            }
+         ]
+      }
+    },
+    {
+      "tweet": {
+         "id": "1515724584447877130",
+         "span": [
+            {
+               "text_span": "İşgalci yahudi varlığının",
+               "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            },
+            {
+               "text_span": "yahudi",
+               "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            }
+         ]
+      }
+    },
+    {
+      "tweet": {
+         "id": "1392960794988630022",
+         "span": [
+            {
+               "text_span": "işgalci yerleşim",
+               "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+            },
+            {
+               "text_span": "Katilisrail",
+               "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            }
+         ]
+      }
+    },
+    {
+      "tweet": {
+         "id": "1556599459353608193",
+         "span": [
+            {
+               "text_span": "kahrolisrail",
+               "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+            }
+         ]
+      }
+    },
+    {
+      "tweet": {
+         "id": "1394405008876220424",
+         "span": [
+            {
+               "text_span": "katilisrail",
+               "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            }
+         ]
+      }
+    },
+    {
+      "tweet": {
+         "id": "1392656703288758273",
+         "span": [
+            {
+               "text_span": "Yok olacaksın iTrail",
+               "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+            },
+            {
+               "text_span": "Yıkılasın",
+               "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+            },
+            {
+               "text_span": "israil",
+               "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            }
+         ]
+      }
+    },
+    {
+      "tweet": {
+         "id": "1396171718687969280",
+         "span": [
+            {
+               "text_span": "itrail",
+               "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            }
+         ]
+      }
+    }
+   ]
+}
+    

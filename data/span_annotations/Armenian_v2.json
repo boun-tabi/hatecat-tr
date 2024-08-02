@@ -1,0 +1,540 @@
+{
+    "hate_speech_instances": [
+        {
+            "tweet": {
+                "id": "1658495767265305088",
+                "span": [
+                    {
+                        "text_span": "Ermeni teyze.. sehit edenlerin ortagi oldugunuz PKK",
+                        "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+                    },
+                    {
+                        "text_span": "Ermeniden olsa olsa ermeni ve pkk milliyetciligi beklenir",
+                        "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+                    }
+                ],
+                "text": "@meral_aksener Ermeni teyze.. sehit edenlerin ortagi oldugunuz PKK oldugunu neden acikca yazmiyorsun? Ermeniden olsa olsa ermeni ve pkk milliyetciligi beklenir.."
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658474644113101056",
+                "span": [
+                    {
+                        "text_span": "ermeni kökenli pkk dostu",
+                        "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+                    }
+                ],
+                "text": "@buluttbt @kilicdarogluk Atan uyansa ermeni kökenli pkk dostu kıçtaroğlunu, terörist cananı, ve sezgini görünce kalpten tekrar gider."
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658509553665822976",
+                "span": [
+                    {
+                        "text_span": "yahudi hiristiyan ermeni",
+                        "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+                    }
+                ],
+                "text": "@yekvucutcom Senin Atatürkü de yahudi hiristiyan ermeni doldurdu bir de vatandaşlık verdi üstelik Müslüman kisvesi ne büründürdü ve o neslin devamısın yeşim Salkım"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658628941148566016",
+                "span": [
+                    {
+                        "text_span": "ermeni kardeşim değil istemez",
+                        "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                    }
+                ],
+                "text": "@10larMedya Ben ehli sunetle kardeşim diğeri alevi süryani ermeni kardeşim değil istemez siz kardeş un ateşiniz bizide yakacak"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658644845227811072",
+                "span": [
+                    {
+                        "text_span": "ermeni dölü",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@enderTurks @Keremkaygusuz7 @restitutorII je préfère etre apeller yobaz que ermeni dölü comme ta daronne 😂😂"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658751169445986048",
+                "span": [
+                    {
+                        "text_span": "lağım faresi ermeni tohumu",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "lan yavşak gevşek oğlan çocuğu homo lağım fareleri eşcinsel olurmuş lağım faresi ermeni tohumu https://t.co/kpJqCshosa"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658479166885601024",
+                "span": [
+                    {
+                        "text_span": "Len Ermeni",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    },
+                    {
+                        "text_span": "sen Ermenisin? Biz neden sana oy verelim? Dedelerin de vatan haini",
+                        "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                    },
+                    {
+                        "text_span": "Sabiha Gökçen o yüzden bombaladı sizi.",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    }
+                ],
+                "text": "@ononyapayzeka @HeyDouglas7 @kilicdarogluk Len Ermeni @kilicdarogluk milletin işi gücü yokta sen Cumhurbaşkanı ol diye peşinden mi koşacak? Oğlum kazanamıyorsun zaten. Yorma milleti. CHP seçmeni bilmiyor olabilir ama sen Ermenisin? Biz neden sana oy verelim? Dedelerin de vatan haini. Sabiha Gökçen o yüzden bombaladı sizi. https://t.co/ZLsoGnCZdi"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658435512238054912",
+                "span": [
+                    {
+                        "text_span": "Ermeni ya Yahudi karışımı sabetayist",
+                        "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                    }
+                ],
+                "text": "@Yazi_Yorum__ Sıkıntı yok Yavrummmm \nAmerikanya'ya değil isteğin yere bi S*ktirol git vatanın senin gibilere ihtiyacı yok!\naltını açsak kökünü çeksek ya Ermeni ya Yahudi karışımı sabetayist  çıkar.\nTürk milliyetçileri varolduğu sürece daha çoook çenilersin!\n🇹🇷🤘🇹🇷🤘🇹🇷"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658201891015107072",
+                "span": [
+                    {
+                        "text_span": "ülkedeki ermeni ve diğerleri de dahil",
+                        "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                    }
+                ],
+                "text": "@KemalMelissa @umitozdag Ümit özdağ ,arap düşmanı değil, tüm mültecileri göndericez dedi,ülkedeki ermeni ve diğerleri de dahil,\nTerör örgütü yandaşları da dahil,anlayabil din değil mi ."
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658124932016926976",
+                "span": [
+                    {
+                        "text_span": "ermeni taşnakçı torunu",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@OrionEmpress @SireneOznur 12 Eylül darvesi sonrası sahte belgeler ile Anadolu çocuğu asan kripto, chpli sabataist Yahudi, ermeni taşnakçı torunu, darbeci uşağı hakimler gördük. Ölü chplilere oy kullandıran hakimler gördük."
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658115395155374080",
+                "span": [
+                    {
+                        "text_span": "ermeni döllerini domuz bağı ile gebertmek lazım",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    }
+                ],
+                "text": "@ogeday_nigar toplanıp  sadat  gibi bir  güvenlik ekibi kurup  bu ermeni  döllerini domuz bağı ile  gebertmek lazım"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658423576427393024",
+                "span": [
+                    {
+                        "text_span": "ermeni olup kürdüm türküm aleviyim diye kendilerinizi gizleyen hainlersiniz",
+                        "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+                    },
+                    {
+                        "text_span": "kemal bey ermeni değilmi",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "sen türk halkından değilsinki...türk halkı adına konuşma hakkını nereden aldın...omurgasız sülüksünüz siz..asıl kimliklerinizi bile söyleyemeyen korkaklar sürüsüsünüz...ermeni olup kürdüm türküm aleviyim diye kendilerinizi gizleyen hainlersiniz..kemal bey ermeni değilmi ... https://t.co/bNf5QG9VAB"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658157621419945984",
+                "span": [
+                    {
+                        "text_span": "Buna hayır diyen bir Ermeni kadar bile olamaz.",
+                        "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+                    }
+                ],
+                "text": "@absurtolaylar Bakın akp yi desteklemiyorum ama o yardımlar insanlık adına yapıldı. Hangi siyasi görüşü etnik kökeni falan umrumda değil. Buna hayır diyen bir Ermeni kadar bile olamaz. Çünkü onlar yardıma geldiler."
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658205478818554112",
+                "span": [
+                    {
+                        "text_span": "ERMENI KEMAL",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    },
+                    {
+                        "text_span": "BEKLEYECEK BABAMIZ",
+                        "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                    }
+                ],
+                "text": "@sicakmedya Ermeni kemal seloyu apoyu hapisteki pkk lıları bırakacaksın pkk yeniden dirilecek sayende karakol basacak bebek, polis, asker, öğretmen, işçi şehit edecek."
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658346535900306944",
+                "span": [
+                    {
+                        "text_span": "ermeni yahudi pkk ypgliler",
+                        "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+                    }
+                ],
+                "text": "@YavuzGunesArt @misvakcaps Turkiye de hukumette yönetimdeki Recep Tayyip Erdogan\nSuleyman Soylu \nHulusi Akar\nHakan Fidan\nsayesinde terörist katil ermeni yahudi pkk ypgliler istanbul ve diger şehirlerde bebekleri çocuklari öldüremiyor\nLaikchpiphdptesil hukumetinde her sehirde yeniden bebeklere saldirir pkk https://t.co/0pb7ZTTGzz"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658432053094777088",
+                "span": [
+                    {
+                        "text_span": "Ermeni yunan",
+                        "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+                    }
+                ],
+                "text": "@AylinErtekin34 Bütün teröristlerin anası chp babası da İsrail Vatikan Almanya İngiltere Fransa İsveç İtalya Amerika Kanada İran Ermeni yunan gibi ülkelerdir , bitti niyemi Kalkınamıyoruz gelisemiyoruz sebebi chp chp eşittir chp"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658433802459394048",
+                "span": [
+                    {
+                        "text_span": "Ermeni mi ? Onlar bile bu kadar Türk düşmanı olamaz",
+                        "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+                    }
+                ],
+                "text": "@sultanvahdet @abcyalcinahmet Sen nesin necisin peki. Yunan mı, Rum mu? Ermeni mi? Onlar bile bu kadar Türk düşmanı olamaz."
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658568122276762112",
+                "span": [
+                    {
+                        "text_span": "lan ermeni pici",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@mervepep1 @olmazlaraaainat Lan ermeni pici hudapar benim askerime polisime öğretmene çocuklara asla silah dogrultmadi senin o savunduğun ermeniler hepsi ittifak için gittiler bir sıkıntı yok ama akp destekleyici hemen pkk ile aynı kefeye koydunuz lanet olsun sizin zihniyetinize gidin essek heykel seviciler"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658475881852203008",
+                "span": [
+                    {
+                        "text_span": "Len Ermeni",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    },
+                    {
+                        "text_span": "sen Ermenisin? Biz neden sana oy verelim? Dedelerin de vatan haini",
+                        "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                    },
+                    {
+                        "text_span": "Sabiha Gökçen o yüzden bombaladı sizi.",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    }
+                ],
+                "text": "@kilicdarogluk Len Ermeni @kilicdarogluk milletin işi gücü yokta sen Cumhurbaşkanı ol diye peşinden mi koşacak? Oğlum kazanamıyorsun zaten. Yorma milleti. CHP seçmeni bilmiyor olabilir ama sen Ermenisin? Biz neden sana oy verelim? Dedelerin de vatan haini. Sabiha Gökçen o yüzden bombaladı sizi. https://t.co/qyinDrQ9dx"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658719981700275968",
+                "span": [
+                    {
+                        "text_span": "ermeni dölü picler",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@_ciziyor_ Amina koduklarim diyememis ben yerine diyeyim ermeni dölü picler alsınlar paralarını https://t.co/dw3t2uqwj6"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658424553595339008",
+                "span": [
+                    {
+                        "text_span": "Ermeni @kilicdarogluk",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@ajans_muhbir Anti-emperyalist Atatürk'ün kurduğu CHP'de ABD'nin uşaklığını yapan Ermeni @kilicdarogluk bölücüler ile işbirliği yaparak yönetimi ele geçirmek istiyor. Değişim değil,etnik kimlik ve inanç üzerinden Türkiye'yi parçalamak istiyor.Bunu bildiği halde 3 Maymun'u oynayan kitle oluştu. https://t.co/bUaYncbs71"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658524277082030080",
+                "span": [
+                    {
+                        "text_span": "ermeni artığısınız",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@jdjdjdudidudix @lospartizans Yalnız siz kürt değilsiniz ermeni artığısınız kendinizi kürt sanmayın bence?"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658555201119198976",
+                "span": [
+                    {
+                        "text_span": "rum ermeni pkk feto abd ab sevdalisin",
+                        "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                    }
+                ],
+                "text": "@bernalacin35 @bernalacin35 sen ne kadar rum ermeni pkk feto abd ab sevdalisin anladik inancin Yok sayginda Yok Tek bir sey soyliyecem lutfen reis kazanirsa ulkeyi terk et git Baska yerde yasa fuzulisin cunki …"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658259246893395968",
+                "span": [
+                    {
+                        "text_span": "ermeni dönmeleri",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@ekrem_imamoglu Senin oyun geçersiz hükmündedir.\nTehditle İstanbul'u dhkpc ve PKK ya peşkeş çekmen seni ne koruyacaktır nede kollayacak..\nO yanına aldığın ermeni dönmeleri ve sen yeri vakti geldimi tek tek hesap vereceksiniz 🇹🇷🇹🇷🇹🇷🇹🇷🇹🇷"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658028234062156032",
+                "span": [
+                    {
+                        "text_span": "Ermeni Terörist",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    },
+                    {
+                        "text_span": "Rte 7 düvelinizi ayakta düzdü",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@hdpdemirtas Ermeni Terörist, piron altına sıçtı.Rte 7 düvelinizi ayakta düzdü.\nEdirne senin ebedi mekanın oldu."
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658074897623536128",
+                "span": [
+                    {
+                        "text_span": "PKK Fetö Ermeni Yahudi Amerika Avrupa nereye gitmek istersen",
+                        "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                    }
+                ],
+                "text": "@DahiOglan1 @zeynep5erler Hadi oradan ben ikinci günden itibaren Antakya da idim,klavye kahramanları bırakın bu edebiyatı , Rızkı veren Allah. İnsanlara tepeden bakmayın .Çanakkale de aç kaldık , soğansız da kalır bu Memleket.Devletsiz asla Hadi PKK Fetö Ermeni Yahudi Amerika Avrupa nereye gitmek istersen"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658427502098824960",
+                "span": [
+                    {
+                        "text_span": "içimizdeki hainlerle ermeni yunan ve yahudilerin torunlarını",
+                        "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+                    }
+                ],
+                "text": "@tanjuozcanchp İçimizdeki hainlerle ermeni yunan ve yahidilerin torunlarını da göndermeye’de varmısın. Yoksa burda boş yapmaktan ve ırkçılıktan başka bir işe yarar referansın varmı  ?"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658156176876483072",
+                "span": [
+                    {
+                        "text_span": "Ermeni soykırımı palavra",
+                        "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+                    }
+                ],
+                "text": "@denizakb3 Ermeni soykırımı palavra olduğunu uluslarası kamuoyunda kanıtlayalım. Ermenistan’a tazminat ödettirelim. Kafkasya’da devletlerarası ilişkileri güçlendirelim. Karadeniz Devletleri iş birliği platformu kuralım. Ukraynayı TDT na üye işlemlerini başlatalım."
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658415633879499008",
+                "span": [
+                    {
+                        "text_span": "ermeni dölü bana hain derse anasını sikerim siktir git burdan",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@tahaferdi_tas Tüm ülkenin en kahpe seçmen kitlesisiniz akp yıllarca kendinden olmayana hain dedi şimdide siz inceye oğana oy verenlere hain diyorsunuz afedersin senin gibi bir ermeni dölü bana hain derse anasını sikerim siktir git burdan"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658526394685455872",
+                "span": [
+                    {
+                        "text_span": "Ermeni soykırımı savunuluyor",
+                        "hate_speech_category": "Symbolization"
+                    }
+                ],
+                "text": "@OguzhanUgur Programında terörist savunucuları oluyor destekleyen siyasetçiler oluyor Ermeni soykırımı savunuluyor kimse utanmıyor ama ak partili gençler yok siyasetçiler yok bunun üzerine bize güzel bir ülke sunamazsınız.Programın bariz şekilde millet ittifakı reklamıydı."
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658540512557555968",
+                "span": [
+                    {
+                        "text_span": "ermeni canan ve yunan ekrem",
+                        "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                    }
+                ],
+                "text": "@efdalicelli @gnclikdevirecek @tolga_bilit76 Cunku ermeni canan ve yunan ekrem maşalarini devreye soktu ilk is gununde. Hemen ortami karistirma projesini devreye aldikar. Tam bir hain plani."
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658358998326714112",
+                "span": [
+                    {
+                        "text_span": "sen arap mısın ermeni",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@filiz175 Valla bu adam Türk oğlu Türk de sen arap mısın ermeni mi Allah bilir. 2. Tura kemal çekilip Sinan Oğan kalmalıdır. Ülkeyi ermeniler araplar değil Türkler yönetmelidir."
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658211193486450944",
+                "span": [
+                    {
+                        "text_span": "Ermeni bozuntuları",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "Bunu kendi kanına halkına reva gören Türk kanı olmaz zamanında gönderilemeyen Ermeni bozuntuları içten içten çatlak veriyo inadınıza erdoğan lan soğanda pahalı olsa erdoğan akım için aldığınız şeylerin parasını soğana verirsiniz artık ülke ikiye bölündü ve kimse ölmeyi hak etmez https://t.co/9BL11prqZX"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658146116045615104",
+                "span": [
+                    {
+                        "text_span": "biz Yahudi ermeni ve yunan müsveddelerini Türkiye'de istemiyoruz",
+                        "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                    }
+                ],
+                "text": "@KemalMelissa @umitozdag Araplar en azından yediği ekmeğe küfretmiyor, ayrıca biz Yahudi ermeni ve yunan müsveddelerini  Türkiye'de istemiyoruz.."
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658110968042336000",
+                "span": [
+                    {
+                        "text_span": "ermeni dolu",
+                        "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                    }
+                ],
+                "text": "@Vatan_gnhn Soysuz köpek sen kimi kovursan? Len zibidi benim eşim TSK de senin dalını yaladigin PKK ni bu topraklardan kovur. dagdakilarin altından ananı çıkarır  Senin o cucugunu keser bir yerlerine sokar şerefsiz it. Defsirme soysuz ben Türküm. Türkiye tüm Türklerin vatanidir Ermeni dolu."
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658200232239177984",
+                "span": [
+                    {
+                        "text_span": "Yunan aşığı Ermeni sevici",
+                        "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                    }
+                ],
+                "text": "@1926_832 @Emekedge Elhamdulillah müslümanın Türk oğlu Türk sizin gibi Yunan aşığı Ermeni sevici değilim çok şükür"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658235252609801984",
+                "span": [
+                    {
+                        "text_span": "amerika'nın çocukları ermeni p!çleri",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@AhmetYARM21 Bunlar terör ittifakı!\n\nBunlar vatan evlatlarımızı şehit eden kanı bozukların bulunduğu bir eli kanlı bir ittifak!\n\nBunlar vatanımızı milletimizi yok etmeye çalışan\namerika'nın çocukları ermeni p!çleri!\n\nVe bu dağ sıçanlarının kökünü s!kicez!\n\nKarar senin iyi düşün Ülkücü KARDEŞ! https://t.co/8dd9hUjOwF"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658232581362441984",
+                "span": [
+                    {
+                        "text_span": "pkk ermeni terör örgütüdür",
+                        "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+                    }
+                ],
+                "text": "@MEHMETG04921736 @AlkanFaruk61 @AhmetYARM21 selo teröristtir pkk ermeni terör örgütüdür bunlarla iş tutanlarda teröristtir"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658165657408527872",
+                "span": [
+                    {
+                        "text_span": "Kenafir Gözlü Ermeni artığı",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@kemgozleresiss @islamistagenda Benim karın ağrım senin gibi zındıklar. Kenafir Gözlü Ermeni artığı. 😬"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658374090871255040",
+                "span": [
+                    {
+                        "text_span": "Bu ermeni itine mi kaldı ülke",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "Bu çok biliyorsa ermenistanı kurtarsın, aklı sıra seçimden sonra imf yi çağıracaklar, bu ermeni itine mi kaldı ülke https://t.co/EwhJQL3CJ1"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658349062872083968",
+                "span": [
+                    {
+                        "text_span": "ermeni deyil. KeMal pkk ya kürdlərə söz verdi",
+                        "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                    }
+                ],
+                "text": "@xatira00901255 @Rashad25160932 Sadece ermeni deyil.KeMal pkk ya kürdlərə söz verdi.Özerklik getirecem dedi.Yeni muxtariyyat.Gözlerini gelblerini nifret kin bürüyüb. Heç er*eniye ehtiyac yoxdur. Onların içindeyem hemde en gatı CHP lilerin içinde."
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658475629271200000",
+                "span": [
+                    {
+                        "text_span": "Ermeni seviciler",
+                        "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                    }
+                ],
+                "text": "Atatürkçülük lafta değil öz de gerek.  Ermeni seviciler @DrSinanOgan hocamızla uğraşmasın https://t.co/PfXPrIojFZ"
+            }
+        }
+    ]
+}

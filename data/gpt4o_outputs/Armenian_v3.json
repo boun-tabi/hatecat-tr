@@ -1,0 +1,551 @@
+{
+  "hate_speech_instances": [
+    {
+      "tweet": {
+        "id": "1658139666317558016",
+        "span": [
+          {
+            "text_span": "Ermeni çeteleriyle birleşip sultanı düşürüp, ermeni çetelerinin işine bakacağız",
+            "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+          }
+        ]
+      }
+    },
+    {
+      "tweet": {
+        "id": "1658347795445693952",
+        "span": [
+          {
+            "text_span": "iki üç köpeğin lafına bakıp kanmayın bunlar ya ermeni ya yahudi uşağı içimize sızıp bizi içerden bitirme derdindeler",
+            "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+          }
+        ]
+      }
+    },
+    {
+      "tweet": {
+        "id": "1658623617897230080",
+        "span": [
+          {
+            "text_span": "Allahsız dinsiz ermeni partisi hdp(pkk)",
+            "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+          }
+        ]
+      }
+    },
+    {
+      "tweet": {
+        "id": "1658500714736369920",
+        "span": [
+          {
+            "text_span": "biz insan dışı varlıklara Ermeniler deriz tıpkı sizin gibi",
+            "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+          }
+        ]
+      }
+    },
+    {
+      "tweet": {
+        "id": "1658675613899653120",
+        "span": [
+          {
+            "text_span": "Devletin Resmi Raporuna Göre Ermeni Olan Kılıçdaroğlu!",
+            "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+          },
+          {
+            "text_span": "bir asır kandırılmış cahil eşek sürüsü medeniyeti.",
+            "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+          }
+        ]
+      }
+    },
+    {
+      "tweet": {
+        "id": "1658144706373583104",
+        "span": [
+          {
+            "text_span": "soy adi kanununla gelen ermeni ve yahudiler açıklansında bilelim",
+            "hate_speech_category": "Exclusive/Discriminatory Discourse"
+          }
+        ]
+      }
+    },
+    {
+      "tweet": {
+        "id": "1657983040453320960",
+        "span": [
+          {
+            "text_span": "koşarak hadi yallah ermeni domuzu seni",
+            "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+          }
+        ]
+      }
+    },
+    {
+      "tweet": {
+        "id": "1658495699967672064",
+        "span": [
+          {
+            "text_span": "sendemi ermeni sin yoksa yahudimi",
+            "hate_speech_category": "Exclusive/Discriminatory Discourse"
+          }
+        ]
+      }
+    },
+    {
+      "tweet": {
+        "id": "1658473584174731008",
+        "span": [
+          {
+            "text_span": "Sözde Ermeni soykırımını kabul ediyor ayrıca. Ve mütemadiyen pkklı katillerin ölümünü anıyor.",
+            "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+          },
+          {
+            "text_span": "siz o katil öven kadının olduğu yere oy vermek istemiyorum siktirin gidin aq",
+            "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+          }
+        ]
+      }
+    },
+    {
+      "tweet": {
+        "id": "1658411213108269056",
+        "span": [
+          {
+            "text_span": "zaten başından beri kılıçlaroğlu ermeniydi.",
+            "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+          }
+        ]
+      }
+    },
+    {
+      "tweet": {
+        "id": "1658705051676818944",
+        "span": [
+          {
+            "text_span": "teröristkatil ermeni yahudi pkk/ypgliler",
+            "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+          }
+        ]
+      }
+    },
+    {
+      "tweet": {
+        "id": "1658408924180037888",
+        "span": [
+          {
+            "text_span": "Dünün Ermeni veledi dir kendisi",
+            "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+          },
+          {
+            "text_span": "Tescili Şerefsiz Namussuz Hırsız kasetçi prncu keMAL",
+            "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+          }
+        ]
+      }
+    },
+    {
+      "tweet": {
+        "id": "1658331039037521920",
+        "span": [
+          {
+            "text_span": "Ermeni lobisinden daha büyük lobi kurulmalı.",
+            "hate_speech_category": "Exclusive/Discriminatory Discourse"
+          }
+        ]
+      }
+    },
+    {
+      "tweet": {
+        "id": "1658012463579685120",
+        "span": [
+          {
+            "text_span": "ermenilerle kardeş filan değiliz",
+            "hate_speech_category": "Exclusive/Discriminatory Discourse"
+          }
+        ]
+      }
+    },
+    {
+      "tweet": {
+        "id": "1658364860244144128",
+        "span": [
+          {
+            "text_span": "Sizin kibi ermeni şerefsizlerin  icabına baxmağa.",
+            "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+          }
+        ]
+      }
+    },
+    {
+      "tweet": {
+        "id": "1658399117373059072",
+        "span": [
+          {
+            "text_span": "Siz gizli Ermeni ve rumsunuz! Gerçek kimliklerinizi gizlersiniz.",
+            "hate_speech_category": "Exclusive/Discriminatory Discourse"
+          }
+        ]
+      }
+    },
+    {
+      "tweet": {
+        "id": "1658414541712110080",
+        "span": [
+          {
+            "text_span": "bunlar Rum tohumu olduğu belli Ermeni tohumu olduğu belli",
+            "hate_speech_category": "Exclusive/Discriminatory Discourse"
+          },
+          {
+            "text_span": "hepimizi keseceklerini söylüyorlar",
+            "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+          }
+        ]
+      }
+    },
+    {
+      "tweet": {
+        "id": "1658254978639642880",
+        "span": [
+          {
+            "text_span": "Sizi gidi Ermeni tohumları. 1915 Tehcirinden beri Kürdüm ve Aleviyim diyerek kimliğinizi gizlediniz.",
+            "hate_speech_category": "Exclusive/Discriminatory Discourse"
+          },
+          {
+            "text_span": "Hepinizin kim olduğunu biliyoruz. Sinsi mahluklar...",
+            "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+          }
+        ]
+      }
+    },
+    {
+      "tweet": {
+        "id": "1658272026191183872",
+        "span": [
+          {
+            "text_span": "güneydoğu ermeniler inchp birbayan milletvekili.",
+            "hate_speech_category": "Exclusive/Discriminatory Discourse"
+          }
+        ]
+      }
+    },
+    {
+      "tweet": {
+        "id": "1658109648325444096",
+        "span": [
+          {
+            "text_span": "Azerbaycan tabiki dosttur değil çünkü onun akrabalarını öldürdüler Ermeni tohumudur kendis",
+            "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+          }
+        ]
+      }
+    },
+    {
+      "tweet": {
+        "id": "1658156580288844032",
+        "span": [
+          {
+            "text_span": "ananız babanız belli değil ermeni yahudi piçleri",
+            "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+          }
+        ]
+      }
+    },
+    {
+      "tweet": {
+        "id": "1658427856488201984",
+        "span": [
+          {
+            "text_span": "Ermeni @kilicdarogluk bölücüler ile işbirliği yaparak yönetimi ele geçirmek istiyor.",
+            "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+          }
+        ]
+      }
+    },
+    {
+      "tweet": {
+        "id": "1658403161701270016",
+        "span": [
+          {
+            "text_span": "nerde ermeni doldurdular partiye",
+            "hate_speech_category": "Exclusive/Discriminatory Discourse"
+          }
+        ]
+      }
+    },
+    {
+      "tweet": {
+        "id": "1658527991696065024",
+        "span": [
+          {
+            "text_span": "ermenilere itlik yapıcak diye",
+            "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+          }
+        ]
+      }
+    },
+    {
+      "tweet": {
+        "id": "1658071089543520000",
+        "span": [
+          {
+            "text_span": "kürt olmayanlar var, ermeni var, çeşit çeşit farklı milletlerden o.ç. var.",
+            "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+          }
+        ]
+      }
+    },
+    {
+      "tweet": {
+        "id": "1658768252409978880",
+        "span": [
+          {
+            "text_span": "Tıpkı Ermeni teröristleri gibi yalancısınız",
+            "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+          },
+          {
+            "text_span": "Öldürmeye gelince ustasınız",
+            "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+          }
+        ]
+      }
+    },
+    {
+      "tweet": {
+        "id": "1658496394334707968",
+        "span": [
+          {
+            "text_span": "ermeni hoştu",
+            "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+          }
+        ]
+      }
+    },
+    {
+      "tweet": {
+        "id": "1658475726075724032",
+        "span": [
+          {
+            "text_span": "sen Ermenisin? Biz neden sana oy verelim? Dedelerin de vatan haini.",
+            "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+          },
+          {
+            "text_span": "Sabiha Gökçen o yüzden bombaladı sizi.",
+            "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+          }
+        ]
+      }
+    },
+    {
+      "tweet": {
+        "id": "1658578319762158080",
+        "span": [
+          {
+            "text_span": "Ermeni itini piçini bırakmış. Keşke zamanında acımayıp temizleseymiş.",
+            "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+          }
+        ]
+      }
+    },
+    {
+      "tweet": {
+        "id": "1658472160095257088",
+        "span": [
+          {
+            "text_span": "Ermeni @kilicdarigluk ve CHP taraftarları",
+            "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+          },
+          {
+            "text_span": "Kripto Ermenileri Sabiha Gökçen'e Atatürk bombalattı.",
+            "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+          }
+        ]
+      }
+    },
+    {
+      "tweet": {
+        "id": "1658021985111141888",
+        "span": [
+          {
+            "text_span": "Başkan adayı Ermeni olsa bile oy verecek bir kitleye ne denir bilemedim?",
+            "hate_speech_category": "Exclusive/Discriminatory Discourse"
+          }
+        ]
+      }
+    },
+    {
+      "tweet": {
+        "id": "1658388496543777024",
+        "span": [
+          {
+            "text_span": "Yunan PKK Ermeni Rum gelse ona uşaklık edersin",
+            "hate_speech_category": "Exclusive/Discriminatory Discourse"
+          }
+        ]
+      }
+    },
+    {
+      "tweet": {
+        "id": "1658090280505990912",
+        "span": [
+          {
+            "text_span": "Kripto Yunan ve Ermeni sorunu var",
+            "hate_speech_category": "Exclusive/Discriminatory Discourse"
+          },
+          {
+            "text_span": "hayvani kitle",
+            "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+          }
+        ]
+      }
+    },
+    {
+      "tweet": {
+        "id": "1658565277473295872",
+        "span": [
+          {
+            "text_span": "Ermeni çeteçi torunları",
+            "hate_speech_category": "Exclusive/Discriminatory Discourse"
+          },
+          {
+            "text_span": "\"Alisiz alevilik\" adı altında Gizli Hiristiyanlığın maskesi",
+            "hate_speech_category": "Symbolization"
+          }
+        ]
+      }
+    },
+    {
+      "tweet": {
+        "id": "1658108835888865024",
+        "span": [
+          {
+            "text_span": "Bu Ermeni CHPKK'lılar",
+            "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+          }
+        ]
+      }
+    },
+    {
+      "tweet": {
+        "id": "1657981411918216960",
+        "span": [
+          {
+            "text_span": "ne diyosun ermeni domuzu",
+            "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+          },
+          {
+            "text_span": "terrörist köpekler",
+            "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+          }
+        ]
+      }
+    },
+    {
+      "tweet": {
+        "id": "1658446368812219904",
+        "span": [
+          {
+            "text_span": "ya ermeni sevicidir yada yunan sevicidir",
+            "hate_speech_category": "Exclusive/Discriminatory Discourse"
+          },
+          {
+            "text_span": "Jön Türktür yane gerçek Türk değil.",
+            "hate_speech_category": "Exclusive/Discriminatory Discourse"
+          }
+        ]
+      }
+    },
+    {
+      "tweet": {
+        "id": "1658204664758690048",
+        "span": [
+          {
+            "text_span": "Vatan haini kürt görünümlü ermeni",
+            "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+          }
+        ]
+      }
+    },
+    {
+      "tweet": {
+        "id": "1658128865565236992",
+        "span": [
+          {
+            "text_span": "sizi iyice tasfiye etmesin ermeni Kemal.",
+            "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+          }
+        ]
+      }
+    },
+    {
+      "tweet": {
+        "id": "1658234587896507904",
+        "span": [
+          {
+            "text_span": "kadın ermeni soykırımında yok ananem babaanenm falan dei",
+            "hate_speech_category": "Exclusive/Discriminatory Discourse"
+          }
+        ]
+      }
+    },
+    {
+      "tweet": {
+        "id": "1658414252774810112",
+        "span": [
+          {
+            "text_span": "Yunan Ermeni Yahudi torunları",
+            "hate_speech_category": "Exclusive/Discriminatory Discourse"
+          }
+        ]
+      }
+    },
+    {
+      "tweet": {
+        "id": "1658682337129897984",
+        "span": [
+          {
+            "text_span": "vatan haini ermeni dölleri",
+            "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+          }
+        ]
+      }
+    },
+    {
+      "tweet": {
+        "id": "1658445187541085952",
+        "span": [
+          {
+            "text_span": "ermeni kalıntılarınından olabilir yada kurtuluş savaşında geride bırakılmış yunan kalıntıları olabilir",
+            "hate_speech_category": "Exclusive/Discriminatory Discourse"
+          }
+        ]
+      }
+    },
+    {
+      "tweet": {
+        "id": "1658076767112818944",
+        "span": [
+          {
+            "text_span": "ancak ermeni olabilir",
+            "hate_speech_category": "Exclusive/Discriminatory Discourse"
+          }
+        ]
+      }
+    },
+    {
+      "tweet": {
+        "id": "1658592156905251072",
+        "span": [
+          {
+            "text_span": "atası ya Ermeni yada Rumdan yada Yahudiden dönme bir p...ç.",
+            "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+          },
+          {
+            "text_span": "Müslüman Türk Milletine Psikolojik harp uygulamak",
+            "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+          }
+        ]
+      }
+    }
+  ]
+}

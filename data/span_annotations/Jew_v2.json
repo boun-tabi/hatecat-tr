@@ -1,0 +1,312 @@
+{
+    "hate_speech_instances": [
+        {
+            "tweet": {
+                "id": "1390404371503063046",
+                "span": [
+                    {
+                        "text_span": "Kahrolsun abd Kahrolsun İsrail Kahrolsun İngiltere Kahrolsun işbirlikçi hainler",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    }
+                ],
+                "text": "#KuduesBizimdir \nKahrolsun abd\nKahrolsun İsrail \nKahrolsun İngiltere \nKahrolsun işbirlikçi hainler https://t.co/47MGv0odIh"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1513343940744855561",
+                "span": [
+                    {
+                        "text_span": "siyonistin askerlerin",
+                        "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+                    },
+                    {
+                        "text_span": "#Katilİsrail",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "Filistin'de 6 yetim çocuk annesi 47Y Ghada'yı vurup ölmesi için başında 1 saat bekleyen siyonistin askerlerin  görüntüsü ortaya çıktı.\nİsrail işgaline karşı yapılan saldırılara Hümenist taklanlara bu görüntü izleye izleye işgalin gerçeğini öğrensin.\n#Katilİsrail\n#Filistin \n#Kudüs https://t.co/yJSeNbK0Vx"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1517080472169426944",
+                "span": [
+                    {
+                        "text_span": "Allah’ın Kafirlere karşı sana zafer vermesi yakındır..",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    },
+                    {
+                        "text_span": "#teröristdevletiisrail #işgalciisrail #katilisrail",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "بسم الله الرحمن الرحيم\n\" Sakın Ümidini Kesenlerden Olma.\"\n(Hicr Sûresi 55. Âyet)\n\nAllah’ın Kafirlere karşı sana zafer \nvermesi yakındır.. \n🔹Sabret…\n🔹Say et…\n#kudues \n#KuduesBizimdir \n#Kuduesİslamındır \n#teröristdevletiisrail\n#işgalciisrail\n#katilisrail \n#Ramazan2022 https://t.co/N5PUjHdbsD"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1393154728775856132",
+                "span": [
+                    {
+                        "text_span": "#Kahrolsunİsrail",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    }
+                ],
+                "text": "@username #KuduseBayramGelsin\n   @username \n#Kahrolsunİsrail"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1536413104606695433",
+                "span": [
+                    {
+                        "text_span": "Kurdun dişine kandeydi sırayla dağda şehirde teker teker hepiniz ağ babalariniz itrail abd eğer leşlerinizi daha taşa kurda kuşa yem etmezsek gök girsin kızıl çıksın koçyigitlerin kanını yerde koyarsak kanımız kurusun",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    }
+                ],
+                "text": "Kurdun dişine kandeydi sırayla dağda şehirde  teker teker hepiniz ağ babalariniz itrail abd eğer leşlerinizi daha taşa kurda kuşa yem etmezsek gök girsin kızıl çıksın koçyigitlerin kanını yerde koyarsak kanımız kurusun  🇹🇷🇹🇷🇹🇷🇹🇷🤘🤘🤘🤘🤘🇹🇷🇹🇷🇹🇷🇹🇷🇹🇷 https://t.co/T1Wq4dMqLY"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1391029943811837961",
+                "span": [
+                    {
+                        "text_span": "SİYONİST Yahudiler insan değildir! Onlar insan kılığına girmiş merhametten, insanlıktan, şereften ve izzetten zerre nasibini almamış adi yaratıklardır!",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "SİYONİST Yahudiler insan değildir!\n\nOnlar insan kılığına girmiş merhametten, insanlıktan, şereften ve izzetten zerre nasibini almamış adi yaratıklardır!\n\n#MescidiAksaYanlızDeğildir \n#MescidiAksaOnurumuzdur https://t.co/XGubfthYGu"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1394166843393384448",
+                "span": [
+                    {
+                        "text_span": "Katil İsrail! Masumları katleden çocuk yaşlı büyük küçük demeden öldüren, şehit eden katil İsrail! Bu videoya da bir açıklaman var mı?",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "Katil İsrail! Masumları katleden çocuk yaşlı büyük küçük demeden öldüren, şehit eden katil İsrail! Bu videoya da bir açıklaman var mı? @YairNetanyahu  Nefretinizde boğulun! Kudüs İslam'ındır! 🇵🇸🇹🇷\n#GazzaUnderAttack  #SonunGeldiKoepekİsrail #GazzedeSoykırım #FilistinYalnızDeğil https://t.co/OJfgsh5Me2"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1392838771176058887",
+                "span": [
+                    {
+                        "text_span": "#Katilİsrail",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "İsrail bize saldırıcakmış  israilin nüfusu 10 M   ENES BATURUN 15 M takipçisi  var bence bi daha düşünsünler😽 @username #Katilİsrail"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1385938987592847361",
+                "span": [
+                    {
+                        "text_span": "Terörist netenyahu #zalim itrail",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "Terörist netenyahu #zalim itrail pisrail rejimi için yaşasın cehennem jıbo zalime xinxarenra biji cehennemî zümera \n#KudüsKırmızıCizgimizdir"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1530705781363974145",
+                "span": [
+                    {
+                        "text_span": "işgalci fanatik Yahudilerin Harem-i Şerif’in içine girmesine onay verdi.",
+                        "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+                    }
+                ],
+                "text": "SONDAKİKA: İşgalci İsrail hükümeti, bugün (Pazar) sabah saatlerinden itibaren başlayacak olan yürüyüş için; #MescidiAksa’ya baskın düzenlemek isteyen işgalci fanatik Yahudilerin Harem-i Şerif’in içine girmesine onay verdi.\n\n#KudüsBizimdir"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1394747393225154569",
+                "span": [
+                    {
+                        "text_span": "ALLAH BELANI VERSİN İTRAİL!",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    }
+                ],
+                "text": "ALLAH BELANI VERSİN İTRAİL!\n#ResistGaza https://t.co/d51vtjk6MF"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1393505488453525508",
+                "span": [
+                    {
+                        "text_span": "BİZİM HAYALİMİZ İsrail'in YOK OLUŞU!",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    }
+                ],
+                "text": "@username BİZİM HAYALİMİZ İsrail'in YOK OLUŞU!\n #Katilİsrail"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1539660010397245440",
+                "span": [
+                    {
+                        "text_span": "kahrolası itrail köpekleri",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    },
+                    {
+                        "text_span": "vahşi İsrail",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    },
+                    {
+                        "text_span": "terörist İsrail katil zalim yaratık",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@username Hayır hayır hayır olamaz kıyamet kopusun olamaz #FreeAhmadManasra kahrolası itrail köpekleri biricik Ahmed i özgür bırakın. Terörist İsrail katil zalim yaratık vahşi İsrail #filistintutuklarinhalkına #filistin #kudus #mescidiaksai̇slamındır"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1395498431712485380",
+                "span": [
+                    {
+                        "text_span": "itirail",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@username Bu bir kazanç değil ama eldeki imkânlara bakınca gerçekten bir kazanç etrafı komple araplarla ve müslüman lar ile çevrili itrail  bunları yapabiliyorsa filistin için kazanç arap toplulukları için rezalet ve kepazelik"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1391751736205926402",
+                "span": [
+                    {
+                        "text_span": "Beni israilli siyonist yahudiler sizin bunları neden yaptığınız belli Son peygamber sizden gelmedi diye Filistinli kardeşlerimizin dünyasını yerle bir ediyorsunuz sırf Peygamberimizin ümmeti diye İşte siz bu kadar zavallısınız",
+                        "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+                    }
+                ],
+                "text": "Beni israilli siyonist yahudiler sizin bunları neden yaptığınız belli \nSon peygamber sizden gelmedi diye Filistinli kardeşlerimizin dünyasını yerle bir ediyorsunuz sırf Peygamberimizin ümmeti diye \nİşte siz bu kadar zavallısınız \n#MescidiAksaOnurumuzdur"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1393368309861691393",
+                "span": [
+                    {
+                        "text_span": "Fanatik Yahudiler Yafa'da Filistinlilere ait bir evi, içinde çocukların da olduğunu bile bile ateşe verdiler. Yangın çıkarmakta kullandıkları molotof kokteyllerinden geri kalanları da evin etrafında bıraktılar.",
+                        "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+                    }
+                ],
+                "text": "Fanatik Yahudiler Yafa'da Filistinlilere ait bir evi, içinde çocukların da olduğunu bile bile ateşe verdiler. Yangın çıkarmakta kullandıkları molotof kokteyllerinden geri kalanları da evin etrafında bıraktılar. \n\nAllahın gazabı üstüne olsun İsrail..\n\n #KudüsBizimdir https://t.co/4zJk7m5gvP"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1390924116216238082",
+                "span": [
+                    {
+                        "text_span": "ne kadar adi bir milletmişsiniz siz yaa!!!",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "Ne istiyorsunuz bu insanlardan arkadaş, ne kadar adi bir milletmişsiniz siz yaa!!! #israil #katilisrail #ayıptır #FilistinYanlızdeğildir https://t.co/qSM3fRkzTu"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1393067847434256386",
+                "span": [
+                    {
+                        "text_span": "iblisler topluluğu israil",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "1948 de kurulan iblisler topluluğu israil bugün yaptığı çocuk katliamları ile kuruluşunu kutluyor.\n#Katilisrail"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1392523666332733440",
+                "span": [
+                    {
+                        "text_span": "mübarek Ramazan ayının son on gününde önemli bir cihat eylemi gerçekleştirmiş oldu...",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    }
+                ],
+                "text": "Tüm fedakarlıkları hak eden mübarek Mescid-i Aksa davasına hizmet etmek için mübarek Ramazan ayının son on gününde önemli bir cihat eylemi gerçekleştirmiş oldu...(Abd al-Fattah El-Awaisi, 12 Mayıs 2021)\n#AksadaBaskınVar #MescidiAksa #israilTerorist"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1515585504217083904",
+                "span": [
+                    {
+                        "text_span": "Allahım sen İsrail köpeğinin belasını ver. Kahret onları. Cehennemleeinden en güzel yerler ayır onlara🔥🔥😭😭",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    },
+                    {
+                        "text_span": "#Teröristisrail",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "Allahım sen İsrail köpeğinin belasını ver. Kahret onları. Cehennemleeinden en güzel yerler ayır onlara🔥🔥😭😭\n#Katilİsrail \n#Teröristisrail\n#UYANÜMMETİMUHAMMED\n🇵🇸🇹🇷🕌\nhttps://t.co/6Oxua2dUbl"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1392658772322045954",
+                "span": [
+                    {
+                        "text_span": "amina kodumun İsraili",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "Şu mübarek günde bunlari da yaptınız ya Allah sizin belanızı versin #katilisrail #Teroeristİsrail amina kodumun İsraili https://t.co/VbCJBCTMvV"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1391100401508921348",
+                "span": [
+                    {
+                        "text_span": "Siyonist İsrail'i kahrı perişan eyle.",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    }
+                ],
+                "text": "Ya Rabbim bu mübarek Kadir gecesi hürmetine Müslümanların ilk kıblesi olan Mescidi Aksa'yı azad eyle,Siyonist İsrail'i kahrı perişan eyle.\n#kuduesbizimdir https://t.co/eFBWaeUvOJ"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1391123607716237317",
+                "span": [
+                    {
+                        "text_span": "İsrail’in itleri",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "Bu iş kınamayla falan olacak iş değil mesela @username abi 5 İHA veya SİHA kaldırsa İsrail’in itleri kaçacak delik ararlar #Katilİsrail"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1556299774269296640",
+                "span": [
+                    {
+                        "text_span": "itrail",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@username Neden itrail alt yapısına saldırmıyorsunuz demir kubbe olur mesela 💪💪"
+            }
+        }
+    ]
+}

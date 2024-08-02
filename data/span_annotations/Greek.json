@@ -1,0 +1,588 @@
+{
+    "hate_speech_instances": [
+        {
+            "tweet": {
+                "id": "1534982546592874498",
+                "span": [
+                    {
+                        "text_span": "ANSIZIN GELEBİLİRİZ #ŞakamızYokYunanistan",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    }
+                ],
+                "text": "@username @username @username @username ANSIZIN GELEBİLİRİZ\n#ŞakamızYokYunanistan https://t.co/JNgBsBrErh"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1566515940090601472",
+                "span": [
+                    {
+                        "text_span": "Titre Yunanistan… Bir gece ansızın gelebiliriz",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    }
+                ],
+                "text": "Yunanistan için tehlike sirenleri çalıyor… \nTitre Yunanistan… \nBir gece ansızın gelebiliriz… https://t.co/PaK3xJiO8k"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1540567716918185984",
+                "span": [
+                    {
+                        "text_span": "Anadolu'yu işgal eden çoçuk kadın yaşlı demeden katleden Yunan Fransız İngiliz gavuruna tek laf etmez",
+                        "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+                    },
+                    {
+                        "text_span": "Sizin sahte milliyetçiliğinize Sahte Türkçülüğünüze sokayım",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "Araplar bizi arkadan vurdu diye havlayanlar \nAnadolu'yu işgal eden çoçuk kadın yaşlı demeden katleden  Yunan Fransız İngiliz gavuruna tek laf etmez \nSizin sahte milliyetçiliğinize  Sahte Türkçülüğünüze sokayım\nSizin Düşmalıgınız Araplara değil İslama"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1538989341380427777",
+                "span": [
+                    {
+                        "text_span": "ne diyordu o sağcı yunan pzvnk",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "adamlarda savaş var ruble dolara karşı değer kazanıyor\nsavaşa mı girsek napsak ?\nne diyordu o sağcı yunan pzvnk https://t.co/zQdiw5qKvU"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1515041522336645122",
+                "span": [
+                    {
+                        "text_span": "Mal Yunan tohumu",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@username @username Mal Yunan tohumu"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1510003278297321484",
+                "span": [
+                    {
+                        "text_span": "yunan 4 piç için",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "sanırsin istilaya ugradik talana geliyorlar Devlet nerde ... yer yüzunde böyle istilaya ugramiş bir ülke yok yunan 4 piç için set çekti ordu yigdi ülkeyi yöneten ülkeyi satmiş amerika esir almiş her boku bize gönderiyor https://t.co/N4SimI7Ni3"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1534633622392786945",
+                "span": [
+                    {
+                        "text_span": "Yunanistan da burda eşeğin önde gideni",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@hilal_kaplan Abd ordusu direkt müdahale kabiliyeti yok;\nMAYIN EŞEKLERİ   organik uzvu nato ve aparatı terör örgütleri fetöpkk ile dedeağaçtan gara'ya kurmak istediği hat 100 yıl öncesinin işgal saldırısının devamı... Yunanistan da burda eşeğin önde gideni\nİsveç mi \n***\nhttps://t.co/JGiO7YPCKY"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1484862550202331139",
+                "span": [
+                    {
+                        "text_span": "Siktir git o. çocuğu putperest Yunan tohumu",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@Sezzenaksu Sezenaksu aptalın önde gidenisin.sigirsin.peygamber düşmanısin.ulkeyi terket.oruspu.yunan tohumu.salakahpe.icindeki o Müslüman düşmanlığını bikelime ile kusdun.gerizekali.itoluit babanin 60yil önceki 5dk Lik hatası yüzünden bugün senin gibi bı hayvanla uğraşıyor müslümanlar"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1566422395761606656",
+                "span": [
+                    {
+                        "text_span": "önümüzdeki başkanlık seçimlerinde denize bidaha gömerim",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    }
+                ],
+                "text": "@username Senin tarafın ne onu konuş açıkca yunan taciz etsin türkiye sussunmu valla Türk milleti öyle geriden hırlayıp havlayan köpeğe boyun bükmez 50 yaşındayım gerekirse cepheye giderim boynu bükük ezik yaşamaktansa mertçe ölürüm yunanıda denize bidaha gömerim"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1568296128579346432",
+                "span": [
+                    {
+                        "text_span": "ANSIZIN GELEBİLİRİZ",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    }
+                ],
+                "text": "Bir gece ansızın gelebiliriz, hemde heryere gelebiliriz dedi. Yunanistan  korkudan ne yapacağını nereye kime sarılacağını şaşırdı. 😁😁\n\nAŞKIMIZ TÜRKİYE SEVDAMIZ RTE https://t.co/TnCgaaHaxP"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1568530150484058112",
+                "span": [
+                    {
+                        "text_span": "YUNAN ARTIĞI MASON SOYUN",
+                        "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+                    },
+                    {
+                        "text_span": "SOYSUZ İT SÜRÜLERİ",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@username @username YUNAN ARTIĞI MASON SOYUN \nATATÜRK MASON LOCALARINI KAPATTI CHP Yİ UNUTMUŞ\nCumhuriyet Hıristiyan Partisi CHP\nSOYSUZ İT SÜRÜLERİ\n\n9 EYLÜL DE NE OLDU\nKİMDEN KURTULDU İZMİR\n\nOSMANLI TORUNUYUM https://t.co/X2nvhEU9lX"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1552751979843182594",
+                "span": [
+                    {
+                        "text_span": "yunan tohumu seni",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@Aslidiyorki1453 Türkün dediğine değilde yunanın dediğine uy yunan tohumu seni."
+            }
+        },
+        {
+            "tweet": {
+                "id": "1568671532406444032",
+                "span": [
+                    {
+                        "text_span": "içimizde ki Yunanlılar",
+                        "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                    },
+                    {
+                        "text_span": "YunanTohumları",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@username Gündem Yunan seviciliği.\n\nSezen'den tut, Necdet Sezer'e, Cem Yılmaz'dan tut, Özgür'e hepsinin kökeni Selanik.\n\nBildiğimiz başka Selanikliler de var elbet ama kanun korumasında...\n\nİçimizde ki Yunanlılar birbiriyle hayli manidar dirsek temasında!\n\n#YunanTohumları\n@username"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1568722539781947392",
+                "span": [
+                    {
+                        "text_span": "Yunan Dölü Olması Lazm",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@Ahaber Dünya Tarihinin En Azametli Tarihini Yazar Şanlı Ecdadimizin Adını Destursuz anan serseriler\n\n\"\"Bu milletin Ferdi Değillerdir\"\"\n\nYoksa kimse Kendi Arasına Sövecek Kadar Aşağılıklaşamaz \n\nBunlar Olsa olsa Yunan Dölü Olması Lazm getir..."
+            }
+        },
+        {
+            "tweet": {
+                "id": "1569232032651218944",
+                "span": [
+                    {
+                        "text_span": "Yunanlılara yüzme öğrettiğimiz savaş",
+                        "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                    }
+                ],
+                "text": "Yunanlılara yüzme öğrettiğimiz savaş hangisi? \n KPSS çalışırken aklıma şöyle bi soru geldi 😂\n      #YunanistanAteşleOynuyor"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1532656496722464770",
+                "span": [
+                    {
+                        "text_span": "Yunanistan provokasyon Rumlar kışkırtma peşinde",
+                        "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+                    }
+                ],
+                "text": "Yunanistan provokasyon Rumlar kışkırtma peşinde https://t.co/qtUy24gmxq @hurriyetcomtr aracılığıyla"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1568573271431430144",
+                "span": [
+                    {
+                        "text_span": "Yunan tohumu",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    },
+                    {
+                        "text_span": "hepinizi soyunuzu denize dokecegiz alcak",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    }
+                ],
+                "text": "@tuncsoyer Yunan tohumu oldugun belli Atatürk yerinden kalksa seni seningibileri denize dokerdi hain azkaldii hepinizi soyunuzu denize dokecegiz alcak senii"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1566140775255113729",
+                "span": [
+                    {
+                        "text_span": "Yunan’a çoktan şamarı atmıştık işgal ettikleri adalar mevzusunda",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    }
+                ],
+                "text": "@username Suriye’de şu ypg  argümanı olmasa Yunan’a çoktan şamarı atmıştık işgal ettikleri adalar mevzusunda.ancak hem Suriye ypg tarafında hemde Yunanistan’dakarşına ABD askeri gücü çıkıyor. Etrafımız sarılı bunukabul edelim. Ama herşeyin bır sırası var ve o sıra Birgün gelecek Yunan İÇİN"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1523570692696190976",
+                "span": [
+                    {
+                        "text_span": "annesinin karnındaki bebeklere varıncaya Kadar süngüleyen Yunan",
+                        "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+                    }
+                ],
+                "text": "Ülkeyi 3,5 yıl işgal edip annesinin karnındaki bebeklere varıncaya Kadar süngüleyen Yunan'a dost diyen ders kitapları...\n Osmanlıya Hain diyorsa bu kitapları kim yazıyor diye sormak hakkımızdır...M.a"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1568614003865174018",
+                "span": [
+                    {
+                        "text_span": "Yunan artığı",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@tuncsoyer Yunan artığı şerefsiz."
+            }
+        },
+        {
+            "tweet": {
+                "id": "1572092077370134528",
+                "span": [
+                    {
+                        "text_span": "eeeyyyyy Yunan bir gece ansızın gelebiliriz",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    }
+                ],
+                "text": "@username Doğalgaz işi gerçek olsaydı, Yunan tıpkı adalarımıza çöktüğü gibi doğalgaza da çökerdi.. Sonra da reis çıkıp eeeyyyyy Yunan bir gece ansızın gelebiliriz deyip koyunların gazını alırdı.."
+            }
+        },
+        {
+            "tweet": {
+                "id": "1568710239653879808",
+                "span": [
+                    {
+                        "text_span": "20 adamızda Yunan bayrakları dalgalanıyor",
+                        "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                    }
+                ],
+                "text": "@username 2004 yılından beri adalarımız işgal edilmeye başladı şu anda 20 adamızda Yunan bayrakları dalgalanıyor,Abd silahları ve askerleri var ayrıca bu yıl Yunanistan’da da seçim olacak,Hepsini BirDeğerlendirmekLazımHocamAmaElbette TC DevletOlarakGüçlüdür,ZamanıGeldiğindeCevabınıVerir🇹🇷"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1568699993565073409",
+                "span": [
+                    {
+                        "text_span": "İçimizde ki Yunanlılar",
+                        "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                    },
+                    {
+                        "text_span": "YunanTohumları",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@username @username @username @username Gündem Yunan seviciliği.\n\nSezen'den tut, Necdet Sezer'e, Cem Yılmaz'dan tut, Özgür'e hepsinin kökeni Selanik.\n\nBildiğimiz başka Selanikliler de var elbet ama kanun korumasında...\n\nİçimizde ki Yunanlılar birbiriyle hayli manidar dirsek temasında!\n\n#YunanTohumları\n@username"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1568682522812334083",
+                "span": [
+                    {
+                        "text_span": "Yunanistan fena kaşınıyor",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    }
+                ],
+                "text": "Yunanistan fena kaşınıyor. İnşallah bu süreci akıllıca yönetiriz. Ama 1 tl ekmek 5 tl ekmek muhabbetlerini yapan kişilerden çok akıllıca hareketler bekleyemiyorum ne yazık ki."
+            }
+        },
+        {
+            "tweet": {
+                "id": "1540220153937510402",
+                "span": [
+                    {
+                        "text_span": "87 günde yunan kaç köy yaktı,kaç Türk evladını şehit etti,kaç kızın ırzına geçti acaba!",
+                        "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+                    }
+                ],
+                "text": "@username 87gün öyle mi?\n87 günde yunan kaç köy yaktı,kaç Türk evladını şehit etti,kaç kızın ırzına geçti acaba!\nYunangalip gelseydi diyeni,ingiliz gemisiyle kaçanı savunanlar,ogün şehit olan evlatların çektikleri için \"işgal miymiş\" demeye de cürret ederler.\n\nBaşbuğ hepsinin cevap vermiş! https://t.co/flWYSlnauc"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1568341795066580995",
+                "span": [
+                    {
+                        "text_span": "ansızın gelebiliriz",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    }
+                ],
+                "text": "@username Bir gece ansızın gelebiliriz, hemde heryere gelebiliriz dedi. Yunanistan  korkudan ne yapacağını nereye kime sarılacağını şaşırdı. 😁😁\n\nAŞKIMIZ TÜRKİYE SEVDAMIZ RTE ❤"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1534981014610755601",
+                "span": [
+                    {
+                        "text_span": "SAT komandoları devreye girecek.",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    }
+                ],
+                "text": "#yunanistan tarafına anladıkları dilden uyarı yapılmış. Eğer bunu da anlamazlarsa sanıyorum ki SAT komandoları devreye girecek. https://t.co/F8nkSBstUe"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1557337472337690625",
+                "span": [
+                    {
+                        "text_span": "Yunan tohumu olanları izmirden çıkartıp selanige atın",
+                        "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                    },
+                    {
+                        "text_span": "Din.Dindar ve Allah dusmani imansiz oğlanlara LANETLER",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "Yunan tohumu olanlari izmirden\n Çıkartıp selanige atın izmire \nBereket gelir..\nSadece ve yalniz iman eden mumin müslümanlara MUHABBETLE.💖 \n\nDin.Dindar ve Allah dusmani imansiz oğlanlara LANETLER.👹 https://t.co/aj0NIzm68b"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1527260415058649097",
+                "span": [
+                    {
+                        "text_span": "Tecavüzcü katil ve soykırımcı arıyorsan,Yunan dedelerine sor",
+                        "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+                    },
+                    {
+                        "text_span": "dedelerimize ninelerimize yaptığınız zulümleri,değil üç kuşak 50 kuşak geçsede unutmayız! Yaktığınız evlerin izi hala duruyor",
+                        "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+                    }
+                ],
+                "text": "@EliasYpsilantis @tipgenelmerkez Tecavüzcü katil ve soykırımcı arıyorsan,Yunan dedelerine sor onlar çok iyi bilir! Tabii kuyruk acın var ona veriyorum ! Bu arada dedelerimize ninelerimize yaptığınız zulümleri,değil üç kuşak 50 kuşak geçsede unutmayız! Yaktığınız evlerin izi hala duruyor"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1549714493151772673",
+                "span": [
+                    {
+                        "text_span": "Padisahlar gibi sirp yunan tohumundan geliyorsun",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@username @username Serefsiz Ben Batum lazlarindanim. Dedelerim kurtulus savasinda gazi oldu. Senin gibi arap sevicileri iyi biliriz. Osmanli oldugun belli. Padisahlar gibi sirp yunan tohumundan geliyorsun. Turkmus peh peh"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1552025999898017794",
+                "span": [
+                    {
+                        "text_span": "Yunan tohumu",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    },
+                    {
+                        "text_span": "İslam düşmanı!",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    },
+                    {
+                        "text_span": "Ölümünü bekle",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    }
+                ],
+                "text": "@username Yunan tohumu benim ülkem şehitler verdiğim Türkiye'dir. Sen kimi kimin ülkesinden kovuyorsun hadsiz bayraksız! \nİslam düşmanı! \nBekle.. sadece bekle. . \nÖlümünü bekle. \nElbet o zaman sende uyanacaksın! \nÖlüm yakın 100 yıl da yaşasan yakın !"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1545421159734427651",
+                "span": [
+                    {
+                        "text_span": "siktir git o. çocuğu putperest Yunan tohumu sizin tayfadan onlarda iyi veriyorlar",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@username @username @username @username Siktir git o. çocuğu putperest Yunan tohumu sizin tayfadan onlarda iyi veriyorlar sizin gibi senin gibi"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1493143614217723906",
+                "span": [
+                    {
+                        "text_span": "kıçı kırık yunan bakan yardımcısını",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    },
+                    {
+                        "text_span": "ancak mankafa ve ırkçı şoven yunanlar kalmış",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@akdenizpolitik Yalan dolan, kim taciz etsin kıçı kırık yunan bakan yardımcısını. Hayatınız yalan dolan , AB’nin soytarısı yaptınız kendinizi. Nüfus yaşlı, akıllı gençlerin nerdeyse tamamı yurt dışında (AB de çalışmaları çok kolay). Geride ancak mankafa ve ırkçı şoven yunanlar kalmış."
+            }
+        },
+        {
+            "tweet": {
+                "id": "1569353350491037705",
+                "span": [
+                    {
+                        "text_span": "şerefsiz Amerika ve yandaşları gaz veriyor",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@e_liff_gibi_sin Nasıl güleyim bu yunan  piçosına Bunlara şerefsiz Amerika ve yandaşları gaz veriyor Ellerinde ülkedede olacak göz önünde ukranya var onuda gazladılar Rusyaya yem ettiler."
+            }
+        },
+        {
+            "tweet": {
+                "id": "1568857990438191107",
+                "span": [
+                    {
+                        "text_span": "İzmir in nasıl bir yunan yerleşkesi olduğunun hali bu. Gavur İzmir",
+                        "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+                    }
+                ],
+                "text": "@username İzmir in nasıl bir yunan yerleşkesi olduğunun hali bu. Gavur İzmir adini aldığı hal"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1568684084108328960",
+                "span": [
+                    {
+                        "text_span": "Yunan tohumu kaybol",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@username @username @username Ulan Yunan tohumu kaybol."
+            }
+        },
+        {
+            "tweet": {
+                "id": "1551120052631617537",
+                "span": [
+                    {
+                        "text_span": "yunan ingiliz dölü olamadigina cok üzülüyorsun ama hayat bu. Atatürk geldi hepsini sürdü",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@username @username @username maalesef olmadi. selanikten gecerken icim aciyor.osmanli verdi hepsini. senide anliyorum. yunan ingiliz dölü olamadigina cok üzülüyorsun ama hayat bu. Atatürk geldi hepsini sürdü https://t.co/WhL9nQdrvI"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1504779778867535872",
+                "span": [
+                    {
+                        "text_span": "kanınızda yunan kanı dolaşıyor",
+                        "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                    }
+                ],
+                "text": "@username Terörismisin be bunak senin yunan tom'u olmaman için adam kaç kiloluk topu kaldırmış şerefsiz siniz kanınızda yunan kanı dolaşıyor"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1539538784940957696",
+                "span": [
+                    {
+                        "text_span": "Kanı bozuk yunan tohumu artıkları",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    },
+                    {
+                        "text_span": "Bu ülkenin bir karışına zarar geldikçe sevinen asalaklarsınız",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@username Kanı bozuk yunan tohumu artıkları. Siz bu ülkenin ormanına taşına toprağına düşman bir kitlesini. Sizin ecdadınız ananız bozuk. Beş kuruş paraya satılmışşınız sizler. Bu ülkenin bir karışına zarar geldikçe sevinen asalaklarsınız."
+            }
+        },
+        {
+            "tweet": {
+                "id": "1492112280858894337",
+                "span": [
+                    {
+                        "text_span": "yunanı ingilizi denize dökmesinden bahsediyor ,o kadar zorlarına gitmişki kin ve nefretleri",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    }
+                ],
+                "text": "@username Kötülükleri derken dedeleri yunanı ingilizi denize dökmesinden bahsediyor ,o kadar zorlarına gitmişki kin ve nefretleri o yüzden bunlar aslı olmayan yunan tohumu"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1566767235460464643",
+                "span": [
+                    {
+                        "text_span": "yunanistanın binlerce kez türk savaş uçaklarını taciz etmesi değilde",
+                        "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+                    }
+                ],
+                "text": "@username Seçim öncesi aranan gerginlik yunanistanın binlerce kez türk savaş uçaklarını taciz etmesi değilde ,verilme şartına aykırı adaları silahlandırması değilde bir gece ansızın gelebiliriz demesimi ,size kalsa yunanlılar haklı dersiniz anlaşılan neden yunan pisliğine tek sözünüz yok ?"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1566140675833356290",
+                "span": [
+                    {
+                        "text_span": "içimizdeki yunanlarda Türkiye Devletine havlama pozisyonuna geçer",
+                        "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                    }
+                ],
+                "text": "Biz burada iki halay çeksek Yunanistan, Çılgın Türkler geliyor deyip fistanlı askerleriyle savaş pozisyonuna, içimizdeki yunanlarda Türkiye Devletine havlama pozisyonuna geçer \n\nCumhurbaşkanımız Sayın\n#TeknofestKaradeniz #SAMSUN\n#Greece"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1517918515495419907",
+                "span": [
+                    {
+                        "text_span": "menesiz o. çocuğu putperest Yunan tohumu",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "Toton yiyorsa benim gibi gerçek resminle açık profille paylaş böyle şeyleri. Benim sana açık açık sayıp sövdüğüm gibi yap paylaşımları. Gör bak o zaman o mumlar nerde sönüyor anası belli babası 1550  yunan tohumu https://t.co/DBEgfVfVKY"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1553135670998228992",
+                "span": [
+                    {
+                        "text_span": "Yunan kaşınıyor.",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    }
+                ],
+                "text": "+Yunan kime ait olduğu hukuken belirsiz bu adaları 1930'lardan beri iskana açarak  sahiplenmeye, yani işgal ediyor. BM'ler ve NATO'da defalarca gündeme getirildiği halde Yunan Maksimilist bu politikada  vazgeçmiyor. Açıkçası kaşınıyor.\n\nOlay bundan ibaret. https://t.co/rdgqhJTFve"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1535029639005065227",
+                "span": [
+                    {
+                        "text_span": "Türk ordusunu yerle bir edeceğiz.",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    }
+                ],
+                "text": "Türkiye Yunanistan ile gerginlik yaşarken hdp'nin öcalan için yürüyüş yapması zamanlama açısından çok manidar.\n\nİlk fırsatta sırtımızdan vuracaklar.\n\n#Greece\n#GemlikeYürüyoruz\n#ŞakamızYokYunanistan"
+            }
+        }
+    ]
+}

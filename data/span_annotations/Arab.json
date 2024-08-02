@@ -1,0 +1,116 @@
+{
+    "hate_speech_instances": [
+        {
+            "tweet": {
+                "id": "1658055286077136896",
+                "span": [
+                    {
+                        "text_span": "zenci Arap çocuğu doğuracak",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    },
+                    {
+                        "text_span": "ülke zenciler araplar ülkesi olacak",
+                        "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+                    },
+                    {
+                        "text_span": "Türk diye birsey kalmayacak",
+                        "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+                    },
+                    {
+                        "text_span": "Türkler zenci Arap çocuğu doğuruyor",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@_erdeem_ Türklerin çoğu ülkede zenci Arap çocuğu doğuracak ülke zenciler araplar ülkesi olacak Anadoluda Türk diye birsey kalmayacak 9 çocuğa karşı iki çocuk yapılıyor birde evlilikler oluyor Türkler zenci Arap çocuğu doğuruyor akp li Süleyman soyluda bunu istiyor pkk hdp 30 yıldır var"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658468559729889024",
+                "span": [
+                    {
+                        "text_span": "Arap zihniyetini istemiyorum",
+                        "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                    },
+                    {
+                        "text_span": "tecavüz taciz eden Arap",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    },
+                    {
+                        "text_span": "mastürbasyon yapan Arap",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    },
+                    {
+                        "text_span": "Türk kimliğini ayaklar altına alanları",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@DrSinanOgan Bırakmayın, ülkemde Türk kadınlarına Türk insanına bakarak tecavüz taciz eden Arap zihniyetini istemiyorum ,sokak ortasında Türk kadınına bakarak mastürbasyon yapan Arap zihniyeti istemiyorum, ümmet ümmet diyerek Türk kimliğini ayaklar altına alanları sevindirmenizi istemiyorum⬇️"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658076704982565120",
+                "span": [
+                    {
+                        "text_span": "arap sevici orospu ccougu seni",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    },
+                    {
+                        "text_span": "skecemm yolla bana izmirdeyim",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@bhdrkm58 @gizemyceee @sadecesidde @berkcanguven profilde nie noodle diliyle bir seyler yazilmis la okunmuyo arap sevici orospu ccougu seni kapali anani skecemm yolla bana izmirdeyim"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1657902996330627072",
+                "span": [
+                    {
+                        "text_span": "Arap sevici ahtapotlarla",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    },
+                    {
+                        "text_span": "Türk düşmanı hümanistlerin değildir",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@scypt_musician @gizliservis06 aslan bana kuru milliyetçilik yapma bu milletin hiçbir evladı arap bedevileri için refahından pay vermeyecek hastaneelrde para verirken 2. sınıf vatandaş gibi onunda parasını ödemeyecek yılda binlerce dolar onlar yerine yine bizim vergimiz bize dönecek Önce Can sonra CANAN"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658749644619279872",
+                "span": [
+                    {
+                        "text_span": "Arap tohumu",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    },
+                    {
+                        "text_span": "mallar",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "Hırsızlara sapıklara yalancılara iftiracılara oy veren ğötveren Arap tohumu dindoş mallar var adiler utanmazlar https://t.co/zLfwSdl9ny"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1657926160782000128",
+                "span": [
+                    {
+                        "text_span": "gerçek yamyamlar",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    },
+                    {
+                        "text_span": "birkaç karnını doyuracağız diye",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": ""
+            }
+        }
+    ]
+}

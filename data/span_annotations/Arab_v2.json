@@ -1,0 +1,121 @@
+{
+    "hate_speech_instances": [
+        {
+            "tweet": {
+                "id": "1658135031871681024",
+                "span": [
+                    {
+                        "text_span": "Arap soytarılarının",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "Belki de senin kardeşin üç kuruş için insanların ağız kokusunu çekiyorken, bu Arap soytarılarının vatanımıza yön vermesi kanınıza dokunmuyor mu?"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658161427222343936",
+                "span": [
+                    {
+                        "text_span": "mülteci arap aile bastığı",
+                        "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+                    }
+                ],
+                "text": "biri şunun kemal başkan yerine erdoğan'ın olduğu, mermi yerine mülteci arap aile bastığı versiyonunu yapamaz mı ya? en az 4 çocuklu aile figürü olmalı https://t.co/UyXAEkkARH"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658390230137729024",
+                "span": [
+                    {
+                        "text_span": "arap bedevilerini gözünüz görmüyor. Tayip BU ÜLKEYİ İŞGALE AÇTI. İŞGAL EDİLİYORSUN TÜRK UYAN",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    }
+                ],
+                "text": "@mhk1453 @kakts1881 @tibukculuk @aykiricomtr ulan beyin yoksunu ülken işgal altında işgal hâlâ mı uyuyorsun. Kürtlere karşı çıkacağız diye akın akın gelen arap bedevilerini gözünüz görmüyor. Tayip BU ÜLKEYİ İŞGALE AÇTI. İŞGAL EDİLİYORSUN TÜRK UYAN"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658454360525816064",
+                "span": [
+                    {
+                        "text_span": "arap istilasına susuyor",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    }
+                ],
+                "text": "Bu suriyeliler acaba iç anadolu ve karadeniz bölgesine hiç yerleştirilmedi mi hiç mi görmüyorlar durumun vehametini vatan elden gidecek diye korkanlar arap istilasına susuyor"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658307517728274432",
+                "span": [
+                    {
+                        "text_span": "bu Arap sevicilere",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ]
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658547980577859024",
+                "span": [
+                    {
+                        "text_span": "ülkeyi Arap doldurdun",
+                        "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+                    }
+                ]
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658184698445279584",
+                "span": [
+                    {
+                        "text_span": "bu Arap sevici yallah çölüne",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ]
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658143990087134976",
+                "span": [
+                    {
+                        "text_span": "arap istilasını onayladı. Bunlar iyi günlerimiz.",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    }
+                ],
+                "text": "@antiExpertise Türk milleti kendi eliyle akp mhp eliyle arap istilasını onayladı. Bunlar iyi günlerimiz."
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658112269690053120",
+                "span": [
+                    {
+                        "text_span": "sana da arap sevici Türk",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@humam_sha @alhamli7705 @RTErdogan ne anlatiyosun sen bi siktir git arap hepiniz gideceksiniz hepiniz"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658557980772638976",
+                "span": [
+                    {
+                        "text_span": "bir arap toplumu istemiyoruz",
+                        "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                    }
+                ],
+                "text": "ekonomiyi batırdın, ülkeyi arap doldurdun, bizi lgbtler dinsizler diye ayrıştırdın kendinden olmayana hakaretler ettin kadın haklarını hiçe saydın ve daha nicesi. ne bekliyordun ki https://t.co/KKpIUkZNme"
+            }
+        }
+    ]
+}

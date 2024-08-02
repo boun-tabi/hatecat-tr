@@ -1,0 +1,396 @@
+{
+    "hate_speech_instances": [
+      {
+        "tweet": {
+          "id": "1537057986874597376",
+          "span": [
+            {
+              "text_span": "hepsi Yunan tohumu",
+              "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            }
+          ]
+        }
+      },
+      {
+        "tweet": {
+          "id": "1552184011056889858",
+          "span": [
+            {
+              "text_span": "O salaklar bunu kavrayamıyorlar",
+              "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            }
+          ]
+        }
+      },
+      {
+        "tweet": {
+          "id": "1534968547834834944",
+          "span": [
+            {
+              "text_span": "ANSIZIN GELEBİLİRİZ",
+              "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+            }
+          ]
+        }
+      },
+      {
+        "tweet": {
+          "id": "1568961709708115977",
+          "span": [
+            {
+              "text_span": "Yunan kafiri",
+              "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            }
+          ]
+        }
+      },
+      {
+        "tweet": {
+          "id": "1533494392857800704",
+          "span": [
+            {
+              "text_span": "Yunan tohumu sizlersiniz",
+              "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            }
+          ]
+        }
+      },
+      {
+        "tweet": {
+          "id": "1568690982874656768",
+          "span": [
+            {
+              "text_span": "Türk, İslam düşmanı #YunanTohumları",
+              "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            }
+          ]
+        }
+      },
+      {
+        "tweet": {
+          "id": "1535048813177880577",
+          "span": [
+            {
+              "text_span": "Umarım savaş başlar ve Türk ordusunun acı gücünü dedelerinizin izmirde tattığı gibi sizde tadarsınız!!!",
+              "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+            },
+            {
+              "text_span": "yorgo 😂",
+              "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            }
+          ]
+        }
+      },
+      {
+        "tweet": {
+          "id": "1568676269293805569",
+          "span": [
+            {
+              "text_span": "YUNAN,ERMENİ TOHUMU VEYA YAHUDİ BOZMASIDIR.",
+              "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            }
+          ]
+        }
+      },
+      {
+        "tweet": {
+          "id": "1489206787068809232",
+          "span": [
+            {
+              "text_span": "Yunan dölü,iki şerefsiz",
+              "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            },
+            {
+              "text_span": "Lan kancıklar",
+              "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            },
+            {
+              "text_span": "içimizdeki yunan seviciler",
+              "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            },
+            {
+              "text_span": "Etekliler...",
+              "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            }
+          ]
+        }
+      },
+      {
+        "tweet": {
+          "id": "1568837677587349505",
+          "span": [
+            {
+              "text_span": "Yunan tohumu",
+              "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            }
+          ]
+        }
+      },
+      {
+        "tweet": {
+          "id": "1568995732404723715",
+          "span": [
+            {
+              "text_span": "az orispi değiller",
+              "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            },
+            {
+              "text_span": "Yunan sevici",
+              "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            }
+          ]
+        }
+      },
+      {
+        "tweet": {
+          "id": "1534972141606686730",
+          "span": [
+            {
+              "text_span": "ANSIZIN GELEBİLİRİZ",
+              "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+            }
+          ]
+        }
+      },
+      {
+        "tweet": {
+          "id": "1533568837924401153",
+          "span": [
+            {
+              "text_span": "yunan ve abd tohumu",
+              "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            }
+          ]
+        }
+      },
+      {
+        "tweet": {
+          "id": "1510728438461644803",
+          "span": [
+            {
+              "text_span": "Yunanlıları Ege'ye dökme zamanı geldi sanırım.",
+              "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+            }
+          ]
+        }
+      },
+      {
+        "tweet": {
+          "id": "1498316974560092168",
+          "span": [
+            {
+              "text_span": "Yunan gavuru",
+              "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            },
+            {
+              "text_span": "hainler",
+              "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            }
+          ]
+        }
+      },
+      {
+        "tweet": {
+          "id": "1531641360515620869",
+          "span": [
+            {
+              "text_span": "Miçotakis yönetimi denize dökülen vandal dedelerinden ders almamıştır.",
+              "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            },
+            {
+              "text_span": "denizin dibini canı tekrar çekmektedir",
+              "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+            }
+          ]
+        }
+      },
+      {
+        "tweet": {
+          "id": "1534981821754228756",
+          "span": [
+            {
+              "text_span": "ANSIZIN GELEBİLİRİZ",
+              "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+            }
+          ]
+        }
+      },
+      {
+        "tweet": {
+          "id": "1531352909966888960",
+          "span": [
+            {
+              "text_span": "Yunan tohumları gocunsun",
+              "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            }
+          ]
+        }
+      },
+      {
+        "tweet": {
+          "id": "1552595228435140608",
+          "span": [
+            {
+              "text_span": "Rum gavuru",
+              "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            }
+          ]
+        }
+      },
+      {
+        "tweet": {
+          "id": "1566395900380979202",
+          "span": [
+            {
+              "text_span": "ABDİNG İN TASMALI İTİ",
+              "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            }
+          ]
+        }
+      },
+      {
+        "tweet": {
+          "id": "1568882698881757184",
+          "span": [
+            {
+              "text_span": "Yunan tohumu",
+              "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            }
+          ]
+        }
+      },
+      {
+        "tweet": {
+          "id": "1568695583560581120",
+          "span": [
+            {
+              "text_span": "o Yunanistan'ı elimizden kimse alamaz",
+              "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+            }
+          ]
+        }
+      },
+      {
+        "tweet": {
+          "id": "1492431608397414400",
+          "span": [
+            {
+              "text_span": "Yunan tohumu seni",
+              "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            }
+          ]
+        }
+      },
+      {
+        "tweet": {
+          "id": "1534954332415737856",
+          "span": [
+            {
+              "text_span": "ANSIZIN GELEBİLİRİZ",
+              "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+            }
+          ]
+        }
+      },
+      {
+        "tweet": {
+          "id": "1565270486489128961",
+          "span": [
+            {
+              "text_span": "gavur yunan demokrasi oyunu",
+              "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            }
+          ]
+        }
+      },
+      {
+        "tweet": {
+          "id": "1520713472765571072",
+          "span": [
+            {
+              "text_span": "ne yunan tohumu",
+              "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            },
+            {
+              "text_span": "yunan artıkları bunlar",
+              "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            }
+          ]
+        }
+      },
+      {
+        "tweet": {
+          "id": "1554568597644754945",
+          "span": [
+            {
+              "text_span": "Yunan Ermeni bozması hayinleri temizlemek gerekiyor",
+              "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+            },
+            {
+              "text_span": "sızın gibi Yunan Ermeni bozması hayinleri temizlemek gerekiyor",
+              "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            }
+          ]
+        }
+      },
+      {
+        "tweet": {
+          "id": "1568340169253867520",
+          "span": [
+            {
+              "text_span": "elbette ki 'savaş sebebi' ! Pişman edeceğiz !",
+              "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+            }
+          ]
+        }
+      },
+      {
+        "tweet": {
+          "id": "1572552498984144897",
+          "span": [
+            {
+              "text_span": "Yunan gavuru",
+              "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            }
+          ]
+        }
+      },
+      {
+        "tweet": {
+          "id": "1553649340425568256",
+          "span": [
+            {
+              "text_span": "gerçek bir Yunan tohumu",
+              "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            }
+          ]
+        }
+      },
+      {
+        "tweet": {
+          "id": "1502256319620866053",
+          "span": [
+            {
+              "text_span": "Yunan dölü",
+              "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            },
+            {
+              "text_span": "Az kaldı bekle.",
+              "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+            }
+          ]
+        }
+      },
+      {
+        "tweet": {
+          "id": "1566069561060909057",
+          "span": [
+            {
+              "text_span": "Namussuz kanı bozuk ermeni yunan haçlı kanı taşıyan şerefsiz hain ler",
+              "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            }
+          ]
+        }
+      }
+    ]
+  }

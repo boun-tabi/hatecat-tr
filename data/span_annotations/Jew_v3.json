@@ -1,0 +1,600 @@
+{
+    "hate_speech_instances": [
+        {
+            "tweet": {
+                "id": "1556025770488774658",
+                "span": [
+                    {
+                        "text_span": "Çocuk katilleri!",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    },
+                    {
+                        "text_span": "Lanetli kavim!",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    },
+                    {
+                        "text_span": "Çöllere düşün son kez ve bir daha çıkamayın.",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    }
+                ],
+                "text": "Çocuk katilleri!\nLanetli kavim!\nÇöllere düşün son kez ve bir daha çıkamayın.\n\n#GazaUnderAttack \n#GazzeAtesAltında \n#Gazze"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1473971550542090246",
+                "span": [
+                    {
+                        "text_span": "it",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    },
+                    {
+                        "text_span": "her seyiyle insanlığın yüzkarasi.",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "Bu itrail her seyiyle insanlığın yüzkarasi. #RobertMaloneYalnızDeğilsin https://t.co/6NY2XiLpQ6"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1394653950444457988",
+                "span": [
+                    {
+                        "text_span": "yeryüzunden silinme vaktin gelmiştir Allahın izniyle",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    },
+                    {
+                        "text_span": "itrail",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "Kadınlarla çocuklar da baskaldırdıysa artık yeryüzunden silinme vaktin gelmiştir Allahın izniyle itrail https://t.co/CZjLSmRHTZ"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1392252623902978049",
+                "span": [
+                    {
+                        "text_span": "#Yıkılsınİsrail",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    },
+                    {
+                        "text_span": "#Kahrolsunİsrail",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    },
+                    {
+                        "text_span": "#Yansınİsrail",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    },
+                    {
+                        "text_span": "#ALLAHINNALETİİSRAİLİNÜZERİNEOLSUNİNŞALLAH",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    },
+                    {
+                        "text_span": "#israilteroerdevletidir",
+                        "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+                    }
+                ],
+                "text": "@username #Yıkılsınİsrail \n#Kahrolsunİsrail \n#Yansınİsrail\n#ALLAHINNALETİİSRAİLİNÜZERİNEOLSUNİNŞALLAH\n#israilteroerdevletidir \n😭😭😭"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1392494449675145217",
+                "span": [
+                    {
+                        "text_span": "#AllahbelanıversinİSRAİL",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    }
+                ],
+                "text": "#AllahbelanıversinİSRAİL https://t.co/L4B00y31yE"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1393467610600288257",
+                "span": [
+                    {
+                        "text_span": "Soysuz #Katilİsrail #Soykırımcıİsrail #SoyunKurusunİsrail'i",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    },
+                    {
+                        "text_span": "Kahru Perişan Eylesin İnşallah",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    }
+                ],
+                "text": "Selamün Aleyküm #Türkiye'm\nGünümüz Aydın Gönlümüz Huzurla Dolsun\nRabbim Mübarek Günlerde Soysuz #Katilİsrail #Soykırımcıİsrail\n#SoyunKurusunİsrail'i Kahru Perişan Eylesin İnşallah\n#Amin https://t.co/Pjl9bj0K8q"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1393484053677056001",
+                "span": [
+                    {
+                        "text_span": "işgalciisrail",
+                        "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+                    },
+                    {
+                        "text_span": "i̇sraildevletdeğildir",
+                        "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+                    },
+                    {
+                        "text_span": "siyonistisrail",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    },
+                    {
+                        "text_span": "israelterrorist",
+                        "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+                    },
+                    {
+                        "text_span": "soysuzisrailkopekleri",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "Şehadetin mübarek olsun cennet kuşu🕊\n@yahyazned\n\n#freepalestine🇵🇸 \n#freequds🇵🇸 \n#freegaza🇵🇸 \n#gazaunderattack \n#gazzedekatliamvar \n#المسجد_الأقصى \n\n#işgalciisrail \n#i̇sraildevletdeğildir \n#siyonistisrail \n#israelterrorist \n#soysuzisrailkopekleri https://t.co/Wv7UGYKHfQ"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1393671699623723010",
+                "span": [
+                    {
+                        "text_span": "İsrail kendi kanında boğül inşaallah yakahar yakahar",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    },
+                    {
+                        "text_span": "#Katilİsrail",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "Allah ın gazabı  üzerine olsun..İsrail kendi kanında boğül inşaallah yakahar yakahar  \n#Katilİsrail https://t.co/UsdQ4sIVpS"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1394971396929896448",
+                "span": [
+                    {
+                        "text_span": "yahudi itlerine asla merhamet göstermeyin",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    },
+                    {
+                        "text_span": "it",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    },
+                    {
+                        "text_span": "itrail",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    },
+                    {
+                        "text_span": "yahudi itlerine yapacaklarımızı düşünemiyorum bile",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    }
+                ],
+                "text": "@username Bu ve bütün fotografları aklınıza kazıyın asla unutmayın ve ne olursa olsun yahudi itlerine asla merhamet göstermeyin! Bir gün itrail yok olunca oradaki yahudi itlerine yapacaklarımızı düşünemiyorum bile 🇹🇷🇵🇸"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1392833730495107078",
+                "span": [
+                    {
+                        "text_span": "Bunların hepsi şerefsiz",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    },
+                    {
+                        "text_span": "numara yapıyorlar",
+                        "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+                    },
+                    {
+                        "text_span": "Katilİsrail",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@username @username Bunların hepsi şerefsiz numara yapıyorlar bak filistin saldırıyor algısı #Katilİsrail"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1391693183155904515",
+                "span": [
+                    {
+                        "text_span": "İsrail barbarlarının",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "Ya Rabbi sen katından yardımcılarınla İsrail barbarlarının zulmüne son ver, bizleri de yardımcıların içerisinde bir nefer eyle #OrdularAksaya"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1515156707390984193",
+                "span": [
+                    {
+                        "text_span": "İngilizi siyonisti hiç rahat durmaz bu alçaklardan dost müttefik olmaz",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "İngilizi siyonisti hiç rahat durmaz bu alçaklardan dost müttefik olmaz alçakların sözüne itibar edilmez #GözümüzKulağımızAksada"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1391920935343636483",
+                "span": [
+                    {
+                        "text_span": "Şerefsizler, caniler",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    },
+                    {
+                        "text_span": "Katilİsrail",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "Çocukların öldüğü hiçbir dava haklı değildir #Katilİsrail https://t.co/WrGcP9aKdS"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1393264750969163780",
+                "span": [
+                    {
+                        "text_span": "Terör devleti #Katilİsrail'in sonu gelir.",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    }
+                ],
+                "text": "Binlerce Ürdün'lü kardeşimiz #Filistin sınırına akın ediyor...\nİnşallah, \nCumhurbaşkanımız Sn. @username’ın güçlü Liderliği ve öncülüğünde yürüttüğü yoğun Diplomasi ve çabalar neticesinde İslam ümmeti birleşir Terör devleti #Katilİsrail'in sonu gelir.🇹🇷🇦🇿\nhttps://t.co/q5f8NUX4WO"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1393909569798213634",
+                "span": [
+                    {
+                        "text_span": "KAHROLSUN İSRAİL",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    }
+                ],
+                "text": "KAHROLSUN İSRAİL #FreePalestine #GazaUnderAttack #FilistinYalnizDegil #DünyaFilistininYanında"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1498727839524429831",
+                "span": [
+                    {
+                        "text_span": "#Katilİsrail",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@username Amin amin amin. 🤲\n#FreePalestine #Katilİsrail"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1392474492610433024",
+                "span": [
+                    {
+                        "text_span": "Teröristisrail",
+                        "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+                    }
+                ],
+                "text": "#MescidiAksadaBaskınVar \n#MescidiAksaOnurumuzdur \n#Teröristisrail https://t.co/5kCnUoa7WC"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1394185880932429825",
+                "span": [
+                    {
+                        "text_span": "katilisrail",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    },
+                    {
+                        "text_span": "thekillerisrael",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "Adı: Şeyma\nFilistinli bir Hâfız.\n1 yıl sonra Diş Doktoru olacak, Bayram’dan sonra ise evlenecekti.\n\nAncak İsrail, Şeyma'nın evini savaş uçakları ile bombaladı. Şeyma ve ailesi (12 kişi) şehit oldular.\n#katilisrail #thekillerisrael \n#filistin #gazze \n#SonDakika\n\n#HopeToGaza https://t.co/Lg0iETa0Ov"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1393434648647192577",
+                "span": [
+                    {
+                        "text_span": "KATİL, SİYONİST, İŞGALCİ",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "#KudüseYürüyoruz SPONSORU ŞEYTAN OLAN KATİL, SİYONİST, İŞGALCİ israilin EBEDİ YURDU CEHENNEMDİR KUDUS İSLAMDIR SONSUZA KADAR DA İSLAM KALACAK  ...   #FilistinYalnızDeğil"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1557968706315190277",
+                "span": [
+                    {
+                        "text_span": "itrail",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@username @username @username Vatansız olmak nasıl bir duygu?\nGerçekten merak ediyorum açıklar mısın?\nYa da vatanınız var da biz mi bilmiyoruz. Pensilvanya'nın olduğu ABD mi, yoksa itrail mi?\nİnsanların yatak odalarını ifşa eden cevheri nerenin insanı?\nMüslümanlıkta var mı bu kaset, şantaj montaj işleri?"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1392613428691357699",
+                "span": [
+                    {
+                        "text_span": "yahudilerin sokak aralarinda gördüğü filistinlilere ateş ettiği",
+                        "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+                    },
+                    {
+                        "text_span": "Katilİsrail",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "Netenyahunun emri ile halka silah dagıtıldıgı,yahudilerin sokak aralarinda gördüğü filistinlilere ateş ettiği rapor ediliyorDünya israil ve Filistindeki duruma resmen seyirci kalmayı seçiyor.Bu vahşet israilin bu saldırgan tutumu karşısında ciddi adımlar atılmalı\n#Katilİsrail https://t.co/SMrvKSduEC"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1458303659641540608",
+                "span": [
+                    {
+                        "text_span": "itrail'liler",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "Bu #itrail'liler ne yapıyor böyle? 🤔 https://t.co/1HzDXOHD8g"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1557215313791442945",
+                "span": [
+                    {
+                        "text_span": "İsrailHaddiniBil",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@username #İsrailHaddiniBil  🔥😡🔥"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1397241789145300999",
+                "span": [
+                    {
+                        "text_span": "kahrolsunisrail",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    }
+                ],
+                "text": "Mescid-i Aksa ve Kudüs sevdalısı STK ların oluşturduğu Kudüs Platformunun düzenlemiş olduğu \"ÖZGÜR KUDÜS YÜRÜYÜŞÜNE\" katıldık. #kahrolsunisrail @username @username @username https://t.co/BdB6CWxf3Z"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1392492782338596864",
+                "span": [
+                    {
+                        "text_span": "ShameOnYouIsrael",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "#FreePalestine\n#AksadaBaskınVar\n#ShameOnYouIsrael\n#انقذوا_حي_الشيخ_جراح\n#GazaUnderAttack\n#savesheikhjarrah\n#AlAqsaUnderAttack\n#GazaFightsBack\n#SavePalestine\n#IsraeliTerrorism\n#IsraeliCrimes\n#israelusesphosphorusbombs\n#FacebookSupportIsraelOccupation https://t.co/TZLlmUsfbS"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1393864800300580867",
+                "span": [
+                    {
+                        "text_span": "SonunGeldiKöpekİsrail",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    }
+                ],
+                "text": "Dua dua dua #SonunGeldiKöpekİsrail"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1393078421064929280",
+                "span": [
+                    {
+                        "text_span": "İtrailler!",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    },
+                    {
+                        "text_span": "Sonunuz yakındır",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    }
+                ],
+                "text": "#KuduesKanAğlıyor\n#Israel \n#isgalciTeroeristİsrail \nİtrailler! \nSonunuz yakındır İnnşşAllahh 😠"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1391187031972270080",
+                "span": [
+                    {
+                        "text_span": "itrail",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@mifbgr @eurodolar1980x @BekirBu02487130 Ne o ağırınamı gittide hakaret ediyorsun inşallah öyledir öylede olur de ama senin kalbin niyetin itrail diye atıyorsa o başka"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1392876146929414145",
+                "span": [
+                    {
+                        "text_span": "kahrolsunisraill",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    }
+                ],
+                "text": "@username #KuduesBizimdir \n#kahrolsunisraill\n#GazaUnderAttack \n#Palestine \n#Kuduesİslamındır \n#IsraelliTerrorism\n#GazaUnderAttack"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1390786231336939523",
+                "span": [
+                    {
+                        "text_span": "kahrolsunisrail",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    }
+                ],
+                "text": "Elbet birgün inşaAllah...\n\n#kahrolsunisrail \n#Kahrolsunİsrail https://t.co/vLpuehol5f"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1555835005770911744",
+                "span": [
+                    {
+                        "text_span": "Katil İsrail",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    },
+                    {
+                        "text_span": "Çocuk katili İsrail",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    },
+                    {
+                        "text_span": "Katilisrail",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "Katil İsrail dün gece yine hiçbir ayrım yapmadan sivillere saldırdı. Hayatını kaybeden kardeşlerimizden biri de 5 yaşındaki Alaa…\n\nÇocuk katili İsrail’in saldırılarını şiddetle kınıyorum.\nRabbim Filistinli kardeşlerimizin yâr ve yardımcısı olsun.\n#Katilisrail https://t.co/kPjMFHJ1JA"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1392554620711485440",
+                "span": [
+                    {
+                        "text_span": "katilisrail",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "Başka söze gerek yok. #katilisrail"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1390786503752699910",
+                "span": [
+                    {
+                        "text_span": "kahrolsunisrail",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    }
+                ],
+                "text": "@username #kahrolsunisrail \nİsrail bir terör devletidir.\nSonu gelen köpek cami duvarına pislermiş. \nAllah İsrail'i kahru perişan eylesin inşallah."
+            }
+        },
+        {
+            "tweet": {
+                "id": "1391549459633524737",
+                "span": [
+                    {
+                        "text_span": "ey teroris itrail",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@suleakrte @UyandirmaSer06 Yaklaşıyor yaklaşmakta olan ey teroris itrail ozaman bak kim oynayacacak"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1515724584447877130",
+                "span": [
+                    {
+                        "text_span": "İşgalci yahudi varlığının",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    },
+                    {
+                        "text_span": "yahudi",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "İşgalci yahudi varlığının saldırılarını durduracak açıklama geldi.! Bu saatten sonra artık  ABD ve \"İsrail\" düşünsün.!\n#GözümüzKulağımızAksada\n#OrdularAksaya https://t.co/icpamb458b"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1392960794988630022",
+                "span": [
+                    {
+                        "text_span": "işgalci yerleşim",
+                        "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+                    },
+                    {
+                        "text_span": "Katilisrail",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "İsrail işgal güçleri korkularından, #Gazze Şeridi yakınlarındaki işgalci yerleşim yerlerinde işgalci yerleşimcilerden sığınaklarda kalmalarını istiyor.\n\n#GazaUnderAttack #Gaza #GazaCity #GazaChildrenUnderAttack #IsraeliTerrorism #IsraelTerrorist  #katilisrail"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1556599459353608193",
+                "span": [
+                    {
+                        "text_span": "kahrolisrail",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    }
+                ],
+                "text": "#kahrolisrail"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1394405008876220424",
+                "span": [
+                    {
+                        "text_span": "katilisrail",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "- Lübnan'dan atılan üç füze, Filistin-Lübnan sınırında bir yerleşim yerine düştü.\n\n- İsrail saldırıya karşılık Lübnan’ı top atışlarıyla vurdu. \n\n- Sınırda İsrail savaş uçakları uçuyor.\n\n#HearGaza\n#GazzedeSoykırım\n#GazzeDireniyor\n#GazzedeKatliamVar\n#katilisrail\n#GazzeAtesAltinda"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1392656703288758273",
+                "span": [
+                    {
+                        "text_span": "Yok olacaksın iTrail",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    },
+                    {
+                        "text_span": "Yıkılasın",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    },
+                    {
+                        "text_span": "israil",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "Yok olacaksın iTrail !!!\n https://t.co/1zh4jgzNc5"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1396171718687969280",
+                "span": [
+                    {
+                        "text_span": "itrail",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@username Memleket teki itrail li fetoş çu pkk lı hepsi ip. İle cehape de toplanmış ondan"
+            }
+        }
+    ]
+}

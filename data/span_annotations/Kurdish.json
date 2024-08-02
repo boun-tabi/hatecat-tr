@@ -1,0 +1,248 @@
+{
+    "hate_speech_instances": [
+        {
+            "tweet": {
+                "id": "1657912650003620096",
+                "span": [
+                    {
+                        "text_span": "c*p hdpkk",
+                        "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                    },
+                    {
+                        "text_span": "Beter olsunlar",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    }
+                ],
+                "text": "@shemhamfhorash @aIexstrasza_ @xdomerxd @pusholder Gönül isterdi ki Sinan Oğan kazansın ya da c*p hdpkk safında durmasın, %10 kürt oyu toplayayım diye darmaduman oldular. Beter olsunlar, bunların karşısında bırak RTE'yi taş olsa taşa basarım.\nhttps://t.co/3hHhDqODrr"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1657956266667560960",
+                "span": [
+                    {
+                        "text_span": "hiç hizmet yapmam",
+                        "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                    },
+                    {
+                        "text_span": "nankörlük gözünüze dursun haram zıkkım olsun size",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@zahide34 @Abdquil ben olsam kürt bölgelere hiç hizmet yapmam nedir bu nankörlük gözünüze dursun haram zıkkım olsun size.."
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658001316004741120",
+                "span": [
+                    {
+                        "text_span": "kürt edebiyatını sikerim",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    },
+                    {
+                        "text_span": "kahpeler",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "Bundan sonra bu Trakya insanının kürt edebiyatını sikerim.\nOlum elinizle pkk yı oyladınız lan kahpeler."
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658009526451286016",
+                "span": [
+                    {
+                        "text_span": "Sizi denize döken de Türktü",
+                        "hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+                    }
+                ],
+                "text": "@sagin571 @__BURCUVAA_ Senin kardeşin Kürt ve Arap ..benim kardeşim Türk oğlu Türk Sizi denize döken de Türktü..git mahllende Ağla.."
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658064212923384064",
+                "span": [
+                    {
+                        "text_span": "Türkiye’yi falan sevmiyorlar",
+                        "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+                    },
+                    {
+                        "text_span": "gerizekalı",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@oylundavran Kürtlerden kastın hdpye oy veren kitle ise Türkiye’yi falan sevmiyorlar gerizekalı Türk sağı ve Türk solunun arasındaki çekişmeden yararlanarak iki taraftan da tavizler koparıp hayalini kurdukları özerk yönetim veya bağımsız Kürt devleti için çalışıyorlar"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658214930657452032",
+                "span": [
+                    {
+                        "text_span": "vatan hainlerine",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@muratsahin2023 En büyük Atatürkçü demokrasi aşığı\nbeyni sulanmış #Ayşegülarslan !!\no vatan hainlerine\nİstiklal harbinde isyan eden Kürt saidin  torunlarına özgürlük diye bağırıyorsun\nAmerika'nın kuyruğunda ülkemden toprak koparmak isteyenlere! Atatürk ve Türk düşmanlarından mı bahsediyorsun?👏"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658284980483629056",
+                "span": [
+                    {
+                        "text_span": "kandilin 2. aposunu hapisten çıkaracağını söyleyen K.K karşısında bir olmak zorundayız",
+                        "hate_speech_category": "Symbolization"
+                    }
+                ],
+                "text": "@heysisifos @oguzhanturhan_ Siyaset ve devlet  aklı ile Türkiye yüzyılında Kürt ve hüdaparlı kardeşlerimizle beraber kandilde bu fotoğrafın aynısı çektiricez. Liderimiz Oğan olsun biz her zaman hazırız. Ama şuan kandilin 2. aposunu hapisten çıkaracağını söyleyen K.K karşısında bir olmak zorundayız kardeşim. https://t.co/wCfdaJI8qe"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658305640572281088",
+                "span": [
+                    {
+                        "text_span": "dedelerinizin kemikleriyle çok oynadı",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    },
+                    {
+                        "text_span": "Kahrolsun Kürt faşizmi",
+                        "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                    }
+                ],
+                "text": "@Cemiloglu571 @eren_kurt_25 Ulu önder Mustafa Kemal Atatürk dedelerinizin kemikleriyle çok oynadı bu kadar istiyorsan biz de oynarız zevkle Kahrolsun Kürt faşizmi  NE MUTLU TÜRKÜM DİYENE Yaşasın laiklik"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658343884672433920",
+                "span": [
+                    {
+                        "text_span": "artistlik taslamana ithafen yazdım",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@matata574313543 @Meleknaz___ @hesaniko Aynısı söyledim ben de zaten. Dilim kürtçe diye artistlik taslamana ithafen yazdım, kendi kürt çevren dışında kürtçe ile iletişim kurma ihtimalin 0 ne yazık ki. Olsun siz de bizim dil diye avutun kendinizi."
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658345651271261952",
+                "span": [
+                    {
+                        "text_span": "çükünden tavana asardı",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "Hahaha\n\nYere göğe sığdıramadığınız kürt kardeşlerinize bakın. Atatürkçü olup da eğer bu tabloda hâlâ bunlara sessiz kalıyorsanız size de yazıklar olsun.\n\nAtam yaşasaydı bugün kendi partisi de dahil birçoğunuzu çükünden tavana asardı. https://t.co/4hRmKA8AG8"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658466790509359104",
+                "span": [
+                    {
+                        "text_span": "Kürt özerkliği Kürtçe 2.resmi dil olsun",
+                        "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                    },
+                    {
+                        "text_span": "pacavralar",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    },
+                    {
+                        "text_span": "bana değil o taptigin muhalefet e kinln",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@a_brls Ne yapsaydk seloyu çıkarıp millî savunma bakanı doğuda Kürt özerkliği Kürtçe 2.resmi dil olsun o pacavralar Ayyıldız la birlikte dalgalansın mı deseydik benim milletimi kötünün iyisini seçmek zorunda bıraktınız neyi savunuyorsun körü körüne bana değil o taptigin muhalefet e kinln"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658483396816048128",
+                "span": [
+                    {
+                        "text_span": "Türkiye'yi bölmek demektir",
+                        "hate_speech_category": "Exclusive/Discriminatory Discourse"
+                    }
+                ],
+                "text": "@aleynaklcdarglu Kemal Kılıçdaroğlu'na oy vermek, Kemal Kılıçdaroğlu ile ABD hükümeti arasında Türkiye'nin doğu ve güneydoğu Kürt bölgelerinin ayrılması ve bağımsız bir Kürt devletinin kurulması için referandum yoluyla varılan anlaşmaya göre Türkiye'yi bölmek demektir."
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658602985386123008",
+                "span": [
+                    {
+                        "text_span": "çoğu irkcidir",
+                        "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+                    },
+                    {
+                        "text_span": "çoğu Kürt faşist ve bölücüdür",
+                        "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+                    }
+                ],
+                "text": "@merthaaland @ekremistpala Ee zaten Kürtler Türk birine oy vermez çoğu irkcidir bize faşist derler ancak çoğu Kürt faşist ve bölücüdur"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658603760451571968",
+                "span": [
+                    {
+                        "text_span": "seni de, bitmediniz gitti",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@SimonettaVspc Filiz senin Kürt sorununu da seni de, bitmediniz gitti. Bu Kürt sorunu bi senin gibi bir tarafları rahatta olanlara var heralde. Benim yaşadığım ilde hiçbir Kürt'ün sorunu yok, sizin ne sorununuz var merak konusu."
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658614350033166080",
+                "span": [
+                    {
+                        "text_span": "faşistlik",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    },
+                    {
+                        "text_span": "hdpkk sevdası",
+                        "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+                    }
+                ],
+                "text": "@srkntnyldz Emekli askerim çeyrek asırdır CHP'ye oy verdim. Kemal Kılıçdaroğlu artık çekilmeli. Türk demek faşistlik Kürt demek özgürlük oldu. Bu CHP'nin hdpkk sevdası yüzünden oldu. %10 için % 30 gitti."
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658717142722703104",
+                "span": [
+                    {
+                        "text_span": "sözde kürdistana",
+                        "hate_speech_category": "Symbolization"
+                    }
+                ],
+                "text": "@enginozkoc Bir Atatürkçü hdp ye destek vermez \nBir Atatürkçü fetöye destek vermez \nBir Atatürkçü pkkya destek vermez \nBir Atatürkçü sözde Ermeni soykırımına destek vermez\nBir Atatürkçü sözde kürdistana destek vermez\nBir Atatürkçü kürt açılımına destek vermez\nVerirse zaten Atatürkçü değildir https://t.co/VIvfJ4mFvo"
+            }
+        },
+        {
+            "tweet": {
+                "id": "1658766084814650880",
+                "span": [
+                    {
+                        "text_span": "yarrağı yemişiz zaten",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    },
+                    {
+                        "text_span": "kürt yarrağı ola",
+                        "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+                    }
+                ],
+                "text": "@kadertaciri @tayfunaydin02 @ajans_muhbir Yarrağı yemişiz zaten dostum suriyeli yarrağı ola kürt yarrağı ola ne fark ede?"
+            }
+        }
+    ]
+}
