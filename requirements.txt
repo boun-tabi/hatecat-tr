@@ -6,3 +6,6 @@ datasets
 evaluate 
 seqeval
 accelerate
+python-Levenshtein
+seaborn
+matplotlib
