@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658278265839034112",
+		"span": [ 
+			{
+			"text_span": "o kadar Kürt Suriyeli var hepsi sana oy veriyo mk",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

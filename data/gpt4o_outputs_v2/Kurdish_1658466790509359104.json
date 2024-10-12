@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1658466790509359104",
+		"span": [ 
+			{
+			"text_span": "Kürt özerkliği",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "Kürtçe 2.resmi dil olsun",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "o pacavralar",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

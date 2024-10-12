@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1658717142722703104",
+		"span": [
+			{
+				"text_span": "sözde Ermeni soykırımına",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "sözde kürdistana",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "kürt açılımına",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

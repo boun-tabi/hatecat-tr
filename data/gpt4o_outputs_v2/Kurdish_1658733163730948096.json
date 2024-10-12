@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658733163730948096",
+		"span": [
+			{
+				"text_span": "çoktan yaptı siz bir taraf biz bir taraf onlar bir taraf biz bir taraf tek kişi kalsak dahi",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

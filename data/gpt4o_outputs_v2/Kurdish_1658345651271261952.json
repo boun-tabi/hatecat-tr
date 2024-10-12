@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658345651271261952",
+		"span": [
+			{
+				"text_span": "kürt kardeşlerinize",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "Atam yaşasaydı bugün kendi partisi de dahil birçoğunuzu çükünden tavana asardı.",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

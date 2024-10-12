@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1658187676351095040",
+		"span": [ 
+			{
+			"text_span": "sapkın Lbgt denilen grup",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "her köşe başında elinde içki şişeleri olan , sokakta öpüşmekten bile çekinmeyenler bunlar",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

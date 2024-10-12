@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1657904928021443072",
+		"span": [
+			{
+				"text_span": "Amına goduklarım",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

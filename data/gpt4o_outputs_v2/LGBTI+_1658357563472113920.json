@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658357563472113920",
+		"span": [ 
+			{
+			"text_span": "lgbt gibi sapkın akımlar",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

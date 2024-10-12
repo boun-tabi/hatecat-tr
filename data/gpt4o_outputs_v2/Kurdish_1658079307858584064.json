@@ -1,0 +1,12 @@
+
+{ 
+	"tweet": {
+		"id": "1658079307858584064",
+		"span": [ 
+			{
+				"text_span": "hizbullahçı kürt sorunu",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

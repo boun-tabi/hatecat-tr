@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658121087777906944",
+		"span": [
+			{
+				"text_span": "kakıyormuş",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Git evde bulaşık yıka çıkma sokağa",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

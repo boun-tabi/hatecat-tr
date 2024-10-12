@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1658214930657452032",
+		"span": [
+			{
+				"text_span": "vatan hainlerine",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "İstiklal harbinde isyan eden Kürt saidin  torunlarına",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "ülkemden toprak koparmak isteyenlere",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

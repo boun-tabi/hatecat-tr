@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658438699216936960",
+		"span": [
+			{
+				"text_span": "kürt milliyetçiliği istemiyorum ülkemde",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "konu milliyetçilik ve Kürt devleti",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

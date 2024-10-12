@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658718351349149952",
+		"span": [ 
+			{
+			"text_span": "ana avradınuzı kürt eşeklerine siktirdiğim",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1658706680719319040",
+		"span": [ 
+			{
+			"text_span": "lgbt sapkın akımlar",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "kendi pisliğini bizim üstümüze yıkıyorlar.. ahlaksız zihinler",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

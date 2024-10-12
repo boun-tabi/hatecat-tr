@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658029594434208000",
+		"span": [ 
+			{
+			"text_span": "KÜRT NEFRETİ",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

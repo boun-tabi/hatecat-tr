@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658552764673163008",
+		"span": [ 
+			{
+				"text_span": "sapkın anlayışlara karşı korunması",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

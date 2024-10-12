@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1657912734753627904",
+		"span": [ 
+			{
+			"text_span": "Selo mevzusu da tamamen Kürt oyları içindir",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

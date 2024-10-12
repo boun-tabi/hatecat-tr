@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1658598143657689088",
+		"span": [ 
+			{
+			"text_span": "her türlü sapık fikirleri ve bölücülüğü",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "VATANSIZLIK, CİNSİYETSİZLİK,DİNSİZLİK",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

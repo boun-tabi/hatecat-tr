@@ -1,0 +1,23 @@
+{
+	"tweet": {
+		"id": "1658136181228412928",
+		"span": [
+			{
+				"text_span": "itperestlik",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "ahlaksızlık",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "sapkın fikirleri",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "anadolu halkı söküp atmasını bilir",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

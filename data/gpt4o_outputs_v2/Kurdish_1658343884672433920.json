@@ -1,0 +1,16 @@
+
+{ 
+	"tweet": {
+		"id": "1658343884672433920",
+		"span": [ 
+			{
+			"text_span": "Olsun siz de bizim dil diye avutun kendinizi.",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "kendi kürt çevren dışında kürtçe ile iletişim kurma ihtimalin 0 ne yazık ki.",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1658001316004741120",
+		"span": [ 
+			{
+				"text_span": "kürt edebiyatını sikerim",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "kahpeler",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

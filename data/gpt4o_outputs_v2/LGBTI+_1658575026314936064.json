@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1658575026314936064",
+		"span": [
+			{
+				"text_span": "Lpg'ci",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "sapık masallar",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "bunlara fırsat verme Allahım",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

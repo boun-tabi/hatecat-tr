@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658077724718554880",
+		"span": [ 
+			{
+			"text_span": "500.000 kürt nasıl bugün ki siyasi, idari,demografik konularda sıkıntı çıkarıyorsa",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			} 
+		] 
+	}
+}

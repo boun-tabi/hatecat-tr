@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658017413860844032",
+		"span": [
+			{
+				"text_span": "sapkın lgbtcilerle",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

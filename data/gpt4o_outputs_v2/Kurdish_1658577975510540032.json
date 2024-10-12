@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658577975510540032",
+		"span": [
+			{
+				"text_span": "Kürt oyları",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "selodur. Selo bir 5 sene daha orada kalacak",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

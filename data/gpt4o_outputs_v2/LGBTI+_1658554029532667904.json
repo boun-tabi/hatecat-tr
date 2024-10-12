@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658554029532667904",
+		"span": [
+			{
+				"text_span": "Sapkın anlayışlara karşı",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

@@ -1,0 +1,23 @@
+{ 
+	"tweet": {
+		"id": "1658770238823907072",
+		"span": [ 
+			{
+			"text_span": "paralı köpeğidir",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "kör,cahil ve vasıfsız bir kürt bireyidir",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "tehlikeli",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "bunlar para için ailelerini satar,satmıştır",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

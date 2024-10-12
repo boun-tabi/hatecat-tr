@@ -1,0 +1,16 @@
+
+{ 
+	"tweet": {
+		"id": "1657909093858790912",
+		"span": [ 
+			{
+			"text_span": "kürt ırkçılarının kıçından ayrılmıyordun",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "yallah Kandil'e",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

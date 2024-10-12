@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1658515154298864128",
+		"span": [
+			{
+				"text_span": "sizin ben alahinizi ve taptığınız her şeyi s.key.m",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "hala biz ezidiyiz Kürt değiliz der",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "nasıl bir varlığı a.ına koyim",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

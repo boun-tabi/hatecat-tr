@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658032881183145984",
+		"span": [
+			{
+				"text_span": "nerde lgbt bireyi varsa buna oy veriyor",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "nerde sapık yavşak pezevenk varsa",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

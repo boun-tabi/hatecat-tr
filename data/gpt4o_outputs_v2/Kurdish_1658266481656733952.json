@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658266481656733952",
+		"span": [
+			{
+				"text_span": "manipüle edilmiş %8 kürt vatandaşlarımızın oylarını tercih ederek",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

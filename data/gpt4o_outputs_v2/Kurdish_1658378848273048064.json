@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658378848273048064",
+		"span": [ 
+			{
+			"text_span": "Hadi onlarla kazanın bakalım nasıl kazanacaksınız",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

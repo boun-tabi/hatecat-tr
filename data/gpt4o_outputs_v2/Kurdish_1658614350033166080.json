@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658614350033166080",
+		"span": [
+			{
+				"text_span": "Türk demek faşistlik Kürt demek özgürlük oldu",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "CHP'nin hdpkk sevdası",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658598586798465024",
+		"span": [ 
+			{
+				"text_span": "PKKLI VATAN HAİNİ",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "YOSMA RUM ARTIĞI",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

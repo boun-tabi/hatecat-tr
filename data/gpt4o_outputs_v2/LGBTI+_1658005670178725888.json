@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658005670178725888",
+		"span": [
+			{
+				"text_span": "sapık",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "LGBT'li olmak",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

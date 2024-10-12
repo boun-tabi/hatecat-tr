@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658602985386123008",
+		"span": [
+			{
+				"text_span": "çoğu irkcidir",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "çoğu Kürt faşist ve bölücüdur",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

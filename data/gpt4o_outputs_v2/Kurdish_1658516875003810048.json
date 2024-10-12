@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658516875003810048",
+		"span": [
+			{
+				"text_span": "şimdiye hepsi pkk'lı olardi",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

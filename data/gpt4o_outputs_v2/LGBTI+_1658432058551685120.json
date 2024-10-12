@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1658432058551685120",
+		"span": [ 
+			{
+			"text_span": "sapkın cinsel fantezilerini",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "Keşke hollanda da dogsalardi",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "içi fos bi jenerasyona",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658741586463792896",
+		"span": [
+			{
+				"text_span": "Erdoğan rejiminin boğduğu toplumsal ortamı ferahlatalım ama bu demokratlara, özgürlükçülere ve Kürtlere alan açmasın.",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

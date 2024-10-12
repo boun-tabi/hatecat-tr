@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658284980483629056",
+		"span": [
+			{
+				"text_span": "şuan kandilin 2. aposunu hapisten çıkaracağını söyleyen K.K karşısında bir olmak zorundayız kardeşim.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

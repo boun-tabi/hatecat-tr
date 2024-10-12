@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1658240944406248960",
+		"span": [ 
+			{
+			"text_span": "Saddam Hüseyine ihaneti karşılığında Kuzey Irak'ta Kürt bölgesi kurulmuştur",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "istersen gidip orda yaşayabilirsin",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

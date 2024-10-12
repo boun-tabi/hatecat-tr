@@ -1,0 +1,12 @@
+
+{ 
+	"tweet": {
+		"id": "1658009526451286016",
+		"span": [ 
+			{
+			"text_span": "Sizi denize döken de Türktü",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

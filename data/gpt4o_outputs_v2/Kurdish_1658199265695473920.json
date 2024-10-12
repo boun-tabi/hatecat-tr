@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658199265695473920",
+		"span": [
+			{
+				"text_span": "ayrılıkçı Kürtler",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "aşırı solcu ve ayrılıkçı Kürtler",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

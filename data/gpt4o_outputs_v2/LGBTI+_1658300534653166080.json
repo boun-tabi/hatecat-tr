@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1658300534653166080",
+		"span": [ 
+			{
+				"text_span": "erkek arkadaşları ile sapkın ilişkileri olan ahlaksız",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "rezil",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "beğenmiyorsan defol git hollandaya",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

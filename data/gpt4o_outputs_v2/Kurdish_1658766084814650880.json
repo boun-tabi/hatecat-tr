@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658766084814650880",
+		"span": [ 
+			{
+			"text_span": "kürt yarrağı ola",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}
