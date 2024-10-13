@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1657908974883074048",
+		"span": [
+			{
+				"text_span": "Onu siktiğimin Arapları",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Arap yobaz köpekleri",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

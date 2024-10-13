@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658411402275569920",
+		"span": [
+			{
+				"text_span": "diğeri işkence ve domuz bağı ile öldürüyor. Arap destekli",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

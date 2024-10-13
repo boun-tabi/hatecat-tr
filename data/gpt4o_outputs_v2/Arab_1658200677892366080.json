@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1658200677892366080",
+		"span": [ 
+			{
+			"text_span": "Arap mal sahibi oldu, Arabın kiracısı olacaksın az kaldı.",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "Sandıkta arap ne derse o.,sen oy kullansan ne kullanmasan ne",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

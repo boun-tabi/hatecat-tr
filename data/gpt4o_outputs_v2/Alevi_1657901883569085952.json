@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1657901883569085952",
+		"span": [
+			{
+				"text_span": "alevi Sünni kavgası var oy gelmez,Güven yok oy gelmez",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

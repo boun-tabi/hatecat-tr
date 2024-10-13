@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658186764257746944",
+		"span": [
+			{
+				"text_span": "ülkeyi Arap çölüne çevirecek",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "kendi Arap sevici olduğu için",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658419498188144896",
+		"span": [ 
+			{
+			"text_span": "arap orpspu cocugı",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "defol",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

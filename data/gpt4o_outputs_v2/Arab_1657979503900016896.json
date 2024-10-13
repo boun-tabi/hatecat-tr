@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1657979503900016896",
+		"span": [ 
+			{
+				"text_span": "ihanettir",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "ne haliniz varsa görün size müstehak",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "Arap sevdasıyla devam edin",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

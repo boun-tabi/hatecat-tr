@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658052640553550080",
+		"span": [
+			{
+				"text_span": "tipik bir Arap toplumu",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "geri zekalılar",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

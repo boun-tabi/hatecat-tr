@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658328589375361024",
+		"span": [
+			{
+				"text_span": "PKK nın Cumhurbaşkanı adayı kim ise o şerefsizin önde gidenidir.",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Ermeni olupta kendini alevi diye lanse edenler de var imiş",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

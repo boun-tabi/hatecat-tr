@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658401871516540928",
+		"span": [
+			{
+				"text_span": "Alevi Sezgin",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "ulan yavuşaklar sizi",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

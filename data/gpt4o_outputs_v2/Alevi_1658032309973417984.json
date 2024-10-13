@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658032309973417984",
+		"span": [
+			{
+				"text_span": "Hele Alevi bir aday asla oy vermezler.",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658128306263171072",
+		"span": [ 
+			{
+				"text_span": "ithal Suriyeli seçmenlere oy kullandırdınız",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "2 milyon Arap bedevisi",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

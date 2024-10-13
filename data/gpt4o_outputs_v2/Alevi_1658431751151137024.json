@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1658431751151137024",
+		"span": [ 
+			{
+			"text_span": "Ben alevi kürt ermeni ile kardeş değilim",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "asla kardeş olmam",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

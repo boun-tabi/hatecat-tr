@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658393255157874944",
+		"span": [ 
+			{
+				"text_span": "alevi konuşması",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

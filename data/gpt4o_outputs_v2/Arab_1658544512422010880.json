@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658544512422010880",
+		"span": [ 
+			{
+				"text_span": "Bildiğin Arap ulkesi olduk.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Her yanımız bedevi.",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658101653705244928",
+		"span": [
+			{
+				"text_span": "95% musluman sunni olan bir ulkede neden alevi kürt kokenli zaza birisi yonetsin ?",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "Abd den Johnny gelsin farki olmaz",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

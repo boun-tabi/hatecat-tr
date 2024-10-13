@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658112269690053120",
+		"span": [ 
+			{
+				"text_span": "siktir git arap",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "hepinizi gideceksiniz hepiniz",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

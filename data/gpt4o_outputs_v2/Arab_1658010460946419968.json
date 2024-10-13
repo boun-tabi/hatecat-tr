@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658010460946419968",
+		"span": [
+			{
+				"text_span": "arap sevici oruspular",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

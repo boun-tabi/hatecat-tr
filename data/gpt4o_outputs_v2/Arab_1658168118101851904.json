@@ -1,0 +1,12 @@
+
+{ 
+	"tweet": {
+		"id": "1658168118101851904",
+		"span": [ 
+			{
+			"text_span": "Biz arap istemiyoruz",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

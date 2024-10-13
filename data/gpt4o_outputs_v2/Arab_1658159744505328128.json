@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658159744505328128",
+		"span": [ 
+			{
+				"text_span": "medeniyetten uzak yetişmiş Arap bir Bedevi",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Şunun medeniyetten uzak",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

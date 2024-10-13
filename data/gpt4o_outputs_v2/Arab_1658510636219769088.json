@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658510636219769088",
+		"span": [ 
+			{
+			"text_span": "Bu arap artıklarını başımızdan defedip",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

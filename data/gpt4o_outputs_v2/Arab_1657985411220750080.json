@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1657985411220750080",
+		"span": [
+			{
+				"text_span": "Arap ülkelerine döneceğiz git gide nasıl bir zihniyet anlamıyorum.",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

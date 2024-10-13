@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1658175817359187968",
+		"span": [ 
+			{
+			"text_span": "arap kesiminin yaşadığı bir yer",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "Buranın köylerindeki araplar suriye araplarından 100 yıl gerideler",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

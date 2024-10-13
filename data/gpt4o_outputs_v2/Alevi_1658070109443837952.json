@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658070109443837952",
+		"span": [
+			{
+				"text_span": "laik balkan/kafkas/alevi gizli yahudileri",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "alevi gizli hristiyan yunan/ermeniler",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

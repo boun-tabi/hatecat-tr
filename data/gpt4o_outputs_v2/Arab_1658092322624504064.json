@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658092322624504064",
+		"span": [
+			{
+				"text_span": "2 milyon oy atan arap var",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Bu ülke araplarin değil",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

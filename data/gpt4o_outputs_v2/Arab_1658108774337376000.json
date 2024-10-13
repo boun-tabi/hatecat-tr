@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658108774337376000",
+		"span": [ 
+			{
+				"text_span": "bok beyinli",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

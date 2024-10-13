@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658010426196499968",
+		"span": [
+			{
+				"text_span": "hem alevi hem de Kürt bir aday çıkardınız.Şaka mısınız oğlum siz",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

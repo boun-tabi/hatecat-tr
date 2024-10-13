@@ -1,0 +1,19 @@
+{ 
+	"tweet": {
+		"id": "1658045174470065920",
+		"span": [ 
+			{
+			"text_span": "Mezhepçi Kılıçdaroğlunu tebrik etmek lazım.",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "İlle de Alevi olacak ille de Alevi olacak",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "Allah hepsinin belasını versin haysiyetsiz herifler",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

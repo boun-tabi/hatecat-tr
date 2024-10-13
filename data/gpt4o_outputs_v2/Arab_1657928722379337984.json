@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1657928722379337984",
+		"span": [
+			{
+				"text_span": "arap ozentisi",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

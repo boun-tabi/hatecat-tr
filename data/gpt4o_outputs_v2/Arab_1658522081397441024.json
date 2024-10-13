@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658522081397441024",
+		"span": [
+			{
+				"text_span": "arap terörist",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

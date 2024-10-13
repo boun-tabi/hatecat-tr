@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658109244418277120",
+		"span": [ 
+			{
+			"text_span": "amcık arap botu",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

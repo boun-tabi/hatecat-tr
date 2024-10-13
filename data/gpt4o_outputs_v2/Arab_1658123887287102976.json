@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658123887287102976",
+		"span": [
+			{
+				"text_span": "25 yaşındaki arap ev sahibinize",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658343738542891008",
+		"span": [ 
+			{
+			"text_span": "DHKP-C'li Nusayri Arap Alevileri",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

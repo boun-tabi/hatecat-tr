@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658049495752376064",
+		"span": [
+			{
+				"text_span": "çöl Bedevi’si",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Arap d*lü",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

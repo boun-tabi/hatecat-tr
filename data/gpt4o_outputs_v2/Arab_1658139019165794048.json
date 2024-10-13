@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658139019165794048",
+		"span": [ 
+			{
+			"text_span": "Arap ülkeleri gibi hakları elinden alınınca",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

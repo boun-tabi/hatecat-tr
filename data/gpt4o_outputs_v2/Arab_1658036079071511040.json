@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1658036079071511040",
+		"span": [
+			{
+				"text_span": "adamlar bizi arap sanıyor amk türklük diye bir şey bırakmadı adamlar",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "şuan nasıl saygı duyuyorsan oradaki kişilerde sana o gözle bakacak",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "ülkenin onuru gururu vardır",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

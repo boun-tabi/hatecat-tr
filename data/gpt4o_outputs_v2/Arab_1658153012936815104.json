@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658153012936815104",
+		"span": [ 
+			{
+				"text_span": "şeriatçı Arap özentilerini",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

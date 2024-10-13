@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658138735781839104",
+		"span": [
+			{
+				"text_span": "arap kültürüne boyun eğmek zorunda bırakılışımıza",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "Kutsal vatanın arap mülkü olmasına",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

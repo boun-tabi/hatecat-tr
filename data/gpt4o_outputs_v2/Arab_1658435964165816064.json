@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658435964165816064",
+		"span": [
+			{
+				"text_span": "SURİ ARAP KARDEŞLERİNİZLE",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "sizi sandığa gömecek",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

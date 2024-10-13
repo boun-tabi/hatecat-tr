@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658113233851497984",
+		"span": [ 
+			{
+			"text_span": "Türkiye'yi bölmek ve zayıflatmak isteyen İran'a bağlı bir Alevi",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

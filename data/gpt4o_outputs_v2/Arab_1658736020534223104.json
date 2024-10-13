@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658736020534223104",
+		"span": [
+			{
+				"text_span": "tipik arap görgüsüzlüğü ve rüküşlüğü",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "arap insanlığın kanserli urudur",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

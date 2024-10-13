@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658082430857641984",
+		"span": [
+			{
+				"text_span": "Alevi Adam müslüman degil",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

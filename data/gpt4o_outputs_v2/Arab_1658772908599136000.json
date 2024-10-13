@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658772908599136000",
+		"span": [ 
+			{
+			"text_span": "ülkedeki arap sayısı 25 milyon olduğunda kurtul kurtulabiliyosan",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

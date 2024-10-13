@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658105746171518976",
+		"span": [ 
+			{
+				"text_span": "arap afgan suriyeli bilmemne tum yabancilar ulkemizden gitsin",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "Turk kalmadi",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

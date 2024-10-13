@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658219274945670912",
+		"span": [ 
+			{
+			"text_span": "MHP arap milliyetçisidir",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

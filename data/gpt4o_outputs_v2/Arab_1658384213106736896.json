@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658384213106736896",
+		"span": [ 
+			{
+				"text_span": "Arap dostlarınla",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "ne olduğu belirsiz vatandaşına",
+				"hate_speech_category": "Dehumanization"
+			}
+		] 
+	}
+}

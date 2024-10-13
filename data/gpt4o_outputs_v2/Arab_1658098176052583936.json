@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658098176052583936",
+		"span": [
+			{
+				"text_span": "tüm anadolunun göz göre türk yurdundan arap yurduna dönüşüne",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "anasını sikiyim",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

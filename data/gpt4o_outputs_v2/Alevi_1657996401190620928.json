@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1657996401190620928",
+		"span": [
+			{
+				"text_span": "Tuncelili Alevi keMAL",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

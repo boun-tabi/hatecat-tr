@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658409481452003072",
+		"span": [
+			{
+				"text_span": "ülkemizi satın alan Araplardir",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

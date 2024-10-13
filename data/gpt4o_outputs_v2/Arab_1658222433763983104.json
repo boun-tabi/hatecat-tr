@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658222433763983104",
+		"span": [ 
+			{
+			"text_span": "bozuk illeri",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "Arap kültürü yerleşmiş",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658611478943916032",
+		"span": [
+			{
+				"text_span": "arap sevici",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Türk düşmanı yawşak",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

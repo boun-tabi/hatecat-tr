@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1657902340962151936",
+		"span": [
+			{
+				"text_span": "anadolu ultra düzey alevi alerjisi var",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "asıl önemli olan mezhep ve etnik konular",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

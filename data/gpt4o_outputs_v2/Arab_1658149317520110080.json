@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658149317520110080",
+		"span": [ 
+			{
+			"text_span": "arap/hizbullahcilarin eline dusmesine",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

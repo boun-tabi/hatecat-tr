@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658153069555613952",
+		"span": [
+			{
+				"text_span": "Sadece arap değil istemediklerimiz",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

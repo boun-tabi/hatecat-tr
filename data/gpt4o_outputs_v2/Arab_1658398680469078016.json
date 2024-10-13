@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658398680469078016",
+		"span": [
+			{
+				"text_span": "arap kıçı yalamak",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

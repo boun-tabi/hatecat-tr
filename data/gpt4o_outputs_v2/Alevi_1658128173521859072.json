@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658128173521859072",
+		"span": [
+			{
+				"text_span": "Sadece küçücük bir mezhep istismarı!",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

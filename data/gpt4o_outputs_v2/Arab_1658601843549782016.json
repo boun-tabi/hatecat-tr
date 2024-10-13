@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658601843549782016",
+		"span": [ 
+			{
+			"text_span": "arap soyunuzu da bozulmuş kanınızın da amınakoyayım",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

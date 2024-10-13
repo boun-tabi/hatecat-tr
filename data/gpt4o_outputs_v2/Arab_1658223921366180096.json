@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658223921366180096",
+		"span": [
+			{
+				"text_span": "Arap, sağdan sola okuyunca para okunur...",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Para varken arapta, arap sabunu bahane...",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

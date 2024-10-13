@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658137817732481024",
+		"span": [
+			{
+				"text_span": "Kürt Alevi PKK sever",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

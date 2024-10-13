@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658005523319365888",
+		"span": [
+			{
+				"text_span": "SURİYELİ VE ARAP SEVİCİLERİN",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

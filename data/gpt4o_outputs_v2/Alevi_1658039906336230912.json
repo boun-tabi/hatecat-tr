@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658039906336230912",
+		"span": [ 
+			{
+				"text_span": "alevi oylarini gotunuze sokun",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

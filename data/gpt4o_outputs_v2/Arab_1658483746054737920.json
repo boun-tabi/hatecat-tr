@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658483746054737920",
+		"span": [
+			{
+				"text_span": "Körfez Arap sürüsü",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658092626929648128",
+		"span": [
+			{
+				"text_span": "2 milyon arap oy kullandı",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

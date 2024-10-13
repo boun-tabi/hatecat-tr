@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658183306045710080",
+		"span": [
+			{
+				"text_span": "Arap sevdasi, multecisi, hizbullahiyla ulkeyi ve milli degerlerimizi hic etti",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

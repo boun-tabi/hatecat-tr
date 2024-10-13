@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1658091912991997952",
+		"span": [
+			{
+				"text_span": "bedeviler",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "bedevi ithal seçmen",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "ayrılıkçı Arap milliyetciliği sorunu",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

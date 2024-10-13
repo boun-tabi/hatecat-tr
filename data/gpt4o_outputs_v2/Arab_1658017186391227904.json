@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658017186391227904",
+		"span": [
+			{
+				"text_span": "Kıvırcık saç Arap geni.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

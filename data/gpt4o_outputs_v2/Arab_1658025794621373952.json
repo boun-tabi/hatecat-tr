@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658025794621373952",
+		"span": [
+			{
+				"text_span": "ben ülkemde arap istemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "şeriat isteyen arabistana gidebilir",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

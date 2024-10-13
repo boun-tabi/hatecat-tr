@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658118881897053952",
+		"span": [
+			{
+				"text_span": "Alevi lik çok kötüymüş, artık Alevi değilim",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

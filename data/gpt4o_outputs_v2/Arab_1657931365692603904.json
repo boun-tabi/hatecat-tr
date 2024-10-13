@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1657931365692603904",
+		"span": [
+			{
+				"text_span": "Arap yalamalari",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "fetocu pisliklerin yerine  pkkli pislikleri ve eski akpli fetoculeri koyup zorla sececeksiniz dediler bu millete",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

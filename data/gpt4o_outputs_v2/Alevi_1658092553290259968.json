@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658092553290259968",
+		"span": [
+			{
+				"text_span": "Büyük bir çoğunluk için terorist olmak alevi olmaktan daha iyi.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

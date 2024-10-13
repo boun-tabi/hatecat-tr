@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658546662111863040",
+		"span": [
+			{
+				"text_span": "Arap elbisesi",
+				"hate_speech_category": "Symbolization"
+			}
+		]
+	}
+}

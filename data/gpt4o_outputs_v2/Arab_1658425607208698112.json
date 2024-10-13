@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658425607208698112",
+		"span": [
+			{
+				"text_span": "Bu birlesik arap neden suriyeli ya da afgan alıp beslemiyor? Orada yaşayan tüm yabancılar sadece kendilerine hizmet etmek için var.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Adamların tek dertleri kendi keyifleri.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658193566160527104",
+		"span": [
+			{
+				"text_span": "giderek araplaşıyorsunuz, çirkinleşiyorsunuz",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

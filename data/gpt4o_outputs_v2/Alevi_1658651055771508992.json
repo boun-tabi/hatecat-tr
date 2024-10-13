@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658651055771508992",
+		"span": [
+			{
+				"text_span": "sosyalist alevi çetesi",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658090295790039040",
+		"span": [
+			{
+				"text_span": "Arap seviciligi yapıyorsunuz zırvalığı",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

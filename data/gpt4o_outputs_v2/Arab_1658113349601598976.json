@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658113349601598976",
+		"span": [ 
+			{
+			"text_span": "vatandas-edilen Arap oylarini sagladi",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

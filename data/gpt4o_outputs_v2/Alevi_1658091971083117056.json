@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658091971083117056",
+		"span": [ 
+			{
+			"text_span": "kemal ile onun alevi lobisi",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1658254904895348992",
+		"span": [ 
+			{
+			"text_span": "Bu ülkede ne alevi nede kürt sorunu var",
+			"hate_speech_category": "Denial; Distortion"
+			},
+			{
+			"text_span": "bölücüler",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

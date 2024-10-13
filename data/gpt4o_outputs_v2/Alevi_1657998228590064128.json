@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1657998228590064128",
+		"span": [
+			{
+				"text_span": "Alevi adamı seçmen yapmayacaksınız",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "alevl olduğu iiçiny Kılıçdaroğlu naeoy vermeyen %5 var",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

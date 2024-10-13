@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658499122054278912",
+		"span": [
+			{
+				"text_span": "Hiçbir Arap Türkiye'ye ait değildir..",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658128676087635968",
+		"span": [
+			{
+				"text_span": "turkiyeden daha fazla arap var",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "kanimla canimla nefret ediyorum",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

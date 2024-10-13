@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658629820887047936",
+		"span": [
+			{
+				"text_span": "gerizekalimisiniz lan siz. Aptalmisiniz",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "alevi kurt faşizanisinimisiniz",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658140142320726016",
+		"span": [
+			{
+				"text_span": "arap sevdalısı",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "yozlaşmış türk halkını",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

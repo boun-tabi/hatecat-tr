@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658602011804282880",
+		"span": [
+			{
+				"text_span": "arap sever",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

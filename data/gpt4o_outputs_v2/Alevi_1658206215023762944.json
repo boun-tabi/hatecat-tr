@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1658206215023762944",
+		"span": [ 
+			{
+			"text_span": "Alevi maskeli ermeni",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "CHP'yi ele geçirmişler",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

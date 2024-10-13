@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658256108627034112",
+		"span": [ 
+			{
+			"text_span": "Arap tarihi dersi koyulmaz",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

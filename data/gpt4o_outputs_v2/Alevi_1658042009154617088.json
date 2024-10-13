@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658042009154617088",
+		"span": [
+			{
+				"text_span": "adam alevi diye",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

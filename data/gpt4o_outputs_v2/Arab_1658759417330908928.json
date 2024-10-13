@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658759417330908928",
+		"span": [ 
+			{
+			"text_span": "klasik zengin Ortadoğulu, Arap kafası ve iğrenç mimari tasarımları",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "zihinleri fakir",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

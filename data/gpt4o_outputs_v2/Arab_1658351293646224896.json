@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658351293646224896",
+		"span": [
+			{
+				"text_span": "arrraaaap uşağı",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "TURK düşmanıdır",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

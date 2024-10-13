@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658105642597380096",
+		"span": [
+			{
+				"text_span": "Ancak ben o Alevi ye oy vermem",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

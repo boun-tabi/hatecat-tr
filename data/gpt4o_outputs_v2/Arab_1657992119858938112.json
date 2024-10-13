@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1657992119858938112",
+		"span": [
+			{
+				"text_span": "ülkenin sahibi gibi gezen arap ve Afgan artıklarından",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

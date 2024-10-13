@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658180739198770944",
+		"span": [
+			{
+				"text_span": "ülkeyi arap mülteci kampına çeviren",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

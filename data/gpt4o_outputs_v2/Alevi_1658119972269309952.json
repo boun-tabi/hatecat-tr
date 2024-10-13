@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658119972269309952",
+		"span": [
+			{
+				"text_span": "bir tane Alevi emniyet müdürü yok bir tane Alevi vali yok",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "Türkiye Cumhuriyeti'nin 1 numaralı makamına bir Alevi İslam inancına inanan kişi kazanabilir mi",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

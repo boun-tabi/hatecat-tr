@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658293346895385088",
+		"span": [
+			{
+				"text_span": "yezit",
+				"hate_speech_category": "Symbolization"
+			},
+			{
+				"text_span": "EZİLEN ALEVİ",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

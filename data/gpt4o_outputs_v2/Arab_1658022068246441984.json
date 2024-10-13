@@ -1,0 +1,12 @@
+
+{ 
+	"tweet": {
+		"id": "1658022068246441984",
+		"span": [ 
+			{
+			"text_span": "Savaş kaçkını, karı gibi kaçmış adamların Türkiye’de doğmuş arap çocuklarını bağrına bas",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

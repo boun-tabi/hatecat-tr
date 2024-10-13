@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658582615807386112",
+		"span": [
+			{
+				"text_span": "arap bedevileri doldu",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

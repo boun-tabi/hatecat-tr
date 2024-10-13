@@ -1,0 +1,19 @@
+{ 
+	"tweet": {
+		"id": "1658393880226562048",
+		"span": [ 
+			{
+			"text_span": "Arap entarisi",
+			"hate_speech_category": "Symbolization"
+			},
+			{
+			"text_span": "yalamadık şey bırakmaz bu soytarı",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "fetö yalamaları",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

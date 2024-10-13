@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658100602033905920",
+		"span": [
+			{
+				"text_span": "Mensuplarının Kürt ve Alevi olması bizim sorunumuz değil.",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

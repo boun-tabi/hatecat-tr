@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1658178389788750080",
+		"span": [ 
+			{
+			"text_span": "Lan 6 7 mlyonnn Arap nasıl olurda her sene bizim için Türkiye için oy kullanıp hak sahibi olabilir",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "sizler hak ediyorsunuz araplasmayii",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

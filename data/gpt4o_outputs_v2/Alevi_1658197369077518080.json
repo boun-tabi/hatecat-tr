@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1658197369077518080",
+		"span": [ 
+			{
+			"text_span": "Türklerden nefret ediyorum",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+			"text_span": "Şimdi de Türklere bir Alevi hakim olsun istiyoruz",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

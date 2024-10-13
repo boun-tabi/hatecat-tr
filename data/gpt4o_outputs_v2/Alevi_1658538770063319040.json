@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1658538770063319040",
+		"span": [ 
+			{
+			"text_span": "Çünkü sorgulamaz",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "hala oy veriyorlar",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

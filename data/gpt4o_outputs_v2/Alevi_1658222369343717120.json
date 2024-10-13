@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658222369343717120",
+		"span": [
+			{
+				"text_span": "ocü",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Alevi Olandan veya aileden dolayi soyu mezhebi değiştirelemeyenler",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

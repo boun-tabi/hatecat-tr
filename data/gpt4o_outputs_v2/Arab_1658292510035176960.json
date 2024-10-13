@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658292510035176960",
+		"span": [
+			{
+				"text_span": "bağdakini kovan Arap sığınmacılar",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Türk kalmadı",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

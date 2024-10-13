@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658716984756908032",
+		"span": [ 
+			{
+				"text_span": "Kendi ülkelerini modernleştirmek yerine, modern ülkelerde hayatlarını yaşıyor, kendi halklarına da din pazarlıyorlar.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

@@ -1,0 +1,19 @@
+{ 
+	"tweet": {
+		"id": "1658370391516013056",
+		"span": [ 
+			{
+			"text_span": "Vatandaşlığı Arap şeyhlerine satan",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "ülkeye 13 milyon sığınmacı dolduran",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "mitinglerinde arapça konuşan",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

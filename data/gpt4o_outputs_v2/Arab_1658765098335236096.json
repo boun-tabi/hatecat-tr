@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658765098335236096",
+		"span": [ 
+			{
+			"text_span": "ümmetçi arap sevicilerin işgali",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

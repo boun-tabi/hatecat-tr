@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658769424181083904",
+		"span": [
+			{
+				"text_span": "defol git arap dolu",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

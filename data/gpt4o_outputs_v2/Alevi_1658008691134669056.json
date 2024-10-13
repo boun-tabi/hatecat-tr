@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658008691134669056",
+		"span": [
+			{
+				"text_span": "bu çok güvendiğimiz Aleviler başka partilere mi oy veriyor?",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

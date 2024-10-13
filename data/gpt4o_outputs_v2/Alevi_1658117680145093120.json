@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658117680145093120",
+		"span": [ 
+			{
+			"text_span": "alttan alttan Alevi milliyetçiliği yapıyordular",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "CHP’lilere sadece şunu söylemek istiyorum il başkanlarınızın ve delegelerinizin yüzde kaçı Alevi",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

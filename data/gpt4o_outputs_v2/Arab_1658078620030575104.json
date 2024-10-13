@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658078620030575104",
+		"span": [
+			{
+				"text_span": "Arap zihniyetli",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

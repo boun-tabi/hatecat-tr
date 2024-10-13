@@ -1,0 +1,12 @@
+
+{ 
+	"tweet": {
+		"id": "1658626367498362880",
+		"span": [ 
+			{
+			"text_span": "arap meclise girdi",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1658435698020450048",
+		"span": [ 
+			{
+				"text_span": "hala daha öyle olanlar çoğunlukta",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "entegre olmamışlar",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "zırvalıyor",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658085701794103040",
+		"span": [
+			{
+				"text_span": "Kürtlere “Şafi şöyle böyle” diye laf eden Aleviler",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

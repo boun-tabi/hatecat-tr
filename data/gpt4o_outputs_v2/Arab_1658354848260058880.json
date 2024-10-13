@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658354848260058880",
+		"span": [
+			{
+				"text_span": "Arap milliyetçisi ümmetçi soslu Türk milliyetçisiyim diyenler",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Arap milliyetçisi siniz Türkü ağzına alma",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

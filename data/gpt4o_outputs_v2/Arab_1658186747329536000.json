@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658186747329536000",
+		"span": [ 
+			{
+			"text_span": "en cok Arap olan illerinden birindeyim ve korkuyorum bir gün ölürsem araplar yuzunden",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "'o seçmenler' her seyin kotusunu hakediyor",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

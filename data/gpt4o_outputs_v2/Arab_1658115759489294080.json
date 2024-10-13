@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1658115759489294080",
+		"span": [
+			{
+				"text_span": "kanlı, canlı emperyal beslemesi",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "terörle organik olarak bütünleşmiş",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "ortadoğulu Arap milliyetçileri",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

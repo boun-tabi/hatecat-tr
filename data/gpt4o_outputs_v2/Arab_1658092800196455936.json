@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658092800196455936",
+		"span": [
+			{
+				"text_span": "Arap kültürü adım adım geldi",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Pisleşin",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

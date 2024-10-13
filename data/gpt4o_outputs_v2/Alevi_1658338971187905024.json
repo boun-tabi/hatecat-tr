@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658338971187905024",
+		"span": [
+			{
+				"text_span": "SUNNİLER BU ULKEDE HEP KAZANMİSTİR.",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

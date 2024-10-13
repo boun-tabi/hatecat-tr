@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658076704982565120",
+		"span": [
+			{
+				"text_span": "arap sevici orospu ccougu",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

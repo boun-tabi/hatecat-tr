@@ -1,0 +1,16 @@
+
+{ 
+	"tweet": {
+		"id": "1658242296070955008",
+		"span": [ 
+			{
+			"text_span": "ülke arap ülkesine dönünce",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "anneni suriyeliler sıkıştırdıktan sonra",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

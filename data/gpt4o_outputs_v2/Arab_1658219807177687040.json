@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1658219807177687040",
+		"span": [ 
+			{
+			"text_span": "arap kırması",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "siktir olup gidelim",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

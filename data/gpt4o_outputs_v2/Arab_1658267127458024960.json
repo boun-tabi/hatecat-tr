@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658267127458024960",
+		"span": [ 
+			{
+				"text_span": "15-20 milyon arap tüm politik sistemi kilitleyecek",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658176306746360064",
+		"span": [ 
+			{
+			"text_span": "alevi ya hep o yüzden",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

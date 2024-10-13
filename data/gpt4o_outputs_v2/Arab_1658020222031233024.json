@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658020222031233024",
+		"span": [
+			{
+				"text_span": "Türk kurdu Arap devesinin götünü yalıyorsa, bilesiniz ki o ittir.",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

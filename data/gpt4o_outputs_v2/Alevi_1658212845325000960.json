@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658212845325000960",
+		"span": [
+			{
+				"text_span": "aslının alevi (tahtacı) olduğunu",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "ne idüğü belirsizmiş işte",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

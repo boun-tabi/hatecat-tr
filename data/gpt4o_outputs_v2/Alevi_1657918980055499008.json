@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1657918980055499008",
+		"span": [
+			{
+				"text_span": "k*rtlerle iş birliği yapan alevi kemale oy vermez tabi",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

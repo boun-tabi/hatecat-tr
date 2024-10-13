@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658104831297323008",
+		"span": [
+			{
+				"text_span": "gitsin arap vatandaşlığı da alsın",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

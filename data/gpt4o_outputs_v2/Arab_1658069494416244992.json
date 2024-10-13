@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658069494416244992",
+		"span": [
+			{
+				"text_span": "arap partizani dinle kafayi bozmus",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

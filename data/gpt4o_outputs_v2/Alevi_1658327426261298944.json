@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658327426261298944",
+		"span": [ 
+			{
+			"text_span": "yezit oğlu yezit",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

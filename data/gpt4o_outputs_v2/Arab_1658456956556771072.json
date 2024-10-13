@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1658456956556771072",
+		"span": [
+			{
+				"text_span": "her yer Arapça tabela",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Türk olduğu için tercih edilmiyor",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "arap restoranlarında yabancılar et kebap",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

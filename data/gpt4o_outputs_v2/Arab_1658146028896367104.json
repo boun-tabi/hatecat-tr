@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658146028896367104",
+		"span": [
+			{
+				"text_span": "Arap sevici",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "yallah çölüne",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

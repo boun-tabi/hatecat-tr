@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658454360525816064",
+		"span": [ 
+			{
+			"text_span": "arap istilasına",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

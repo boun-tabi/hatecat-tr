@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1658168129862660096",
+		"span": [
+			{
+				"text_span": "Bizden çok Suriyeli, Afganlar, Suudi’ler oy kullandı.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Bizim kaderimizi Araplar mı belirleyecek.",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "Ama çok arap vardı.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

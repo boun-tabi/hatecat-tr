@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658137987266298112",
+		"span": [
+			{
+				"text_span": "arap sevici politikalarına",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658709063780246016",
+		"span": [
+			{
+				"text_span": "ülkem Arap işgali altına girene kadar",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

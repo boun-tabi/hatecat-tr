@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658028214680272896",
+		"span": [
+			{
+				"text_span": "Adam alevi",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

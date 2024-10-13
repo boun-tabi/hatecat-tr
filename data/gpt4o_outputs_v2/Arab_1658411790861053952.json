@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658411790861053952",
+		"span": [ 
+			{
+			"text_span": "arap develerine binip siyaset yaptıysa",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

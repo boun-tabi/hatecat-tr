@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658678343732982016",
+		"span": [
+			{
+				"text_span": "Arap sorunu yabancıların kölesi ve ikinci sınıf vatandaş olacağını",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

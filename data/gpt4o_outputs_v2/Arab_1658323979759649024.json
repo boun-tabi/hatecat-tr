@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658323979759649024",
+		"span": [
+			{
+				"text_span": "sizinkiler Arap olmuş",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

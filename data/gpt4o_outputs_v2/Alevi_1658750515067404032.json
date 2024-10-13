@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658750515067404032",
+		"span": [ 
+			{
+			"text_span": "hem Kürt hem alevi asla cb yapmazlar",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

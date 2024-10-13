@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1657978515021544960",
+		"span": [
+			{
+				"text_span": "Suriye Arap birligibe girdi.",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

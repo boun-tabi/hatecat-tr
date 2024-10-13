@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658149339099803904",
+		"span": [
+			{
+				"text_span": "Alevi olması sorun değil ama Ermeni'ymiş",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "Orta Anadolu seçmeni kendisine bu yüzden oy vermemiş",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

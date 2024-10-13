@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658764915631324928",
+		"span": [
+			{
+				"text_span": "götünü siktiğimin h*dapar ı",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Bir Arap ülkesi mi?",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

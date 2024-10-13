@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658113783661752064",
+		"span": [
+			{
+				"text_span": "arap kültüründen",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "ta nasıl ikna edicegiz cahilleri",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

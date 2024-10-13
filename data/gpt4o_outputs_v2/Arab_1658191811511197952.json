@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658191811511197952",
+		"span": [
+			{
+				"text_span": "ne olduğu belirsiz sapık arap bedevisine",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

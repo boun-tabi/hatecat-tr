@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658044844034366976",
+		"span": [ 
+			{
+			"text_span": "çok fazla arap suriyeli oyları muhabbeti oldu",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

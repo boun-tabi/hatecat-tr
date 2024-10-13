@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658428582446738944",
+		"span": [
+			{
+				"text_span": "arap sevicilerden kurtarın",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

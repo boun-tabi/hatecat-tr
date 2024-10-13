@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1658720918779186944",
+		"span": [ 
+			{
+			"text_span": "lan atım arap",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "sen de gidecen",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

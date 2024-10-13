@@ -1,0 +1,16 @@
+
+{
+    "tweet": {
+        "id": "1658044805602065920",
+        "span": [
+            {
+                "text_span": "ülkenin 2. anadili arapça olma yolunda gidiyor",
+                "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+            },
+            {
+                "text_span": "arap zihniyetinden sonra arap kimliği ve dili örümcek ağı gibi sardı ülkeyi",
+                "hate_speech_category": "Exclusive/Discriminatory Discourse"
+            }
+        ]
+    }
+}

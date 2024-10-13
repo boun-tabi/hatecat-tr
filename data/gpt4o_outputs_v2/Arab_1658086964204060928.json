@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658086964204060928",
+		"span": [
+			{
+				"text_span": "Benim mahallemde bir tane Arap yok almıyoruz.",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "Oy da vermedim bunları getirene",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

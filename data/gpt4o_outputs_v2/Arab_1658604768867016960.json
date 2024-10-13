@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658604768867016960",
+		"span": [
+			{
+				"text_span": "Arap çingeneleri",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1658571871963546112",
+		"span": [ 
+			{
+			"text_span": "3 çalışan kasiyer vardı 2 si araptı",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "3-4 tane müşteri vardı hepsi Arap ya da yabancıydı amk",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

@@ -1,0 +1,16 @@
+
+{ 
+	"tweet": {
+		"id": "1658038786989732096",
+		"span": [ 
+			{
+			"text_span": "Sırf Kızılbaş olduğu için Kemal Kılıçdaroğlu'na oy vermedi Anadolu Toprakları.",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "Alevi olduğu için altını çiziyorum.",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

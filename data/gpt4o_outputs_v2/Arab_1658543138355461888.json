@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1658543138355461888",
+		"span": [ 
+			{
+			"text_span": "arap sevicilerin",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "her zaman karşısındayım",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

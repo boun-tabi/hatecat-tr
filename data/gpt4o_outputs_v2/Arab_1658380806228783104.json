@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658380806228783104",
+		"span": [
+			{
+				"text_span": "1.5 milyon arabın benim cocuklarımın geleceği icin oy kullananlara kızıyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "bu gidisle birdahaki secime kadar oturma izni alan 5 milyon olur arap oy kullanan",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

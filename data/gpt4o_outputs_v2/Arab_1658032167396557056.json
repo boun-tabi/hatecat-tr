@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658032167396557056",
+		"span": [
+			{
+				"text_span": "arap bedevilerine",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

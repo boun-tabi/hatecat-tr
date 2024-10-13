@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658424790263136000",
+		"span": [
+			{
+				"text_span": "Türkiye % 50’si Arap  olacak",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

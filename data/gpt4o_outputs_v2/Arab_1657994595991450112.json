@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1657994595991450112",
+		"span": [
+			{
+				"text_span": "arap arap işgalinden rahatsızsınız",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

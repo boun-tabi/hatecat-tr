@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658049694059175936",
+		"span": [ 
+			{
+			"text_span": "Alevi bir aday çıkarır, o aday da seccadeye basarsa bu bölgeden oy alması imkansız olur",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

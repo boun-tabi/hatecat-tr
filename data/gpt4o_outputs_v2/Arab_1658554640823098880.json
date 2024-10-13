@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658554640823098880",
+		"span": [ 
+			{
+				"text_span": "arap malına dönüşülecek",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

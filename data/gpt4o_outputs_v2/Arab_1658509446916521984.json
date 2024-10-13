@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658509446916521984",
+		"span": [
+			{
+				"text_span": "arap olmayi tercih ederim senin gibi vatan haini kaltak olmaktansa",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

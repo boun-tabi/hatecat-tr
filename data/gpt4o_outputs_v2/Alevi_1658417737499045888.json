@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658417737499045888",
+		"span": [
+			{
+				"text_span": "tuncelili ve alevi olduğum icin düşmanım de",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

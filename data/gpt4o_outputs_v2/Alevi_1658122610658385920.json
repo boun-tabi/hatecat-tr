@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1658122610658385920",
+		"span": [ 
+			{
+			"text_span": "siz alevi değil miydiniz",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "istismar etmediğiniz bir değer kaldı mı",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1657998380302310912",
+		"span": [
+			{
+				"text_span": "Arap seçmen vardı, cok zoruma gitti bu durum, resmen Türkler ve araplar arasında seçim oluyor",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "biz vatanımızı bunlardan kurtaracaz",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

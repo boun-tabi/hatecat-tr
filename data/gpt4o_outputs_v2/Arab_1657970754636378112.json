@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1657970754636378112",
+		"span": [
+			{
+				"text_span": "vatandaşlık verilen, satılan arap seçmenlerin oylaridir",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "kucak açtığınız araplarin oylari ile kazanacaksınız",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

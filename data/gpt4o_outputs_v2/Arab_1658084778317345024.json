@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658084778317345024",
+		"span": [ 
+			{
+				"text_span": "cahil araplardan",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Eşlerinin saçının telinden korkanlar, onları peçeye, kendilerini ise arap kadın dansözlerden daha iyi kıvırtmaya yükseltmişler!",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

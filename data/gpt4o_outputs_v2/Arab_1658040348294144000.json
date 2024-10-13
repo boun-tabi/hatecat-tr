@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658040348294144000",
+		"span": [
+			{
+				"text_span": "gerizekalı",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "şimdi evine alıp beslersin bir tane arap aklın başına gelir",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658093649425563904",
+		"span": [
+			{
+				"text_span": "arap bedevileriyle",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

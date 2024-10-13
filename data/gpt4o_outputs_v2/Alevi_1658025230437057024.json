@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658025230437057024",
+		"span": [
+			{
+				"text_span": "azınlık olan Alevi kimliği önde",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

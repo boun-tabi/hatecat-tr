@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658179925784814080",
+		"span": [ 
+			{
+				"text_span": "alevi ile deccal çok farketmez",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

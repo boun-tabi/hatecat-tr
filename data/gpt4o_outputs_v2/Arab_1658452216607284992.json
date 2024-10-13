@@ -1,0 +1,12 @@
+
+{ 
+	"tweet": {
+		"id": "1658452216607284992",
+		"span": [ 
+			{
+			"text_span": "Arap kültürü ve din sömürüsüne",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

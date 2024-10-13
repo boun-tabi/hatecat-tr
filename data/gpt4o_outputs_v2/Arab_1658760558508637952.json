@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658760558508637952",
+		"span": [
+			{
+				"text_span": "hem Arap sevici",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

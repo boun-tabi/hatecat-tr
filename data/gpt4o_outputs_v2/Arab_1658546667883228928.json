@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658546667883228928",
+		"span": [
+			{
+				"text_span": "Suriyeliler Türk kızlarına tecavüz edip öldürdüler",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "siz Arap sevicisiniz",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

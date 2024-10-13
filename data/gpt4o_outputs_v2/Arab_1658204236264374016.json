@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658204236264374016",
+		"span": [
+			{
+				"text_span": "3/2 eğitimsiz,biatçı arap",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

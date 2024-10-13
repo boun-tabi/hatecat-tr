@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658053150589239040",
+		"span": [
+			{
+				"text_span": "chpdeki bölücü ayrılıkçı alevi",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

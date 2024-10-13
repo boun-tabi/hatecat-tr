@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658468559729889024",
+		"span": [ 
+			{
+				"text_span": "Türk kadınlarına Türk insanına bakarak tecavüz taciz eden Arap zihniyetini istemiyorum",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "sokak ortasında Türk kadınına bakarak mastürbasyon yapan Arap zihniyeti istemiyorum",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

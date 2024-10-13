@@ -1,0 +1,24 @@
+
+{
+	"tweet": {
+		"id": "1658440307078320128",
+		"span": [
+			{
+				"text_span": "Arap Milliyetçilerini",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "Karanlığın ve Kötülüğün Temsilcilerini",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Türk Düşmanlarını",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Emperyalist Uşaklarını",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

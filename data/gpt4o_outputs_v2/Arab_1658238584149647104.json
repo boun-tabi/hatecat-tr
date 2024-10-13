@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658238584149647104",
+		"span": [
+			{
+				"text_span": "arap seviciliği",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

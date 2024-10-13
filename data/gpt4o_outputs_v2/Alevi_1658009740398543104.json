@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658009740398543104",
+		"span": [
+			{
+				"text_span": "Asil dalyaraklar alevilere kimsenin oy vermicegini bildiği halde Kılıçdaroğlu huloglugu yapan alevilerdir amk",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

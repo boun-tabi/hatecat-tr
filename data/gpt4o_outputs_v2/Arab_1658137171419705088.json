@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658137171419705088",
+		"span": [ 
+			{
+				"text_span": "Ne zaman arap ve suriyeliler namuslarına göz dikerler",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

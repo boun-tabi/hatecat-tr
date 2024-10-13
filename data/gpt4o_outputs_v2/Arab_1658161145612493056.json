@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658161145612493056",
+		"span": [
+			{
+				"text_span": "Bir fayda görmedik arap felsefesinden",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "arab",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

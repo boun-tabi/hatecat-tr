@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658557980772638976",
+		"span": [ 
+			{
+			"text_span": "ülkeyi arap doldurdun",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

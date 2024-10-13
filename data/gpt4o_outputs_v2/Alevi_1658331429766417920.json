@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658331429766417920",
+		"span": [
+			{
+				"text_span": "Kürtler Alevilerden nefret ederken",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "bu kadar görünür Alevi aday yanlış",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}
