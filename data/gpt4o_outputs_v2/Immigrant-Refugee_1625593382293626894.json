@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1625593382293626894",
+		"span": [
+			{
+				"text_span": "Suriyeliler ne görse saldiriyor silip süpürüyor.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

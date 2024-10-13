@@ -1,0 +1,35 @@
+{ 
+	"tweet": {
+		"id": "1624440936456503296",
+		"span": [ 
+			{
+			"text_span": "#mersindesuriyeliistemiyoruz",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "#sığınmacılaruelkelerine",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "#UElkemdeMuelteciİstemiyorum",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "#ULKEMDESURIYELIISTEMIYORUM",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "#SuriyelilerSehirlerdenCıkartın",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "#sığınmacılaruelkelerine",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "#yağmaVar",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

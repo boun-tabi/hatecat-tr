@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1624887324872957954",
+		"span": [
+			{
+				"text_span": "Suriyeliler,Afganlar vardı şimdi birde uzaylılar eksikti",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Kapımız(olmayan)herkese açık",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

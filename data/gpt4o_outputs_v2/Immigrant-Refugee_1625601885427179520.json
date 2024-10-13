@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1625601885427179520",
+		"span": [
+			{
+				"text_span": "Suriyeliler Hatay'da silahlı şekilde köy köy gezip yağma yapıyor",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

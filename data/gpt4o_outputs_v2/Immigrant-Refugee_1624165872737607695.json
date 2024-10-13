@@ -1,0 +1,19 @@
+{ 
+	"tweet": {
+		"id": "1624165872737607695",
+		"span": [ 
+			{
+			"text_span": "Gitsinler artık gitsinlerrr.",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "istemiyoruz",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "#ülkemdemülteciistemiyorum",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

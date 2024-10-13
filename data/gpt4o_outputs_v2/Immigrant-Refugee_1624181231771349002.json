@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1624181231771349002",
+		"span": [
+			{
+				"text_span": "Ülkeye kardeş diye soktuklarımız yağma yapıyor",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1622872303938723840",
+		"span": [
+			{
+				"text_span": "hırsızı-puştu- yağmacıyı",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

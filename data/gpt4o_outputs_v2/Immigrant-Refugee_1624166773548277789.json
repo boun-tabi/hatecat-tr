@@ -1,0 +1,23 @@
+{
+	"tweet": {
+		"id": "1624166773548277789",
+		"span": [
+			{
+				"text_span": "Mültecileri ülkemize koyarsanız olacağı bu",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "ülkemde mülteci istemiyoruz",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#mueltecilersınırdısıedilsin",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#ülkemdemülteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

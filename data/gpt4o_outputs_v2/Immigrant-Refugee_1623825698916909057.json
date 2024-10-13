@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1623825698916909057",
+		"span": [
+			{
+				"text_span": "suriyeliler neden kendi ülkelerindeki depremdeki insanlarına yardım etmiyorlar",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "burda tecavüz taciz market yagmalaması depremzedelere gelen yardım tirlarindaki yagmalamalari yapıyorlar",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "neden ülkelerine gitmiyorlar",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

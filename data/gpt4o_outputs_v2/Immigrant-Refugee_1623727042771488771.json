@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1623727042771488771",
+		"span": [
+			{
+				"text_span": "başımıza musallat",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "İnsan müsvettekeri",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "#Yağmacılar",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

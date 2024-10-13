@@ -1,0 +1,23 @@
+{ 
+	"tweet": {
+		"id": "1623355990186786816",
+		"span": [ 
+			{
+			"text_span": "Suriyeli oçlar",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "milletin evini yağmalayıp tehdit ediyormuş",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "bide bunlara din kardeşi diyorlar sikeyim böyle din kardeşini",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "siktir olup gitmeliler",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

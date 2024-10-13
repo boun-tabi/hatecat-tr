@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1624175061279166466",
+		"span": [
+			{
+				"text_span": "yağmacı şerefsizler",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "siz bardağı çoktan taşırdınız!!!",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "#ülkemdemülteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

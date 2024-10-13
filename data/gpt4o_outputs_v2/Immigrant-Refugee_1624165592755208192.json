@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1624165592755208192",
+		"span": [
+			{
+				"text_span": "bu orospu çocuklarına",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

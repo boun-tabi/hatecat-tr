@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1623821411755167745",
+		"span": [
+			{
+				"text_span": "Türk milletinin bu zor günlerinde bile Suriyeliler üzeriden mağduriyet yaratmaya çalışıyor yazık.",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "Kim mağdurmuş gör bak!",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

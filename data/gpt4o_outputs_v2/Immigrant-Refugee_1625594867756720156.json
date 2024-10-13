@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1625594867756720156",
+		"span": [ 
+			{
+			"text_span": "Suriyeliler kentin egemeni olacaktır",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "Bu bir milli güvenlik sorunudur",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

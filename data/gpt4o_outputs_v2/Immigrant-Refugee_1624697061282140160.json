@@ -1,0 +1,28 @@
+
+{
+	"tweet": {
+		"id": "1624697061282140160",
+		"span": [
+			{
+				"text_span": "#mersindesuriyeliistemiyoruz",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#UElkemdeMuelteciİstemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#SınırlarıKapatın",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#sığınmacılaruelkelerine",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#sınırnamustur",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

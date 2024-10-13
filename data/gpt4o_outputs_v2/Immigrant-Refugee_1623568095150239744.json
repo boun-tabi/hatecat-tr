@@ -1,0 +1,23 @@
+{ 
+	"tweet": {
+		"id": "1623568095150239744",
+		"span": [ 
+			{
+			"text_span": "Kendi vatanını savunmayıp kaçan kahqeler",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "oruspucocuğu",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "#uelkemdeoruspucocuğuistemiyorum",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "#UElkemdemuelteciistemiyorum",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

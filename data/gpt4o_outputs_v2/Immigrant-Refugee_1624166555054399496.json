@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1624166555054399496",
+		"span": [ 
+			{
+			"text_span": "Çok seven evinde beslesin",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "#ülkemdemülteciistemiyorum",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

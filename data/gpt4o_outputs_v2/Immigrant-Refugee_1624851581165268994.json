@@ -1,0 +1,28 @@
+
+{
+	"tweet": {
+		"id": "1624851581165268994",
+		"span": [
+			{
+				"text_span": "yağmacılar",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "#suriyelileriistemiyoruz",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#SuriyelilerSehirlerdenCıkartın",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "#SuriyeliYağmacılar",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "#suriyelikatiller",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

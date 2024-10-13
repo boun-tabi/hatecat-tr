@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1624884216537251841",
+		"span": [
+			{
+				"text_span": "hepimizin evine zorunlu Suriyeli alma yasası çıksın",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "biz çok yüce gönüllüyüz önceliğimiz suriyeliler olmalı",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

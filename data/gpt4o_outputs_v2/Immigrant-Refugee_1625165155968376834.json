@@ -1,0 +1,23 @@
+{
+	"tweet": {
+		"id": "1625165155968376834",
+		"span": [
+			{
+				"text_span": "Kendi ülkesinde yurdu için savaşmayanlar",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "çalıyor, ateş ediyor",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Silah kullanmayı biliyordunuz neden geldiniz, getirdiniz?",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Yas dolu ülkemde mülteci istemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

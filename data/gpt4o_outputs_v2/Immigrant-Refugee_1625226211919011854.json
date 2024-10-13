@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1625226211919011854",
+		"span": [ 
+			{
+			"text_span": "kendi cesetlerine bile sahip çıkmamak",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

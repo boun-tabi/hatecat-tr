@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1623830322944016388",
+		"span": [ 
+			{
+			"text_span": "suriyeliler direkt en iyi yere yerleştirilmiş",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "allah belanızı versin",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

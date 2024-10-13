@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1623588124465983488",
+		"span": [
+			{
+				"text_span": "uelkemdeoruspucocuğuistemiyorum",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

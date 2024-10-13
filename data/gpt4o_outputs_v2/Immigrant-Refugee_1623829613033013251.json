@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1623829613033013251",
+		"span": [
+			{
+				"text_span": "her şeyini yağmalıyor, kızları taciz ediyor",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "SURİYELİLER yurtlara yerleştiriliyor",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "GERÇEK İNSAN BİZİM HALKIMIZ OLANLAR",
+				"hate_speech_category": "Dehumanization"
+			}
+		]
+	}
+}

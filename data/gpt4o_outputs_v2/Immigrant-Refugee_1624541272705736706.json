@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1624541272705736706",
+		"span": [ 
+			{
+			"text_span": "Suriyeliler rahat etsin diye",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "bir götlerini yalamadığımız kaldı",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

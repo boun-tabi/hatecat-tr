@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1623832507983491072",
+		"span": [ 
+			{
+				"text_span": "lağım fareleri gibi",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "kolundaki saati çalıp kaçan tipler",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

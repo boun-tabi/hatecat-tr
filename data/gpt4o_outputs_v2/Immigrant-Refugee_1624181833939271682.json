@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1624181833939271682",
+		"span": [ 
+			{
+			"text_span": "ve kademe kademe Suriyeliler gönderilecek",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

@@ -1,0 +1,16 @@
+
+{ 
+	"tweet": {
+		"id": "1623823202169266177",
+		"span": [ 
+			{
+			"text_span": "Suriyelilerin yurdun öz evladından kıymetli tutulmasının",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "#Defol",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1624165836490432525",
+		"span": [ 
+			{
+				"text_span": "hepsini göndermek olmalı",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#ülkemdemülteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1623459617735835650",
+		"span": [
+			{
+				"text_span": "5erli 10arlı suriyeliler alıp gidiyor",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1624887173290897408",
+		"span": [
+			{
+				"text_span": "suriyeliler asker üniforması giymiş tırları durdurup yağmalıyor polise askere halka ateş açıp yapma yapıyor",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "müslüman kardeş diye kalleşsürüleri doldurdun ülkemize",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

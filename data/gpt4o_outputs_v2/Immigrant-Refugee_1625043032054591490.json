@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1625043032054591490",
+		"span": [
+			{
+				"text_span": "Afgan çete",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

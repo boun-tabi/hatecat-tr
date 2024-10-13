@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1624166642828599321",
+		"span": [
+			{
+				"text_span": "Ne olduğu belirsiz insanlarin",
+				"hate_speech_category": "Dehumanization"
+			},
+			{
+				"text_span": "haklarımı gasp etmesini istemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#ülkemdemülteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

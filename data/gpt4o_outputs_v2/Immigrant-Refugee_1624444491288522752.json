@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1624444491288522752",
+		"span": [ 
+			{
+				"text_span": "Birliğimize canımıza musallat olan",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "suriyeliler derhal kendi topraklarına gönderilsin",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#ülkemdemülteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1624191249421926406",
+		"span": [
+			{
+				"text_span": "orospu çocuğu istemiyorum",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "mülteci istemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

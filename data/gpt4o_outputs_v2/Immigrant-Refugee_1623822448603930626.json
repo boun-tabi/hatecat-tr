@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1623822448603930626",
+		"span": [
+			{
+				"text_span": "İyi Suriyeli de istemiyorum.",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "İyi Suriyeliler iyilikleri Suriye'de yapsın.",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

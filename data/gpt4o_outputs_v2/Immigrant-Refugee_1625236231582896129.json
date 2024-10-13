@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1625236231582896129",
+		"span": [
+			{
+				"text_span": "Suriyeliler deprem bölgesine giden tırları, marketleri dükkanları yağmaladı",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

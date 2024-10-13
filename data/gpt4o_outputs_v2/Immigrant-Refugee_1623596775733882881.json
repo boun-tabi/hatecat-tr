@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1623596775733882881",
+		"span": [
+			{
+				"text_span": "#ALLAHBELANIZIVERSIN",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "vatan hainleri",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Ülkesini terk edip kaçan insandan bizim devletimiz için yardım etmesini mi bekledik",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

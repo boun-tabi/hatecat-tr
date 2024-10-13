@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1624398300840353794",
+		"span": [ 
+			{
+			"text_span": "ne ölümüze ne dirimize saygınız var",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "#ülkemdemülteciistemiyorum",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

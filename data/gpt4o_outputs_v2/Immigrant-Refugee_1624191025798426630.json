@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1624191025798426630",
+		"span": [ 
+			{
+			"text_span": "ben bu mültecileri halktan saymıyorum",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "Bunlardan adam olmayacağını bilen Suriye bile Türkiyedeki vatandaşlarını istemiyor",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

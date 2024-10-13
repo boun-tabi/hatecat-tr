@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1624540676623945734",
+		"span": [
+			{
+				"text_span": "Gereğinden fazla merhamet vatana ihanettir.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Çok meraklı ise sınır kapısının diğer ucuna gidebilir.",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#ülkemdemülteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

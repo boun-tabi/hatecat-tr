@@ -1,0 +1,24 @@
+
+{
+	"tweet": {
+		"id": "1624175121718976512",
+		"span": [ 
+			{
+				"text_span": "Misafirlik fazla uzadı",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#suriyelileriistemiyoruz",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "ait oldukları yere gitmeliler gerekirse zorla",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "#ülkemdemülteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

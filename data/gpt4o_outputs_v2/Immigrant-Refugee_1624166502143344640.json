@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1624166502143344640",
+		"span": [
+			{
+				"text_span": "YAĞMACILARA",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "ARINMA GECESİ SART",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

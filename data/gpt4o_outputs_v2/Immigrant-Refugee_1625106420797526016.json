@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1625106420797526016",
+		"span": [
+			{
+				"text_span": "Benim halkım çadırda suriyeliler apartmanlarda otellerde yurttlarda",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#ülkemdemülteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#yeterartık",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

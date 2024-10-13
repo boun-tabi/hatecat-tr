@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1624896645035859969",
+		"span": [
+			{
+				"text_span": "apartmandaki suriyeliler kahkahalar atarak iniyo apartmandan",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "bin beteri de bizim ulkede fink atiyo",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

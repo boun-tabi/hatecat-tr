@@ -1,0 +1,24 @@
+
+{
+	"tweet": {
+		"id": "1623691069715058688",
+		"span": [
+			{
+				"text_span": "SİZİN VARLIĞINIZI SKİCEZ SİZ BEKLEYİN!",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "SONUNA KADAR IRKÇIYIM VE BUNUNLA DA GURUR DUYUYORUM",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#ülkemdemülteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#ülkemdeorospucocuguistemiyorum",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1623822115425210370",
+		"span": [ 
+			{
+				"text_span": "Beslediğimiz Afgan Suriyeliler evleri marketleri yağmalıyor be",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

@@ -1,0 +1,19 @@
+{ 
+	"tweet": {
+		"id": "1623468793413439488",
+		"span": [ 
+			{
+			"text_span": "şu suriyelilerin derdinden",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "ahlaksız herifler yağmacılık peşinde",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "Bunun hesabını vereceksiniz",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

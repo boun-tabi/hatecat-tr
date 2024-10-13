@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1624168324576731140",
+		"span": [
+			{
+				"text_span": "kendi vatanına sahip çıkmayan yağmalayan ırktan hayır gelmez",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "soysuzlarla uğraşmasın",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

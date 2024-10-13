@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1623690737400389635",
+		"span": [ 
+			{
+			"text_span": "SURİYELİLER BU ÜLKENİN GÜVENLİK SORUNUDUR",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "#Ülkemdemülteciistemiyorum",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

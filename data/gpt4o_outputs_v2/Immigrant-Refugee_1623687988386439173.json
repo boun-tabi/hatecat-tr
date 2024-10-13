@@ -1,0 +1,23 @@
+{ 
+	"tweet": {
+		"id": "1623687988386439173",
+		"span": [ 
+			{
+			"text_span": "Geldiğiniz güne lanet olsun",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "benim insanımın hakkını yiyen ortalığı karıştıran İnsanıma kafa tutan Suriyeli - Afgan sığınmacı adı altında yurdumuzu talan eden pislikleri",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "pislikleri",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "ülkemde istemiyorum kim gönderirse oyum ona artık",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

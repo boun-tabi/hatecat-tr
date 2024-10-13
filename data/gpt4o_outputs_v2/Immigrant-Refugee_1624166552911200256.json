@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1624166552911200256",
+		"span": [ 
+			{
+				"text_span": "KENDI ÜLKESİNE SAHIP ÇIKMAYIP KAÇAN BI MİLLET",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "GİTSİNLER ARTIK",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "HER YERDE BUNLARIN PİSLİKLERİNİ ÇEKMEKTEN MİDEMİZ BULANIYOR",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

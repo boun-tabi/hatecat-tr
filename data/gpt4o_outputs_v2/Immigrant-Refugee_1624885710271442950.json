@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1624885710271442950",
+		"span": [ 
+			{
+			"text_span": "#ÜLKEMDESIĞINMACIİSTEMİYORUM",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "#ÜLKEMDEMÜLTECİİSTEMİYORUM",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

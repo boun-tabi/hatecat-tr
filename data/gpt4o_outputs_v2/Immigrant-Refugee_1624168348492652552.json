@@ -1,0 +1,24 @@
+
+{
+	"tweet": {
+		"id": "1624168348492652552",
+		"span": [ 
+			{
+				"text_span": "askerime polisime silah sıkıcak",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "yardımların üstüne çökecek yağma yapacak",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "hepsi yakalanıp gönderilsin",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "eşkıya kesildilerhepsi",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

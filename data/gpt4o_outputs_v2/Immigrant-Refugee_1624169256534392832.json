@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1624169256534392832",
+		"span": [
+			{
+				"text_span": "#ülkemdemülteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "evli evine köylü köyüne",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

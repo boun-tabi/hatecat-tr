@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1624166400796286994",
+		"span": [ 
+			{
+				"text_span": "ilk kavşakta yavşaklık yapan mültecileri",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "ülkemdemülteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1625151616163741699",
+		"span": [ 
+			{
+				"text_span": "benim milletimin başına bela oldular",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Yeter artık misafirlik bitti",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1623459174096191490",
+		"span": [
+			{
+				"text_span": "yağma başlamış özellikle Suriyeliler tarafından",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

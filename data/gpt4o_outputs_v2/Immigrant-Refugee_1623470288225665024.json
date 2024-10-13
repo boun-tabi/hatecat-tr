@@ -1,0 +1,19 @@
+{ 
+	"tweet": {
+		"id": "1623470288225665024",
+		"span": [ 
+			{
+			"text_span": "bıcaklar bütün insanların seferber olup yaptıkları yardımlara çöken Suriyeliler",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "Eğer  gönderdiğim ve yardım ettiğim herhangi bir şey Suriye’lilere faydası dokunuyorsa haram zıkkım olsun",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "Bunlara sebep olanlara da hakkım haram olsun",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

@@ -1,0 +1,28 @@
+
+{
+	"tweet": {
+		"id": "1623781566324391939",
+		"span": [
+			{
+				"text_span": "bu vatan hainlerini",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Ülkemde bu vatan hainlerini istemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "sabırlı bir milletiz lakin sabrımız taştı yeter artık",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "#uelkemdesuriyeliistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#uelkemdeoruspucocuğuistemiyorum",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

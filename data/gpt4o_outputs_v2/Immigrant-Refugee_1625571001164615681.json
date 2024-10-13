@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1625571001164615681",
+		"span": [ 
+			{
+			"text_span": "Suriyeliler",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

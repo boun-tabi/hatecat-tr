@@ -1,0 +1,24 @@
+
+{
+	"tweet": {
+		"id": "1624543060351746050",
+		"span": [
+			{
+				"text_span": "gocmenleri turkleden oncelikli hale getirdin",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "gocmenleri memleketlerine gondermiyorsunuz",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "suriyeliler kyk yurtlarina yerlesiyor",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "Türkiye multeci memleketi oldu",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1625576034815905792",
+		"span": [
+			{
+				"text_span": "ülkemizde sığınmacı mülteci ve düzensiz göçmen istemiyoruz",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "Avrupa zengin oraya gitsinler",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

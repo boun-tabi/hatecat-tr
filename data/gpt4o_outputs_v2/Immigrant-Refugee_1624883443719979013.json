@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1624883443719979013",
+		"span": [
+			{
+				"text_span": "Gidin suriyeliler ülkenize",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "suri istemeyiz",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "bide sizimi bakaçaz",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

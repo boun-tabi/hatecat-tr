@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1623823472634781696",
+		"span": [
+			{
+				"text_span": "bizden başka düşmanımız gerçekten yok",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "orul orul orosupu çocukları suriyeliler",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

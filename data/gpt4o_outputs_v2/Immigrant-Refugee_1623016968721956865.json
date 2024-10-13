@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1623016968721956865",
+		"span": [
+			{
+				"text_span": "Hirsizlik bunun adi ... Gasp yağma....",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "#Yağmacılar",
+				"hate_speech_category": "Symbolization"
+			},
+			{
+				"text_span": "allah belalarini versin",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

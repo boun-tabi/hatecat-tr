@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1624372522585030663",
+		"span": [
+			{
+				"text_span": "Ne diye toprağınızı bırakıp geldiniz.",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#UElkemdemuelteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#suriyelileriistemiyoruz",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

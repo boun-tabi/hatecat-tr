@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1623654274310733824",
+		"span": [ 
+			{
+				"text_span": "ülkeyi yağmalıyorlar",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

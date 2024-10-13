@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1624402795343273984",
+		"span": [
+			{
+				"text_span": "ülkemde değil erkek mülteci artık bebek mülteci bile istemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "Vicdansız bir ırkçıyım",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

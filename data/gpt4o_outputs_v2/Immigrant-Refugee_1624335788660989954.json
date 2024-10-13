@@ -1,0 +1,23 @@
+{
+	"tweet": {
+		"id": "1624335788660989954",
+		"span": [ 
+			{
+				"text_span": "kaçak pislikler",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "ne iyi günde ne dar günümde istemiyorum Suriye li, Afgan vs..",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#mültecilersınırdışıedilsin",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#ülkemdemülteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1623699571451764739",
+		"span": [
+			{
+				"text_span": "şerefsizleri",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "içimize soka soka bir hal oldular istemiyoruz",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "bir boka yaramadıkları gibi yağmacılık başladı ölülerin altınlarını çalıyolarmış",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

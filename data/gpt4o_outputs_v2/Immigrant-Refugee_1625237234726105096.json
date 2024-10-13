@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1625237234726105096",
+		"span": [
+			{
+				"text_span": "Evimizde sokagımız da yaşanmaz hale getirdi bizi arap coğrafyanın en tehlikeli milleti suriyeliler.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "toprağımız da gözünüz var askeriniz bizim toprağımız da hesabını soracağız diyorlar.",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

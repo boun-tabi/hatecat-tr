@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1623729221678821378",
+		"span": [ 
+			{
+			"text_span": "ülkemizi terk edip olmayan gururunuzla ülkenize yardıma gidin",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "#ülkemdemülteciistemiyorum",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

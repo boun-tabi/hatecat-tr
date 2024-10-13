@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1624900575908306944",
+		"span": [ 
+			{
+				"text_span": "suriyeliler 80 sene geriden gelen ortaçag skolastik düşüncesine sahip",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "tavşan gibi ürüyorlar",
+				"hate_speech_category": "Dehumanization"
+			},
+			{
+				"text_span": "Bakteri kültürü gibi ürüyen insanları ben insan olarak görmüyorum",
+				"hate_speech_category": "Dehumanization"
+			}
+		] 
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"tweet": {
+		"id": "1623729677129883652",
+		"span": [
+			{
+				"text_span": "Sizin Allah'ınız kitabınız yok",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Siz müslüman değilsiniz",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "Din kardeşi falan değiliz",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#ülkemdemülteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

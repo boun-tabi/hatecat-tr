@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1624477542261444608",
+		"span": [ 
+			{
+				"text_span": "tam zamanı Avrupanın bize dayattığı ortadoğu enkazını geri iade etmeliyiz",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "bu bir milli güvenlik sorunudur",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "#suriyeliistemiyoruz",
+				"hate_speech_category": "Symbolization"
+			}
+		] 
+	}
+}

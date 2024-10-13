@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1623829453498470400",
+		"span": [
+			{
+				"text_span": "Suriyeliler yağmalama yapıyorlarmış",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "evleri yagmalayip çocukları öldürüyorlarmis",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "COCUKLARIMIZI KACIRIYOLAR YAĞMALIYOLAR",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

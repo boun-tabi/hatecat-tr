@@ -1,0 +1,24 @@
+
+{
+	"tweet": {
+		"id": "1624442137453465602",
+		"span": [
+			{
+				"text_span": "orospu çocukları",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Allah hepsinin belasını versin",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "#yagmacilariVurun",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "üklemdeorospuçocuğuistemiyorum",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

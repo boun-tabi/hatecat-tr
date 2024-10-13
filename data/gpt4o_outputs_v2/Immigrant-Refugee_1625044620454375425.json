@@ -1,0 +1,19 @@
+{ 
+	"tweet": {
+		"id": "1625044620454375425",
+		"span": [ 
+			{
+			"text_span": "türkiye sizin kafanıza göre onun bunun mültecisini doldurabileceğiniz bir yer değil!",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "#ülkemdemülteciistemiyorum",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "#ülkemdesuriyeliistemiyorum",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

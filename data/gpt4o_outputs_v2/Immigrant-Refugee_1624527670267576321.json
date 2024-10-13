@@ -1,0 +1,20 @@
+
+{ 
+	"tweet": {
+		"id": "1624527670267576321",
+		"span": [ 
+			{
+			"text_span": "yağma yapan bir yaratıklar",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "Tecavüz Şiddet _?",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+			"text_span": "bu Suriyeliler.",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

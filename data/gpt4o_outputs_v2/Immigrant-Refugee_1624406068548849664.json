@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1624406068548849664",
+		"span": [
+			{
+				"text_span": "yağmacı hırsız",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "#ülkemdemuelteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

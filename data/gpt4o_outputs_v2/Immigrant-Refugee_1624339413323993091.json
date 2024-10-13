@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1624339413323993091",
+		"span": [
+			{
+				"text_span": "Ülkemi Yagmaliyolar",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Bu Türk Halkı Hala Uyuyor",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#UElkemdemuelteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1624542930412109825",
+		"span": [
+			{
+				"text_span": "Suriyeliydi tek derdimiz",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

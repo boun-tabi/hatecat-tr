@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1625059374199709697",
+		"span": [
+			{
+				"text_span": "teslim ettik Malımızı Müslümandan koruyoruz",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "#ülkemdemülteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1623827781896241152",
+		"span": [
+			{
+				"text_span": "bu suriyeliler sıkıntı",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "bunlar devamm",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1624328682826346497",
+		"span": [ 
+			{
+			"text_span": "mültecilerle dövüş, karışıklık ihtimalini eklemek istemiyorum",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+			"text_span": "Sayıları bize yaklaştı. Ürkütücü değil mi?",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "#UElkemdemuelteciistemiyorum",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

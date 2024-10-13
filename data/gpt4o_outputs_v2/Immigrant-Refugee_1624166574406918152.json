@@ -1,0 +1,19 @@
+{ 
+	"tweet": {
+		"id": "1624166574406918152",
+		"span": [ 
+			{
+			"text_span": "bu kansızları",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "ülkemizi karıştırsınlar diye mi",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+			"text_span": "hiçbir zaman mülteci gibi hareket etmediler",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

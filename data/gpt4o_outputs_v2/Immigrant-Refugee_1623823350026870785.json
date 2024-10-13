@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1623823350026870785",
+		"span": [ 
+			{
+			"text_span": "Suriyeliler silah zoruyla evden kurtarılabilen erzaklarımızı, getirilen yardımları gasp ediyor.",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

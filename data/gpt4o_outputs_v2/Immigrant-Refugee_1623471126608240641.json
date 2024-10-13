@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1623471126608240641",
+		"span": [ 
+			{
+				"text_span": "Suriyeliler den çektiğimiz",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "esatin piçleri",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "aç iyice gelsin çalsin çirpsinlar",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

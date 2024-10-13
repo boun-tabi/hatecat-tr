@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1624323913416155142",
+		"span": [
+			{
+				"text_span": "Mülteciler sınır dışı edilsin",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#UElkemdemuelteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

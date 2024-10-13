@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1623823264777744386",
+		"span": [ 
+			{
+				"text_span": "Suriyeliler tarafından yapılan yağmalara",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

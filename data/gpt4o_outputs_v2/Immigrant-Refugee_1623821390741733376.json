@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1623821390741733376",
+		"span": [ 
+			{
+				"text_span": "Deprem bölgesinde yağma yurtta rezillik marketlerde yağmacılık",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Defolun Suriyeliler",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

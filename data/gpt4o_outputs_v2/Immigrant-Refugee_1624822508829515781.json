@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1624822508829515781",
+		"span": [
+			{
+				"text_span": "Bir Afgan enkazdan ceset çıkartıp, bileziğini almak için kolunu kesiyor",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

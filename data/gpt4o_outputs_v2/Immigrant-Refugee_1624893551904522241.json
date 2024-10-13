@@ -1,0 +1,24 @@
+
+{
+	"tweet": {
+		"id": "1624893551904522241",
+		"span": [ 
+			{
+				"text_span": "İnsanlıktan nasibini almamış",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "5.5 milyon suriyeliyi neremize koyalım",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "Ülkemizden uzak durun!!!",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "Sınırları kapatın!",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

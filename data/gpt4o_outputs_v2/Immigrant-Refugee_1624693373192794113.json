@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1624693373192794113",
+		"span": [ 
+			{
+				"text_span": "Siktir git ülkene",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "yallah",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#ülkemdemülteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

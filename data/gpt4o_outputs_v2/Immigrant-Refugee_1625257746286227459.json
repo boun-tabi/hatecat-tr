@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1625257746286227459",
+		"span": [ 
+			{
+			"text_span": "suriyeliler 7 8 kişi birlik olup bir vatandaşın ev tutmasina engel olup piyasayi yukseltiyor",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

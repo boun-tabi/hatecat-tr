@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1624167178948730954",
+		"span": [ 
+			{
+				"text_span": "Bunların derhal gönderilmesini istiyoruz!",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#ülkemdemülteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

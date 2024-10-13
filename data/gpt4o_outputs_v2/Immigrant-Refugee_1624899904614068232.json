@@ -1,0 +1,23 @@
+{
+	"tweet": {
+		"id": "1624899904614068232",
+		"span": [
+			{
+				"text_span": "milletimi yiyecek ekmeğe muhtaç olacak",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "siz Suriyeli yi düşünün",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "Suriyeliler sizin hakkınız",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#YAZIKLAROLSUN",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

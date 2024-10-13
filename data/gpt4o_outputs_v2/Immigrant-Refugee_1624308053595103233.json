@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1624308053595103233",
+		"span": [
+			{
+				"text_span": "mülteci konusunu da kapatmıcaz",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#ülkemdemülteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

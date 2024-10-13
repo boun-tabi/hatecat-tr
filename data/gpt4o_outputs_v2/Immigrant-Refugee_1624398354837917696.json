@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1624398354837917696",
+		"span": [ 
+			{
+				"text_span": "ırkçıyım,ülkemde sığınmacı mülteci istemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

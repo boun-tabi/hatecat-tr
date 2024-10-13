@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1623823230266970113",
+		"span": [ 
+			{
+			"text_span": "kendi vatanını koruyup bizim yardım mallarını çalmadan önce kendi vatanlarına gidip bir işe yarasalardı.",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "Bizim kendi milletimiz için yapmadığınız fedakarlık yok. Onlarda böyle yapsaydı ciddiye alırdık",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

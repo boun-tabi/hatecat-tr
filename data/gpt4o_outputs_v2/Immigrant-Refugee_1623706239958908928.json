@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1623706239958908928",
+		"span": [
+			{
+				"text_span": "aşağılık #suriyeliler",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "marketleri, giden yardımları her yeri yağmalıyorlar",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Türk halkının çoğu hala deprem bölgesinde sokaktayken bunları yurtlara niye yerlestiriyosunuz Türk'ün hiç mi kıymeti yok",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

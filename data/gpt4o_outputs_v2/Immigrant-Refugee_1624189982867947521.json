@@ -1,0 +1,19 @@
+{ 
+	"tweet": {
+		"id": "1624189982867947521",
+		"span": [ 
+			{
+			"text_span": "yağma nedir çete nedir",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "hepsi değil sadece iti köğeği",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "boğacaklar",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

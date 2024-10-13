@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1624362176902299649",
+		"span": [
+			{
+				"text_span": "pplislerle çatışıyorlar",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "direk öldürülsün direk gebertilsin",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "#ülkemdemülteciistemiyor #ülkemdemülteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

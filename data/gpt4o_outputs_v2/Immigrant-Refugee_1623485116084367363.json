@@ -1,0 +1,27 @@
+{ 
+	"tweet": {
+		"id": "1623485116084367363",
+		"span": [ 
+			{
+			"text_span": "kucuk bit yavrulari",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "serefsiz ust duzey serefsiz",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "#uelkemdeoruspucocuğuistemiyorum",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "#SuriyelilerSuriyeye",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "#UElkemdemuelteciistemiyorum",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

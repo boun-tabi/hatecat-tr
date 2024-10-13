@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1624542691974414342",
+		"span": [
+			{
+				"text_span": "bir süre sonra da bunlar askerin önüne çıkartılacak",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "Suriyeliler haklı duruma bizler ise haksız konuma geleceğiz",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

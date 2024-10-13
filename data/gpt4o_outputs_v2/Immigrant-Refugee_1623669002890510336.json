@@ -1,0 +1,24 @@
+
+{
+	"tweet": {
+		"id": "1623669002890510336",
+		"span": [
+			{
+				"text_span": "SURİYELİLER AFGANLILAR GİTSİNLER ÜLKELERİNE",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "SEKS YAPIYORLAR YA SEKS!",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "MARKETLERE KITLIKLA KALMIŞ AÇ KÖPEKLER GİBİ SALDIRIYORLAR",
+				"hate_speech_category": "Dehumanization"
+			},
+			{
+				"text_span": "ulkemdeorospucocuguistemiyorum",
+				"hate_speech_category": "Swearing; Insult; Defamation"
+			}
+		]
+	}
+}

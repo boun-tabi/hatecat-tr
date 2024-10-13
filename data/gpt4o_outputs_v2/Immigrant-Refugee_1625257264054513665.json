@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1625257264054513665",
+		"span": [ 
+			{
+			"text_span": "bu ülkede istemiyorum",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

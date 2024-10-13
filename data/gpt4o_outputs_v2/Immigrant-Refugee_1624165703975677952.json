@@ -1,0 +1,23 @@
+{
+	"tweet": {
+		"id": "1624165703975677952",
+		"span": [
+			{
+				"text_span": "#ülkemdemülteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "ben ülkemde yerleşik yabancı istemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "kendi ülkemde 2. sınıf insan oldum",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "bu ülkenin vatandaşına hizmet vermek istemiyor",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

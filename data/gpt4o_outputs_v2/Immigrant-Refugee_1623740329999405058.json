@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1623740329999405058",
+		"span": [
+			{
+				"text_span": "şerefsizleri",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "ülkelerine defedin gitsin",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "YAGMACILARAVUREMRİ",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

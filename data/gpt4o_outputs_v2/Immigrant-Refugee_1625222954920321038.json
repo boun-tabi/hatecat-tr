@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1625222954920321038",
+		"span": [ 
+			{
+				"text_span": "Suriyeliler yağma yapıyor çalıyor",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Suriyeli kurtarmaz",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"tweet": {
+		"id": "1624332800982716416",
+		"span": [
+			{
+				"text_span": "Kendi ülkesinde savaşmaya korkan, bu ülkede Türk askerine ateş açmaya başlamış.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "#UElkemdemuelteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#UElkemdeSuriyeliİstemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#uelkemdeoruspucocuğuistemiyorum",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

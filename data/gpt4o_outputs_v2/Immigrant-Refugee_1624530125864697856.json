@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1624530125864697856",
+		"span": [ 
+			{
+				"text_span": "Suriyeli ve afganlar tarafından bıçak, silahlarla tehdit edilen insanlar; yağmalananlar evler var.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Suriyeliler her şeyden fazla fazla aldılar. Kuyruklarda Türk yoktu.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

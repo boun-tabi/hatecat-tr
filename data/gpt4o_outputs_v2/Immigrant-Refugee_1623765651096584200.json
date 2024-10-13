@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1623765651096584200",
+		"span": [
+			{
+				"text_span": "Mültecilerden nefret ettiğim",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "şerefsizler",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "#ülkemdemülteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

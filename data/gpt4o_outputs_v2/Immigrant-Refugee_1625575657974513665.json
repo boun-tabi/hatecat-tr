@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1625575657974513665",
+		"span": [ 
+			{
+			"text_span": "suriyeliler için yüz karası",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

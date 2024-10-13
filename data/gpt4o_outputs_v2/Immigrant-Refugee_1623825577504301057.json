@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1623825577504301057",
+		"span": [
+			{
+				"text_span": "suriyeliler",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "Tüm binayı baştan aşağı yıkamak gerek !",
+				"hate_speech_category": "Dehumanization"
+			}
+		]
+	}
+}

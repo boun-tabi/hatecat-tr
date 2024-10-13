@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1624897649206763521",
+		"span": [
+			{
+				"text_span": "Deprem vergileri nerde Suriyeliler mi yedi afganlar mı pakistanlılar mı",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "niye hem nakit yardımlarını biz yapıyoruz malzeme yardımlarını biz yapıyoruz",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

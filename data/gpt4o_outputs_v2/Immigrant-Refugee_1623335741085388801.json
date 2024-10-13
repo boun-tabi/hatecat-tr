@@ -1,0 +1,19 @@
+{ 
+	"tweet": {
+		"id": "1623335741085388801",
+		"span": [ 
+			{
+			"text_span": "Acilen Güvenlik Güçlerine vur emri verilmesi lazım",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+			"text_span": "bunları bu ülkeden göndermek şart",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "İnsanın ölüsünü soyan dirisine neler yapmaz",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1625257487803744262",
+		"span": [ 
+			{
+				"text_span": "demografik olarak çoğunluğu elde edecekler",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "referandum isteyecekler uluslararası aranedan destek isteyecekler",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

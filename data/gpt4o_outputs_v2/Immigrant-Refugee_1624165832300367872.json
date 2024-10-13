@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1624165832300367872",
+		"span": [
+			{
+				"text_span": "ülkemde mültecileri istemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "yetti bunların bu kadar kaldığı",
+				"hate_speech_category": "Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

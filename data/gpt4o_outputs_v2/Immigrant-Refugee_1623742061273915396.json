@@ -1,0 +1,24 @@
+
+{
+	"tweet": {
+		"id": "1623742061273915396",
+		"span": [
+			{
+				"text_span": "kanı 5 para etmeyecek insanlar",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Aynı iğrenç insanlar değil mi yardım tırlarını yağmalayanlar?",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Kendi ülkesi için bile çabalamamış korkak soysuzları",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "#Ülkemdemülteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

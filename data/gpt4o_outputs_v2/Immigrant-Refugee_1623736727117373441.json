@@ -1,0 +1,16 @@
+
+{ 
+	"tweet": {
+		"id": "1623736727117373441",
+		"span": [ 
+			{
+			"text_span": "#ülkemdemülteciistemiyorum",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "#suriye #suriyeli #afgan",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

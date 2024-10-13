@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1624178712567480321",
+		"span": [
+			{
+				"text_span": "mülteciler köylere saldırıyor",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "#ülkemdemülteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1623821802945249282",
+		"span": [
+			{
+				"text_span": "suriyeliler birakilanlari yagmaliyo",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

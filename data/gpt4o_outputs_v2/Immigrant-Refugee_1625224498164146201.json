@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1625224498164146201",
+		"span": [
+			{
+				"text_span": "suriyeliler yüzünden dağıtımın düzenli yapılamadığı",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

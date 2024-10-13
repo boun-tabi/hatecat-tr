@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1624167848359649280",
+		"span": [ 
+			{
+				"text_span": "Hırsız soysuzlar",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "vatanlarından kaçan",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

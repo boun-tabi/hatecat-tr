@@ -1,0 +1,16 @@
+
+{ 
+	"tweet": {
+		"id": "1624342583051792386",
+		"span": [ 
+			{
+			"text_span": "bu ülkede buna alıştırdık",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "#UElkemdemuelteciistemiyorum",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

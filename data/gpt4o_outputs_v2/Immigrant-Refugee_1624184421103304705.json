@@ -1,0 +1,19 @@
+{ 
+	"tweet": {
+		"id": "1624184421103304705",
+		"span": [ 
+			{
+			"text_span": "VAY KAHPELER VAYY!",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "BU KADAR KAHPELİK OLMAZ.",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "Cinayet",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

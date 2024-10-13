@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1624543306326675456",
+		"span": [
+			{
+				"text_span": "savas bitmeden olen cesetleri yagmalamak icin savas alanına canı pahasına girdiği görülür. Bir Suriyeli çocuğu alıp bir Türk evinde yetiştirmegin sürece o çocuk o kültürün çocuğudur.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Suriyeliler Dedelerinin Atalarının topraklarında yaşamalıdırlar. Orada savas yok bitti",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1624531605040648192",
+		"span": [
+			{
+				"text_span": "Siginmacilari gondermezseniz",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "Suriyeliler den başka kimse kalmaz",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

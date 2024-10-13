@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1623568021099880453",
+		"span": [ 
+			{
+			"text_span": "çöl fareleri",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "yağmalama halindeler",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "Dilerim en kısa zamanda hepsi bu ülkeden gönderilir.",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

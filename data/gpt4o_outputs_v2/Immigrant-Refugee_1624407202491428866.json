@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1624407202491428866",
+		"span": [ 
+			{
+				"text_span": "geldiğiniz gibi defolup gidin",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

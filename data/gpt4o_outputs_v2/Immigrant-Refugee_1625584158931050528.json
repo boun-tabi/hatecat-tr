@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1625584158931050528",
+		"span": [
+			{
+				"text_span": "suriyeliler kykda, ülkede şu an kalacak yee sorunu var bunun en büyük nedeni sığınmacı",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "mallll",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

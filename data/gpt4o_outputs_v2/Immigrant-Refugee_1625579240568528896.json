@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1625579240568528896",
+		"span": [ 
+			{
+			"text_span": "Suriyeliler yardım malzemesi alabilmek için birbirlerine girdiler",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

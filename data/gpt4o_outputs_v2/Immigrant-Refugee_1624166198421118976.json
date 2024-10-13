@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1624166198421118976",
+		"span": [
+			{
+				"text_span": "Yunanistan denize dökerken haklıymış",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "#ülkemdemülteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

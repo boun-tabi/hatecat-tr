@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1625588569526919182",
+		"span": [
+			{
+				"text_span": "suriyeliler #Deprem yardımlarını kapışıyorlar",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "İşte tam da bu yüzden",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

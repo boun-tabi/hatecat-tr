@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1624529847979499520",
+		"span": [ 
+			{
+				"text_span": "hala İstanbul sokaklarında karı kız taciz etmekle meşguller",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "hatay'daki soydaşları için seferber olabilir diye düşünüyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

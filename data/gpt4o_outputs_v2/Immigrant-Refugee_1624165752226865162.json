@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1624165752226865162",
+		"span": [
+			{
+				"text_span": "toprağımı kaybetmeyelim",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "bu ülkenin üstünde tepinlemerine izin vermeyelim",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "#ülkemdemülteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

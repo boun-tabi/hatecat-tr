@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1625586408487280654",
+		"span": [ 
+			{
+			"text_span": "yerimize araplar suriyeliler geçecek",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1624528444385107968",
+		"span": [
+			{
+				"text_span": "pirefabrik",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "o suriyeliler şu anda o bölgede yagma derdinde",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

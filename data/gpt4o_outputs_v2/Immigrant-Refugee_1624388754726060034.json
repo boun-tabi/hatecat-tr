@@ -1,0 +1,24 @@
+
+{
+	"tweet": {
+		"id": "1624388754726060034",
+		"span": [
+			{
+				"text_span": "yeni mi anladınız ?",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Türk askerinin karnında altın var uydurması ile zamanında askerlerimizin karnını deşen araplarla depremzedenin kolunda ki bileziği almak için kolunu kesen afgan",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "aynı soydan aynı zihniyetten aynı kahpe anadan doğma!",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "#Ülkemdemülteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

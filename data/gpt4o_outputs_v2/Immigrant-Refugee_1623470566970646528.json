@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1623470566970646528",
+		"span": [
+			{
+				"text_span": "insan kirliliği",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "ülkemde i s t e m i y o r u m",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

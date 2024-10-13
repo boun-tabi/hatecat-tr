@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1625259021841072128",
+		"span": [
+			{
+				"text_span": "Suriyeliler Hataydan çıkartılsın",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

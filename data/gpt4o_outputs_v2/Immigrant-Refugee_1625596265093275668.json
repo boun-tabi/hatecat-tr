@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1625596265093275668",
+		"span": [
+			{
+				"text_span": "suriyeliler iade edilmeli",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "yoksa entegre değil dejenere artar",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

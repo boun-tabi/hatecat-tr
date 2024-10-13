@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1625586739459809302",
+		"span": [
+			{
+				"text_span": "Allah yapanların bin belasını versin inşallah",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "ilk aklıma gelen suriyeliler",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1624169918479360022",
+		"span": [
+			{
+				"text_span": "öncedende mülteci istemiyodum şimdi asla ve asla istemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#ülkemdemülteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

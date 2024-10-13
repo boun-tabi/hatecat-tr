@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1623736271842471936",
+		"span": [
+			{
+				"text_span": "yağma ve hırsızlık",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Lütfen ülkemizden gönderin bunları",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#Serefsizler",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

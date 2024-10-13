@@ -1,0 +1,23 @@
+{
+	"tweet": {
+		"id": "1623723062007939084",
+		"span": [ 
+			{
+				"text_span": "mülteci değil canavar",
+				"hate_speech_category": "Dehumanization"
+			},
+			{
+				"text_span": "Ülkenin ırzını,güvenliğini,huzurunu tehdit etmektedir",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "derhal gönderilmelidir",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "Türk milletinde artık bunların yükünü taşıyacak takat dayanacak sabır kalmadı",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

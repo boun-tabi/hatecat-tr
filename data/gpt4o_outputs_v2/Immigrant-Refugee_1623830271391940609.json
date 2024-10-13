@@ -1,0 +1,19 @@
+{ 
+	"tweet": {
+		"id": "1623830271391940609",
+		"span": [ 
+			{
+			"text_span": "köpek suriyeliler ve çingeneler",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "Allah belalarını versin",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+			"text_span": "ALLAH BELANIZI VERSİN",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

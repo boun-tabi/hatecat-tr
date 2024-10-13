@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1623459473976074241",
+		"span": [
+			{
+				"text_span": "Suriyeliler yerleştirdiler şimdi deprem oldu benim vatandaşım evsiz kaldı",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Artık Suriyeliler Suriye gitsin",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

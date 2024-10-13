@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1623830135995523075",
+		"span": [
+			{
+				"text_span": "Suriyeliler bir çok yerde yağma yapmışlar",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Mersin Kız KYK yurdunu basmışlar",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

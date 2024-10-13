@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1623650163163115520",
+		"span": [ 
+			{
+				"text_span": "#YağmacılaraVurEmriVerilsin",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "#UElkemdemuelteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "yağma olaylarına hiçbir şekilde tolerans gösterilmemeli",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

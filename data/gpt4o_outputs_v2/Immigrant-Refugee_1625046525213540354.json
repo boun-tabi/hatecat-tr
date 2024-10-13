@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1625046525213540354",
+		"span": [
+			{
+				"text_span": "Gereğinden fazla merhamet vatana ihanettir",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "#ülkemdemülteciistemiyorum #mülteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1624542296132800514",
+		"span": [
+			{
+				"text_span": "rezil",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "ülkemdeki suriyeliler için zırlıyo amk",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "modele bak",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

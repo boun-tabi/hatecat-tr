@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1625571608130723840",
+		"span": [
+			{
+				"text_span": "Suriyeliler deprem yardımını kardeşçe paylaşmak nerde?",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Bunların misafirlikleri  çok uzadı artık..",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "Suriyeliler GO HOME !!",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

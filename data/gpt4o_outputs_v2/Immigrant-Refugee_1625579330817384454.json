@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1625579330817384454",
+		"span": [
+			{
+				"text_span": "Suriyeliler derhal gönderilmeli",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "Yerli Halkın bir an evvel göçü durdurulmalı",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

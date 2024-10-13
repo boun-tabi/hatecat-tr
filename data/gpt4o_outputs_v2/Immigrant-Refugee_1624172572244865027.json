@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1624172572244865027",
+		"span": [ 
+			{
+			"text_span": "en iyi suriyelinin am*nakoyayım",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

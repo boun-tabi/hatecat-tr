@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1624569961577385990",
+		"span": [
+			{
+				"text_span": "sizin gibi olayı gene mazlum mülteciler durumuna getirip",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "yağma yaptı",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

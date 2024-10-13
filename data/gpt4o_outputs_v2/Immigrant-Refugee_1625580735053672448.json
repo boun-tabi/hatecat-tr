@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1625580735053672448",
+		"span": [ 
+			{
+			"text_span": "VATANLARINI bırakan zavallılar",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

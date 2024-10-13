@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1624881820180402182",
+		"span": [
+			{
+				"text_span": "Suriyeliler herşeyi almaya çalışıyor ihtiyacı olmayan bile almaya çalışıyor",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

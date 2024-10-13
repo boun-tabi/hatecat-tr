@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1624371239367180288",
+		"span": [ 
+			{
+			"text_span": "suriyeli ve diğer mülteci çingeneler",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "yağmalamaya başladılar",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

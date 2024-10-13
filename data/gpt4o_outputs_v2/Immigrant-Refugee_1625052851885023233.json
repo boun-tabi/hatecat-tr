@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1625052851885023233",
+		"span": [
+			{
+				"text_span": "afganlar ölülerin uzerlerindekini alıyor acimadan kol kesiyor",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "yapan afkanli",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

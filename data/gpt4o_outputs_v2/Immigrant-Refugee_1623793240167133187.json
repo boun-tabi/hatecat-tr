@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1623793240167133187",
+		"span": [
+			{
+				"text_span": "istemiyoruz kardeşim istemiyoruz",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#ülkemdemülteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1623374723118780416",
+		"span": [ 
+			{
+			"text_span": "suriyeliler etrafı ellerinde bıçaklarla yağmalıyorlar",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "bu kansızlar herşeyi yapıyor",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

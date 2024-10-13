@@ -1,0 +1,19 @@
+{ 
+	"tweet": {
+		"id": "1624192209904979968",
+		"span": [ 
+			{
+				"text_span": "yağmacılık yapmak",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "SİZ İNSAN DEĞİLSİNİZ",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "#ülkemdemülteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

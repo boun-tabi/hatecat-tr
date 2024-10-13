@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1623823129297428481",
+		"span": [ 
+			{
+				"text_span": "yağmacılar suriyeliler kol geziyor",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

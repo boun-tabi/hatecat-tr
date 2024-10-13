@@ -1,0 +1,24 @@
+
+{
+	"tweet": {
+		"id": "1624170479807258624",
+		"span": [
+			{
+				"text_span": "o insanlar yüzünden bu noktaya geliyor",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "saygıları yok ne ölümüze ne de dirimize",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "defolup gitsinler",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "#ülkemdemülteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1623316334569193472",
+		"span": [ 
+			{
+				"text_span": "elin suriyelisi arabı el koysunÇALSIN",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

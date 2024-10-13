@@ -1,0 +1,23 @@
+{ 
+	"tweet": {
+		"id": "1623460711497170945",
+		"span": [ 
+			{
+			"text_span": "Allah belalarını versin",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "siktirip gitsinler ülkemizden",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "Bunlar geldiğinden beri ülkemizin yüzü gülmüyor insanlarımızın yüzü gülmüyor.",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "Bunların geldiği gün kara gün oldu bize neler yaşadık.",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

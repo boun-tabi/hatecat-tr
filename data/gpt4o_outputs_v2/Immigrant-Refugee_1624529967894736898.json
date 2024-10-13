@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1624529967894736898",
+		"span": [ 
+			{
+			"text_span": "kendi ülkesinde ölen suriyeliler için ağlamış bir erkeğim",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "bizim kadınlarıma tecavüz edenlere yapmacılık yapıp hırsızlık yapıp çocuk kaçıranlara",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "bu ırkçılıksa ben ırkçıyım",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

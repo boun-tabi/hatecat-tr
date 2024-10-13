@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1623824556006772738",
+		"span": [
+			{
+				"text_span": "SURIYELILERI",
+				"hate_speech_category": "Symbolization"
+			},
+			{
+				"text_span": "HIRSIZLARLI, GASPCILARLI, FIRSATCILARI, SAPIKLARI",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "ULKEMIZDE ISTEMIYORUZ",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1624527998379597828",
+		"span": [
+			{
+				"text_span": "bu misafirlik fazla uzadı",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#ülkemdemülteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

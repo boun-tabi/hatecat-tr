@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1623291215541153794",
+		"span": [
+			{
+				"text_span": "verin polisimize , askerimize vur emrini",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "Bunu yapanlar zaten insan olamaz",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

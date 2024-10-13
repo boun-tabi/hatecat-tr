@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1623825545204047878",
+		"span": [
+			{
+				"text_span": "giren bütün suriyeliler yurttan apar topar çıkan öğrencilerin eşyalarını yağmalıyor",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "nargilesiyle gelen suriyelilerin",
+				"hate_speech_category": "Symbolization"
+			}
+		]
+	}
+}

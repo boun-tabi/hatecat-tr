@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1625156125833191424",
+		"span": [ 
+			{
+				"text_span": "bize kirletmeye çalışıyor",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "İSTEMİYORUZ LAN",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "#ülkemdemülteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

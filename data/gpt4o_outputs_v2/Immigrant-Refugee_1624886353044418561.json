@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1624886353044418561",
+		"span": [
+			{
+				"text_span": "Suriyelilerin oyu akp ye.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Ölenlerin yerine Suriyeliler yerleştirilecek.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

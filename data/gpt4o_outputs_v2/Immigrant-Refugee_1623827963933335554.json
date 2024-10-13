@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1623827963933335554",
+		"span": [
+			{
+				"text_span": "diğer #suriyeliler de ariel, televizyon yağmalasın yazık",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

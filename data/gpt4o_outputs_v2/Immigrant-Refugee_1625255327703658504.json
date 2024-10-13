@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1625255327703658504",
+		"span": [
+			{
+				"text_span": "depremde satamadığımız hisseleri Suriyeliler gibi yağmalıyor",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1623825448865001480",
+		"span": [ 
+			{
+				"text_span": "Yardım ve gasp Suriyeliler'e",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

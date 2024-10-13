@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1623702814433083393",
+		"span": [
+			{
+				"text_span": "Suriyeliler sürekli yağma yaptığını hırsızlık yakalanıyor",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

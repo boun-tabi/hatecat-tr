@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1623781847376199683",
+		"span": [
+			{
+				"text_span": "Aşağılık reziller",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "İçimizde beslenenlere bak",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

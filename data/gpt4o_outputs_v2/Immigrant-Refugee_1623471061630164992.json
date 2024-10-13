@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1623471061630164992",
+		"span": [ 
+			{
+			"text_span": "süriyeliler yardım tırlarını, marketleri, evleri yağmalıyor",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

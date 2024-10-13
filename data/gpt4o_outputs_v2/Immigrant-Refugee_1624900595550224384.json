@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1624900595550224384",
+		"span": [
+			{
+				"text_span": "herkesi suriyeliler öldürüp gasp ediyorlar",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Enkazlara kimseyi yaklastirmiyorlar enkazdakiler öldükten sonra eşyalarını çalmak için",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

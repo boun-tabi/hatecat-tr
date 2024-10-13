@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1623724592815607818",
+		"span": [
+			{
+				"text_span": "Bunlar nıye hala ülkemizde",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "gitsin kendi ülkesinde sarsın yarasını",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#ülkemdemülteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

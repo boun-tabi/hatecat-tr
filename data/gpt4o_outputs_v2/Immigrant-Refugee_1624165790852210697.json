@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1624165790852210697",
+		"span": [
+			{
+				"text_span": "Hiç bir zaman istemiyoruz istemedik",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "bu ülkenin en büyük sorunudur",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "#ülkemdemülteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

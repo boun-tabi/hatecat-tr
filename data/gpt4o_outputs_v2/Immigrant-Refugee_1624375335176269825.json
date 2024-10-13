@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1624375335176269825",
+		"span": [ 
+			{
+				"text_span": "defolup gitsinler",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#UElkemdemuelteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

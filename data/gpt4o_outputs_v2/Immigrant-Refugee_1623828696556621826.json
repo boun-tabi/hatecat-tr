@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1623828696556621826",
+		"span": [ 
+			{
+				"text_span": "yağmalayıcı suriyeliler",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "yardım tırlarını yağmalayanla",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "kimsesiz diye duyurulan çocukları kaçıranla",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

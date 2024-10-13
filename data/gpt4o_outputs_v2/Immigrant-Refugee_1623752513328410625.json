@@ -1,0 +1,19 @@
+{ 
+	"tweet": {
+		"id": "1623752513328410625",
+		"span": [ 
+			{
+			"text_span": "insan müsveddesi",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "orospu çocukları",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "#ülkemdemülteciistemiyorum",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

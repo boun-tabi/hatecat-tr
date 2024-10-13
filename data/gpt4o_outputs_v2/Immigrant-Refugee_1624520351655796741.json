@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1624520351655796741",
+		"span": [ 
+			{
+			"text_span": "Aq birde bunlarla uğraşıyoruz",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "#Ülkemdemülteciistemiyorum",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

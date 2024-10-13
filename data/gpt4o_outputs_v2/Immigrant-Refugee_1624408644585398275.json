@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1624408644585398275",
+		"span": [
+			{
+				"text_span": "MÜLTECİLER DEGİL!!",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#ülkemdemülteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1625599608863748099",
+		"span": [
+			{
+				"text_span": "bu suriyeliler buyuk bir sorun teskil ediyor dahada edicek gibiler",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

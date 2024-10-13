@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1624528047939416064",
+		"span": [ 
+			{
+			"text_span": "suriyeliler yardım kamyonundan ne alabildilerse kaçtılar",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "dayaktan bile korkmuyo bunlar",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

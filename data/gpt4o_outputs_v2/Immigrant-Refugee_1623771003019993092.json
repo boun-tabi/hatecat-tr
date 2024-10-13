@@ -1,0 +1,23 @@
+{ 
+	"tweet": {
+		"id": "1623771003019993092",
+		"span": [ 
+			{
+			"text_span": "iç savaş çıkması için uğraş bunlar",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+			"text_span": "sınır dışı edilmesi gerekirken",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "Suriyeli kelimesini herşeyde duymaktan sıkıldm",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "akla ilk gelen bu kansizlar",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

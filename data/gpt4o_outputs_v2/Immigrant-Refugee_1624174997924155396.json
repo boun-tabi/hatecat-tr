@@ -1,0 +1,19 @@
+{ 
+	"tweet": {
+		"id": "1624174997924155396",
+		"span": [ 
+			{
+			"text_span": "Kendi ülkelerine bir faydası olmayan varlıkları",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "ülkelerini savunmak savaşmak yerine kaçanları",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "biz Ülkemizde istemiyoruz",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

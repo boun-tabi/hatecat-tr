@@ -1,0 +1,12 @@
+
+{ 
+	"tweet": {
+		"id": "1623821867906744322",
+		"span": [ 
+			{
+			"text_span": "Suriyeliler var, biz mülteciyiz, Gelmiş havuz nerde diye soruyorlar, dolaplarımızı yağmalıyorlar",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

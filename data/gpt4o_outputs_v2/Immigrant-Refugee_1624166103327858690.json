@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1624166103327858690",
+		"span": [ 
+			{
+				"text_span": "Türk milletinden daha ön planda tutulan mülteci değil",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "yeter artık bıktık #ülkemdemülteciistemiyorum",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

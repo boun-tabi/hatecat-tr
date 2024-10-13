@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1623830528767021057",
+		"span": [
+			{
+				"text_span": "onlarda yagmada gaspda hırsızlıkta",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

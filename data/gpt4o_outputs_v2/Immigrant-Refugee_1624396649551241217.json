@@ -1,0 +1,19 @@
+{ 
+	"tweet": {
+		"id": "1624396649551241217",
+		"span": [ 
+			{
+				"text_span": "şerefsizleri",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "lanet olsun",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "ülkemdemülteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

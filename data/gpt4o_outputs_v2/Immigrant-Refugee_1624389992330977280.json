@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1624389992330977280",
+		"span": [ 
+			{
+				"text_span": "ülkeye doldurduğunuz insan müsveddeleri",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "kendi vatandaşımızın kolunu kesip bileziklerini alıyor, enkaz üstlerinde altın arıyor, evlere girip hırsızlık yapıyor",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "#ülkemdemülteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

@@ -1,0 +1,19 @@
+{ 
+	"tweet": {
+		"id": "1623790011245113347",
+		"span": [ 
+			{
+			"text_span": "yarın burdan çaldıklarını sırtlanıp",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "kıçlarına bakmadan kaçtıkları ülkelerine kıçlarına bakamadan giderken götürürler",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+			"text_span": "nerelerine sokacaklar acaba",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

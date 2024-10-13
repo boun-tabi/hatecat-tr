@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1625633087181713409",
+		"span": [ 
+			{
+			"text_span": "Terörist olan yağmacı suriyeliler.",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

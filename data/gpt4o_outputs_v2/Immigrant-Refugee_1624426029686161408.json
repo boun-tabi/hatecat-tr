@@ -1,0 +1,23 @@
+{
+	"tweet": {
+		"id": "1624426029686161408",
+		"span": [
+			{
+				"text_span": "şerefsizlere sahip çıktınız",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "ilk fırsatta sırtımızdan vurmaya kalktılar",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "şimdi daha kararlı bir şekilde istemiyoruz",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#ülkemdemülteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

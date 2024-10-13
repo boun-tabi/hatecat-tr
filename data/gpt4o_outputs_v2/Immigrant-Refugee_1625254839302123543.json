@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1625254839302123543",
+		"span": [
+			{
+				"text_span": "Suriyeliler mi?",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#mueltecilersınırdısıedilsin",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

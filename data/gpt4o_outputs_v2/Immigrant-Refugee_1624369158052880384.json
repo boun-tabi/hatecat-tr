@@ -1,0 +1,20 @@
+
+{ 
+	"tweet": {
+		"id": "1624369158052880384",
+		"span": [ 
+			{
+				"text_span": "BU MİSAFİRLİK FAZLA UZADI.",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#UElkemdemuelteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#UElkemdeSığınmacıİstemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

@@ -1,0 +1,20 @@
+
+{ 
+	"tweet": {
+		"id": "1624543211728392199",
+		"span": [ 
+			{
+				"text_span": "suriyeliler talan ediyor yağmalıyor marketleri insanlara saldırıyorlar",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "başımıza bela ettiniz suriyelileri",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "can pazarı yaşıyor türk halkı",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

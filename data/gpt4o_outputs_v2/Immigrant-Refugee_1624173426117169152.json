@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1624173426117169152",
+		"span": [
+			{
+				"text_span": "Hırsızlık yapacak kansız yağmacılar.",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Halkı paniğe sürükleyip bölgeden kaçırmaya çalışıyorlar.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

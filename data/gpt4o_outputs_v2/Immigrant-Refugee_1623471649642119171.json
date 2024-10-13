@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1623471649642119171",
+		"span": [ 
+			{
+				"text_span": "gelen yardımlar suriyeliler tarafından ya yağmalanıyor ya da insanların elinden zorla alınıyor",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "köpek mamaları dahi çalınır vaziyette",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

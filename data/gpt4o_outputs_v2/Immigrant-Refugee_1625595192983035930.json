@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1625595192983035930",
+		"span": [ 
+			{
+			"text_span": "Suriyeliler için harcanan miktara dair resmi veriler milyarları ifade ediyor",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "Tüm Arapların topladığı parayı toplasan 1-2 milyar belki yapıyor ama size şu ana kadar harcanan para 70-80 milyara ulaştı.",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

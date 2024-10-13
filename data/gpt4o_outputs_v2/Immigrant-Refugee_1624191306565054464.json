@@ -1,0 +1,28 @@
+
+{
+	"tweet": {
+		"id": "1624191306565054464",
+		"span": [
+			{
+				"text_span": "damarlarımızda gezen kanı hırçınlaştırıyosunuz",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "bir delirirsek ne suriyelisi, nede afganlısı nede yağmacısı kalır",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "cehennemi bile dar ederiz size",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "şeref yoksulu o… çocukları sizi",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Ülkemden gidin",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

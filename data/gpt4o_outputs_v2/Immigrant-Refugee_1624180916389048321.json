@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1624180916389048321",
+		"span": [
+			{
+				"text_span": "yağmacılar suriyeliler",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1625256735618351104",
+		"span": [
+			{
+				"text_span": "yağma görüntülerindeki, hırsızlık görüntülerindeki, tecavüz haberindeki suriyeliler",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

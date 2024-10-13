@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1623470999051149312",
+		"span": [ 
+			{
+				"text_span": "Şu orospu çocuğu Suriyeliler",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "kaç tane yağmalama videosu var",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

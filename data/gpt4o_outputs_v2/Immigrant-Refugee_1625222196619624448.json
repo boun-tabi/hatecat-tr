@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1625222196619624448",
+		"span": [
+			{
+				"text_span": "Suriyelilere harcanan para depremzedelere verilsin",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "Suriyeliler gitsin",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

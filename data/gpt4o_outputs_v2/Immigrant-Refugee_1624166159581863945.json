@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1624166159581863945",
+		"span": [ 
+			{
+				"text_span": "Zarardan başka birşey değil.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "zarar oldular köstek oldular",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "#ülkemdemülteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

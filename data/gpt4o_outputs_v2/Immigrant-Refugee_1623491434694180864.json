@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1623491434694180864",
+		"span": [
+			{
+				"text_span": "#ülkemdeYağmacıİstemiyorum",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

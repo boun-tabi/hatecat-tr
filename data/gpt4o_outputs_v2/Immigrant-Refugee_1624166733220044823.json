@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1624166733220044823",
+		"span": [ 
+			{
+			"text_span": "bugunde!!! #ülkemdemülteciistemiyorum",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

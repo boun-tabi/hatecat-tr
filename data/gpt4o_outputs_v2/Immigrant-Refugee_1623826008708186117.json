@@ -1,0 +1,23 @@
+{ 
+	"tweet": {
+		"id": "1623826008708186117",
+		"span": [ 
+			{
+			"text_span": "allaha belanızı versin",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "yağmalayanmı dersin evlere girenlerimi dersin",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "yazıklar olsun",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "#yağmacılar",
+			"hate_speech_category": "Symbolization"
+			}
+		] 
+	}
+}

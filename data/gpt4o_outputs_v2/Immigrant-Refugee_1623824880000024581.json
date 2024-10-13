@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1623824880000024581",
+		"span": [
+			{
+				"text_span": "Suriyeliler yağmalamak için",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "hatay zaten darmadağın daha da oldu sayelerinde",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "şehirlerden gelen suriyeliler.yağmalama çok",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

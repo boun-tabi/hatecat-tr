@@ -1,0 +1,19 @@
+{ 
+	"tweet": {
+		"id": "1624168436929552406",
+		"span": [ 
+			{
+				"text_span": "Bu adamlar sopadan anlamazlar.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Bu adamlar vahşiler.",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Bu adamları hakettikleri yere geri gönderin.",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

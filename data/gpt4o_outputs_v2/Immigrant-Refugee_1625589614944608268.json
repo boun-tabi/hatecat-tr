@@ -1,0 +1,16 @@
+
+{ 
+	"tweet": {
+		"id": "1625589614944608268",
+		"span": [ 
+			{
+				"text_span": "suriyeliler dahada yerleşiyor",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "Hatay artık sadece Atatürk’ün değil tüm Türkiye’nin şahsi meselesi olmuştur",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

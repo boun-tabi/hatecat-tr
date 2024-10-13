@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1625018087404716032",
+		"span": [
+			{
+				"text_span": "pembe götlü avrupalıları",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "#ülkemdemülteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

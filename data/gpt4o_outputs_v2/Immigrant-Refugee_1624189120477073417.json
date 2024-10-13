@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1624189120477073417",
+		"span": [
+			{
+				"text_span": "vicdansız suriyeliler",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

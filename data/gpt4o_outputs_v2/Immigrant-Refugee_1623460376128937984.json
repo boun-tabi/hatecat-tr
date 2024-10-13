@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1623460376128937984",
+		"span": [
+			{
+				"text_span": "Sktir olun gidin lan bu ülkeden",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "srefsizz yağmacılar",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "oclar yağma yapıyor",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

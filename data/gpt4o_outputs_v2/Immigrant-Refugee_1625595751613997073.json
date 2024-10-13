@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1625595751613997073",
+		"span": [
+			{
+				"text_span": "Suriyeliler kardeşim değil",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "Suriyelilerin ülkesi Suriye Türkiye değil",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

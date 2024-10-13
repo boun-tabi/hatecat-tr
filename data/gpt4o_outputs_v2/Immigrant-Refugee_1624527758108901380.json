@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1624527758108901380",
+		"span": [
+			{
+				"text_span": "pislik Suriyeliler burda nargile peşinde",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

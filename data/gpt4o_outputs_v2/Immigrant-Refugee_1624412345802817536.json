@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1624412345802817536",
+		"span": [ 
+			{
+			"text_span": "ne olduğu belirsiz insanlarla uğraşıyoruz",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "sığınmacıların yarattığı kaos ve kargaşanın örtülmesi sorunları daha da büyütüyor",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

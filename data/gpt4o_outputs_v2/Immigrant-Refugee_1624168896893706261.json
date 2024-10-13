@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1624168896893706261",
+		"span": [
+			{
+				"text_span": "kendi ülkemizde bomba patlatıp yurtları basıp yardıma giden tırlarımızı yagmalayacaklar",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "YOK YA!?",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#ülkemdemülteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

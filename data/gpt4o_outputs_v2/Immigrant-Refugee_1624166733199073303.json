@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1624166733199073303",
+		"span": [ 
+			{
+			"text_span": "Bizim rahat etmediğimiz yerde kimse istirahat edemez!",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

@@ -1,0 +1,23 @@
+{ 
+	"tweet": {
+		"id": "1623822134224060424",
+		"span": [ 
+			{
+			"text_span": "Suriyeliler kardeşimiz öyle mi?",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "Böyle kardeş mi olur lan ben can çekişirken onlar malımı yağmalayacak",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "derhal defedin bu orospu çocuklarını",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "Hepsi Siktir Olup Gitsin!!!",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

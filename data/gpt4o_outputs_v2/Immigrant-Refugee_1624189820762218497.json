@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1624189820762218497",
+		"span": [
+			{
+				"text_span": "Suriyeliler ve Afganlar DERHAL gönderilmelidirler!",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "Beka sorunu yasamaya basladik Hatay da! Iç savaş bile çikarir bunlar!",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

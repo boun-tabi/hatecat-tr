@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1624682571492741120",
+		"span": [ 
+			{
+				"text_span": "sadece tek meyve suyunu elden ele dolaştırıyorlar",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "#UElkemdeMuelteciİstemiyorum #ülkemdemülteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

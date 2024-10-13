@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1625256212181680135",
+		"span": [ 
+			{
+			"text_span": "şimdi iş imkanınız kalmadı diye evlerimize girme ya da bize saldırma hakkınız yok",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

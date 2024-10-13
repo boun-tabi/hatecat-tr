@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1624883259766108161",
+		"span": [
+			{
+				"text_span": "Ülkemiz Suriyeliler le doldu",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Türkiye'de ki Suriyeli nüfus biz Türkleri geçecek",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Bizi bizim ülkemizden kovmak için ellerinden geleni yapacaklar",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

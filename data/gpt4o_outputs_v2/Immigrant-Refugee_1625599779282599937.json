@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1625599779282599937",
+		"span": [
+			{
+				"text_span": "bu köpek suriyeliler çalmasin diye",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

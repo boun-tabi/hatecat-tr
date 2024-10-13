@@ -1,0 +1,24 @@
+
+{
+	"tweet": {
+		"id": "1623369837803147268",
+		"span": [ 
+			{
+			"text_span": "Sittir olup gitsinler..",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+			"text_span": "Aq puşlarını bu ülkede istemiyorum.",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "Defolsun gitsin mınna kodumun nankör köpekkleri",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "#ülkemdemülteciistemiyorum",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

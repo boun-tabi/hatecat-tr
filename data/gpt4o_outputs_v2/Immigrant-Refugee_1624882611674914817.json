@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1624882611674914817",
+		"span": [
+			{
+				"text_span": "Suriyeliler hem yağmacı hemde tacizci hem de ilk fırsatta bu halkın acısını önemsemeyen malımıza ırzımıza göz diken birer hain olduklarını gösterdiler",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "bu ülkede nasıl barınabilirler",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

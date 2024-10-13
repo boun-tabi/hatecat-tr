@@ -1,0 +1,24 @@
+
+{
+	"tweet": {
+		"id": "1623827738380361733",
+		"span": [
+			{
+				"text_span": "bu mülteciler yüzünden çektiğini çekmeden ölmeyin",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "çocuklarınızdan çıksın",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "#VurEmri",
+				"hate_speech_category": "Symbolization"
+			},
+			{
+				"text_span": "#Yağmacılar",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

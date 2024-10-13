@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1624884182160744448",
+		"span": [
+			{
+				"text_span": "ulan tüm suriyeliler bizde zaten",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "biraz da siz alın o kadar hümanistseniz",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

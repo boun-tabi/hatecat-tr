@@ -1,0 +1,23 @@
+{ 
+	"tweet": {
+		"id": "1624372772003618818",
+		"span": [ 
+			{
+			"text_span": "Savaştan kaçmış bir millete",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "tarihini savaşarak kanıyla yazmış bir milletin vatandaşlığı verilmez",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "#suriyeliistemiyoruz",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "#ülkemdemülteciistemiyorum",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

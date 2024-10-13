@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1623823015891898368",
+		"span": [ 
+			{
+			"text_span": "Suriyeliler el koymuş vaziyeti hepsini yagmalıyorlar",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

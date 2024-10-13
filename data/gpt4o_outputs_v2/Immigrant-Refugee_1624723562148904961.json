@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1624723562148904961",
+		"span": [
+			{
+				"text_span": "Suriyeliler bu haldeyken bile çocuklara tecavüz ediyor",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "#ülkemdemülteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#mültecilersınırdışıedilsin",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

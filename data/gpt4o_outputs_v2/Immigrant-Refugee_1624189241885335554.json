@@ -1,0 +1,19 @@
+{ 
+	"tweet": {
+		"id": "1624189241885335554",
+		"span": [ 
+			{
+			"text_span": "Allah'ın belası suriyeliler",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "hırsızlık yapabilmek için  yalan haber atıp minleti korkutup şehri terk ettiriyorlar",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "defolup gidin suriyenize",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

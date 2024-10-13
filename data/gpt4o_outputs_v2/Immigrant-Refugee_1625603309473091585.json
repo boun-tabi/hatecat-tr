@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1625603309473091585",
+		"span": [
+			{
+				"text_span": "Türkler bölgeden Suriyeliler bölgeye göç ediyor",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "referandumla aldığımız Hatay'ı yine referandumla kaybetmek istiyoruz herhalde",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

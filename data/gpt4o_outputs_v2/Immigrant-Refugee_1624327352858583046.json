@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1624327352858583046",
+		"span": [
+			{
+				"text_span": "Kardeş diye ülkeye soktuklarınız zarardan başka bişiy değil",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#ülkemdemülteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

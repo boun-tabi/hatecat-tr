@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1624190060554772480",
+		"span": [ 
+			{
+			"text_span": "surileri yurttan polis zoruyla temizledi.",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+			"text_span": "suriyeliler gelmesin kentimiz kaldırmıyor",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "sizin gibi kör göz. sktklerim de bunlara acır.",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

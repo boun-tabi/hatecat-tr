@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1623426865716240397",
+		"span": [
+			{
+				"text_span": "sözde sığınmacı olarak gelmiş adi şerefsizleri",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "bizim dükkanlarımızı yağmaliyolar",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

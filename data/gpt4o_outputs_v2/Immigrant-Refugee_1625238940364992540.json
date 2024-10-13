@@ -1,0 +1,28 @@
+
+{
+	"tweet": {
+		"id": "1625238940364992540",
+		"span": [
+			{
+				"text_span": "HARAM ZEHİR ZIKKIM OLSUN",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Suriyeliler bu savaşı türkiye çıkardı",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "avrupa dan gelen paramızı çalıyor",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "toprağımız da gözünüz var",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "askeriniz  hesabı soracağız",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

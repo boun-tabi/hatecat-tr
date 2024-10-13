@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1623466189841203201",
+		"span": [
+			{
+				"text_span": "Bu insanları ülkemizden bir an önce göndermeliyiz",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "yağmalamışlar",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "#UElkemdemuelteciistemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1623777950385467392",
+		"span": [ 
+			{
+			"text_span": "mültecinin M'sini istemiyorum",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "#ülkemdemülteciistemiyorum",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

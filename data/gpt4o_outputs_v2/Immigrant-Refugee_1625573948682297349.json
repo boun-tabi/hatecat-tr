@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1625573948682297349",
+		"span": [ 
+			{
+			"text_span": "Suriyeliler.kadardami bizim çocuklarımızin değeri yok.",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

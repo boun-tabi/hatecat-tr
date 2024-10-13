@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1625585349161324544",
+		"span": [
+			{
+				"text_span": "aldığımız suriyeliler",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "bizi yağmaladı taciz etti çaldılar",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1625595298067128333",
+		"span": [
+			{
+				"text_span": "O Suriyeliler gidicek",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "Pkk/Ypg nin sürmesi ya da Aparat olan Işid İn",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "onbinlerce toplu Suriyeli gitme ve gönderme haberi",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

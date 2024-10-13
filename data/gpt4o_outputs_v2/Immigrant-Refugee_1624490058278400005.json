@@ -1,0 +1,27 @@
+{ 
+	"tweet": {
+		"id": "1624490058278400005",
+		"span": [ 
+			{
+			"text_span": "hepsini alın gönderin",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "bi ülkemizi rahat bırakın",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "bunlar hala Türkiye ye girme derdinde",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "#ülkemdemülteciistemiyorum",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "#suriyeliistemiyoruz",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

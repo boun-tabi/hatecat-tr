@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1624828938357800960",
+		"span": [
+			{
+				"text_span": "Afganlılar kol kesip altın çalıyor",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}
