@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1393044015969361922",
+		"span": [
+			{
+				"text_span": "onları HELAK eyle",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "onları KAHRU PERİŞAN eyle",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

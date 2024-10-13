@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1393042859411050496",
+		"span": [
+			{
+				"text_span": "Kafirinde kalbini daralt",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

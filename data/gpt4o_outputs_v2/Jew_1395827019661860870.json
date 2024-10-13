@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1395827019661860870",
+		"span": [ 
+			{
+			"text_span": "İşgalci İsrail'in acımasızca saldırılarına",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

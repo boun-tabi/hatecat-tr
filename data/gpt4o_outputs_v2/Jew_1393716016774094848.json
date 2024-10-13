@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1393716016774094848",
+		"span": [
+			{
+				"text_span": "Öldürmeye gelince öldürmeyi çok iyi biliyorsunuz.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

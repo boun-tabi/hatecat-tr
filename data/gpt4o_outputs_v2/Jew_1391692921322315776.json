@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1391692921322315776",
+		"span": [
+			{
+				"text_span": "Radikal yahudiler",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "en barbar saldırısıyla",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

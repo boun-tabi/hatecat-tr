@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1393321996046508036",
+		"span": [
+			{
+				"text_span": "Bu bir katliam! Ve bunu israil yapıyor!",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "#GazzedeSoykırım",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "#GazzedeKatliamVar",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

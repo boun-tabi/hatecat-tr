@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1393217806737494018",
+		"span": [
+			{
+				"text_span": "Rabb'im bizleri İsrail'e karşı cihad etmeyi nasip eylesin İNŞALLAH",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "İsrail laftan anlamaz, ancak güçten anlar!.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

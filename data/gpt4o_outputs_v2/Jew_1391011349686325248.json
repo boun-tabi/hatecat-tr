@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1391011349686325248",
+		"span": [ 
+			{
+			"text_span": "ya rab bize hilafeti nasip ed ki bunların cezalarını elimizle verelim",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

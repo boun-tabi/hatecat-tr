@@ -1,0 +1,16 @@
+
+{ 
+	"tweet": {
+		"id": "1402153335696809988",
+		"span": [ 
+			{
+			"text_span": "Siyonist Yerleşimci",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "kahrolsunisrail",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

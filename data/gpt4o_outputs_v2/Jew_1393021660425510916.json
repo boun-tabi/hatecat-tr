@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1393021660425510916",
+		"span": [ 
+			{
+				"text_span": "#TerroristIsreal",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "#GazzedeSoykırım",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

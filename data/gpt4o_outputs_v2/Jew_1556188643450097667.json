@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1556188643450097667",
+		"span": [
+			{
+				"text_span": "Dünyada zulmün adı olmuş.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Ya RABBİ kahreyle",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

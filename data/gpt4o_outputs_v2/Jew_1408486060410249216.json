@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1408486060410249216",
+		"span": [
+			{
+				"text_span": "İşgalci İsrail güçleri",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

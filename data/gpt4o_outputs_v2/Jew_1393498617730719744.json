@@ -1,0 +1,23 @@
+{
+	"tweet": {
+		"id": "1393498617730719744",
+		"span": [ 
+			{
+				"text_span": "#teröristisrail",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "#katilisrail",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "#attackisrael",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "#theendisrael",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

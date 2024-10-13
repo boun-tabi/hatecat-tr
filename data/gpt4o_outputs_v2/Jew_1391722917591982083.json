@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1391722917591982083",
+		"span": [ 
+			{
+			"text_span": "",
+			"hate_speech_category": ""
+			}
+		] 
+	}
+}

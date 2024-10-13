@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1393449468826198018",
+		"span": [
+			{
+				"text_span": "itrail eniği",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

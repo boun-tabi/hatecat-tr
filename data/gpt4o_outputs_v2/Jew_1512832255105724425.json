@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1512832255105724425",
+		"span": [
+			{
+				"text_span": "itrail dostu",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "türk düşmanısın",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

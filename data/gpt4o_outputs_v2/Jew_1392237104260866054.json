@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1392237104260866054",
+		"span": [
+			{
+				"text_span": "kaçın bakalım kaçın.... Hem nereye kaçıyorsunuz galib olan Allah.",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

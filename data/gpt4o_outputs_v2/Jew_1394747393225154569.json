@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1394747393225154569",
+		"span": [ 
+			{
+			"text_span": "ALLAH BELANI VERSİN İTRAİL!",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

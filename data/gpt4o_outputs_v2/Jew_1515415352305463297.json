@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1515415352305463297",
+		"span": [ 
+			{
+			"text_span": "ZULME",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

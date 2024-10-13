@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1392945311539208194",
+		"span": [
+			{
+				"text_span": "korkak bir varlıktan öte",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "kendi zihniyle hareket edemeyen hiçlersiniz",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

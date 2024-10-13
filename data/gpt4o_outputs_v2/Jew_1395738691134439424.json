@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1395738691134439424",
+		"span": [
+			{
+				"text_span": "Kafir yine kafirliğini yapacak.",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1515808143883874306",
+		"span": [
+			{
+				"text_span": "HAYDUT TERÖRİST DEVLET İSRAİL",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

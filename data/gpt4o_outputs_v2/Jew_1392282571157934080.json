@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1392282571157934080",
+		"span": [
+			{
+				"text_span": "Zalimler için yaşasın Cehennem",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

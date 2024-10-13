@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1498696326875332612",
+		"span": [
+			{
+				"text_span": "Alçak insanlar alçaklık yapa yapa alçaklıkta uzmanlaşırlar...",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

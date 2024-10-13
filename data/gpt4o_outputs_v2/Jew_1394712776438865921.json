@@ -1,0 +1,16 @@
+
+{ 
+	"tweet": {
+		"id": "1394712776438865921",
+		"span": [ 
+			{
+				"text_span": "Kork İsrail",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "Katil İsrail",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1499469758172905478",
+		"span": [ 
+			{
+			"text_span": "itrail askeri",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "onların bir orduları bile yok",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

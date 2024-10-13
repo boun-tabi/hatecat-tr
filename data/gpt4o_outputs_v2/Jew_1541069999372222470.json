@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1541069999372222470",
+		"span": [ 
+			{
+				"text_span": "hahrolasin itrail köpekleri",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "İsrail işgalleri teröristtir ırkçıdır siyonistir suçludur",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Heey kahhrolasin İsrail işgalleri",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

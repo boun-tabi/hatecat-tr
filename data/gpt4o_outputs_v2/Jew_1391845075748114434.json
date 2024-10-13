@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1391845075748114434",
+		"span": [ 
+			{
+			"text_span": "Siyonist",
+			"hate_speech_category": "Symbolization"
+			}
+		] 
+	}
+}

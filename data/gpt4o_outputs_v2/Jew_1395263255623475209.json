@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1395263255623475209",
+		"span": [
+			{
+				"text_span": "siyonist itrail işgalci güruhlarından",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

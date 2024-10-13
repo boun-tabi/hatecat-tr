@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1393464655729864705",
+		"span": [
+			{
+				"text_span": "itrail adına methiye düzersiniz ama islama ve ülkenize sinsi sinsi düşmanlık beslersiniz",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "ihanet prof’u",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1394000784333885445",
+		"span": [
+			{
+				"text_span": "#KuduesBizimdir #israilTerorist",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

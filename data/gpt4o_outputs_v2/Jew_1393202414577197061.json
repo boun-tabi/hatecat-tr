@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1393202414577197061",
+		"span": [ 
+			{
+				"text_span": "itrail ordusunun",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

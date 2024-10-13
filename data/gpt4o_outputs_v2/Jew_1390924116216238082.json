@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1390924116216238082",
+		"span": [ 
+			{
+			"text_span": "ne kadar adi bir milletmişsiniz",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

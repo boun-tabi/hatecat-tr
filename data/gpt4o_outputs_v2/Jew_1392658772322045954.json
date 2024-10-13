@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1392658772322045954",
+		"span": [
+			{
+				"text_span": "katilisrail",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Teroeristİsrail",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "amina kodumun İsraili",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1515165901544476673",
+		"span": [ 
+			{
+			"text_span": "siyonist İsrail’in Mescidi Aksa’da yaptığı",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

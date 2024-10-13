@@ -1,0 +1,12 @@
+
+{ 
+	"tweet": {
+		"id": "1390641144724344839",
+		"span": [ 
+			{
+			"text_span": "Gazzeyi abluka ya alan İsrail'i ve İslam topraklarındaki kurumlarını ablukaya almadıkça",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

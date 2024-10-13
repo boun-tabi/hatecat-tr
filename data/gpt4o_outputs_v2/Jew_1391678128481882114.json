@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1391678128481882114",
+		"span": [
+			{
+				"text_span": "Amerikanın köpeği İsrailin",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Helak olasın İsrail",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

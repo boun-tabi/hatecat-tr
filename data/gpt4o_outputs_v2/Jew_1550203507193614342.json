@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1550203507193614342",
+		"span": [
+			{
+				"text_span": "Kodumun itrail",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

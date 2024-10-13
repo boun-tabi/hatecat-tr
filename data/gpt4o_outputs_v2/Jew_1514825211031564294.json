@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1514825211031564294",
+		"span": [
+			{
+				"text_span": "#OrdularAksaya",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

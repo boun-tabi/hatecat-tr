@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1393735168557522944",
+		"span": [
+			{
+				"text_span": "kuduz köpek",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

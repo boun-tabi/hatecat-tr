@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1496074784437948421",
+		"span": [
+			{
+				"text_span": "büyük itrail kurulsun diye teslim eder",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "dna'larında var vermek, bölmek, ezmek, yok etmek, talan etmek",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Ülkemize hiç bir güzellik yakıştırmazlar",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

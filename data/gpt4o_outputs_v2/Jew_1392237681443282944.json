@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1392237681443282944",
+		"span": [ 
+			{
+			"text_span": "Teröristsiniz",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "Neden Çocuk Öldürüyorsunuz?",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

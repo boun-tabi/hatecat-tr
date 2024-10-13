@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1394042657027072000",
+		"span": [
+			{
+				"text_span": "İşgalci İsrail",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#IsraelTerrorism",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "#IsraelTerrorists",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

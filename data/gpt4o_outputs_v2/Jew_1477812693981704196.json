@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1477812693981704196",
+		"span": [
+			{
+				"text_span": "itrail yöneticisine one miinute çeken",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

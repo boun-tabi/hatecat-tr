@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1394393427211608065",
+		"span": [
+			{
+				"text_span": "#Yıkılasınisrâil",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

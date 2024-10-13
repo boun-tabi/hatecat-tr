@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1396040215131828226",
+		"span": [ 
+			{
+				"text_span": "siyonistler lanetlendi",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

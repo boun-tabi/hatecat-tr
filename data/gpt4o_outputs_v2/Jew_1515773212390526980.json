@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1515773212390526980",
+		"span": [
+			{
+				"text_span": "İsrail işgalleri",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "kahru perişan etsin",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

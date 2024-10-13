@@ -1,0 +1,27 @@
+{
+	"tweet": {
+		"id": "1393467610600288257",
+		"span": [
+			{
+				"text_span": "Soysuz",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "#Katilİsrail",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "#Soykırımcıİsrail",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "#SoyunKurusunİsrail",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "Kahru Perişan Eylesin",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

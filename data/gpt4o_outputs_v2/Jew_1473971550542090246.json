@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1473971550542090246",
+		"span": [ 
+			{
+			"text_span": "itrail",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "insanlığın yüzkarasi",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1385938987592847361",
+		"span": [
+			{
+				"text_span": "terörist netenyahu",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "zalim itrail pisrail rejimi",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1515167176810024961",
+		"span": [
+			{
+				"text_span": "Kapitalist ve siyonistlere fırsat vermeyeceğiz",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "siyonistlere fırsat vermeyeceğiz",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

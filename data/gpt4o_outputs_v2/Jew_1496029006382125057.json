@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1496029006382125057",
+		"span": [ 
+			{
+				"text_span": "İşgal güçleri",
+				"hate_speech_category": "Symbolization"
+			},
+			{
+				"text_span": "Katilİsrail",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

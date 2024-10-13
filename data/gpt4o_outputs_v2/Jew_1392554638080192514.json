@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1392554638080192514",
+		"span": [
+			{
+				"text_span": "siyonistler",
+				"hate_speech_category": "Symbolization"
+			},
+			{
+				"text_span": "Kahrolsun İsrail",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

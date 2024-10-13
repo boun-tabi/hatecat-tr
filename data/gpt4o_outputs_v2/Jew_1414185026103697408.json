@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1414185026103697408",
+		"span": [
+			{
+				"text_span": "#Kahrolisrail",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

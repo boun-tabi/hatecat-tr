@@ -1,0 +1,24 @@
+
+{
+	"tweet": {
+		"id": "1394072221795115009",
+		"span": [
+			{
+				"text_span": "#israilTerorist",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "#kahrolsunisrail",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "#GazzedeKatliamVar",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "#GazzedeSoykırım",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

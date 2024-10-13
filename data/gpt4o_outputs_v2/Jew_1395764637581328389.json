@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1395764637581328389",
+		"span": [
+			{
+				"text_span": "Canlı Soykırım Filistin'de",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

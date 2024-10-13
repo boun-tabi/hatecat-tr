@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1393037370140807173",
+		"span": [
+			{
+				"text_span": "#GazzedeKatliamVar",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

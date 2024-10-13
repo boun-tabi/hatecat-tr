@@ -1,0 +1,19 @@
+{ 
+	"tweet": {
+		"id": "1501473681528303616",
+		"span": [ 
+			{
+			"text_span": "Lanet olsun",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "Allahın gazabı üzerine olsun",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+			"text_span": "#kahrolisrail",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

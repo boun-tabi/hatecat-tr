@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1393505284442701825",
+		"span": [
+			{
+				"text_span": "#BebekKatiliİsrail",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "#TeeörDevletiİsrail",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1391814483245518851",
+		"span": [
+			{
+				"text_span": "İsrail'i durduruyoruz",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1392071872494383104",
+		"span": [
+			{
+				"text_span": "ZionistRaidlnAqsa",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

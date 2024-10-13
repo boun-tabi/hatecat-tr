@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1394892202615115777",
+		"span": [
+			{
+				"text_span": "Alçaksın israil.",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Terörist devletisin israil.",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "#Katilİsrail",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

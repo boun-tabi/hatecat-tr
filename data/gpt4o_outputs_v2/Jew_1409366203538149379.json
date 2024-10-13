@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1409366203538149379",
+		"span": [
+			{
+				"text_span": "YahudiLaknatullahGoToHell",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

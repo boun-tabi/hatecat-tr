@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1395751337741230082",
+		"span": [
+			{
+				"text_span": "İsraili yerle yeksan etme zamanı",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

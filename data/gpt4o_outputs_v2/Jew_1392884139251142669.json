@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1392884139251142669",
+		"span": [
+			{
+				"text_span": "İsrail, bir TERÖR DEVLETİDİR!",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

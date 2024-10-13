@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1391649027540897792",
+		"span": [
+			{
+				"text_span": "#AksadaSiyonistBaskın",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

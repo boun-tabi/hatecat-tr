@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1550447649299521538",
+		"span": [ 
+			{
+			"text_span": "işgalci itrail terör mahkemesi",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "Sizin sözde mahkemeleriniz",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

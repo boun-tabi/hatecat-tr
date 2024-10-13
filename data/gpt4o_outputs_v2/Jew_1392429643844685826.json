@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1392429643844685826",
+		"span": [ 
+			{
+				"text_span": "Terörist İsrail",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "katilisrail",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

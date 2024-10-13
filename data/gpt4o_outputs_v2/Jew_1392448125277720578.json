@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1392448125277720578",
+		"span": [
+			{
+				"text_span": "owever, the tweet itself as text analysis requires a clear presentation of hateful elements to categorize them correctly. The original provided phrase 'hapiste besleyeceğimize öldürüyoruz' translates to 'instead of feeding them in prison, we're killing them,' which is implied to reflect actions of a group or a state's policy decisions. It does not inherently target specific individuals without more explicit context.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

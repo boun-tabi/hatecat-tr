@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1391156874666467329",
+		"span": [
+			{
+				"text_span": "Kafirler",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

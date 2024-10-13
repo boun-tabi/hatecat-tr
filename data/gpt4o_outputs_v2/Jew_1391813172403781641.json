@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1391813172403781641",
+		"span": [
+			{
+				"text_span": "Yahudiler ikiye ayrılır bir yarısı Tevratı inkar edenlerin sonu yanaştı",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "itrailin can güvanliyi tehlikeye atılmıştır itrail yönetimi tarafından",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

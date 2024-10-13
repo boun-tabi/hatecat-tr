@@ -1,0 +1,16 @@
+
+{ 
+	"tweet": {
+		"id": "1429191896002437123",
+		"span": [ 
+			{
+				"text_span": "katilisrail",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "benzonaisrail",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

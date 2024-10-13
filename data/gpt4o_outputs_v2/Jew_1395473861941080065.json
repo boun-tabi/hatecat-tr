@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1395473861941080065",
+		"span": [ 
+			{
+			"text_span": "şu itrail",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "yıkılsın artık",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

@@ -1,0 +1,12 @@
+
+{ 
+	"tweet": {
+		"id": "1390866915791364102",
+		"span": [ 
+			{
+			"text_span": "Kahrolsunİsrail",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

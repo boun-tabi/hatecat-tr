@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1395831168076075009",
+		"span": [ 
+			{
+				"text_span": "itrail işgalci, çocuk katili bir terör örgütüdür",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

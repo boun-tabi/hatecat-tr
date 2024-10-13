@@ -1,0 +1,12 @@
+
+{ 
+	"tweet": {
+		"id": "1394319809689575428",
+		"span": [ 
+			{
+			"text_span": "#HearGaza",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

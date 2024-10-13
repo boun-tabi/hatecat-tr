@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1393895488928296960",
+		"span": [ 
+			{
+			"text_span": "SonunGeldiKöpekİsrail",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

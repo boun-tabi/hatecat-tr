@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1393545257313349642",
+		"span": [
+			{
+				"text_span": "Emperyalstleri",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

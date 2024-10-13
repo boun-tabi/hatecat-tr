@@ -1,0 +1,19 @@
+{ 
+	"tweet": {
+		"id": "1390979247653666818",
+		"span": [ 
+			{
+			"text_span": "İsrail'i bir köpek yerine katmışlar",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "İsrail köpeğin dışkısı olamaz",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "#kahrolsunisrail",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1413859045757407232",
+		"span": [
+			{
+				"text_span": "itrail teröristtir",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "hırsızdır",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "zayıf ve korunmasızların cellatıdır",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

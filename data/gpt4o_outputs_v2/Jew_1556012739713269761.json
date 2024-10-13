@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1556012739713269761",
+		"span": [
+			{
+				"text_span": "Siyonist vahşet",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "aralıksız devam ediyor",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1392977365404463114",
+		"span": [
+			{
+				"text_span": "Katil İsraile",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Yaktığınız ateşte yanın!",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

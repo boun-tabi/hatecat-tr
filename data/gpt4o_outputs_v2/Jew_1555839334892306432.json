@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1555839334892306432",
+		"span": [
+			{
+				"text_span": "#zalimleriçinyaşasıncehennem",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

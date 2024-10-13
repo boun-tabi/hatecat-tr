@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1392251293285093377",
+		"span": [
+			{
+				"text_span": "İsrailin Selası Olacak",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

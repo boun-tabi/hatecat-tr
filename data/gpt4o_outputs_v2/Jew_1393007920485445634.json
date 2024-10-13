@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1393007920485445634",
+		"span": [ 
+			{
+			"text_span": "#KuduesBizimdir",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "#IsraelTerrorist",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

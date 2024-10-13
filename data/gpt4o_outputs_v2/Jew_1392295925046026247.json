@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1392295925046026247",
+		"span": [
+			{
+				"text_span": "azgın sapkın İtrail",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

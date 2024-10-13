@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1449775338897219586",
+		"span": [
+			{
+				"text_span": "SİYONİZM SUÇ(LU)DUR",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#kahrolsunsiyonizm",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "#Terroristisrail",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1393380435653234689",
+		"span": [
+			{
+				"text_span": "kahhar ismi şerifinle kahreyle gönder ebabilleri",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

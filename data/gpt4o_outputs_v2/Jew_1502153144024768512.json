@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1502153144024768512",
+		"span": [
+			{
+				"text_span": "Kahrol itrail",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "yoksa hic sahibine kahrol dermi valla yatacak yeriniz yok",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "not bilerel itrail yazdım yazım hatası degil",
+				"hate_speech_category": "Symbolization"
+			}
+		]
+	}
+}

@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1391935798254178310",
+		"span": [ 
+			{
+			"text_span": "Zalim siyonistleri helak eyle",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

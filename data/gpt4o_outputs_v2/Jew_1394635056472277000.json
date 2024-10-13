@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1394635056472277000",
+		"span": [
+			{
+				"text_span": "Çocuk öldürmek firavun meshebinde bir ibadettir.",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

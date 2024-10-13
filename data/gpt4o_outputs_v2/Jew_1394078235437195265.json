@@ -1,0 +1,16 @@
+
+{ 
+	"tweet": {
+		"id": "1394078235437195265",
+		"span": [ 
+			{
+			"text_span": "zalim",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "katliam",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

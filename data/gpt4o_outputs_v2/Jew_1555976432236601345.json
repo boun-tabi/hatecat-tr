@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1555976432236601345",
+		"span": [ 
+			{
+			"text_span": "Terör devleti itrail",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "belasını tez zamanda bulsun",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

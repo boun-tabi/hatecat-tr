@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1395780647357136900",
+		"span": [
+			{
+				"text_span": "#IsraelTerrorist",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "#Katilİsrail",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "#GenocideinGazza",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

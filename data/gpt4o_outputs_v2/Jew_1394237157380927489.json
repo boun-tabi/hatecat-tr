@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1394237157380927489",
+		"span": [ 
+			{
+			"text_span": "LGBT'yi yaymaya çalışan bir güruh",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "bize düşüyor",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

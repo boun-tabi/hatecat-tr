@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1394390058224992262",
+		"span": [
+			{
+				"text_span": "OrdularAksaya",
+				"hate_speech_category": "Symbolization"
+			}
+		]
+	}
+}

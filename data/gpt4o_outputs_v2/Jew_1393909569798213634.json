@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1393909569798213634",
+		"span": [
+			{
+				"text_span": "KAHROLSUN İSRAİL",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1392570269844312074",
+		"span": [
+			{
+				"text_span": "çocukları şehit eden, kan ve gözyaşından beslenen",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "kutsal düşmanı bir terör devletidir",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "#Katilİsrail",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1392490684507201537",
+		"span": [
+			{
+				"text_span": "soylu bir öfke ve fetih ruhu",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

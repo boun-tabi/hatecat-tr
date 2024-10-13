@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1391693183155904515",
+		"span": [ 
+			{
+			"text_span": "İsrail barbarlarının zulmüne",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

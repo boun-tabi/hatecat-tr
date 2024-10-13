@@ -1,0 +1,19 @@
+{ 
+	"tweet": {
+		"id": "1498714856144478212",
+		"span": [ 
+			{
+			"text_span": "KAHROL İSRAİL",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+			"text_span": "İNŞALLAH EN KİSA ZAMANDA YOK OLURSUN",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+			"text_span": "#KATİLİSRAİL",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

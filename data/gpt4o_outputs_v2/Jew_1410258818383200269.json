@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1410258818383200269",
+		"span": [
+			{
+				"text_span": "itrail",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

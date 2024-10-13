@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1393308652879196160",
+		"span": [
+			{
+				"text_span": "İşgalci",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion "
+			},
+			{
+				"text_span": "#Teröristİsrail",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"tweet": {
+		"id": "1515033218197643267",
+		"span": [
+			{
+				"text_span": "#kudüsesahipçık",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#kudüsislamındır",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#kudüsesahipçık",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#kuduesmuesluemanlarındır",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#KudusBizimdir",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

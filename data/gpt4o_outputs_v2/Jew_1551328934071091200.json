@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1551328934071091200",
+		"span": [
+			{
+				"text_span": "Elin itraillisi ne yapsın",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "Hayatta kalmaya çalışan bir devletten ötesi değildir itrail.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

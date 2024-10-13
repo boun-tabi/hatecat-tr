@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1394600819132149767",
+		"span": [ 
+			{
+				"text_span": "Alçak itrail",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

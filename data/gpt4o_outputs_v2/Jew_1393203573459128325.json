@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1393203573459128325",
+		"span": [
+			{
+				"text_span": "kahpenin dölleri",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Siz seçilmiş değil lanetlenmişlersiniz",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1393074019948244992",
+		"span": [
+			{
+				"text_span": "#GenocideinGaza",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "#Aksadabaskınvar",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

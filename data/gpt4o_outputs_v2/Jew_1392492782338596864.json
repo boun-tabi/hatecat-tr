@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1392492782338596864",
+		"span": [
+			{
+				"text_span": "#ShameOnYouIsrael",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "#IsraeliTerrorism",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "#IsraeliCrimes",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

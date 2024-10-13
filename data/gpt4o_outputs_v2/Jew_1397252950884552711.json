@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1397252950884552711",
+		"span": [
+			{
+				"text_span": "itrail kafiri",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1515101360081059848",
+		"span": [ 
+			{
+			"text_span": "Gasıp Yahudi varlığının 70 küsur yıldır süren işgal ve zulümlerine",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "Kudüs artık icraat bekliyor. Bir Selahaddin vuruşu",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

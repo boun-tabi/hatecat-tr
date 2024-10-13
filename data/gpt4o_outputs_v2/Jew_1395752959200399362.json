@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1395752959200399362",
+		"span": [
+			{
+				"text_span": "İŞGALCİLERİN",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "TEK-BİR GETİRMEK İMANIN ZİRVEYE ÇIKTI AN BUDUR",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

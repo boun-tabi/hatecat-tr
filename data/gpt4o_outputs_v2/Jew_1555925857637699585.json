@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1555925857637699585",
+		"span": [
+			{
+				"text_span": "İsrail'i Şiddetle Kınıyorum.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

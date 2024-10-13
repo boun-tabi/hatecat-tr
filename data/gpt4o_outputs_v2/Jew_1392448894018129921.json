@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1392448894018129921",
+		"span": [ 
+			{
+			"text_span": "#IsraelTerrorist",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "#AksadaZulumVar",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

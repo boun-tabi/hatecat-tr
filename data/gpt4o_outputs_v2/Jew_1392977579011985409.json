@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1392977579011985409",
+		"span": [ 
+			{
+				"text_span": "Döktüğünüz kanda boğulun",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1557079183712571392",
+		"span": [ 
+			{
+				"text_span": "batışın yakındır",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

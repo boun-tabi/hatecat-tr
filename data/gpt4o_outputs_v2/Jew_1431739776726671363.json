@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1431739776726671363",
+		"span": [
+			{
+				"text_span": "#katilisrail",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "#babykillerisrael",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

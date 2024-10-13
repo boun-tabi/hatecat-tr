@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1501615098628087815",
+		"span": [
+			{
+				"text_span": "Milyonlarca Müslümanın kanının akmasına sebep olan itrail",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "itrail",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

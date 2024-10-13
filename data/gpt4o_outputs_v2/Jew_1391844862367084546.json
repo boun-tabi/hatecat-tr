@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1391844862367084546",
+		"span": [
+			{
+				"text_span": "'barışçıl'",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "bu iki oluşum ortadoğuya tekrar 'barış ve demokrasi' için savaş götürür",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

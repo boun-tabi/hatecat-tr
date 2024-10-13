@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1393264520064286725",
+		"span": [
+			{
+				"text_span": "küffar ordusuna karşı",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

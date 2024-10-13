@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1557074941551562752",
+		"span": [
+			{
+				"text_span": "#İsrailHaddiniBil",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

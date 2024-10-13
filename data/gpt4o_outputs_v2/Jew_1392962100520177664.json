@@ -1,0 +1,24 @@
+
+{
+	"tweet": {
+		"id": "1392962100520177664",
+		"span": [
+			{
+				"text_span": "Siyonizme",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "satılmışlara",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "işbirlikçilere",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "piyonlara",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

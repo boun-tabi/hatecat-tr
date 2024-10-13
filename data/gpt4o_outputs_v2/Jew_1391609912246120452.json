@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1391609912246120452",
+		"span": [
+			{
+				"text_span": "#AksadaSiyonistBaskın",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

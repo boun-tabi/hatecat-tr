@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1391950050549436417",
+		"span": [
+			{
+				"text_span": "siyonist katiller",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

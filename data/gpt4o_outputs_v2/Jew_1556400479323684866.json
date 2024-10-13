@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1556400479323684866",
+		"span": [
+			{
+				"text_span": "Müslümanların kanı İle Kurulmuş bir devletin",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "eli kanlı İsrail",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

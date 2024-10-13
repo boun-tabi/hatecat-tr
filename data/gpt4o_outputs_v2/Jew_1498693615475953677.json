@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1498693615475953677",
+		"span": [
+			{
+				"text_span": "Allahın laneti üzerine olsun itrail",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

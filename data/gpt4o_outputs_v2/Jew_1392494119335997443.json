@@ -1,0 +1,16 @@
+
+{ 
+	"tweet": {
+		"id": "1392494119335997443",
+		"span": [ 
+			{
+			"text_span": "#israilteroerdevletidir",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "#IsraeliTerrorism",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

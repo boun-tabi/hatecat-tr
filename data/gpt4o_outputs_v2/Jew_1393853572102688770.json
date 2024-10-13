@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1393853572102688770",
+		"span": [ 
+			{
+				"text_span": "Şerefsiz itrail",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1392146954881224705",
+		"span": [
+			{
+				"text_span": "işgalci",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

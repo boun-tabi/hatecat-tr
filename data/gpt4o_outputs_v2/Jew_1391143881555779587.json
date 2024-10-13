@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1391143881555779587",
+		"span": [
+			{
+				"text_span": "Irkçı terör örgütü israil",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "mutlak şerdir",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

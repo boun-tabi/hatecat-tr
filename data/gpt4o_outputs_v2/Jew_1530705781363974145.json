@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1530705781363974145",
+		"span": [
+			{
+				"text_span": "işgalci İsrail",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "işgalci fanatik Yahudilerin",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

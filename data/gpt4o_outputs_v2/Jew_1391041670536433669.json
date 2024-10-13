@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1391041670536433669",
+		"span": [
+			{
+				"text_span": "Yahudi varlığını bu derece cesaretlendiren şey nedir?",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Her sene şiddetini artıran saldırıların sebebi nedir?",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

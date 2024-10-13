@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1393667541269159948",
+		"span": [
+			{
+				"text_span": "Filistinde SOYKIRIM VAR!!!",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "IsraeliTerrorism",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

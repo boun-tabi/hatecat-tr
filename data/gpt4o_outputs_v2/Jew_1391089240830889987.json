@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1391089240830889987",
+		"span": [
+			{
+				"text_span": "alayini siler geceriz",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1382832299268530178",
+		"span": [
+			{
+				"text_span": "#Katilisrail",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1393473196612100100",
+		"span": [ 
+			{
+			"text_span": "Yahudi’ye fırlatılmış bir taş da mı olamam ben?",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

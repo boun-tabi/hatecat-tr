@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1416520108604805123",
+		"span": [
+			{
+				"text_span": "itrail",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Allah üzerine ebabil kuşlarını yağdırsın",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "Bittiğin,tükendiğin günleri görmek bize nasip olsun",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

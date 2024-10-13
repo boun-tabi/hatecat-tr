@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1431585307124711426",
+		"span": [ 
+			{
+			"text_span": "yavrusu itrail",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "itrail eşittir terör",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

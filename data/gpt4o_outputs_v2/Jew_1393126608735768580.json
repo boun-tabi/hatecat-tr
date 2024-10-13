@@ -1,0 +1,10 @@
+
+{
+	"tweet": {
+		"id": "1393126608735768580",
+		"span": []
+	}
+}
+``` 
+
+Explanation: The tweet contains hashtags related to current events but does not contain any explicit hate speech spans targeting Jews.

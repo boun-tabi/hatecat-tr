@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1525812043701440512",
+		"span": [ 
+			{
+			"text_span": "itrail diye bir ülke yok",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1482656585310773248",
+		"span": [ 
+			{
+			"text_span": "itrail elçiliği",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "siyonist seviciliği yapmış",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

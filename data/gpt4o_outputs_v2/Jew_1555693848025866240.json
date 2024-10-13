@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1555693848025866240",
+		"span": [
+			{
+				"text_span": "lanetlik israel",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "şeref yoksunu israel",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

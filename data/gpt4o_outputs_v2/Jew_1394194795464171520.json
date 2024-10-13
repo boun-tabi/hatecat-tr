@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1394194795464171520",
+		"span": [ 
+			{
+				"text_span": "Ey siyonist İsrail sonun yakındır",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "Rabbim seni yerle bir edecektir",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

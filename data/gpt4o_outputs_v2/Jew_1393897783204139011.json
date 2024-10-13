@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1393897783204139011",
+		"span": [
+			{
+				"text_span": "#katilisrail",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "#BabyKillerIsrael",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

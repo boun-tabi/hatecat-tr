@@ -1,0 +1,19 @@
+{ 
+	"tweet": {
+		"id": "1515156707390984193",
+		"span": [ 
+			{
+			"text_span": "İngilizi siyonisti hiç rahat durmaz",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "bu alçaklardan dost müttefik olmaz",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "alçakların sözüne itibar edilmez",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

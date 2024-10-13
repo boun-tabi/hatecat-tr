@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1514963198516072454",
+		"span": [
+			{
+				"text_span": "Habis İsrail",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "gösterdiği sayısız mel’anete",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "cür’et ettiği pislikleri",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

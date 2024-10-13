@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1393006096349110283",
+		"span": [
+			{
+				"text_span": "Allah Zalimleri Kahretsin",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "Bayramlık giyecek yaşta kefen Giydirdiğiniz tüm masum çocukların Ahı bırakmasın yakanızı Zalimler",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

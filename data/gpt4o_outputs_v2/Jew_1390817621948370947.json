@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1390817621948370947",
+		"span": [
+			{
+				"text_span": "İsrail bir terör devletidir",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "İşgalci köpekler",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Sözde devlet",
+				"hate_speech_category": "Dehumanization"
+			}
+		]
+	}
+}

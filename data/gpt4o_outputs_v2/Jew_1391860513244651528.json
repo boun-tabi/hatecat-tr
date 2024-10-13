@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1391860513244651528",
+		"span": [
+			{
+				"text_span": "oraların yıkılması için çabalayandan daha zalim kim olabilir?",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Onlara dünyada rezillik, ahirette de büyük bir azap vardır.",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

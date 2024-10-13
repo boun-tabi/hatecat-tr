@@ -1,0 +1,24 @@
+
+{ 
+	"tweet": {
+		"id": "1392221598409707522",
+		"span": [ 
+			{
+			"text_span": "#Katilİsrail",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "#Kahrolsunİsrail",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+			"text_span": "#KahrolsunİsrailDestekcileri",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+			"text_span": "#Kudusİslamındır",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1391084153303715841",
+		"span": [ 
+			{
+			"text_span": "ihanettir",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

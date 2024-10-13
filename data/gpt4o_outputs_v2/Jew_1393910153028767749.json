@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1393910153028767749",
+		"span": [
+			{
+				"text_span": "İsrail terörüne karşı zaafınız",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Hainsiniz korkaksınız ahmâksınız",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

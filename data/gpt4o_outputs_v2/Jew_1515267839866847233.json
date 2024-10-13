@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1515267839866847233",
+		"span": [ 
+			{
+			"text_span": "İşgalciler",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "toplu saldırı çağrısı yapıyor",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

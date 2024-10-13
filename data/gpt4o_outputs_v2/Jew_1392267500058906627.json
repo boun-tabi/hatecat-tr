@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1392267500058906627",
+		"span": [ 
+			{
+				"text_span": "Terörist, katil İsrailoğulları’nı durdurun.",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

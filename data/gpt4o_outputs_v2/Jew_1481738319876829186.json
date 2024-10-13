@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1481738319876829186",
+		"span": [ 
+			{
+				"text_span": "yahudi hahamlara üzgün olduğunu ifade ediyor",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

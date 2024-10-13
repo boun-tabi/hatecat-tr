@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1395495340111978498",
+		"span": [
+			{
+				"text_span": "#Kahrolsunİsrail",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "#İsraelTerorist",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "#Siyonist",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

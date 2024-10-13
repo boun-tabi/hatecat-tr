@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1394842653607571462",
+		"span": [
+			{
+				"text_span": "İnsanlık düşmanı",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

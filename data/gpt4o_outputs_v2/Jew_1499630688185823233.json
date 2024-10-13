@@ -1,0 +1,16 @@
+
+{ 
+	"tweet": {
+		"id": "1499630688185823233",
+		"span": [ 
+			{
+			"text_span": "bu Yehudi zelenski",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "itrali ABD projesidir",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

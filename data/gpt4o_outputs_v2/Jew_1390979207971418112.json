@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1390979207971418112",
+		"span": [
+			{
+				"text_span": "#Kudusİslamındır",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

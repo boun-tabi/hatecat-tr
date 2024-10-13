@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1393072794838183936",
+		"span": [ 
+			{
+			"text_span": "#bebekkatiliisrail",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1394972347308945410",
+		"span": [
+			{
+				"text_span": "#Yıkılasınisrail",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

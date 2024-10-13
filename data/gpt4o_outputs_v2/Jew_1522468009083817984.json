@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1522468009083817984",
+		"span": [
+			{
+				"text_span": "ağababası itrail",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

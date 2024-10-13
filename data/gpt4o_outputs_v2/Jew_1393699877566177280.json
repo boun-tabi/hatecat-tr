@@ -1,0 +1,24 @@
+
+{ 
+	"tweet": {
+		"id": "1393699877566177280",
+		"span": [ 
+			{
+			"text_span": "#الأقصى_يستصرخ_الجيوش",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+			"text_span": "Aqsa_calls_armies",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+			"text_span": "#AqsaCallsArmies",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+			"text_span": "#OrdularAksaya",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

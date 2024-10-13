@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1393898142509109252",
+		"span": [
+			{
+				"text_span": "#IsraelPenjajah",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "#IsraelTerrorists",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

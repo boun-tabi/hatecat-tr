@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1392642645244223490",
+		"span": [
+			{
+				"text_span": "#TerroristIsreal",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

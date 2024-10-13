@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1392738142134931458",
+		"span": [
+			{
+				"text_span": "#AksadaZulumVar",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

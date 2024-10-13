@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1391936054094073856",
+		"span": [ 
+			{
+			"text_span": "Ey kafirler, yenileceksiniz ve cehenneme sürüleceksiniz.",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+			"text_span": "Kahrolacaksın İsrail. Yakındır...",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

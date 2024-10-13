@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1392430768895545347",
+		"span": [ 
+			{
+			"text_span": "#IsraeliTerrorism",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

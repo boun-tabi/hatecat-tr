@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1392474492610433024",
+		"span": [
+			{
+				"text_span": "#Teröristisrail",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

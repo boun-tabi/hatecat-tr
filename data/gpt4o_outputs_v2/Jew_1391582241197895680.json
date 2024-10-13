@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1391582241197895680",
+		"span": [
+			{
+				"text_span": "tüm küffara zalimlere",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

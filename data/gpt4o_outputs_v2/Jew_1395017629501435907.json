@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1395017629501435907",
+		"span": [ 
+			{
+			"text_span": "Ben senin öldürdüklerine ses çıkarmadım ümmet de uyanmak üzere öldürdüklerin şimdilik yeter",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

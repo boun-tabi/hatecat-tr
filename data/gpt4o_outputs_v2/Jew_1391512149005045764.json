@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1391512149005045764",
+		"span": [
+			{
+				"text_span": "Terör Devleti İsrail",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "GELİYORUZ",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

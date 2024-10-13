@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1392656703288758273",
+		"span": [ 
+			{
+				"text_span": "Yok olacaksın",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "iTrail",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

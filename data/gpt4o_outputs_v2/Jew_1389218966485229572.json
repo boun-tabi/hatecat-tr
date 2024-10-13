@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1389218966485229572",
+		"span": [
+			{
+				"text_span": "Kahrolsun yerli itrail",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Onlar,camilerinde,dininde sadece kendilerine ait olmasını istiyorlar",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

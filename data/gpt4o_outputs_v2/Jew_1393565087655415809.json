@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1393565087655415809",
+		"span": [
+			{
+				"text_span": "çocuk katillerinin",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

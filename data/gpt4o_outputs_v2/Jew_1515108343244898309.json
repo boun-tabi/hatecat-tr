@@ -1,0 +1,19 @@
+{ 
+	"tweet": {
+		"id": "1515108343244898309",
+		"span": [ 
+			{
+			"text_span": "Siyonist işgalci",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "hunharca",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "Bu hayasız tasallutu adet haline getiren",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

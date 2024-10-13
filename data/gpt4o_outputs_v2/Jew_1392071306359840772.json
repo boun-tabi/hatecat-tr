@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1392071306359840772",
+		"span": [ 
+			{
+			"text_span": "Çocuk katilisin",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "sırf müslümanlara yapıldığı için göz yumuyor",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

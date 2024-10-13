@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1391196334213017600",
+		"span": [ 
+			{
+			"text_span": "Allah belanızı versin",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "itrail",
+			"hate_speech_category": "Symbolization"
+			}
+		] 
+	}
+}

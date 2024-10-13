@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1392877217466695680",
+		"span": [
+			{
+				"text_span": "İSRAİL DEVLETİNİN TERÖRİSLERE",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "ÖLÜM YAŞASIN CEHENNEM",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "Katil",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

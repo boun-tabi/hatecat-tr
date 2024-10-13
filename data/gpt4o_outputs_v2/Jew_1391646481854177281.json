@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1391646481854177281",
+		"span": [
+			{
+				"text_span": "şirret halkı",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"tweet": {
+		"id": "1392400701377101825",
+		"span": [
+			{
+				"text_span": "Öyle adisiniz ki!",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "#katilisrail",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "#IsraeliTerrorism",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "#israilterordevletidir",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

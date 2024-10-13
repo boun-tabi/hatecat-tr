@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1391519975656013826",
+		"span": [
+			{
+				"text_span": "İtler",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

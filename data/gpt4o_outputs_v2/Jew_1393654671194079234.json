@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1393654671194079234",
+		"span": [ 
+			{
+			"text_span": "Bugün aldığımız her ürün bir gün bize kurşun ve bomba olarak geri dönecek",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+			"text_span": "#israilterördevletidir",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

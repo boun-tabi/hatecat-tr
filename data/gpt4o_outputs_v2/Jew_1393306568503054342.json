@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1393306568503054342",
+		"span": [
+			{
+				"text_span": "sizi gaz odalarına gönderen Almanya’ya saldırmıyorsunuz",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

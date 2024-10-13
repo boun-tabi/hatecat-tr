@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1393308795707793413",
+		"span": [
+			{
+				"text_span": "#tetoristisrael",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

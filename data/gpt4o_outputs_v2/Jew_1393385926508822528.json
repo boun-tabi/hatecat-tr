@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1393385926508822528",
+		"span": [ 
+			{
+			"text_span": "işgalci israil",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

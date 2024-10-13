@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1393083119973060609",
+		"span": [
+			{
+				"text_span": "Kahrolası israil",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "#IsraelTerrorist",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1391184822895366145",
+		"span": [
+			{
+				"text_span": "#KudüsBizimdir",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#MescidiAksa",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

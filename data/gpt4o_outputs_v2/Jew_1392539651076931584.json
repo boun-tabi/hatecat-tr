@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1392539651076931584",
+		"span": [
+			{
+				"text_span": "#isgalciisraill",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#IsraeliTerrorism",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

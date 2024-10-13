@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1515280084445376513",
+		"span": [ 
+			{
+			"text_span": "Hayber’i hatırla Hayber’i ey Yahudi!",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+			"text_span": "Muhammed’in (aleyhisselam) ordusu geri gelecek!",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

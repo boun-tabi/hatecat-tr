@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1391111844375453701",
+		"span": [
+			{
+				"text_span": "Yahûdî askerlerini Allâh-u Teâlâ kahreylesin",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "devletlerini param parça eylesin",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

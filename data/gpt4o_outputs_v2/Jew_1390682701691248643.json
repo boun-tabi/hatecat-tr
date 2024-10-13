@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1390682701691248643",
+		"span": [
+			{
+				"text_span": "#KudüsBizimdir",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

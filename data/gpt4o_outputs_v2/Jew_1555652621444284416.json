@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1555652621444284416",
+		"span": [ 
+			{
+			"text_span": "hırsız topluluğu",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

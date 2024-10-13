@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1393124502180139008",
+		"span": [ 
+			{
+			"text_span": "Teröristİsrail",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "Zalimsinİsrail",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

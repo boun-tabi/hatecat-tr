@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1394070083429965829",
+		"span": [
+			{
+				"text_span": "İtrail terörist devlettir",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

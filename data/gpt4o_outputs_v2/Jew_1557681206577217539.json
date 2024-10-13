@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1557681206577217539",
+		"span": [
+			{
+				"text_span": "ey Yahudiler",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

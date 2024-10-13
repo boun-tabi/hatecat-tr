@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1396172583683383299",
+		"span": [
+			{
+				"text_span": "#الأقصى_يستصرخ_الجيوش",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "#OrdularAksaya",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

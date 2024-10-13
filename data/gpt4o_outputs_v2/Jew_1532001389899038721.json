@@ -1,0 +1,23 @@
+{
+	"tweet": {
+		"id": "1532001389899038721",
+		"span": [
+			{
+				"text_span": "siyonist israil marşı",
+				"hate_speech_category": "Symbolization"
+			},
+			{
+				"text_span": "yetmedimi bu itrail'den çektiğimiz",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "lanetler olsun bu itrail marşın bizlere dinleten şerefsizlere",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "SİZLERİ KINIYORUM LANETLİLER",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

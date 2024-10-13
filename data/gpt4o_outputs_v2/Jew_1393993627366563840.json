@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1393993627366563840",
+		"span": [
+			{
+				"text_span": "İt sürüsü",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "tabi yersen",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

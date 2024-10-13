@@ -1,0 +1,12 @@
+
+{ 
+	"tweet": {
+		"id": "1522092745699074049",
+		"span": [ 
+			{
+			"text_span": "ırkçılık, sömürgecilik ve 19. yy. Batı ulusçuluğundan doğmuş siyasi siyonizmdir",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

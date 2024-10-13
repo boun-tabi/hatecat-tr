@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1395860459929182208",
+		"span": [
+			{
+				"text_span": "#MescidiAksadaBaskınVar",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "#KuduesBizimdir",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#Kuduesİslamındır",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

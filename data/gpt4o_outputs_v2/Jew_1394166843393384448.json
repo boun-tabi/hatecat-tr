@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1394166843393384448",
+		"span": [
+			{
+				"text_span": "Katil İsrail! Masumları katleden çocuk yaşlı büyük küçük demeden öldüren, şehit eden katil İsrail!",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Nefretinizde boğulun!",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

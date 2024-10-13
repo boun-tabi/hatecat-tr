@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1393006076925292546",
+		"span": [ 
+			{
+			"text_span": "Allah kahretsin sizi",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

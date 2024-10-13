@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1374047091622871041",
+		"span": [ 
+			{
+			"text_span": "küresel terörün yılan başının itrail olduğunu bilmişti",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1392367770357182466",
+		"span": [
+			{
+				"text_span": "Çocuklar ölürken dans edenlerin",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "#katilisrail",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "#teröristisrail",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

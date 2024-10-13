@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1392555072844976131",
+		"span": [
+			{
+				"text_span": "#Katilİsrail",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

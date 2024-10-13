@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1513343940744855561",
+		"span": [ 
+			{
+			"text_span": "siyonistin askerlerin",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "#Katilİsrail",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

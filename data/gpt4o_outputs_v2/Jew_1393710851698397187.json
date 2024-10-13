@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1393710851698397187",
+		"span": [
+			{
+				"text_span": "#kahrolsunisrail",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "#ısraeliTerrorism",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "#GenocideinGaza",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1517428637993254912",
+		"span": [ 
+			{
+				"text_span": "istedikleri gibi ayı oynatırlar",
+				"hate_speech_category": "Dehumanization"
+			},
+			{
+				"text_span": "müslüman kanı dökerler",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

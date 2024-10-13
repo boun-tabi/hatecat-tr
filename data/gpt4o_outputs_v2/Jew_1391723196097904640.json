@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1391723196097904640",
+		"span": [
+			{
+				"text_span": "#Aksadabaskınvar",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1390818466777665536",
+		"span": [
+			{
+				"text_span": "Gögüs göğüse çarpışmalı, ümüğü sıkılmalı, nefesi kesilmeli",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "Yıkılasın #Israel #israil",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "#Terroristisrael #Terroristisrael",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

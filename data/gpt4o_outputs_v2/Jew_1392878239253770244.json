@@ -1,0 +1,16 @@
+
+{ 
+	"tweet": {
+		"id": "1392878239253770244",
+		"span": [ 
+			{
+			"text_span": "İsrail e anladığı dilden OKKKALI bir tokat atılması lazım",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+			"text_span": "#Katilİsrail",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

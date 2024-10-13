@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1392206470654070785",
+		"span": [
+			{
+				"text_span": "KAHROLSUN İSRAİL",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "#israilTerorist",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "#aksadaSiyonistBaskın",
+				"hate_speech_category": "Symbolization"
+			}
+		]
+	}
+}
