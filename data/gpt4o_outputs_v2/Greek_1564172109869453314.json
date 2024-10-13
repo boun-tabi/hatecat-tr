@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1564172109869453314",
+		"span": [
+			{
+				"text_span": "Yunan işgal etseydi bunları yapamazdı örneğini nereye taşıyor",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

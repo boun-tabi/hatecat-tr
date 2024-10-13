@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1534603689331138560",
+		"span": [
+			{
+				"text_span": "adamlar küçük adaları işgal ederken adalar silahlandirilirken",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

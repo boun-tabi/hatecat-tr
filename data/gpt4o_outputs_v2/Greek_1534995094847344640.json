@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1534995094847344640",
+		"span": [
+			{
+				"text_span": "Alevileri kamu görevlerine almayın.",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "Mecbur kalsanız bile kapıcılıktan başka görev vermeyin!",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

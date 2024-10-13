@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1567180011269914624",
+		"span": [ 
+			{
+				"text_span": "Yunanistan askeri açıdan güçsüz.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Adamların ülkesi zaten bizim bi İstanbul ediyor aq.",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

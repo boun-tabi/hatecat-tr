@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1568535496493568000",
+		"span": [
+			{
+				"text_span": "siz dökmediniz denize biz döktük gerekirse sizide yüzdürürüz egenin serin sulalarında",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "dedeleriniz kümesde saklanmadımı savaşda",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "kimin yunan tohumu olduğunu iyi biliyoruz",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

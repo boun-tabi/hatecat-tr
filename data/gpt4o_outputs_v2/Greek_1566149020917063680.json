@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1566149020917063680",
+		"span": [
+			{
+				"text_span": "“Ankara'ya bir saatte geliriz” diyen Yunan Bakan'a",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "Yunanistan’a hitaben yaptığı \"Bir gece ansızın gelebiliriz\"",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

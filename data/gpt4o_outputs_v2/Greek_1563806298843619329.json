@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1563806298843619329",
+		"span": [
+			{
+				"text_span": "yunan enikleri",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

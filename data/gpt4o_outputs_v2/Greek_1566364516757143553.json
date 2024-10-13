@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1566364516757143553",
+		"span": [ 
+			{
+			"text_span": "Emperyalistlerin taşeronu Yunanistan Hükümeti",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

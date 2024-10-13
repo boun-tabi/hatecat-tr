@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1498200182692925440",
+		"span": [
+			{
+				"text_span": "18 ada yi yunistan isgal etmis",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

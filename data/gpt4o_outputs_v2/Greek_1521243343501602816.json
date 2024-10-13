@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1521243343501602816",
+		"span": [
+			{
+				"text_span": "yunan Ülkemi işgal edip yakıp-yıktı ve önümüze katıp denize döktük",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "\"ADAM\" KARISINI YUNAN KRALININ KOLUNA TAKTI",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "ne ara bu kadar DEYYUS olabildik",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

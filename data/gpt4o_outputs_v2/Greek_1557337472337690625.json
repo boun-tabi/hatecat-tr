@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1557337472337690625",
+		"span": [
+			{
+				"text_span": "Yunan tohumu",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "izmirden Çıkartıp selanige atın izmire Bereket gelir",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

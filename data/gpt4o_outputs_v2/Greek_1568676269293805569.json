@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1568676269293805569",
+		"span": [
+			{
+				"text_span": "YUNAN,ERMENİ TOHUMU VEYA YAHUDİ BOZMASIDIR",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

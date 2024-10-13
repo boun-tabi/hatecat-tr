@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1538618601862836227",
+		"span": [ 
+			{
+			"text_span": "Yunanistan savaş açacak",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+			"text_span": "Yunanın savaş açmasına gerek kalmaz, direk verir adaları",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

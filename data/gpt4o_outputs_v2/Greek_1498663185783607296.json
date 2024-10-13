@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1498663185783607296",
+		"span": [
+			{
+				"text_span": "İstanbul'u Yunan toprağı gibi gösteren",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

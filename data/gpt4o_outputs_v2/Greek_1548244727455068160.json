@@ -1,0 +1,23 @@
+{ 
+	"tweet": {
+		"id": "1548244727455068160",
+		"span": [ 
+			{
+			"text_span": "Ne Selanik kalır ne Atina ne de adalar taş üstünde taş kalmaz",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+			"text_span": "çok ufak v ülke",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "istersek yunanistani ablukaya alır aç bile bırakırız",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+			"text_span": "Siz ufak ve ordusu güçsüz bir ulkesiniz",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

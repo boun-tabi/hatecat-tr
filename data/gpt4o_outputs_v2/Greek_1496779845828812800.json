@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1496779845828812800",
+		"span": [
+			{
+				"text_span": "keske yunan galip gelseydi diyen hainin döl artigisiniz",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Türkün düşmanisiniz",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "haindiniz",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1564962280428765185",
+		"span": [
+			{
+				"text_span": "Yunan ordusunun işgal sırasında yaptığı katliamları, köy yakmaları, tecavüzleri, vahşice cinayetleri",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Bak bunlar sizin bir yerinizden uydurduğunuz gibi de değil saf belgeli tanıklı gerçekler.",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

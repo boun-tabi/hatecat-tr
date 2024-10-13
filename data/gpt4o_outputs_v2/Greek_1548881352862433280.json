@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1548881352862433280",
+		"span": [ 
+			{
+				"text_span": "Yunanistan’a karşı Türkiye’nin olası bir durumda kuvvet kullanması meşru hakkıdır",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

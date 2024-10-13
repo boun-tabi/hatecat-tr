@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1568404094531821570",
+		"span": [
+			{
+				"text_span": "gavur ölür soyu kalır",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "gavuru İzmir'den denize döktük diyorsa yalan söylüyor",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "İzmir'in yunan tarafından işgali devam ediyor",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

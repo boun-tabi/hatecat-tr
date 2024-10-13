@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1535000173159534593",
+		"span": [
+			{
+				"text_span": "Emperyalizmin şımarık çocuğu Yunanistan",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "sizin haddiniz bildirmeye hazırız",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

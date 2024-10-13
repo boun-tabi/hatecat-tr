@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1566422395761606656",
+		"span": [
+			{
+				"text_span": "yunanida denize bidaha gömerim",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

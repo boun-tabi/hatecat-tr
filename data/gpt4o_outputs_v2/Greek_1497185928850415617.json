@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1497185928850415617",
+		"span": [
+			{
+				"text_span": "ölelim yunanla ortak savaşa girmeyelim",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1533882095264837634",
+		"span": [
+			{
+				"text_span": "Bence Yunanistan'ın en son isteyeceği şey düşman bir Türkiye.",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "hava sahası ihlali falan hikaye",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Ulan savaş olsa ancak kalkar 40 uçak.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

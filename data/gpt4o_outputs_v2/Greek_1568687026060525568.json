@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1568687026060525568",
+		"span": [
+			{
+				"text_span": "Gündem Yunan seviciliği.",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "İçimizde ki Yunanlılar",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "#YunanTohumları",
+				"hate_speech_category": "Symbolization"
+			}
+		]
+	}
+}

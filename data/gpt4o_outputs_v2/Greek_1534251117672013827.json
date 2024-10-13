@@ -1,0 +1,16 @@
+
+{ 
+	"tweet": {
+		"id": "1534251117672013827",
+		"span": [ 
+			{
+			"text_span": "yunan tohumu",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "tipki bir yunan bir ingiliz gibi",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

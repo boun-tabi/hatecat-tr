@@ -1,0 +1,12 @@
+
+{ 
+	"tweet": {
+		"id": "1534993429939339280",
+		"span": [ 
+			{
+			"text_span": "ANSIZIN GELEBİLİRİZ",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

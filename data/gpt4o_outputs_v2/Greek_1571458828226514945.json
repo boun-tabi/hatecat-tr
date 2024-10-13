@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1571458828226514945",
+		"span": [
+			{
+				"text_span": "18 adayı verdiniz Yunan’a",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "adaları isgal eden Yunan başkanını",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

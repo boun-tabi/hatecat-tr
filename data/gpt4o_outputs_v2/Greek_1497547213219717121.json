@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1497547213219717121",
+		"span": [
+			{
+				"text_span": "Yunanistan egedeki adalarımızı isgal etti",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

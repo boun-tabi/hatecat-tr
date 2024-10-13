@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1570041835661271041",
+		"span": [ 
+			{
+			"text_span": "vatanı 3yıl işgal eden yunanı",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "yunan",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

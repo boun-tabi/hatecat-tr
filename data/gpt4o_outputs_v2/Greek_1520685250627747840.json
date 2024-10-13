@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1520685250627747840",
+		"span": [
+			{
+				"text_span": "Yunan seviyor olurdu..hoşunuxçza giderdi..TC düşmanı vatanhainleri",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

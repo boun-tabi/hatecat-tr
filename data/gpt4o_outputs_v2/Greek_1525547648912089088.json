@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1525547648912089088",
+		"span": [ 
+			{
+			"text_span": "Bu serefsiz bir yunan bozmasi.",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

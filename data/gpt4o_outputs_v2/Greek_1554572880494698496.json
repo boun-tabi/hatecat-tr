@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1554572880494698496",
+		"span": [
+			{
+				"text_span": "denize döktük",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

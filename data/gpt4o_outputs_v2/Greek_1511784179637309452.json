@@ -1,0 +1,19 @@
+{ 
+	"tweet": {
+		"id": "1511784179637309452",
+		"span": [ 
+			{
+				"text_span": "yunan tohumu",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "bu ülkede bi türlü kaybolmuyor",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "kendini her şekilde ifşa ediyor",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

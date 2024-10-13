@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1563802560703643649",
+		"span": [
+			{
+				"text_span": "Yunan halkı da anaokulundan itibaren Türk düşmanlığı ile Türkiye’nin topraklarını işgal hülyası ile yetiştirilen",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

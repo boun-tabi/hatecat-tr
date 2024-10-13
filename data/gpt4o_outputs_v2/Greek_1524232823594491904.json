@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1524232823594491904",
+		"span": [
+			{
+				"text_span": "Yunan devlet görevlileri tarafından tören yapılırken",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "Yunan vatandaşı Hatzimarkos’u görevden almıyor",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

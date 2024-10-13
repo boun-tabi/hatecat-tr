@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1562865834577764352",
+		"span": [ 
+			{
+			"text_span": "Türk Milletini aşağılayıp katil,tecavüzü Yunanı öven",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

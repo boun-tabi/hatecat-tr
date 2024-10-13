@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1565620340071489537",
+		"span": [
+			{
+				"text_span": "Yunan'a yaranmak için",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "arvanit/vlah döl çorbası ürünü",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "kendini 🇨🇦'da yunanım diye satan biri",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

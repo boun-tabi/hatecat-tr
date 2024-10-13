@@ -1,0 +1,23 @@
+{
+	"tweet": {
+		"id": "1546003069741469697",
+		"span": [
+			{
+				"text_span": "Yunanistan haddinden fazla istekte bulunuyor.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Sınırlarını çok aşıyor.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Amerikay'a ülkeyi satarak, onun gücüyle bizi tehdit ediyor.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Baskıyla bize istediklerini kabul ettireceğini sanıyor.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"tweet": {
+		"id": "1547234804776722433",
+		"span": [ 
+			{
+				"text_span": "Asıl olimpos çocukları",
+				"hate_speech_category": "Symbolization"
+			},
+			{
+				"text_span": "megaloidea hayalleri kurar",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Yunan, bizim topraklarımızı haritasında kendisinin  gösterse iyi mi?",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "Kafa aynı",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1540044304722415616",
+		"span": [
+			{
+				"text_span": "Yunan'ı denize döken biz.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "İşte bu ada Yunan'a verilmiş. Bu nasıl bir mantık? Bu nasıl bir savaş kazanma?",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "YALANDA YARIŞANLAR",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

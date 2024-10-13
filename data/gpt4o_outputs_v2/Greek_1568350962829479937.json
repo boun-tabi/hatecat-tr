@@ -1,0 +1,19 @@
+{ 
+	"tweet": {
+		"id": "1568350962829479937",
+		"span": [ 
+			{
+			"text_span": "Gavur",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "Yunan tohumlarını",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "gavur olmayı kendinize yakistiriyorsunuz",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

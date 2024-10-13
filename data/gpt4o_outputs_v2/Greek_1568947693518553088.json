@@ -1,0 +1,24 @@
+
+{
+	"tweet": {
+		"id": "1568947693518553088",
+		"span": [
+			{
+				"text_span": "Yunan gemimiz taciz etti",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Yunan bizi tahrik ediyor",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "1,2 gemisini batırın",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "ALIN İBNELERİN AKLİNİ",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

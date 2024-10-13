@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1552595228435140608",
+		"span": [
+			{
+				"text_span": "Rum gavuru",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "31 çekiyor",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

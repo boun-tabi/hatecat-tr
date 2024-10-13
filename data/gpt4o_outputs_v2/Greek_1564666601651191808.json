@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1564666601651191808",
+		"span": [ 
+			{
+				"text_span": "Yunan giderken çok tohum bıraktı",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "o tohumlar şimdi rahatsızlıklarını gizleyemiyor",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

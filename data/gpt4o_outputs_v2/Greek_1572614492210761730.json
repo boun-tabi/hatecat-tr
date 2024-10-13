@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1572614492210761730",
+		"span": [
+			{
+				"text_span": "kansiz serefsiz yunan cocugu",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

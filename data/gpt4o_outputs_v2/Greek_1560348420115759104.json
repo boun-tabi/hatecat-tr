@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1560348420115759104",
+		"span": [ 
+			{
+			"text_span": "Şerefsiz alçak yunan",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "tüm kaçak teröristleri besliyor",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

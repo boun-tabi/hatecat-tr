@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1529446799299182594",
+		"span": [ 
+			{
+			"text_span": "Gavur yunan",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1488153645325631499",
+		"span": [ 
+			{
+			"text_span": "Yunan'ı denize dök",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

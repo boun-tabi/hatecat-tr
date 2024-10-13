@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1540495454047277056",
+		"span": [
+			{
+				"text_span": "soysuz",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "yobazlar",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "yunan tohumu",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

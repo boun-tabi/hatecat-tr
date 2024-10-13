@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1564218699011301376",
+		"span": [
+			{
+				"text_span": "Kanibozuk kaşarlar",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Yunan artiklari",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

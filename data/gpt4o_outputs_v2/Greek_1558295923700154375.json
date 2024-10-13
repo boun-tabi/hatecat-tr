@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1558295923700154375",
+		"span": [
+			{
+				"text_span": "Yunanistan ülkeyi taciz eder",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

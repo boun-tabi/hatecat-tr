@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1570150174139490307",
+		"span": [
+			{
+				"text_span": "kafir yunan",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "düşmanını",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

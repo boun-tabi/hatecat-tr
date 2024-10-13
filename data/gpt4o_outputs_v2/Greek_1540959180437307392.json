@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1540959180437307392",
+		"span": [
+			{
+				"text_span": "YUNAN GÖÇMEN LERİ AYNEN BÖYLE ALBAYI PARLATIP DURURLAR",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "SELANİK YAHUDİSİ",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

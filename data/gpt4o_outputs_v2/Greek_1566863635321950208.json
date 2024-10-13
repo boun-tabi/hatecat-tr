@@ -1,0 +1,12 @@
+
+{ 
+	"tweet": {
+		"id": "1566863635321950208",
+		"span": [ 
+			{
+			"text_span": "bunlarla iç karışıklık o olmazsa Yunanistan'a savaş",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

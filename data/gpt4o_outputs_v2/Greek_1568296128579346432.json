@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1568296128579346432",
+		"span": [
+			{
+				"text_span": "Yunanistan korkudan ne yapacağını nereye kime sarılacağını şaşırdı.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

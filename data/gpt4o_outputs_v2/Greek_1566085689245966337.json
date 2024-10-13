@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1566085689245966337",
+		"span": [ 
+			{
+			"text_span": "biz onların adalarını almaya çalısırız",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

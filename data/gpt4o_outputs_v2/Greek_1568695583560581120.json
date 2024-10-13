@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1568695583560581120",
+		"span": [
+			{
+				"text_span": "Yunanistan zaten Türkiye'ye hep provokasyon yapıyordu",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "savaş çıkarsa o Yunanistan'ı elimizden kimse alamaz",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

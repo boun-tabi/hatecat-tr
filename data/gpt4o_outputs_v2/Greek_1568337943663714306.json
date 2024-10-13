@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1568337943663714306",
+		"span": [
+			{
+				"text_span": "gavur",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1540567716918185984",
+		"span": [
+			{
+				"text_span": "Anadolu'yu işgal eden çoçuk kadın yaşlı demeden katleden Yunan",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "katleden Yunan",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

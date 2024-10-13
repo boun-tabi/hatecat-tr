@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1561632860905377792",
+		"span": [ 
+			{
+				"text_span": "Bir Yunan tohumu",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

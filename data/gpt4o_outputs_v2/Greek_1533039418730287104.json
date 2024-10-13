@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1533039418730287104",
+		"span": [ 
+			{
+				"text_span": "Kendi ayağına sıkmaktan başka bir şey yaptığı yok.",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Gazı kaçırıp ağır silah yığarsa ekmeğimize yağ sürer.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

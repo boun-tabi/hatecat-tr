@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1547441644584275968",
+		"span": [ 
+			{
+			"text_span": "içimizdeki Yunan kalıntı tohumu",
+			"hate_speech_category": "Dehumanization"
+			}
+		] 
+	}
+}

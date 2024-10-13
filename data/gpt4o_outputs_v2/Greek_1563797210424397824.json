@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1563797210424397824",
+		"span": [
+			{
+				"text_span": "Yunanistan",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Ulen lale sülale devrine harcadığıniz paralarıda ödedik ustelik",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

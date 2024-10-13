@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1488686097664200710",
+		"span": [
+			{
+				"text_span": "Yunan p.içi",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1526959875900723200",
+		"span": [
+			{
+				"text_span": "Miço-takis isimli yavşağı",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Yunanistan'a 6 savaş üssü kurdu.",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

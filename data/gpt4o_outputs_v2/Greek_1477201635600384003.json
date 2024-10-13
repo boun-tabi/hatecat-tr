@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1477201635600384003",
+		"span": [ 
+			{
+			"text_span": "Yunan tohumu",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "veledi zinası",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

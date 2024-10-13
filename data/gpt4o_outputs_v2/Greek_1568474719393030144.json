@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1568474719393030144",
+		"span": [ 
+			{
+				"text_span": "küçük yunan",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "100 yıl önce yarım kalmış işlerimizi bugün tamamlarız",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

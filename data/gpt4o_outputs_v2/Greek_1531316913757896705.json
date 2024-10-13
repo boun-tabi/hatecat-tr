@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1531316913757896705",
+		"span": [ 
+			{
+				"text_span": "Yunan dölü",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "senide dedelerinin yanına yollarız",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "senin dedelerinin vahşetinden",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

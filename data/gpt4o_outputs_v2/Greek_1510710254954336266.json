@@ -1,0 +1,24 @@
+
+{
+	"tweet": {
+		"id": "1510710254954336266",
+		"span": [
+			{
+				"text_span": "Yunan tohumlarını denize döktük",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "kökü kokuşmuş",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "ortaya lağım kokusu salan insana benzeyen yaratıklar",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Üzerinize sifonu çekip yok edeceksin",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

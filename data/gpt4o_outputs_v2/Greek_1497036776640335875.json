@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1497036776640335875",
+		"span": [
+			{
+				"text_span": "Ermenistan hazır, Rusya hazır, Yunanistan hazır",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

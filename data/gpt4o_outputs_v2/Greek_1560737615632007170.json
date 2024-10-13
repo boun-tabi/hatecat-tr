@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1560737615632007170",
+		"span": [
+			{
+				"text_span": "Yunan gelmiş senin ülkenin şehirlerini işgal etmiş oğlancık. Kanlı bıçaklı olmuş,kurtuluş mücadelesi vermişiz.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

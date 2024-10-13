@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1486331543505321984",
+		"span": [ 
+			{
+			"text_span": "mülteci insanları Yunanistan'a bıraksak,  Yunanistan yenilir",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

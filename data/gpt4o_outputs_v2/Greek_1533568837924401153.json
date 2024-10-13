@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1533568837924401153",
+		"span": [ 
+			{
+			"text_span": "yunan ve abd tohumu",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

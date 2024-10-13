@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1568345166133485570",
+		"span": [
+			{
+				"text_span": "yunanı denize döküpte",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "Bu adaları denize döktüğümüz Yunan'a",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

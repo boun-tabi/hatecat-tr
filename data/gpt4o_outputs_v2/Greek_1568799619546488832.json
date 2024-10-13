@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1568799619546488832",
+		"span": [
+			{
+				"text_span": "ölüm korkusu savaş iyi gelir",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "mavi gözlü ölsün",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

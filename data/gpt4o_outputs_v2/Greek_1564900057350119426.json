@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1564900057350119426",
+		"span": [ 
+			{
+			"text_span": "Yunanistan'ın S-300 ile Türk F-16 savaş uçaklarına yaptığı tacizi",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

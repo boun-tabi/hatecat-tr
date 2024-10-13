@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1525463932353318912",
+		"span": [
+			{
+				"text_span": "Yunan ordusu mu?",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1535363914271186947",
+		"span": [ 
+			{
+				"text_span": "Milletin zaten ağzı burnunda",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "ananizi sikeriz",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

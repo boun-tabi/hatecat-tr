@@ -1,0 +1,24 @@
+
+{
+	"tweet": {
+		"id": "1568700301796048896",
+		"span": [
+			{
+				"text_span": "Yunan seviciliği",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Bildiğimiz başka Selanikliler de var elbet ama kanun korumasında",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "İçimizde ki Yunanlılar birbiriyle hayli manidar dirsek temasında",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#YunanTohumları",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

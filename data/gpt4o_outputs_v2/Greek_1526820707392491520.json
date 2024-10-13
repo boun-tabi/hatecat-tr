@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1526820707392491520",
+		"span": [
+			{
+				"text_span": "Yunan dölü",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

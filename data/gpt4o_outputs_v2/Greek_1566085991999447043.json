@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1566085991999447043",
+		"span": [ 
+			{
+			"text_span": "Allah senin gibilerin belasını versin",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "yunan tohumu",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1569209687895162880",
+		"span": [ 
+			{
+			"text_span": "adamlar intikam ateşiyle yanip tutuşuyorlar",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

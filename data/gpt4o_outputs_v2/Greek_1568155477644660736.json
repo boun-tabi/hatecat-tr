@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1568155477644660736",
+		"span": [
+			{
+				"text_span": "Yunanistan a biz bassak tamamdır.",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

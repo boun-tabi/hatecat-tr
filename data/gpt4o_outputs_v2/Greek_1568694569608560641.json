@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1568694569608560641",
+		"span": [ 
+			{
+			"text_span": "Yunanistan tohumu",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "hepto uşakları",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

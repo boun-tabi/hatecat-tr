@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1510999036135940104",
+		"span": [
+			{
+				"text_span": "Yunan sahil güvenliği taciz etmişti",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

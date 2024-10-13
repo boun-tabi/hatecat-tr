@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1568703208679215104",
+		"span": [ 
+			{
+				"text_span": "Yunanistan tacizlerine devam ediyor",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "biz girdiğimiz yerden birdaha çıkmayız",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

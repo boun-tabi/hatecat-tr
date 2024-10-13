@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1569353350491037705",
+		"span": [ 
+			{
+			"text_span": "yunan  piçosına",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "Bunlara şerefsiz Amerika ve yandaşları gaz veriyor",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

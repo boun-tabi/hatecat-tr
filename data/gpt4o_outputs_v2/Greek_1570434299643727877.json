@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1570434299643727877",
+		"span": [ 
+			{
+				"text_span": "Yunan tohumu",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

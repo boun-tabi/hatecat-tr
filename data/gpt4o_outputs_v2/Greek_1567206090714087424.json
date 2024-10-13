@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1567206090714087424",
+		"span": [ 
+			{
+				"text_span": "Ey Yunanistan İzmir’i unutma ! Bir gece ansızın gelebiliriz",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

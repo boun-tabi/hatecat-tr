@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1553649340425568256",
+		"span": [ 
+			{
+			"text_span": "gerçek bir Yunan tohumu",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

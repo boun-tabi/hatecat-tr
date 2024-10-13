@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1502295926538481670",
+		"span": [
+			{
+				"text_span": "Denize döktük",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "Onları yendik ama yok edemedik",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

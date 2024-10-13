@@ -1,0 +1,20 @@
+
+{ 
+	"tweet": {
+		"id": "1564060189057323010",
+		"span": [ 
+			{
+			"text_span": "Yunan dölü",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "Yunan, yenildikleri için asmadiklari adam kalmamış",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "yunan kopegi",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

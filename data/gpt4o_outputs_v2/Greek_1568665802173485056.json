@@ -1,0 +1,28 @@
+
+{
+	"tweet": {
+		"id": "1568665802173485056",
+		"span": [ 
+			{
+				"text_span": "Yunanlaştırma",
+				"hate_speech_category": "Symbolization"
+			},
+			{
+				"text_span": "Yunan Çomar'ına",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "yunan eniği",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "torun yunan eniği",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Atatürk'ün partisi de aynı enikler tarafından işgal edilecek",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1552184011056889858",
+		"span": [
+			{
+				"text_span": "Bunlara atılacak  mermi sadece israftır",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "bu salaklar bunu kavrayamıyorlar",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

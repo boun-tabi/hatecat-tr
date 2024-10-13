@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1512498323437019145",
+		"span": [
+			{
+				"text_span": "yunan işgal etseydi",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

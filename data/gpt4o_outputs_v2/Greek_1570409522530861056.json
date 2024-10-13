@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1570409522530861056",
+		"span": [ 
+			{
+			"text_span": "Yunan köpeği",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "savaş falan çıkmasın ,bu sefer adalarla beraber Batı Trakya'yı da alırız",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

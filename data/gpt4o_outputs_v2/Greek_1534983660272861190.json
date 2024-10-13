@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1534983660272861190",
+		"span": [
+			{
+				"text_span": "#ŞakamızYokYunanistan",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "ANSIZIN GELEBİLİRİZ",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

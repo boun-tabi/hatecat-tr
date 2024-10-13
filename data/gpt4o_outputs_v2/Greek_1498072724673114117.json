@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1498072724673114117",
+		"span": [ 
+			{
+				"text_span": "kıçını kaşınıyor",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

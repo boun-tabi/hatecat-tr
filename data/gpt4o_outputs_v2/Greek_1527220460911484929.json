@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1527220460911484929",
+		"span": [
+			{
+				"text_span": "yunan dölü katilin",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "katil yunan döllerinin",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

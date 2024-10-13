@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1537106306263396354",
+		"span": [
+			{
+				"text_span": "Bunu için de en uygun düşman Türkiye.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Aramızda ki ihtilafları çözmek için harika bir zamanlama.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

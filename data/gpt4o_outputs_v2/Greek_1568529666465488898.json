@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1568529666465488898",
+		"span": [
+			{
+				"text_span": "yunan´a ise tek kelime edemedi",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "Söylediğin böyle sözler yunan´dan bile duyulmaz",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

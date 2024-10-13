@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1566287524179345409",
+		"span": [ 
+			{
+				"text_span": "haksız taleplerini artıran Yunan'a sert bir uyarı gerekliydi",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

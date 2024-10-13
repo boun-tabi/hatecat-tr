@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1568884492776898560",
+		"span": [
+			{
+				"text_span": "Yunanistan’ın hadsizliğini ve şımarıklığını",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "“Bir gece ansızın gelebiliriz”",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

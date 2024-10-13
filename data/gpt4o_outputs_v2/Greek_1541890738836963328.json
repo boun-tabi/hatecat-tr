@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1541890738836963328",
+		"span": [
+			{
+				"text_span": "Yunan da NATO üyesi 20 ada işgal edildi 12 ada silahlandırıldı",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

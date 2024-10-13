@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1530824638829305857",
+		"span": [
+			{
+				"text_span": "yunan ve Ermeni tohumu",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "zulüm 1453",
+				"hate_speech_category": "Symbolization"
+			}
+		]
+	}
+}

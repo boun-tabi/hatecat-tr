@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1564686913025593353",
+		"span": [ 
+			{
+			"text_span": "fesli kadir ve senin gibiler yunan tohumu yedi",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

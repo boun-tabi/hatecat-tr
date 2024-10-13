@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1570146936614682625",
+		"span": [ 
+			{
+			"text_span": "Ermenistan ve Yunanistan kaşınıyor",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

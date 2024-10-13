@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1568674536396320769",
+		"span": [
+			{
+				"text_span": "Yunan'ı seven sizsiniz ki işgal ettiği 19 adamız için gıkınız çıkmadı",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

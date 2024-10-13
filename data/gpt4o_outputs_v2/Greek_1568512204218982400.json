@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1568512204218982400",
+		"span": [ 
+			{
+				"text_span": "denize dökülen Yunan gavurunun gayri meşru p.ç leri",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

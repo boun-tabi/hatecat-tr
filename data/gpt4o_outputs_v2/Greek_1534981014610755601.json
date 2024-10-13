@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1534981014610755601",
+		"span": [ 
+			{
+			"text_span": "anladıkları dilden",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "SAT komandoları devreye girecek",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

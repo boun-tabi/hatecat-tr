@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1571187896358510592",
+		"span": [
+			{
+				"text_span": "yunan diyince ayağa fırlar kötü bir şey yapana yunan gavuru derdi",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "yunan gavuru",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

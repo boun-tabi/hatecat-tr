@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1527667944460779521",
+		"span": [
+			{
+				"text_span": "Yunan Galip gelseydi diyenleri rehber edinmişsiniz",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Yunan sevicileri sizi",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

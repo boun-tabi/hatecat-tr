@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1515041522336645122",
+		"span": [
+			{
+				"text_span": "Mal Yunan tohumu",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

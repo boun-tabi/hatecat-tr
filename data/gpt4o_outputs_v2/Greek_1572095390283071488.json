@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1572095390283071488",
+		"span": [
+			{
+				"text_span": "öz ve öz yunan tohumu soysuz köpektir",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1412646268669763589",
+		"span": [ 
+			{
+			"text_span": "#HaddiniBilYunanistan",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

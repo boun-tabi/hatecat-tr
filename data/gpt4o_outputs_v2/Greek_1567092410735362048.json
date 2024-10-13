@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1567092410735362048",
+		"span": [ 
+			{
+			"text_span": "yunan, geri çekilişinde her yeri yakıp yıkarken Türk kadınlarına el sürerken",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

@@ -1,0 +1,19 @@
+{ 
+	"tweet": {
+		"id": "1568874965646151680",
+		"span": [ 
+			{
+			"text_span": "yunani döktük denize",
+			"hate_speech_category": "Symbolization"
+			},
+			{
+			"text_span": "yunan tohumlarini dökemedik",
+			"hate_speech_category": "Dehumanization"
+			},
+			{
+			"text_span": "Haziranda cumhur ittifakı kazanınca bu sefer dökecez tohumlarını da denize",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

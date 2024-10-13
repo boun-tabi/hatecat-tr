@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1527901115081277446",
+		"span": [ 
+			{
+			"text_span": "yunan rum dölü",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "havlamaya başlamış",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

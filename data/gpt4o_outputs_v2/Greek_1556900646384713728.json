@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1556900646384713728",
+		"span": [
+			{
+				"text_span": "Yunan dan daha gavur",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

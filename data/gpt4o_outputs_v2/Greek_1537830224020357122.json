@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1537830224020357122",
+		"span": [
+			{
+				"text_span": "Yunan savaş tanrıçası luna",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1551233428347129857",
+		"span": [ 
+			{
+			"text_span": "Yunan Ordusunun önünde şeriat bayrağıyla Bursa'yı işgal edenlerin torunları bunlar",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

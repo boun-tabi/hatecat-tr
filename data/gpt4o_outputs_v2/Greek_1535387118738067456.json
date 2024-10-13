@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1535387118738067456",
+		"span": [ 
+			{
+				"text_span": "yunanların tarihi kahpelikle doludur",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			} 
+		] 
+	}
+}

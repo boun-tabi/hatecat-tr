@@ -1,0 +1,16 @@
+
+{ 
+	"tweet": {
+		"id": "1568697559094546432",
+		"span": [ 
+			{
+			"text_span": "Katil abd piyonu yunan",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "türkler yunan adalarinda bok yiyorlar",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

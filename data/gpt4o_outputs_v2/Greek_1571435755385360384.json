@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1571435755385360384",
+		"span": [ 
+			{
+			"text_span": "yunanistan 60 dan beri adaları işgal ederken",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "Bunlar böyle alçak",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

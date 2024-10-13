@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1497736427668488195",
+		"span": [
+			{
+				"text_span": "kudur yunan tohumu",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

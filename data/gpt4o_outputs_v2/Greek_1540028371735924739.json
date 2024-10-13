@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1540028371735924739",
+		"span": [
+			{
+				"text_span": "yunan gavuru",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "düşmanlık",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

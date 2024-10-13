@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1412515512823713792",
+		"span": [ 
+			{
+			"text_span": "#HaddiniBilYunanistan",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

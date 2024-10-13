@@ -1,0 +1,23 @@
+{ 
+	"tweet": {
+		"id": "1542706892048318466",
+		"span": [ 
+			{
+			"text_span": "Yunanistan liderleri bu kadar şerefsiz mi sahiden ?",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "Vay be, yazıklar olsun size komşu!",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "Bir siz eksiktiniz!",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "Hoşgeldiniz, sizinle de savaşırız sorun yok..",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

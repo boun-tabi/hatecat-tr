@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1570108373672009728",
+		"span": [
+			{
+				"text_span": "Yunanistan egedeki adacıkları işgal edip silahlandırması",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

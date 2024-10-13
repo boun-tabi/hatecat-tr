@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1568321699665395713",
+		"span": [ 
+			{
+			"text_span": "yunan dölü",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "lan piç kurusu",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

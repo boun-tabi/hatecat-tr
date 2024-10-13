@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1569629631006785537",
+		"span": [
+			{
+				"text_span": "İngiliz piyonu Yunan Anadolu’yu bellerken",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

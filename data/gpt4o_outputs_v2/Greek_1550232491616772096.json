@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1550232491616772096",
+		"span": [
+			{
+				"text_span": "terörist besleyip, teröristlere de Yunan vatandaşlığı veriyor",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Mülteci botlarını batırıp erkekleri dövüp, plastik mermi atıp, kadınları da taciz ediyorlar",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "kendi ülkenin iğrençliklerini konuş",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

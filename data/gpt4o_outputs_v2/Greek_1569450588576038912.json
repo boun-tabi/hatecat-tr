@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1569450588576038912",
+		"span": [
+			{
+				"text_span": "Yunan tacizleri",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

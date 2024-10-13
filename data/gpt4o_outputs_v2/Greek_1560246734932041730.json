@@ -1,0 +1,19 @@
+{ 
+	"tweet": {
+		"id": "1560246734932041730",
+		"span": [ 
+			{
+			"text_span": "kanı bozuğu",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "Ermeni tohumu mu yunan tohumu mu daha o belli değil",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "Hamsi beyini bir iti",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

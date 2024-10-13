@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1566898316041920518",
+		"span": [
+			{
+				"text_span": "Yunan, izmir'i  işgal ettiği zaman, Kıbrıs'ta adalet mi dağıttı?",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Kaç bin TÜRK öldürdü?",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Soykırım yapmadı mı?",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

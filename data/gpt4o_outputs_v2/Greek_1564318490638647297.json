@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1564318490638647297",
+		"span": [
+			{
+				"text_span": "Yunanistan taciz edip duruyor",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

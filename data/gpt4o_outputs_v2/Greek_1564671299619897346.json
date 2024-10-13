@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1564671299619897346",
+		"span": [
+			{
+				"text_span": "düşmanlık başka odak ve değerlerle",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "yunanla sarmaş dolaş olmasından",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

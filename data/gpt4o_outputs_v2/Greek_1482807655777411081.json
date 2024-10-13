@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1482807655777411081",
+		"span": [ 
+			{
+				"text_span": "amına kodumun çocukları",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "İzmir Yunan’a",
+				"hate_speech_category": "Symbolization"
+			}
+		] 
+	}
+}

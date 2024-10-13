@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1527720224732110850",
+		"span": [ 
+			{
+				"text_span": "SAMİMİYETSİZ YUNAN",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Katil hain terörist dostlarınız",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1569256698539376640",
+		"span": [
+			{
+				"text_span": "Yunanistan kaşınmaya devam ediyor",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1568346259966271489",
+		"span": [
+			{
+				"text_span": "yunan İzmir'i yeniden işgal etmiş",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

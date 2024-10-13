@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1529069530433060865",
+		"span": [
+			{
+				"text_span": "İngilizin piyonu yunan denize dökülünce",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

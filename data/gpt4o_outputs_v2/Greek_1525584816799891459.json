@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1525584816799891459",
+		"span": [ 
+			{
+				"text_span": "yunanistana hic gūvenmiyorum",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "bir delilik yapar cūnkū gaza cok cabuk geliyor",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

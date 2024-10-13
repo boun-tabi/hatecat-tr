@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1484191122922475523",
+		"span": [ 
+			{
+				"text_span": "YUNAN SAVAŞ İSTİYOR",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

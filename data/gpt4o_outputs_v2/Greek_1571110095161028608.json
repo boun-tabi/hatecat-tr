@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1571110095161028608",
+		"span": [ 
+			{
+			"text_span": "Yunani butunuyle isgal etmeyi kimse dusunmuyordur ama bati trakya ve 12 ada yunan hata yaparsa aliriz",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

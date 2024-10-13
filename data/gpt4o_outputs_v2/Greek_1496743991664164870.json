@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1496743991664164870",
+		"span": [ 
+			{
+			"text_span": "kanı bozuk piç kurusu",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "Yunan tohumu",
+			"hate_speech_category": "Symbolization"
+			}
+		] 
+	}
+}

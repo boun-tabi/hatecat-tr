@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1566668415502360579",
+		"span": [
+			{
+				"text_span": "Yunanistan la savaş durumuna geçilmeli",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "düşmanlıkta vaz geçmeli",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

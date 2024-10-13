@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1557760666366353412",
+		"span": [
+			{
+				"text_span": "yunan. Supuruyor",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

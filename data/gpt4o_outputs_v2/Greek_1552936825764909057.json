@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1552936825764909057",
+		"span": [ 
+			{
+				"text_span": "haydut devlet yunanistan",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "göçmenleri öldüren katil miçotakis",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

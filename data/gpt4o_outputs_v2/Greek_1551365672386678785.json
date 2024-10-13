@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1551365672386678785",
+		"span": [ 
+			{
+			"text_span": "Yunan savaş cığıtkanlığından hala vaz geçmedi",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

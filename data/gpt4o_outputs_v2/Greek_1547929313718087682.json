@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1547929313718087682",
+		"span": [
+			{
+				"text_span": "Yunanistanın adamızı işgal etmek için",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Sömürge devam ediyor",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

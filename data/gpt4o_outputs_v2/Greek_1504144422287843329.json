@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1504144422287843329",
+		"span": [
+			{
+				"text_span": "Var güçleriyle birlescekler",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1557472626754437121",
+		"span": [
+			{
+				"text_span": "mülteci anlayışı, menfaate dayalı PKK'lı, FETÖ'cü sevgisi",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Türk(iye) düşmanıysan, Türkiye Cumhuriyeti'ni yıkma, Anadolu'yu işgal etme projemize hizmet edeceksen gel, başımızın üstünde yerin var",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "Değilsen işimize yaramazsın, cehenneme kadar yolun var",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

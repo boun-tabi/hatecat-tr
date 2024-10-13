@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1537725072860921856",
+		"span": [ 
+			{
+			"text_span": "Yunanistan ve Bulgaristan'lilar işgal etmiş",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

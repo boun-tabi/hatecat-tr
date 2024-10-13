@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1569041624033796097",
+		"span": [
+			{
+				"text_span": "Düşmanı denize döktük diyenler düşmanın kim olduğunu soyleyemiyorlar. Yunan diyemiyorlar. Ödü patlıyor.",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "Düşmanı denize döktük",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

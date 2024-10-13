@@ -1,0 +1,20 @@
+
+{ 
+	"tweet": {
+		"id": "1536374939305000960",
+		"span": [ 
+			{
+			"text_span": "OLASI BİR YUNAN SAVAŞINDA",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+			"text_span": "TAM TEŞEKKÜLLÜ SALDIRI POZİSYONU ALSA BİZİM ORDU",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+			"text_span": "12 DAKİKA İÇİNDE ATİNA'YA TÜRK İSLÂM SANCAĞINI DİKERİZ",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

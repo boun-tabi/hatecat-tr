@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1531264909949935617",
+		"span": [ 
+			{
+				"text_span": "Gavur Yunan",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "tüm suç senin",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

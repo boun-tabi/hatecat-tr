@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1489183643520184320",
+		"span": [
+			{
+				"text_span": "Yunan tahrikine",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "taciz etti",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

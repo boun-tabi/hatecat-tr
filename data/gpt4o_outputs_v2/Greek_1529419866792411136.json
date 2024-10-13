@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1529419866792411136",
+		"span": [ 
+			{
+			"text_span": "Yunan tohumu olduğun için",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

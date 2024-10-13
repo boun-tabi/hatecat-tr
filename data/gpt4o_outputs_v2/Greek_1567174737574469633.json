@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1567174737574469633",
+		"span": [
+			{
+				"text_span": "Yunan anadoluya girse enişte diye boynuna atlayacak tipler",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

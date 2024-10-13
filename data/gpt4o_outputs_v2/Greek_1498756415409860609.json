@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1498756415409860609",
+		"span": [
+			{
+				"text_span": "Yunanistan savaş pozisyonuna geçmek üzere dediğim gibi",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

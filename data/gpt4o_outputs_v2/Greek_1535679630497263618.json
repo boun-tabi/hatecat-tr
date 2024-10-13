@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1535679630497263618",
+		"span": [
+			{
+				"text_span": "Yunan adalara asker çıkarırken",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Rum musun Türk mü Ekrem?",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

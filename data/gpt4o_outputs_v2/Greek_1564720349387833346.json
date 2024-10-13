@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1564720349387833346",
+		"span": [
+			{
+				"text_span": "400 yıl boyunca ne bok yedin ki",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Yunan bile senin toprağını alıp işgal etti seni",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "ancak merhamet dilendin zavallı gibi",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

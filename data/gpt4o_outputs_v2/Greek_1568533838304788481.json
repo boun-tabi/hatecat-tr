@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1568533838304788481",
+		"span": [ 
+			{
+			"text_span": "Yunan tohumu",
+			"hate_speech_category": "Symbolization"
+			},
+			{
+			"text_span": "ALLAH belalarını vermiş bu soys*zların",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

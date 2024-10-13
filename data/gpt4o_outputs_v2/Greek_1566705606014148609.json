@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1566705606014148609",
+		"span": [
+			{
+				"text_span": "Yunanistanlı bir savaşın başlangıcı demek, Ortodoks dünyasını karşımıza almamız demektir.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Kıbrıs işgal edilecek_ Yunan_İsrail_Ermenistan yok edilecek",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

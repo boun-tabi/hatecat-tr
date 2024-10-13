@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1552025999898017794",
+		"span": [
+			{
+				"text_span": "Yunan tohumu",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "İslam düşmanı",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Ölümünü bekle. Elbet o zaman sende uyanacaksın! Ölüm yakın 100 yıl da yaşasan yakın !",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

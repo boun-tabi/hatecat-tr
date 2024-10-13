@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1566122503164116992",
+		"span": [
+			{
+				"text_span": "YUNANİSTAN KAŞINMA",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "Çılgın Türkler",
+				"hate_speech_category": "Symbolization"
+			}
+		]
+	}
+}

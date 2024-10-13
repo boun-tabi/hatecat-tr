@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1566148824665579523",
+		"span": [ 
+			{
+			"text_span": "Yunan ağzı ile konuşuyor",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

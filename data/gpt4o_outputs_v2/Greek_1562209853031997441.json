@@ -1,0 +1,20 @@
+
+{ 
+	"tweet": {
+		"id": "1562209853031997441",
+		"span": [ 
+			{
+				"text_span": "Yunan F-16'ları Türk-F16'larımızı taciz etmiş.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Bizemi Saldıracak Diyen Yavşaklara izletin Bunu",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "İKİ YÜZLÜ MUHALEFET",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

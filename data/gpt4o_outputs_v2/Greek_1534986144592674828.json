@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1534986144592674828",
+		"span": [ 
+			{
+			"text_span": "yunanistanı dusmanlastirip savaş haline sokmak",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+			"text_span": "biz o yunanida sizide yeneceğiz",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

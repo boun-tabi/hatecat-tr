@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1480751293614501891",
+		"span": [
+			{
+				"text_span": "intikam almak",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "Yunanistan'da papazların yanında",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "papaz dostları",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

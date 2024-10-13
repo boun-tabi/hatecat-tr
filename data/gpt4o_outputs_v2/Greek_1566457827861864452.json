@@ -1,0 +1,19 @@
+{ 
+	"tweet": {
+		"id": "1566457827861864452",
+		"span": [ 
+			{
+				"text_span": "Yunan’ın kucağına otururlar",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Atatürk’ün sürgün ettiği mandacıların tohumu",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "içlerinde bir uhde var Türklüğü kabullenemiyorlar",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

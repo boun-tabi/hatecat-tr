@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1545127505874632706",
+		"span": [
+			{
+				"text_span": "Yunanistan Kendi Oyunun içine Kendisi düştü",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Adalar Türkiye nin Ege Deniz Türkiye nın Olacak tır",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

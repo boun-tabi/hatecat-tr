@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1534278023817609222",
+		"span": [
+			{
+				"text_span": "ABD destekli Yunanistan hükümeti",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Batı Trakya Türklerini sürekli hukuka aykırı rahatsız ederek Türkiye'yi taciz ediyor.",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

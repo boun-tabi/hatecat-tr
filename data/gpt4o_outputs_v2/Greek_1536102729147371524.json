@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1536102729147371524",
+		"span": [
+			{
+				"text_span": "Gavur İzmir Yunan İzmir diyorsun",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Kambur olma kurban ol. Bas git",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

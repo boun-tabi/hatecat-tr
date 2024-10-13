@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1501842096071839744",
+		"span": [
+			{
+				"text_span": "şerefsiz Yunan",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Türklerin yaptıkları katliamlar diye uyduruk fotoğraflar",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

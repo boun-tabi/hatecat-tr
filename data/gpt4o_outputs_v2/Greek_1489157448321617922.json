@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1489157448321617922",
+		"span": [
+			{
+				"text_span": "Yunanistan sahil güvenliği, uluslararası sularda balık avlayan Türk balıkçıları taciz etti.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

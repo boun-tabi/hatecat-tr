@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1566393689563430919",
+		"span": [ 
+			{
+			"text_span": "yunan tohumu",
+			"hate_speech_category": "Dehumanization"
+			},
+			{
+			"text_span": "40 çakalı havlamasa",
+			"hate_speech_category": "Dehumanization"
+			}
+		] 
+	}
+}

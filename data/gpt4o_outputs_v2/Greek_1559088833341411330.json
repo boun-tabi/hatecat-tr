@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1559088833341411330",
+		"span": [
+			{
+				"text_span": "SOYSUZ SOYKIRIMCI YUNAN",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "MÜSLÜMAN TÜRKLERİN MERHAMET EDİP KORUDUĞU BÜTÜN IRKLAR İHANET",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

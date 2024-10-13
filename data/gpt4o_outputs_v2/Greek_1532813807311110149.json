@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1532813807311110149",
+		"span": [
+			{
+				"text_span": "Yunanistan gücümüzü bilmesine rağmen tahriklerine devam ediyor",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

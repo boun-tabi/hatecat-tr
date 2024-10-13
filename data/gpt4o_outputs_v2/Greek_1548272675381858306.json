@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1548272675381858306",
+		"span": [
+			{
+				"text_span": "serefsiz hain",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "yunan piçlerine",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

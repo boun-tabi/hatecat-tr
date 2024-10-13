@@ -1,0 +1,19 @@
+{ 
+	"tweet": {
+		"id": "1533131669804396545",
+		"span": [ 
+			{
+			"text_span": "Yunan işgali",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "Yunanlılara \"chp'yi iktidara getirirseniz adaları size bağışlayacağız\"",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "utanma, utanma sen işgalci Ermenistan'a bile arka çıkmış birisin",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

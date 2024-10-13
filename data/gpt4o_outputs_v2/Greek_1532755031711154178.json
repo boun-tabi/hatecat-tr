@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1532755031711154178",
+		"span": [
+			{
+				"text_span": "Yunanistan 18 Türk adasını işgal etti",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

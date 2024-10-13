@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1568672308533022720",
+		"span": [
+			{
+				"text_span": "#YunanTohumları",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1566069561060909057",
+		"span": [
+			{
+				"text_span": "Namussuz kanı bozuk",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "yunan haçlı kanı taşıyan şerefsiz hain",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

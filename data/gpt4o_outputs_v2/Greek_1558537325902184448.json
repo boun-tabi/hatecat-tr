@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1558537325902184448",
+		"span": [
+			{
+				"text_span": "Onuru ve haysiyeti olmayan milletler bunu bilmezler.",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "sizin gibi onursuz değiliz",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

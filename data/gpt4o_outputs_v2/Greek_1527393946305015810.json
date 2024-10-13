@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1527393946305015810",
+		"span": [
+			{
+				"text_span": "Yunanlılara s….vüp sayan",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Yunan tohumu",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

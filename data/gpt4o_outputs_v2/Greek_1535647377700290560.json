@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1535647377700290560",
+		"span": [
+			{
+				"text_span": "yunan tohumunu kışkırtan ülkeler var",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1539919438178390017",
+		"span": [
+			{
+				"text_span": "yunan tohumu",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "rum dönmeliği",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

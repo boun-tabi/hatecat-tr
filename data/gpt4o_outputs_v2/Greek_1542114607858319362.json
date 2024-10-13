@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1542114607858319362",
+		"span": [
+			{
+				"text_span": "katil papaz makarios nikos samson ve terorist EOKA yunan rumlarin katliaminin",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "yunanistan ve kibris rumlari adada 1960 ve 1974 yilinda türk bebeklerini katletmiş barbarca öldurmüstur",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "katilsiniz barbarsinin yunan ve rumlar",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1536271842339586050",
+		"span": [
+			{
+				"text_span": "Yunanistan adalari 15 senedir isgal ediyor",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

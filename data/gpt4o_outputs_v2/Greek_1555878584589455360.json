@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1555878584589455360",
+		"span": [
+			{
+				"text_span": "İngiliz yalakası Yunan dölü deli kadir",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

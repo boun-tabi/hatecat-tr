@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1522899606924894209",
+		"span": [
+			{
+				"text_span": "kaosa hazır mısınız?",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "savaş tadında",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

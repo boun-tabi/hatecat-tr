@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1566513155588726789",
+		"span": [
+			{
+				"text_span": "“bir gece ansızın gelebiliriz”",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

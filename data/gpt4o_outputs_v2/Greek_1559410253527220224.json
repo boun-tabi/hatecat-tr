@@ -1,0 +1,16 @@
+
+{ 
+	"tweet": {
+		"id": "1559410253527220224",
+		"span": [ 
+			{
+			"text_span": "ya rumsun ya Yunan veya anan işgal yıllarında  yabancılara or",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "klavye delikanlısı",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

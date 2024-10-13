@@ -1,0 +1,24 @@
+
+{
+	"tweet": {
+		"id": "1534973956863709185",
+		"span": [
+			{
+				"text_span": "işgal ettiği bize ait adaların",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "en kısa sürede bu adaları terketmelidir",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "askeri çözüme başvurulmalıdır",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "asker çıkarmalıdır",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

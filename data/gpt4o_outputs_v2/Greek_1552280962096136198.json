@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1552280962096136198",
+		"span": [
+			{
+				"text_span": "Ula Yunan dölü",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "tecavüz etmedikleri çoluk çocuk kalmamış",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

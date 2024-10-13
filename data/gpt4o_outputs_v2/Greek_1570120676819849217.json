@@ -1,0 +1,24 @@
+
+{
+	"tweet": {
+		"id": "1570120676819849217",
+		"span": [
+			{
+				"text_span": "ARTIK YUNANİSTANA OPERASYON KAÇINILMAZ OLDU",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "YUNANLA YAPILAN SAVAŞ SAYILMAZ BÜYÜK BİR OPERASYON SAYILIR",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "YUNANİSTANI KISA SÜREDE FEHTEDECEĞİZ",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "BU BİZİ BUNA MECBUR BIRAKTILAR",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

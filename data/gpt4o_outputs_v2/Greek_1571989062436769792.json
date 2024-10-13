@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1571989062436769792",
+		"span": [
+			{
+				"text_span": "Gavur Yunan",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "ergeç bu topraklardan sizleri ermeniler gibi sileceğiz",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "Türk halkına düşmanlık ve hainlik yapanlarla aynı sonu yaşayacaksınız",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

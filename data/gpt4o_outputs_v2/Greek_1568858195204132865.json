@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1568858195204132865",
+		"span": [
+			{
+				"text_span": "işgal eden Yunan",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

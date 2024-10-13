@@ -1,0 +1,19 @@
+{ 
+	"tweet": {
+		"id": "1569989017029976068",
+		"span": [ 
+			{
+			"text_span": "şerefsizlerle",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "avrupanın şımarık çocuğu yunanistan",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "göz göre göre adaları işgal ettiler",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

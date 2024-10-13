@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1480975977710866433",
+		"span": [
+			{
+				"text_span": "12 milyon nufusu olan yunanistan",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "silahlaniyormuş",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

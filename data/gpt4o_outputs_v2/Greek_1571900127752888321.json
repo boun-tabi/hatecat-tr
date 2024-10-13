@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1571900127752888321",
+		"span": [ 
+			{
+				"text_span": "soysuz yunan artığı",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "dinsiz imansız",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

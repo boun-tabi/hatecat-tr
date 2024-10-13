@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1569662313812168704",
+		"span": [
+			{
+				"text_span": "yunan yine taciz etmiştir",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1568561697996115975",
+		"span": [ 
+			{
+			"text_span": "Osmanlı'ya ihanet eden Yunan tohumu",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

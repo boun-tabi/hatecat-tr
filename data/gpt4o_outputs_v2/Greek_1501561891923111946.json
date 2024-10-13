@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1501561891923111946",
+		"span": [
+			{
+				"text_span": "Denize döktük",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "Yunan kim köpekte masaya gelsin",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Ağzımızın içindeki adalara çıktılar hemen",
+				"hate_speech_category": "Symbolization"
+			}
+		]
+	}
+}

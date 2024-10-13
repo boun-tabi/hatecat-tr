@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1550099167573319681",
+		"span": [
+			{
+				"text_span": "büyük bir savaş hazırlığı",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

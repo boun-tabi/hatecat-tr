@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1560618454566293505",
+		"span": [ 
+			{
+			"text_span": "Şereften yoksun Yunan tohumu",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

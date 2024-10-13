@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1496441168107905024",
+		"span": [ 
+			{
+			"text_span": "yunanistan kaşınıyor",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

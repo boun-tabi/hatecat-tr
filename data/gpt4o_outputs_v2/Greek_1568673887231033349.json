@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1568673887231033349",
+		"span": [
+			{
+				"text_span": "#YunanTohumları",
+				"hate_speech_category": "Symbolization"
+			}
+		]
+	}
+}

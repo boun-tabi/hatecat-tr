@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1550868364419014657",
+		"span": [
+			{
+				"text_span": "Yunan’la savaş",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

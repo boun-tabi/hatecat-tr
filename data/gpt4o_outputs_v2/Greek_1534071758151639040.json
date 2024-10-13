@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1534071758151639040",
+		"span": [
+			{
+				"text_span": "saldırgan işgal ci ligini",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "yunan.. Bizde aynını KINIYORUZ",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

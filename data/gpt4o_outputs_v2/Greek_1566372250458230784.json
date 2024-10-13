@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1566372250458230784",
+		"span": [
+			{
+				"text_span": "sizi duvara karşı yatırır bacaklarınızı amuda kaldırır",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "nefes almadan 3-4 posta atarız",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

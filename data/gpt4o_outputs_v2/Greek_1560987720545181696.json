@@ -1,0 +1,23 @@
+{
+	"tweet": {
+		"id": "1560987720545181696",
+		"span": [
+			{
+				"text_span": "Yunan'la savaştık ama yunan tanrıçasını mahkemelerimize adalet sembolü yaptık",
+				"hate_speech_category": "Symbolization"
+			},
+			{
+				"text_span": "Yunan'la savaştık ama alfabelerini alfabe yaptık",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "Yunan'la savaştık denize de döktük ama adaları yunana verdik",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "Yunan'la savaştık   ama Venizolos'u  da kırmızı halılarda karşıladık",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1571398730603188227",
+		"span": [
+			{
+				"text_span": "17 adamızı işgal eden Yunan'a",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "işbirlikçi Vahdettin",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1568346577164541953",
+		"span": [
+			{
+				"text_span": "hepsi Yunan tohumu",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1566449835741511682",
+		"span": [
+			{
+				"text_span": "Adaları işgal etmen bizi bağlamaz.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Zamanı geldiğinde, gerekeni yaparız.",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "Bir gece ansızın gelebiliriz.",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

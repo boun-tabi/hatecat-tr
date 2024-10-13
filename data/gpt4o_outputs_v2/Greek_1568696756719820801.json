@@ -1,0 +1,19 @@
+{ 
+	"tweet": {
+		"id": "1568696756719820801",
+		"span": [ 
+			{
+			"text_span": "Bir gece ansızın gelebiliriz",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+			"text_span": "Yunanlılar",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "#YunanTohumları",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

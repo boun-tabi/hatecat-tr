@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1535374860246917120",
+		"span": [ 
+			{
+			"text_span": "Yunanistan kim amına koyayım?",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "Ciddili savaş çıksa 2 aydan uzun dayanamazlar la bize karşı.",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

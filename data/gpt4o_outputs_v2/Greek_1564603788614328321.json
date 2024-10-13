@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1564603788614328321",
+		"span": [
+			{
+				"text_span": "Yunan, Fransız, İtalyan, İngiliz kuvvetlerinin Türkiye'yi işgal ettikleri günleri bayram, kutlu gün olarak kutlarlar",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

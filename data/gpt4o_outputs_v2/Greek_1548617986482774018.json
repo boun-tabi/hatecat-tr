@@ -1,0 +1,12 @@
+
+{ 
+	"tweet": {
+		"id": "1548617986482774018",
+		"span": [ 
+			{
+			"text_span": "işgal güçleri",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

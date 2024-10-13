@@ -1,0 +1,19 @@
+{ 
+	"tweet": {
+		"id": "1556532760470294529",
+		"span": [ 
+			{
+			"text_span": "yunan ermeni yahudilerin dönme partisi",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "vatan hainleri gavur artiklari",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "avrupa göt yalayicilarin partisi",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

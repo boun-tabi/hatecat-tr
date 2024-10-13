@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1550990592603299847",
+		"span": [
+			{
+				"text_span": "mangal partisi yapıyor gavur",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

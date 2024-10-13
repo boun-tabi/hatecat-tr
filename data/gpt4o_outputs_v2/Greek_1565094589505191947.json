@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1565094589505191947",
+		"span": [ 
+			{
+			"text_span": "Yunan dölü",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "hadi siktir git",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

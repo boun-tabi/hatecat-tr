@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1535020955445219349",
+		"span": [ 
+			{
+				"text_span": "şımırık şımırık kaşınıyor",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

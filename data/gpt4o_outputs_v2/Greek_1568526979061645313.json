@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1568526979061645313",
+		"span": [ 
+			{
+			"text_span": "gavur oglu gavur",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "işkenceci darbeci babanın yunan oglu",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

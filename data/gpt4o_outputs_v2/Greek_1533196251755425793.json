@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1533196251755425793",
+		"span": [
+			{
+				"text_span": "Yunan ordusunun yakın gelecekte Ege ve Akdeniz'de sıcak savaş için hazırlandığı haberleri sızdırılıyor.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

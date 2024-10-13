@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1568858052735934464",
+		"span": [ 
+			{
+				"text_span": "ülkeyi işgal eden olmadık zulmü eden Yunan'a",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "şehri yakıp yıkana hamile kadının karnını deşene",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

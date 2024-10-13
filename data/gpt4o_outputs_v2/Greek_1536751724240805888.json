@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1536751724240805888",
+		"span": [ 
+			{
+			"text_span": "siz başından kavga etmek istiyorsunuz",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

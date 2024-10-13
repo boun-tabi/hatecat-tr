@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1549519248690667520",
+		"span": [ 
+			{
+			"text_span": "Türkleri yunan ve ermeni soykirimi yapan bir millet olarak tanıtıp iftira atılmakta",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "Onlar katil biz değiliz",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

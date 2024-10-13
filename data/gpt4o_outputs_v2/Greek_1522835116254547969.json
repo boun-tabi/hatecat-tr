@@ -1,0 +1,19 @@
+{ 
+	"tweet": {
+		"id": "1522835116254547969",
+		"span": [ 
+			{
+			"text_span": "deyyuz köpek",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "ecnebi dölü",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "yunan kırması",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

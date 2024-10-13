@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1489629835399819267",
+		"span": [ 
+			{
+				"text_span": "Soysuz yunan artıkları",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

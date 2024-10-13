@@ -1,0 +1,19 @@
+{ 
+	"tweet": {
+		"id": "1527217855279792131",
+		"span": [ 
+			{
+			"text_span": "RUM TOHUMU",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "YUNANİN FİRLATMASİ ARKADAN OLMA SEREFSİZ",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "GEBERMİS BOK BOCEGİ",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

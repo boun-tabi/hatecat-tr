@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1566520974245257217",
+		"span": [ 
+			{
+			"text_span": "belki karadan, belki havadan belki de denizden ama kesinlikle bir gece ansızın gelebiliriz",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

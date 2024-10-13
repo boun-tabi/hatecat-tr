@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1559398807703588865",
+		"span": [
+			{
+				"text_span": "tarihi yarım akıllılılardan öğrenmedik",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "işinize gelen her belge yunan bile yazsa gerçek",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

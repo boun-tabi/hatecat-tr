@@ -1,0 +1,28 @@
+
+{
+	"tweet": {
+		"id": "1566495170446630914",
+		"span": [
+			{
+				"text_span": "tarihe bak, tarihe dön",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "çok daha fazla ileri gidersen bunun bedeli ağır olur",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "Adaları işgal etmeniz falan bizi bağlamaz",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "vakvi saati geldiğinde gereğini yaparız",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "Bir gece ansızın gelebiliriz",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

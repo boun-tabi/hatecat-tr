@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1526003291926237185",
+		"span": [
+			{
+				"text_span": "bizans tohumu",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Yunan’ın bıkaktıgı tohumlarsınız",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

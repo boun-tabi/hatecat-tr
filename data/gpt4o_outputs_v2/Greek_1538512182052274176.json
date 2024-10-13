@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1538512182052274176",
+		"span": [
+			{
+				"text_span": "sürekli taciz eden taraf yunanistan",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Pkk kamplarını barındıran yunanistan",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

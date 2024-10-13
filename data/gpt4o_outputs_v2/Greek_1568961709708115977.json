@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1568961709708115977",
+		"span": [
+			{
+				"text_span": "Yunan kafirini",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Denize döktük",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

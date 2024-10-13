@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1521566578843738129",
+		"span": [
+			{
+				"text_span": "Yunanistan adaları",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Bizans bayrağı çekildi",
+				"hate_speech_category": "Symbolization"
+			}
+		]
+	}
+}

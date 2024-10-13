@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1568976299082874881",
+		"span": [
+			{
+				"text_span": "Yunanistan savas cikarmak icin bahanesi olacak",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

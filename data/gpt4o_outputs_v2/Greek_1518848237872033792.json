@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1518848237872033792",
+		"span": [ 
+			{
+			"text_span": "Yunan Anadoluyu işgal etse enişte diye boynuna sarılır",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

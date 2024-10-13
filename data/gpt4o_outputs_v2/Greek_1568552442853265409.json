@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1568552442853265409",
+		"span": [ 
+			{
+			"text_span": "yunan köpeğinden",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

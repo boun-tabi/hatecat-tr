@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1567921567128031235",
+		"span": [
+			{
+				"text_span": "delisi Yunan asıllı Ermeni dölü",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

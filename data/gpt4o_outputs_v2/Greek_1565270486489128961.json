@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1565270486489128961",
+		"span": [
+			{
+				"text_span": "Tam gavur yunan",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "yunan demokrasi oyunu",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

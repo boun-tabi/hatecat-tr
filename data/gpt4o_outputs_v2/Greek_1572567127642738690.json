@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1572567127642738690",
+		"span": [
+			{
+				"text_span": "terörist yunanlar",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "soysuz helenoşlar",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

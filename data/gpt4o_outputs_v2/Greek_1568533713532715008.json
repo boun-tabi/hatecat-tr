@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1568533713532715008",
+		"span": [
+			{
+				"text_span": "kendini yunan olarak görüyor",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

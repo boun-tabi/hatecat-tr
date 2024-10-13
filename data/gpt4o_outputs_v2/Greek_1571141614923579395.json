@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1571141614923579395",
+		"span": [ 
+			{
+			"text_span": "Yunanistan ın işgal ettiği adalar",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

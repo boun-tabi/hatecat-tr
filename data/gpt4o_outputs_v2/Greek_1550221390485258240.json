@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1550221390485258240",
+		"span": [ 
+			{
+			"text_span": "Yunan'ı taciz etmezseniz",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "Türkiye'yi tehdit et ve gerekirse savaş aç diye vediniz",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

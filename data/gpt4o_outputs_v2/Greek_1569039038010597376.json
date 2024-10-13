@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1569039038010597376",
+		"span": [
+			{
+				"text_span": "Yunanistanla savaş istemiyoruz mitingi yapmayı öneriyor muhalefete",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

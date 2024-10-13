@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1498459062580793346",
+		"span": [
+			{
+				"text_span": "imamoglunun yunan italyan israil li belediye baskanlari",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

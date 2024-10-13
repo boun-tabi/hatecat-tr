@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1568681924713156608",
+		"span": [ 
+			{
+			"text_span": "Her türlü hukuksuzluğu. yunanistan yapıyor.!",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "Dünya yı , kaos sürükleme projesi tekrar. Hortladı , sinsice.!",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

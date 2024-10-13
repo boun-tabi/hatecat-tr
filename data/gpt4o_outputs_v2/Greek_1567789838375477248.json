@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1567789838375477248",
+		"span": [
+			{
+				"text_span": "Yunanistan",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "provokasyonlarını",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1494097030549061640",
+		"span": [ 
+			{
+			"text_span": "Yunan subaylarının konuşma yanında tek bir şey yaptığını görürsünüz, kaçmak",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1567654855275069442",
+		"span": [
+			{
+				"text_span": "tüm Yunan’ı denize döktük",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

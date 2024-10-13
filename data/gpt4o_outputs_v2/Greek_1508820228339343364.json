@@ -1,0 +1,12 @@
+
+{ 
+	"tweet": {
+		"id": "1508820228339343364",
+		"span": [ 
+			{
+			"text_span": "ulan hani biz yunanı denize dökmüş tük",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

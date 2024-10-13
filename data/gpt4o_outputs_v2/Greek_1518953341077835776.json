@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1518953341077835776",
+		"span": [
+			{
+				"text_span": "Orospunun evlâdı yunan dolu olurum",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1569219105655296001",
+		"span": [ 
+			{
+			"text_span": "Yunan’ı denize döktük",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "karısı Yunanlı nın koluna  girmiş kendisi de arkalarından yürüyordu",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

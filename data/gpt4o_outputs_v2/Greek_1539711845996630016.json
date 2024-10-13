@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1539711845996630016",
+		"span": [
+			{
+				"text_span": "Yunan yine bildiğiniz gibi düşmanca tavırlar içerisinde",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1535959285263384578",
+		"span": [
+			{
+				"text_span": "Yunan saldırdı",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

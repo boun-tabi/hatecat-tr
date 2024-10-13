@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1546070591400300546",
+		"span": [
+			{
+				"text_span": "Yunan dongozları",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "adalar denizini yunan savaş gemilerine mezar yapacak",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

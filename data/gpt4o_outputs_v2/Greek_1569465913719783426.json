@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1569465913719783426",
+		"span": [
+			{
+				"text_span": "adalarımızı ve topraklarımızı tehdit edenlerle yüzleşmeye hazırız",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

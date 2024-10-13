@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1566133895304826883",
+		"span": [ 
+			{
+			"text_span": "adalarımızı işgal eden yunan ordusunu bir gecede yok ederiz",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

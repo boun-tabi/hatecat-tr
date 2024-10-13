@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1557100144188850177",
+		"span": [
+			{
+				"text_span": "ya rum tohumu ya ermeni ya yunan tohumu",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

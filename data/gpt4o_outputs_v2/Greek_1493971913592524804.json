@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1493971913592524804",
+		"span": [
+			{
+				"text_span": "Keşke yunan galip gelseydi",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

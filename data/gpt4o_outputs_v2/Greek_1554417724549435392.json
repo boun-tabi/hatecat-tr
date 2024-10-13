@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1554417724549435392",
+		"span": [
+			{
+				"text_span": "Yunanistan silahlanmaya doymuyor",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

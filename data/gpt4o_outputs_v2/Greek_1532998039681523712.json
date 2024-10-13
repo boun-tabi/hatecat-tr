@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1532998039681523712",
+		"span": [ 
+			{
+			"text_span": "Egeli Türkleri Yunan DNA'sından korumaya çalışıyordu ki başaramadı.",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

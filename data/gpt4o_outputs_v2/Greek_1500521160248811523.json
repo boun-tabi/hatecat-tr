@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1500521160248811523",
+		"span": [ 
+			{
+			"text_span": "ne yedigi belirsiz Rum veya Yunan tohumu",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

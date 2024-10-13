@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1569439531002376194",
+		"span": [ 
+			{
+			"text_span": "Anadolu'ya kıyan #Yunan ordusunu ezdi",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

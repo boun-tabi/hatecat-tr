@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1491848343860953091",
+		"span": [
+			{
+				"text_span": "Gavur, gavurdur, değişmez. Merhameti, vicdanı yoktur.",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "yunan yada ermeni fark etmez.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

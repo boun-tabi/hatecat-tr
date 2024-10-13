@@ -1,0 +1,27 @@
+{
+	"tweet": {
+		"id": "1539538784940957696",
+		"span": [
+			{
+				"text_span": "Kanı bozuk yunan tohumu artıkları.",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Siz bu ülkenin ormanına taşına toprağına düşman bir kitlesini.",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "Sizin ecdadınız ananız bozuk.",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Beş kuruş paraya satılmışşınız sizler.",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Bu ülkenin bir karışına zarar geldikçe sevinen asalaklarsınız.",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

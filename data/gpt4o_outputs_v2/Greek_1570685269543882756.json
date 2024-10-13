@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1570685269543882756",
+		"span": [
+			{
+				"text_span": "Yunan dediğin bir avuç",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "İstanbul insanı birer kere tükürse, Yunistan havuza döner.",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1554118369640579076",
+		"span": [ 
+			{
+			"text_span": "Kukla Yunan gevuru",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "Yunanistan'a karşı savaş",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

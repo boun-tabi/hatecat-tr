@@ -1,0 +1,23 @@
+{
+	"tweet": {
+		"id": "1525880399393705984",
+		"span": [ 
+			{
+			"text_span": "vatana haini",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "Yunan tohumu",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "sütü bozuk",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "o...bu çocuğudur",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

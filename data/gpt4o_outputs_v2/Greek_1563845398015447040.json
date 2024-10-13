@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1563845398015447040",
+		"span": [
+			{
+				"text_span": "Yunanistan'dan düşmanca hareket!",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Allah Türkiye'ye düşmanlık edenlerin başına öyle dertler verir ki, başkalarıyla uğraşacak halleri kalmaz.",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

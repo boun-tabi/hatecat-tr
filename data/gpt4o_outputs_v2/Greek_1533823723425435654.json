@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1533823723425435654",
+		"span": [ 
+			{
+			"text_span": "Yunan toprağı mı burası",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

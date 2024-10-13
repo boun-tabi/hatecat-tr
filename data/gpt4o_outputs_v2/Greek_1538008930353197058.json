@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1538008930353197058",
+		"span": [ 
+			{
+			"text_span": "Constantinople",
+			"hate_speech_category": "Symbolization"
+			}
+		] 
+	}
+}

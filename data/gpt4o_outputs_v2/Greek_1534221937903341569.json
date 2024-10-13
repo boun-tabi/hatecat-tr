@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1534221937903341569",
+		"span": [ 
+			{
+			"text_span": "Yunanistan'da savaş çıkma durumu olsun askere adam bulamazlar",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "Bizdeki ruh üstünlüğü hiç bir yerde yok",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

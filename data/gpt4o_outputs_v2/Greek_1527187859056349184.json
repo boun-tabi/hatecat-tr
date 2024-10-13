@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1527187859056349184",
+		"span": [ 
+			{
+			"text_span": "Awq dölü",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

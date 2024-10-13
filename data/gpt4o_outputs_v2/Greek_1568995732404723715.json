@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1568995732404723715",
+		"span": [
+			{
+				"text_span": "Yunan sevici",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1524748240360333312",
+		"span": [
+			{
+				"text_span": "soysuz yunan artığı",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Kudurmuş sokak köpeği",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "yunan it eniği",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

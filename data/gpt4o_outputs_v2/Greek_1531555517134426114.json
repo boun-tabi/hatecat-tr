@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1531555517134426114",
+		"span": [
+			{
+				"text_span": "gerilimi tırmandıran, taciz ve tahriklerini seriye bağlayan Yunanistan ateşle oynamaktadır.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

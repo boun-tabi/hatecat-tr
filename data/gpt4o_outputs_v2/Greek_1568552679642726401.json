@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1568552679642726401",
+		"span": [
+			{
+				"text_span": "yunanin işgaline gerek yok ki,senelerce Yunan seçiciler işgal etmiş zaten",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "kendi̇ne gel yoksa defol git",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

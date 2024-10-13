@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1568507668435767297",
+		"span": [
+			{
+				"text_span": "Batı askerleri Anadolu'dan çekildi ama onların yapamadıklarını yapan köpekleri duruyor.",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

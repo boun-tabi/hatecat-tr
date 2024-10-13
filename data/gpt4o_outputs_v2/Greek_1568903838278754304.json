@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1568903838278754304",
+		"span": [
+			{
+				"text_span": "Yunan tohumu olduğunuzu",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

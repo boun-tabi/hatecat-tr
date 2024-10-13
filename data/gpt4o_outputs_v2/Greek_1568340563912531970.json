@@ -1,0 +1,27 @@
+{ 
+	"tweet": {
+		"id": "1568340563912531970",
+		"span": [ 
+			{
+			"text_span": "Kahbe Yunan",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "bu vatanın her şeyine düşmansınız",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "bügün yunanla savaş olsa yunanın tarafını tutarsınız",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+			"text_span": "soysuz adiler",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "gün gelecek gideceksiniz",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}
