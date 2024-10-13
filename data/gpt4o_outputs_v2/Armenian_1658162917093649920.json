@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658162917093649920",
+		"span": [
+			{
+				"text_span": "Ermeni olmadı",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

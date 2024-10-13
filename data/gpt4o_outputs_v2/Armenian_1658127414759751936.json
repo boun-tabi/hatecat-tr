@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658127414759751936",
+		"span": [
+			{
+				"text_span": "ermenı sevdalıları",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658372933452964096",
+		"span": [ 
+			{
+			"text_span": "Ermeni olduğunu halktan neden saklasın",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "ermeni CIA tasmalarini",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

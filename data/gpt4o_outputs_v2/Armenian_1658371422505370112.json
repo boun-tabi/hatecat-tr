@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658371422505370112",
+		"span": [
+			{
+				"text_span": "ermeni katliamını kabul eden",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

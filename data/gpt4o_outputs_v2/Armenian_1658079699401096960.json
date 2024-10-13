@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1658079699401096960",
+		"span": [ 
+			{
+			"text_span": "Ermeni kripto",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "1915 olaylarının intikamını almak için PKK’yı Kurduklarını",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

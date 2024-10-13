@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658239780985925888",
+		"span": [ 
+			{
+			"text_span": "solculuk oynayacağız diye genel baskaniniz ermeni soykirimini bile tanıdı",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

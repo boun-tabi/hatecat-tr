@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658125320073953024",
+		"span": [
+			{
+				"text_span": "ermeni biri ülkenin menfaatini düşünebilir mi? Düşünmez.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658346872442895872",
+		"span": [
+			{
+				"text_span": "Ermeni",
+				"hate_speech_category": "Symbolization"
+			}
+		]
+	}
+}

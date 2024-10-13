@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658094627415547904",
+		"span": [ 
+			{
+				"text_span": "Türk görünümlü Yahudi hiristiyan Ermeni",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "faize fuhuşa tecavüze esrara eroine",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

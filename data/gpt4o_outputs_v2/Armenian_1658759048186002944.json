@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658759048186002944",
+		"span": [
+			{
+				"text_span": "Ne büyük ermeni sevicisin",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Yalaka",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

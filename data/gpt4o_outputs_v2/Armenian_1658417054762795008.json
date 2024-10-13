@@ -1,0 +1,12 @@
+
+{
+    "tweet": {
+        "id": "1658417054762795008",
+        "span": [
+            {
+                "text_span": "Ermeni dönmeleri",
+                "hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+            }
+        ]
+    }
+}

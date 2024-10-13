@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658408924180037888",
+		"span": [
+			{
+				"text_span": "dünün Ermeni veledi",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Türkiye Cumhuriyetine Türk lere düşman olanlar",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

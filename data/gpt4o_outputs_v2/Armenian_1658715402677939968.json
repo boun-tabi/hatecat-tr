@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658715402677939968",
+		"span": [
+			{
+				"text_span": "Ermenistan'da Bir Müslüman Türk Aday Olsa %1 Oy Alamazdı!",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Türkiyede, Ermeni Nufus sayısında patlama yaşanmış.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

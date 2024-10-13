@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658185720891073024",
+		"span": [ 
+			{
+			"text_span": "Rum Ermeni sevdalıları",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

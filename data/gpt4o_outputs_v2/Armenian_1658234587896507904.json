@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658234587896507904",
+		"span": [
+			{
+				"text_span": "kadın ermeni soykırımında yok ananem babaanenm",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

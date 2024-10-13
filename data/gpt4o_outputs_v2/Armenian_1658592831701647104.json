@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658592831701647104",
+		"span": [
+			{
+				"text_span": "bu güzel vatanı Ermeni ve Yunan dan kurtardığı için",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "gerisi (yani sen ve senin gibileri) boş",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

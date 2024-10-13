@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658418418511479040",
+		"span": [ 
+			{
+			"text_span": "Ermeni soykırımı var diyenleri vekil yaptı.",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

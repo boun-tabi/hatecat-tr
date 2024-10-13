@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658251467566752000",
+		"span": [
+			{
+				"text_span": "Ülkenin üzerine bir Ermeni çökmeye çalışıyor",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

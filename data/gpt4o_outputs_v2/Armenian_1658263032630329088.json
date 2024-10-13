@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658263032630329088",
+		"span": [ 
+			{
+			"text_span": "kafkas devşirmesi Ermeni",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

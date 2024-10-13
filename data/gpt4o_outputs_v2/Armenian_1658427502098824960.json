@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1658427502098824960",
+		"span": [ 
+			{
+			"text_span": "içimizdeki hainlerle ermeni yunan ve yahidilerin torunlarını da göndermeye",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "hainlerle ermeni yunan ve yahidilerin torunlarını",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658517286766903040",
+		"span": [
+			{
+				"text_span": "Yunan, Ermeni vb. yaftalayamazsınız",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "Başka partiye oy versek bile biz de Türküz ve Elhamdülillah Müslümanız",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

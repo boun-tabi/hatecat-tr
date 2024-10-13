@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658164237376578048",
+		"span": [
+			{
+				"text_span": "ONLARINDA ÇOĞU ermeni yahudi ve hristiyan",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "yav adam 3 çocuk yapın derken  boşa demedi  Bu beka meselesi.",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658057045025725952",
+		"span": [
+			{
+				"text_span": "İngiliz Ermeni basmış",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "bunlar bizden Olamaz",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658547155580116992",
+		"span": [
+			{
+				"text_span": "nerde ermeni gırığı",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

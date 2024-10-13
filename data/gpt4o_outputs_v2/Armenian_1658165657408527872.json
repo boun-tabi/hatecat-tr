@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658165657408527872",
+		"span": [ 
+			{
+				"text_span": "Kenafir Gözlü Ermeni artığı",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658124932016926976",
+		"span": [
+			{
+				"text_span": "kripto, chpli sabataist Yahudi, ermeni taşnakçı torunu",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "darbeci uşağı",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

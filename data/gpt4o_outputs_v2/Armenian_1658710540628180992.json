@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658710540628180992",
+		"span": [
+			{
+				"text_span": "teröristkatil ermeni",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

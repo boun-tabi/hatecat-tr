@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658653357039386880",
+		"span": [
+			{
+				"text_span": "Babalarının kim olduğu belli olmayan Rum veya Ermeni tohumları",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

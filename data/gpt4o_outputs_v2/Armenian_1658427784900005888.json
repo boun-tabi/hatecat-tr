@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658427784900005888",
+		"span": [ 
+			{
+			"text_span": "tarihi gerçekleri saptırarak ermeni yalanlarını kabul etmesi",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

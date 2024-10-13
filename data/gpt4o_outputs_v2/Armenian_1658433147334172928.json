@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1658433147334172928",
+		"span": [
+			{
+				"text_span": "Bunlar bu vatana düşman, Türklere düşman, maneviyata düşman.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "kripto ermeni ya da kripto yunan",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "bu faşistler",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

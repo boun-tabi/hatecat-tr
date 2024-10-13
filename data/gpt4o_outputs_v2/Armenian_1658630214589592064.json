@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1658630214589592064",
+		"span": [ 
+			{
+			"text_span": "kahpelerin",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "Ermeni asıllı piç kuruları",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

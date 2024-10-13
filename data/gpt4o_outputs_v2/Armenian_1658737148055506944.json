@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658737148055506944",
+		"span": [ 
+			{
+			"text_span": "kalleş bölücü ermeni",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

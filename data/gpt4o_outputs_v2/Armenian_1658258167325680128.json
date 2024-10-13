@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658258167325680128",
+		"span": [
+			{
+				"text_span": "kim ermeni örgütü kim pkknın kuklası",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

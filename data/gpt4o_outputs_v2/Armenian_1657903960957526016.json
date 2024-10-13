@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1657903960957526016",
+		"span": [ 
+			{
+			"text_span": "kökü Ermeni olanlar Türkiye'yi dağıtmaya ayrıştırmaya kalkışırlar",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

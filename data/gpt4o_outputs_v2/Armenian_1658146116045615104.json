@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1658146116045615104",
+		"span": [ 
+			{
+			"text_span": "Yahudi ermeni ve yunan müsveddelerini",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "Türkiye'de istemiyoruz",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

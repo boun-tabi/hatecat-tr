@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658010829332020992",
+		"span": [
+			{
+				"text_span": "Yunan ermeni vatan hainleri",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "İt lerini piç lerini ülkeye bırakmışlar",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

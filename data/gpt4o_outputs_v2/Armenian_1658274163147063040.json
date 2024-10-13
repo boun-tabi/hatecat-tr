@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658274163147063040",
+		"span": [ 
+			{
+			"text_span": "Ermeni kökenli sözde ekonomistinin",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

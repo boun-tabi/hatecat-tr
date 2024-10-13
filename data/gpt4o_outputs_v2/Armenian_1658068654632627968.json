@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658068654632627968",
+		"span": [
+			{
+				"text_span": "çok afedersiniz ermeni mi",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

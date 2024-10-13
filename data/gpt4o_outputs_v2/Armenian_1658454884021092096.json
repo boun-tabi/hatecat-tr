@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658454884021092096",
+		"span": [ 
+			{
+				"text_span": "inanın ya Rum çocuğudur ya da Ermeni",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

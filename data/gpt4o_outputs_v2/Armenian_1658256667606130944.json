@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658256667606130944",
+		"span": [
+			{
+				"text_span": "Ermeni artıklarıyla",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "sözde 1915in hesabnı soracağız Türk Milletin'den desene",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

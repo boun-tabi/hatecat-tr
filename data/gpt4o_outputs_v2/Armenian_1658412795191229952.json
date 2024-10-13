@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658412795191229952",
+		"span": [
+			{
+				"text_span": "Ermeni tohumu",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

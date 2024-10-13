@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658241307746225920",
+		"span": [
+			{
+				"text_span": "Azerbaycan ve Türkiye düşmanı olan Ermeni destekçisi",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

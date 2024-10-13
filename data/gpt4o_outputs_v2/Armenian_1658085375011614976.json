@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658085375011614976",
+		"span": [
+			{
+				"text_span": "yunan ermeni pkk",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

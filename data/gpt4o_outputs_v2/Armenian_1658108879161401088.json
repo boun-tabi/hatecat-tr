@@ -1,0 +1,19 @@
+{ 
+	"tweet": {
+		"id": "1658108879161401088",
+		"span": [ 
+			{
+			"text_span": "Ermeni iddialarını soykırım olarak tanımlayanların hamisi",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "Kılıçdaroğlu gibi bir Ermeni'yi, Cumhurbaşkanı yaptırmayalım",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "isimi Türk-iye olan bir memlekette",
+			"hate_speech_category": "Symbolization"
+			}
+		] 
+	}
+}

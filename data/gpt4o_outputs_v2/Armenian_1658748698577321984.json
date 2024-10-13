@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1658748698577321984",
+		"span": [
+			{
+				"text_span": "Ermeni olup kendini Alevi gösteren Kılıçdaroğlu",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Sahtekara, Yalancıya, geçmişini gizleyenlere",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Ermenistanda, Yunanistanda, bir Müslüman Türk aday olsa 1% oy alamaz.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1658411213108269056",
+		"span": [ 
+			{
+			"text_span": "başından beri kılıçlaroğlu ermeniydi",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "proje ermeni devletine yarıyor",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

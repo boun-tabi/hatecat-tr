@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658526394685455872",
+		"span": [
+			{
+				"text_span": "Ermeni soykırımı savunuluyor kimse utanmıyor",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

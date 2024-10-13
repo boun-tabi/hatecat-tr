@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658143326439191040",
+		"span": [
+			{
+				"text_span": "sen kendi soy ağacına bak bakalım ermeni misin yunan mı.",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

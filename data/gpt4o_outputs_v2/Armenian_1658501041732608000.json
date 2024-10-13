@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658501041732608000",
+		"span": [
+			{
+				"text_span": "kılıçdaroğlu o da Ermeni olduğu için rahatsız oluyo",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

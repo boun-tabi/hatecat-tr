@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1657927395968527872",
+		"span": [ 
+			{
+				"text_span": "seçmenin yarısı pkk yarısı ermeni Rum",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Hayin nankör",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

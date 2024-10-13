@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658311962822955008",
+		"span": [
+			{
+				"text_span": "Adının ucu Ermeni",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "tiksindik",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

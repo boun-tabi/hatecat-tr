@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658507644326362880",
+		"span": [ 
+			{
+				"text_span": "kahve rengi gizlilerin aslı yahudi siyah gözlü kürt diye geçinen kesim ermeni asıllıdır",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "yek pare ermenistanda kalanlar",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658186326452101120",
+		"span": [
+			{
+				"text_span": "amerikan ermeni maşası",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658550476420402944",
+		"span": [ 
+			{
+				"text_span": "ermenî uşağı",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "vatan hayini",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

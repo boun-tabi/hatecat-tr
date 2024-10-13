@@ -1,0 +1,12 @@
+
+{ 
+	"tweet": {
+		"id": "1658500714736369920",
+		"span": [ 
+			{
+			"text_span": "biz insan dışı varlıklara Ermeniler deriz",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

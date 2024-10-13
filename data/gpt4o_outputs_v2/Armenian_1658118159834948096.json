@@ -1,0 +1,12 @@
+
+{ 
+	"tweet": {
+		"id": "1658118159834948096",
+		"span": [ 
+			{
+			"text_span": "Sözde kürt ama ermeni",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

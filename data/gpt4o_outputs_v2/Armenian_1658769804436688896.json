@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658769804436688896",
+		"span": [
+			{
+				"text_span": "ermeni terörist ve bebek katili",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Cehennemin dibine kadar yolun var",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

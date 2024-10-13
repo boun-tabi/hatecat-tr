@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1658012463579685120",
+		"span": [ 
+			{
+				"text_span": "ermenilerle kardeş filan değiliz",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "hangi ermeni türkün kürdün suryanının sunninin alevinin, yanında olmuş sallamayın",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

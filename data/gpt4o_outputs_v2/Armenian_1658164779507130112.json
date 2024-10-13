@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658164779507130112",
+		"span": [ 
+			{
+				"text_span": "ama ermeni tarafı tabiki vermez di",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Bölücüler Kalleştir",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

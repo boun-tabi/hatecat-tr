@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1657987841639472896",
+		"span": [ 
+			{
+			"text_span": "amcik ağızlı Ermeni",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

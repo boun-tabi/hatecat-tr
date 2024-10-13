@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658599014550368000",
+		"span": [
+			{
+				"text_span": "Ermeni soykırımı(!) savunucusu",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

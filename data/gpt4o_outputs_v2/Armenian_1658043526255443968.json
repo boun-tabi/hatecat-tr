@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658043526255443968",
+		"span": [
+			{
+				"text_span": "sadece Kürt değil, çoğu Ermeni asıllı buda bir gerçek 😂",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

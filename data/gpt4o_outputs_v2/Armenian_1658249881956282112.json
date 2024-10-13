@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658249881956282112",
+		"span": [ 
+			{
+			"text_span": "Ermeni Yahudi kırması",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658516000923368960",
+		"span": [
+			{
+				"text_span": "adam Ermeni soykırımı yapıldı diyenlerle ponçik yapıyor geç bu işleri",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658733090519301888",
+		"span": [
+			{
+				"text_span": "babalarınız gelsin ermeni çocuklarından bıktık",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "ermenilerden bıktık",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

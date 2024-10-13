@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658424453439664128",
+		"span": [ 
+			{
+			"text_span": "Iki yuzlu ermeni kopegi",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

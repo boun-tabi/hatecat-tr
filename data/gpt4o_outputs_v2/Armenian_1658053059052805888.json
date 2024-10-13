@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658053059052805888",
+		"span": [
+			{
+				"text_span": "bir Ermeni bu ülkeden bukdr oy alıyorsa kendimizi sorgulamamız gerekiyor çok yazık.",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

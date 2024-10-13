@@ -1,0 +1,12 @@
+
+{ 
+	"tweet": {
+		"id": "1658340254204428032",
+		"span": [ 
+			{
+			"text_span": "malimiza çocuğumuza çocuğumuza çöken ermeni",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

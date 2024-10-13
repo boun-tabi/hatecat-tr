@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658431342961369088",
+		"span": [
+			{
+				"text_span": "ermeni rumlarıda",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

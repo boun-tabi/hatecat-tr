@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658270984569344000",
+		"span": [
+			{
+				"text_span": "çürük beynin",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "sizler kurd olamazsinjz  ermeni olduğunuz aşikar",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

@@ -1,0 +1,24 @@
+
+{
+	"tweet": {
+		"id": "1658433487764946944",
+		"span": [
+			{
+				"text_span": "Tuvaletinden BESLENEN Lağım SOLUCANI",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Amını Siktiğim Ermeni Lağım Pisliğinin",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Ermeni Rum Yahudi Kalıntı AÇ Göçmen Lağım Kurbağalarındansın",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "Lağım Kurbağası İBNE Orospuları",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

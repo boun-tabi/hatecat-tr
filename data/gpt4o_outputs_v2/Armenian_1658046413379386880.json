@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658046413379386880",
+		"span": [
+			{
+				"text_span": "it",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "biti",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

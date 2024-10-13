@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658527991696065024",
+		"span": [
+			{
+				"text_span": "ermeni uşagı",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

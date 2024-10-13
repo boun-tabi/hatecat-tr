@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1658436340684399104",
+		"span": [ 
+			{
+			"text_span": "35 yıldır Ermeni işgalinde olan Karabağı",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "Ermeni işgalinden",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

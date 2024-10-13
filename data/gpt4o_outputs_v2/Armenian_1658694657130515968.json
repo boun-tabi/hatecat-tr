@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1658694657130515968",
+		"span": [
+			{
+				"text_span": "Ermeni torunu",
+				"hate_speech_category": "Symbolization"
+			},
+			{
+				"text_span": "vatansız aşalık mahlukat",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "K.Atatürk sizleri görseydi vallahi hepinizi kurşuna dizdirirdi",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

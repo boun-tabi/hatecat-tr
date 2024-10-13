@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658591773713726976",
+		"span": [ 
+			{
+			"text_span": "PKK gibi ermeni zihniyeti ve hıristiyan zihniyeti",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

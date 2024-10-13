@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658172180377526016",
+		"span": [
+			{
+				"text_span": "Ermeni Yahudi uşaklarına yar olmamalı",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "Öz vatanda parya olduk",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1657950738465579008",
+		"span": [
+			{
+				"text_span": "Gidip'de ermeni savunursan sana böyle %8 oy çıkar.",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

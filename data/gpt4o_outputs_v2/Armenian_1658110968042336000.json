@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658110968042336000",
+		"span": [ 
+			{
+				"text_span": "Defsirme soysuz ben Türküm.",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Türkiye tüm Türklerin vatanidir Ermeni dolu.",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658413154441871104",
+		"span": [
+			{
+				"text_span": "Allah kimseye ermeni kemali taklit ettirmesin",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "ermeni kemali",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

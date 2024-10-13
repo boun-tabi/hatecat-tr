@@ -1,0 +1,19 @@
+{ 
+	"tweet": {
+		"id": "1658144706373583104",
+		"span": [ 
+			{
+				"text_span": "adam türk degil irkcilik yapiyor",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "dinsiz ama dini eleştiriyor",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "aciklayin su ermenileri ve yahidileride bilelim",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

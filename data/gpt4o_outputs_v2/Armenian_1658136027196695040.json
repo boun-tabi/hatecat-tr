@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658136027196695040",
+		"span": [
+			{
+				"text_span": "Ermeni iftirasinda",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "soy kirimci",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

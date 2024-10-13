@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658367373018124032",
+		"span": [
+			{
+				"text_span": "defolup gitmiyorsunuz",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "biz bu ülkede ermeni istemiyoruz",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

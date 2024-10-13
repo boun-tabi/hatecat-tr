@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658578319762158080",
+		"span": [
+			{
+				"text_span": "ermen itini piçini",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Keşke zamanında acımayıp temizleseymiş.",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

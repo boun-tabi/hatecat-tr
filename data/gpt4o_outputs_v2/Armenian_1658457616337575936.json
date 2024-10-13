@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658457616337575936",
+		"span": [
+			{
+				"text_span": "tahminim Ermeni tohumudur",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

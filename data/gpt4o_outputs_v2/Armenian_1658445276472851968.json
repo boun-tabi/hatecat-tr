@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658445276472851968",
+		"span": [
+			{
+				"text_span": "Biri Müslüman Kürt bir ermeni hristiyan",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "3 krsluk aklınla algı yapma",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

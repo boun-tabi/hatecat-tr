@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658568016299281920",
+		"span": [ 
+			{
+			"text_span": "domuzlar",
+			"hate_speech_category": "Dehumanization"
+			},
+			{
+			"text_span": "Ermeni yapmaz lan bunu",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

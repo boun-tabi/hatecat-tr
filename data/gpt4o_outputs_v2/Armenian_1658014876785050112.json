@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658014876785050112",
+		"span": [
+			{
+				"text_span": "PKK benim nezdimde Ermeni tohumudur.",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

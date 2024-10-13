@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658342779775320064",
+		"span": [
+			{
+				"text_span": "Ermeni oğlu",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "bize Ermeni veya Yunan oğlu lazım deyil bize TÜRK OĞLU TÜRK lazım",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

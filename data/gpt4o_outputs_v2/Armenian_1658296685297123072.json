@@ -1,0 +1,23 @@
+{
+	"tweet": {
+		"id": "1658296685297123072",
+		"span": [
+			{
+				"text_span": "İçimizdeki kripto Ermeni Yahudi ve Yunanlılar",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Türk milletine her türlü hakareti ve aşağılama yapmaya başladılar",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "ne mal olduğunuzu",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "şerefs*zler",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1658144685099974912",
+		"span": [
+			{
+				"text_span": "ermeni lobisinin elinde",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "asla Türkiyeyi sevdiklerine inanmayın",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "hakaret tek bildikleri dil",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

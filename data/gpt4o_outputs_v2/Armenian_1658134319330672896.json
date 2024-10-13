@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658134319330672896",
+		"span": [
+			{
+				"text_span": "ermeni pkk lilari",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

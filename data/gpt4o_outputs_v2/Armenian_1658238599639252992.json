@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658238599639252992",
+		"span": [
+			{
+				"text_span": "Ermeni terör örgütü",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

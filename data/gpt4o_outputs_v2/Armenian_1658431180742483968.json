@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658431180742483968",
+		"span": [ 
+			{
+				"text_span": "sözde ermeni soykırım",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

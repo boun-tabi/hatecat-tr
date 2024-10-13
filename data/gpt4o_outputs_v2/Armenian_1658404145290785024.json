@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658404145290785024",
+		"span": [
+			{
+				"text_span": "Ermeni",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

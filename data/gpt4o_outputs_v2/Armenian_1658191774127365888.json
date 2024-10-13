@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1658191774127365888",
+		"span": [
+			{
+				"text_span": "Ermeni pkk lılar",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "dedelerinizin intikamı için teröristle aynı yatakta yatarsınız",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "TERÖRİSTİ gebertiriz",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

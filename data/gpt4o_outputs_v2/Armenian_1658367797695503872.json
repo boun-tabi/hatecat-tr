@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658367797695503872",
+		"span": [
+			{
+				"text_span": "şer odaklarının paralı askerleri",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "ermeni ve bizans oyunları",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

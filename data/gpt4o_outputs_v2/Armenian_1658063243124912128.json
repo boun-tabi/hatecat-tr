@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658063243124912128",
+		"span": [
+			{
+				"text_span": "icimizde barinan yunan rus ermeni bulgar Süryani leride gonderin",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

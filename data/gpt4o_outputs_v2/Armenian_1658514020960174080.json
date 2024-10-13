@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1658514020960174080",
+		"span": [ 
+			{
+			"text_span": "bir Ermeni",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "PKK da Ermeni Asala'nın uzantısı",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

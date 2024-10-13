@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1658522955616222976",
+		"span": [ 
+			{
+			"text_span": "PKK sevicileri",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "Ermeni alevisi",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658059247945481984",
+		"span": [
+			{
+				"text_span": "Ermeni Kılıçtarı",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

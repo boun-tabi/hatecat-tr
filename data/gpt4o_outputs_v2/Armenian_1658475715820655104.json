@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658475715820655104",
+		"span": [ 
+			{
+				"text_span": "PKK' lı Ermeni artıklarına",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

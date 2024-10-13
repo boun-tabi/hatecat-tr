@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658754975042792960",
+		"span": [
+			{
+				"text_span": "bu Ermeni sevicilerle",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

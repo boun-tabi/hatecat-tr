@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658349062872083968",
+		"span": [
+			{
+				"text_span": "Heç er*eniye ehtiyac yoxdur",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

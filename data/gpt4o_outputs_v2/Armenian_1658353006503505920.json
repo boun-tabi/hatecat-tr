@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658353006503505920",
+		"span": [
+			{
+				"text_span": "çaldıkları yetmemiş",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "aparmışlar",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

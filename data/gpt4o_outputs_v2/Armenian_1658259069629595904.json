@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658259069629595904",
+		"span": [ 
+			{
+			"text_span": "Affedersin daha çirkinini söylediler, Ermeni dediler.",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

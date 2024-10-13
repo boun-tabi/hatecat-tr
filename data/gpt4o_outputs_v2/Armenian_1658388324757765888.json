@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658388324757765888",
+		"span": [ 
+			{
+			"text_span": "gizli Ermeni",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

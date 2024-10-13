@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658190123119304960",
+		"span": [
+			{
+				"text_span": "direk ermeni siyaseti yapti",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "aptal herif",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658461626461306880",
+		"span": [
+			{
+				"text_span": "Digeri ermeni olan birini hapisten cikarmak icinmi",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "Bu kadar sığır olunurmu",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

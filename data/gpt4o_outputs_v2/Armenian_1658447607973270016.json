@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658447607973270016",
+		"span": [ 
+			{
+			"text_span": "Ermeni soykırımı vardır diyen",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

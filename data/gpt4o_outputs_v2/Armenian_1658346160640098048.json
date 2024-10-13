@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1658346160640098048",
+		"span": [
+			{
+				"text_span": "ermenilerin hiç bir söz ve icraatları kaale alınmamalı , ülkeden uzaklaştırılmalı",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "ben ülkemde ermeni istemiyorum",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "Pkk destekleyip hala yaşatan",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

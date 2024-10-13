@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658439040708820992",
+		"span": [
+			{
+				"text_span": "siz ermeni tohumu",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "siz defolup gidin",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

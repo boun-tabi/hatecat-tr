@@ -1,0 +1,16 @@
+
+{ 
+	"tweet": {
+		"id": "1658659901785113088",
+		"span": [ 
+			{
+			"text_span": "kripto ermeni",
+			"hate_speech_category": "Symbolization"
+			},
+			{
+			"text_span": "bunların 'Türk'e karşı kültürel bir dalgakıran oluşturduklarını",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

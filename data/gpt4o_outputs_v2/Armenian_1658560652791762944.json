@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1658560652791762944",
+		"span": [ 
+			{
+				"text_span": "Sözde Ermeni soykırımının",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "ateş olsanız cürümünüz kadar yer yakarsınız",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "toplanında gelin",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

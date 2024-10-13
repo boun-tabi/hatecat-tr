@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658453278227681024",
+		"span": [
+			{
+				"text_span": "Ermeni Soykırımını kabul etmiş",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

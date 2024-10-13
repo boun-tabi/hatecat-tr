@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658250122566696960",
+		"span": [
+			{
+				"text_span": "ermeni soykirimi yalanini söyleyen",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "terör derstekcisi",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

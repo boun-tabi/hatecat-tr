@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1657963686210813952",
+		"span": [
+			{
+				"text_span": "ERMENİ",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Ermeni ve Yahudi yönetemez",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658554216330265088",
+		"span": [ 
+			{
+				"text_span": "Ermeni Soykırımı yalanını",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

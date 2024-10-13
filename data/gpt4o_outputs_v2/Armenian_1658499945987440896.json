@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658499945987440896",
+		"span": [
+			{
+				"text_span": "bizim PKK dediğimiz örgüt Ermeni mossattır",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "kılaçdaroğluda Ermeni olduğu için",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

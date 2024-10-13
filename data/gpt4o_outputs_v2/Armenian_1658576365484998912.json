@@ -1,0 +1,12 @@
+
+{ 
+	"tweet": {
+		"id": "1658576365484998912",
+		"span": [ 
+			{
+			"text_span": "bunlar bir rum bir ermeni kadar bile insanlığı yok",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

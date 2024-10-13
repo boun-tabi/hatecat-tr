@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658568122276762112",
+		"span": [
+			{
+				"text_span": "ermeniler hepsi ittifak için gittiler",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "lanet olsun sizin zihniyetinize gidin essek heykel seviciler",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

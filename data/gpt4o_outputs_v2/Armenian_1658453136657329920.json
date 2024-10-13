@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658453136657329920",
+		"span": [
+			{
+				"text_span": "Ermeni soykırımını kabul etmiştir",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Atatürk'e katil diyenlerden ne farkı var?",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

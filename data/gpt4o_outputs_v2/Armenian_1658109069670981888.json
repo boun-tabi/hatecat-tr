@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658109069670981888",
+		"span": [ 
+			{
+			"text_span": "ermeni güzellemesi",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

@@ -1,0 +1,20 @@
+
+{ 
+	"tweet": {
+		"id": "1658538504068947968",
+		"span": [ 
+			{
+			"text_span": "PKK seviciler",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "Allah belanızı versin",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "Bu ermeni desteklemeye devam edin",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

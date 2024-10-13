@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658623617897230080",
+		"span": [
+			{
+				"text_span": "Allahsız dinsiz ermeni partisi",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "hayal satar zulüm eder",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

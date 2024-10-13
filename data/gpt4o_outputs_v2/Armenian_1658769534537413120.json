@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658769534537413120",
+		"span": [
+			{
+				"text_span": "Ermeni piçlerinin",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "cikardıgı fitneyi",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

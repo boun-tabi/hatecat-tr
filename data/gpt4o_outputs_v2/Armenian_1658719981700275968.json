@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1658719981700275968",
+		"span": [ 
+			{
+				"text_span": "Amina koduklarim",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "ermeni dölü",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "picler",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

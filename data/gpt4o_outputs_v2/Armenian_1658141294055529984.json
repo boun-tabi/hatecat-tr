@@ -1,0 +1,12 @@
+
+{ 
+	"tweet": {
+		"id": "1658141294055529984",
+		"span": [ 
+			{
+			"text_span": "anmayın ermeniyi",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

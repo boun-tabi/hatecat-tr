@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658021093385330944",
+		"span": [ 
+			{
+				"text_span": "haini bol bir ülkeyiz",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "İngiliz alman Fransız ermeni Yunan Rum pkk Fetö",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

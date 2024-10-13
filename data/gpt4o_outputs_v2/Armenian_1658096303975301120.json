@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658096303975301120",
+		"span": [
+			{
+				"text_span": "ZtdMImzIYy",
+				"hate_speech_category": "Symbolization"
+			}
+		]
+	}
+}

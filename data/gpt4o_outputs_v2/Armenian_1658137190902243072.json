@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658137190902243072",
+		"span": [
+			{
+				"text_span": "Pkkli ermeni",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "katil teröristler",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

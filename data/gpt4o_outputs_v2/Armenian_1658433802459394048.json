@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658433802459394048",
+		"span": [ 
+			{
+			"text_span": "bu kadar Türk düşmanı",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

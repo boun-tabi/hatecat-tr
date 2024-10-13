@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658573296915427072",
+		"span": [
+			{
+				"text_span": "sizin gibi ermeni degil",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

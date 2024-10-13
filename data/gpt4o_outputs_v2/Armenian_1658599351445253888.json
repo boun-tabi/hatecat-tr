@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658599351445253888",
+		"span": [
+			{
+				"text_span": "pkk demek ermeni demek",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "şimdi ağlamayın",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

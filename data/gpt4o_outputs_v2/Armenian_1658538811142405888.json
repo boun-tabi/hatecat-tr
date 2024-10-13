@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1658538811142405888",
+		"span": [ 
+			{
+			"text_span": "Ermenisi Yahudisi",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "zamanında özel olarak Ermeni getirildi ülkeye",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

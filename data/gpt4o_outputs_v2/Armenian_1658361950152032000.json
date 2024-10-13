@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658361950152032000",
+		"span": [
+			{
+				"text_span": "Haçlı siyonist ermeni",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

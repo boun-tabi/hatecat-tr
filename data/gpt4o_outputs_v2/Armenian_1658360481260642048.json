@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658360481260642048",
+		"span": [ 
+			{
+				"text_span": "ermeni vekili de normal değil",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658403161701270016",
+		"span": [ 
+			{
+			"text_span": "nerde ermeni doldurdular partiye",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658345587949940992",
+		"span": [ 
+			{
+			"text_span": "terörist katil ermeni",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "ermeni yahudi pkk ypgliler",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

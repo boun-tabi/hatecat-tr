@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658752217866699008",
+		"span": [
+			{
+				"text_span": "Kripto Ermeni olduğu halde",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Ermeni gibi Ermeniler",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658545800379523072",
+		"span": [
+			{
+				"text_span": "bu viruslardan kurtulalım",
+				"hate_speech_category": "Dehumanization"
+			},
+			{
+				"text_span": "bu İngiliz Ermeni Yahudi soylari",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658138915176316928",
+		"span": [
+			{
+				"text_span": "ne Ermeni soykırımı yapmışız",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

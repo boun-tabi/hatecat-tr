@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1658446368812219904",
+		"span": [ 
+			{
+			"text_span": "ya ermeni sevicidir yada yunan sevicidir",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "Bunlar Jön Türktür yane gerçek Türk değil",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

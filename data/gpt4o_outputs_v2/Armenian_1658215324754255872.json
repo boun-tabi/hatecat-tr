@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658215324754255872",
+		"span": [
+			{
+				"text_span": "Aslen Ermeni Olan!",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

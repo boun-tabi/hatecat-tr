@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658741415176797952",
+		"span": [
+			{
+				"text_span": "Ermeni tohumları",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

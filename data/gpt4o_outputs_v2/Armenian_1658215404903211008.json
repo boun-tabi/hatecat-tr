@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658215404903211008",
+		"span": [
+			{
+				"text_span": "ermeni alevi bir aday tutmaz bu ülkede",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658139666317558016",
+		"span": [
+			{
+				"text_span": "Ermeni çeteleriyle birleşip sultanı düşürüp, ermeni çetelerinin işine bakacağız",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

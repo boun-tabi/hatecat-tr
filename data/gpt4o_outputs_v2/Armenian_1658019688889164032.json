@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658019688889164032",
+		"span": [ 
+			{
+				"text_span": "Ermeni tohumu",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Aralarında bir tane Müslüman evladı olamaz",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

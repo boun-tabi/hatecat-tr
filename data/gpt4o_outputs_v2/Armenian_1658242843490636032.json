@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658242843490636032",
+		"span": [ 
+			{
+				"text_span": "soyuda ermeni pakraduni degilse adımı değiştiririm",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "TC kimlikli ermeniler birbirini çok destekliyor",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

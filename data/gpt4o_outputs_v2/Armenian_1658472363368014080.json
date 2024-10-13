@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658472363368014080",
+		"span": [ 
+			{
+			"text_span": "Bölücülerle ve fetöcülerle işbirliği tutmayan Ermeni",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "Kripto Ermenileri",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658008375576198912",
+		"span": [
+			{
+				"text_span": "Ermeni asıllı herif tabiki de Osmanlı’dan nefret edecek",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

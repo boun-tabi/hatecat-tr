@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658426484661387008",
+		"span": [
+			{
+				"text_span": "ABD'nin uşaklığını yapan Ermeni",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "etnik kimlik ve inanç üzerinden Türkiye'yi parçalamak istiyor",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

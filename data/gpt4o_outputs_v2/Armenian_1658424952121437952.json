@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658424952121437952",
+		"span": [ 
+			{
+				"text_span": "Ermeni soykırımı var diyen biri",
+				"hate_speech_category": "Defamation"
+			},
+			{
+				"text_span": "Hain sürüsü",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

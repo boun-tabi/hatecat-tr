@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658069104077438976",
+		"span": [ 
+			{
+			"text_span": "Ermeni soykırımını kabullenmelerini de unutmayalım",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

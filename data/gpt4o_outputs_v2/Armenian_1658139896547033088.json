@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658139896547033088",
+		"span": [
+			{
+				"text_span": "Ermeni Çeteleri",
+				"hate_speech_category": "Symbolization"
+			}
+		]
+	}
+}

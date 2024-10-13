@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658735587984133888",
+		"span": [
+			{
+				"text_span": "Kürt ve Ermeni düşmanlığında",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658250301487436032",
+		"span": [
+			{
+				"text_span": "bunlar ermeni",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

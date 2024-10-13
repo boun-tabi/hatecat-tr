@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1657980718813703936",
+		"span": [
+			{
+				"text_span": "kim ermeni geni tasiyor",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

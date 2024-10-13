@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658352268335301120",
+		"span": [ 
+			{
+				"text_span": "Ermeni sizsiniz ben değil",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Ben askerlikten kaçmam ama siz kaçarsınız! Kaçtınız da.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658101394925125888",
+		"span": [
+			{
+				"text_span": "ermenı soylu",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

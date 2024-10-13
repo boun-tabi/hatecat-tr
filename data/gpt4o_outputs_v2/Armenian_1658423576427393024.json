@@ -1,0 +1,24 @@
+
+{
+	"tweet": {
+		"id": "1658423576427393024",
+		"span": [
+			{
+				"text_span": "ermeni olup kürdüm türküm aleviyim diye kendilerinizi gizleyen hainlersiniz",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "omurgasız sülüksünüz siz",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "asıl kimliklerinizi bile söyleyemeyen korkaklar sürüsüsünüz",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "ermeni değilmi",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

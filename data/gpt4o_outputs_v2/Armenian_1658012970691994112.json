@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658012970691994112",
+		"span": [
+			{
+				"text_span": "siz iftiracı MANİPÜLATÖRCÜ Araplar",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "Araplikla ermenilikpe uzaktan yakından alakam yok",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

@@ -1,0 +1,16 @@
+
+{ 
+	"tweet": {
+		"id": "1658701523227140096",
+		"span": [ 
+			{
+				"text_span": "ermeni kemale",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "vatanımızı hainlerin vatan düşmanlarının eline düşürmesin",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

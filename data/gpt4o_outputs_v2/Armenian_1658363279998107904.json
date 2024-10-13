@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658363279998107904",
+		"span": [ 
+			{
+			"text_span": "ya ermeni attığı",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

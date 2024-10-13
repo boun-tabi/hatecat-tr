@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658041414834322944",
+		"span": [
+			{
+				"text_span": "özü Amerikan Rum Ermeni Yahudi çok var.",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

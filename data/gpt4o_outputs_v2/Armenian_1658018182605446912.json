@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658018182605446912",
+		"span": [
+			{
+				"text_span": "Ermeni dölü",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "geberir inşallah",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

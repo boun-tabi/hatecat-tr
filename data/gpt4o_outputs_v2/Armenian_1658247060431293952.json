@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658247060431293952",
+		"span": [
+			{
+				"text_span": "Ermeni birisi ile Atatürk'ü aynı kefeye koymak senin gibi rozetçilere yakışır",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658079553175126016",
+		"span": [
+			{
+				"text_span": "Ermeni",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

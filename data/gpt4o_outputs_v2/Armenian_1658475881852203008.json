@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1658475881852203008",
+		"span": [ 
+			{
+			"text_span": "Len Ermeni",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "Dedelerin de vatan haini.",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "Sabiha Gökçen o yüzden bombaladı sizi.",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

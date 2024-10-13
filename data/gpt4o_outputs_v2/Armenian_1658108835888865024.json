@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658108835888865024",
+		"span": [ 
+			{
+			"text_span": "Ermeni CHPKK'lılar",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

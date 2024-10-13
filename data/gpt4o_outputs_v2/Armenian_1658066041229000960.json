@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658066041229000960",
+		"span": [
+			{
+				"text_span": "Ermeni yermosun oğlu",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

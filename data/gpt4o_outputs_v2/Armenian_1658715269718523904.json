@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658715269718523904",
+		"span": [
+			{
+				"text_span": "İngiliz ezberini bırakın",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Ermeni tezleriyle konuşma",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

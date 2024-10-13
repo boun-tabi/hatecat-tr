@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658527598790443008",
+		"span": [ 
+			{
+			"text_span": "Memur ermeni gavur çocuğumu.!!",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

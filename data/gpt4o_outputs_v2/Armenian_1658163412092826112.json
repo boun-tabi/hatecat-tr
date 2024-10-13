@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658163412092826112",
+		"span": [
+			{
+				"text_span": "PKK ve destekçilerinin çoğu cihan harbinde hamile kadınlarımızın karnını deşen ermeni militanlarının tohumları.",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "cihan harbinde hamile kadınlarımızın karnını deşen",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

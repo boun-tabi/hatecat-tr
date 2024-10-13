@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658064487038033920",
+		"span": [ 
+			{
+			"text_span": "düşmanla sarılı",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

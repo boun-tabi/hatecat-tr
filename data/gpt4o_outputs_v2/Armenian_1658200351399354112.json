@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658200351399354112",
+		"span": [
+			{
+				"text_span": "içimizdeki ermeni aleviler yapıyor",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "amaç Türkiye yıkılsın ne olursa olsun derdindeler",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1658106985693232896",
+		"span": [
+			{
+				"text_span": "Türkiyetopraklarında%36ErmeniYahudikarışımı",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "birde bunların kıçını yalayan %10 ile 14 arası insan dışı artıklar",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "ön planda olanların çoğu devşirme",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

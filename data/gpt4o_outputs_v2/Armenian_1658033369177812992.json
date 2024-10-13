@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658033369177812992",
+		"span": [
+			{
+				"text_span": "\"Müslüman\" ülkede Ermeni birinin %44 oy olması",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "Sizler OSMANLİ yeeine hac'ı  seçtiniz. Bu size bir ömür boyu yeter.",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

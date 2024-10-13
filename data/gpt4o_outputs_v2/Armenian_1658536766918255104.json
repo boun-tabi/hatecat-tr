@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658536766918255104",
+		"span": [
+			{
+				"text_span": "Vatan haini Taşnak Ermeni tohumları",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

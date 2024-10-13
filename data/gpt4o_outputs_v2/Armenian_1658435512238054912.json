@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658435512238054912",
+		"span": [
+			{
+				"text_span": "altını açsak kökünü çeksek ya Ermeni ya Yahudi karışımı sabetayist çıkar.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "vatanın senin gibilere ihtiyacı yok!",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

@@ -1,0 +1,16 @@
+
+{ 
+	"tweet": {
+		"id": "1658592156905251072",
+		"span": [ 
+			{
+			"text_span": "atası ya Ermeni yada Rumdan yada Yahudiden dönme",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "hain",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

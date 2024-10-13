@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658158051461935104",
+		"span": [
+			{
+				"text_span": "bi Ermeni peşinde gitmek salaklığı görüyorum bazı şizofrenlerde",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

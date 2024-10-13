@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1657981096703713024",
+		"span": [
+			{
+				"text_span": "kim yahudi geni tasiyor kim yunan geni tasiyor kim ermeni geni tasiyor",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

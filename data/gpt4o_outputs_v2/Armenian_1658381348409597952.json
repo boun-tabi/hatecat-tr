@@ -1,0 +1,12 @@
+
+{ 
+	"tweet": {
+		"id": "1658381348409597952",
+		"span": [ 
+			{
+			"text_span": "Türkleri sözde ermeni soykırımı yapmakla itham edenleri",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

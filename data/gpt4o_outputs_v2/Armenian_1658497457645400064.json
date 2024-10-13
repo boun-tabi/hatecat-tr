@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658497457645400064",
+		"span": [
+			{
+				"text_span": "imansız, çoğunluğu yahudi ve ermeni oluşunuz",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

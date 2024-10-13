@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658563411632954880",
+		"span": [
+			{
+				"text_span": "Gerçek Türk milleti sizin gibi Yunan Ermeni Kırması Değil",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658085081611661056",
+		"span": [
+			{
+				"text_span": "ne olduğu belli olmayan Ermeni",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

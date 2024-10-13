@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658074747614253056",
+		"span": [
+			{
+				"text_span": "bakteri gibi ürüyorsunuz",
+				"hate_speech_category": "Dehumanization"
+			},
+			{
+				"text_span": "Ermeni laflariyla taşkınlık cikarsan",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

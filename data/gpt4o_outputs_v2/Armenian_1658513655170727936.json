@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658513655170727936",
+		"span": [
+			{
+				"text_span": "bir Ermeni",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "Bunların HDP ile işbirliği yapması tesadüf mü?PKK da Ermeni Asala'nın uzantısı.",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

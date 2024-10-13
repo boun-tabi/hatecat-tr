@@ -1,0 +1,19 @@
+{ 
+	"tweet": {
+		"id": "1658389676779086080",
+		"span": [ 
+			{
+			"text_span": "Ülkemizdeki 20 milyona yakın Yunan, İngiliz, Ermeni asıllılar gidecekse",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "bu güruh 100 yıldır ülkeye takoz oldu",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "şimdi batıya mandacılık ve kürtlere özerkliğe oy kullanıyor",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

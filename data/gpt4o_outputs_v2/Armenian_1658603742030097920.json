@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658603742030097920",
+		"span": [ 
+			{
+				"text_span": "soykırımı yapılmıştır diyenler iftiracı",
+				"hate_speech_category": "Defamation"
+			},
+			{
+				"text_span": "aynı safta değilmisiniz",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

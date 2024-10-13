@@ -1,0 +1,12 @@
+
+{
+    "tweet": {
+        "id": "1658410086597837056",
+        "span": [
+            {
+                "text_span": "hepsi ermeni ateist",
+                "hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+            }
+        ]
+    }
+}

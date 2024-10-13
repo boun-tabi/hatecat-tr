@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1658453959902724096",
+		"span": [ 
+			{
+			"text_span": "sizin gibi Ermeni kökenliler zaten göndermesin",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "Vatan hainleri",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658200434752859904",
+		"span": [
+			{
+				"text_span": "35 yıldır Ermeni işgalinde ki Karabağı kurtaran ADAMA ( Erdoğan'a ) düşman haydaaaa ?",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1658058134550618112",
+		"span": [ 
+			{
+			"text_span": "Ermeni oldu ya onu sorguluyoruz",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "ne ararsan var artık chp de",
+			"hate_speech_category": "Dehumanization"
+			}
+		] 
+	}
+}

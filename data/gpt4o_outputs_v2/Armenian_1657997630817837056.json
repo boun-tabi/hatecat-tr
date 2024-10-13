@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1657997630817837056",
+		"span": [
+			{
+				"text_span": "sözde çocukları ermeni",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "ermeni aponun çocukları",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

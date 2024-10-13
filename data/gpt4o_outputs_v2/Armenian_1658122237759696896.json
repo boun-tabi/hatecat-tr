@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1658122237759696896",
+		"span": [
+			{
+				"text_span": "Ermeni devşirmeleri",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "Gizli Ermeniler",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "Solculukları hikaye, gizli hiristyan orthodokslar",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

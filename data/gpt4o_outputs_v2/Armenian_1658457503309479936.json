@@ -1,0 +1,24 @@
+
+{
+	"tweet": {
+		"id": "1658457503309479936",
+		"span": [ 
+			{
+				"text_span": "kanlı kahpe şerefsiz vatan Ermeni uşağı",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "PKK lı teröristler ile yaşanan çatışma",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Eli kanlı terör örgütü PKKya diyemeyenler U.Ç. dur",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "bir o kadar kahpedir",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1658135879607623936",
+		"span": [ 
+			{
+			"text_span": "Pkkli ermeni",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "pkkli yahudi melezi katil teröristler",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

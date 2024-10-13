@@ -1,0 +1,19 @@
+{ 
+	"tweet": {
+		"id": "1658159477940530944",
+		"span": [ 
+			{
+			"text_span": "şehidin katillerine",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "ermeni artıklarına",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "bebek katillerine",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

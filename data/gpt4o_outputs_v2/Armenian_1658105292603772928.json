@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1658105292603772928",
+		"span": [ 
+			{
+				"text_span": "ermeni kadının balası",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "asla Türk’e başkan olamaz",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

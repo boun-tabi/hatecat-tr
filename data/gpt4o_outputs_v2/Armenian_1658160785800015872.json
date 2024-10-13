@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658160785800015872",
+		"span": [
+			{
+				"text_span": "Ermeni işgalinde olan Karabağ'ı Ermeni işgalinden kurtardığı içindir",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "Ermeni işgali",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}
