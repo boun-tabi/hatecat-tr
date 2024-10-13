@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1659682617740984320",
+		"span": [ 
+			{
+				"text_span": "ترحيل كل السورين",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

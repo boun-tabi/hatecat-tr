@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1659682226089459714",
+		"span": [ 
+			{
+			"text_span": "سوف يتم ترحيل الاجئين السوريين",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1659840610830802944",
+		"span": [
+			{
+				"text_span": "المغربية التي تتقن اللهجة السعودية لا تصلح للزواج",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#ترحيل_المغربيات_مطلب2",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

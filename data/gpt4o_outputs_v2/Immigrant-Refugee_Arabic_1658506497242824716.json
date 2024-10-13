@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658506497242824716",
+		"span": [ 
+			{
+			"text_span": "نعم مع ترحيل كل اللاجئين من أي جنسية كانت",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658127205199671297",
+		"span": [ 
+			{
+				"text_span": "بدنا ياهن يفلوا من دون عودة",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

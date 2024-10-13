@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1659413003802910722",
+		"span": [
+			{
+				"text_span": "حسبنا الله ونعم الوكيل شوفو وين وصلو",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "يشربون الرجال البول ويأكلونه هو با الأكل اعزكم اللهواعز النعمه",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

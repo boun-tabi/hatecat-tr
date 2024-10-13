@@ -1,0 +1,19 @@
+{ 
+	"tweet": {
+		"id": "1659141226585571331",
+		"span": [ 
+			{
+			"text_span": "يقومون بنشر الرذيلة والانحلال",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "تشويه سمعتهم عمداً",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "#ترحيل_المغربيات_مطلب2",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

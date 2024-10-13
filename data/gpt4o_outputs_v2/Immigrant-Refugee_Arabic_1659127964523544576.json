@@ -1,0 +1,28 @@
+
+{
+	"tweet": {
+		"id": "1659127964523544576",
+		"span": [
+			{
+				"text_span": "اقسم بالله انا نعيشك في ضيق",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "ماهذا التعاون والتكاتف بينهم",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "اسواق الخضار والفواكه اجانب",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "الذهب اجانب التوصيل اجانب",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "اقسم بالله الوضع بحاجة وقفه من جميع اجهزة ألدولة في ترحيل ٥٠٪ منهم او ٦٠٪",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

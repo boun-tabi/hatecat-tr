@@ -1,0 +1,27 @@
+{
+	"tweet": {
+		"id": "1657608295933173762",
+		"span": [
+			{
+				"text_span": "اغلبهم يمنه",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "من أمن العقوبة اساء الادب للأسف",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "ترحيل اليمنه مطلب وضروره وطنية",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "رحلوهم ينظف بلدنا منهم ومن قرفهم",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "وراء كل غش وفساد تجاري وعبث يمنه",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

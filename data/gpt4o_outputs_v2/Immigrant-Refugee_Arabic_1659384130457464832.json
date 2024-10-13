@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1659384130457464832",
+		"span": [
+			{
+				"text_span": "سلالة استعمارات",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#ترحيل_المغربيات_مطلب2",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

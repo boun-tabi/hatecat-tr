@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658440501555593216",
+		"span": [
+			{
+				"text_span": "مانبي مصاريه",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "اتمنى ترحيل الموجودين",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

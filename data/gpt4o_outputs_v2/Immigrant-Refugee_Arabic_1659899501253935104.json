@@ -1,0 +1,28 @@
+
+{
+	"tweet": {
+		"id": "1659899501253935104",
+		"span": [
+			{
+				"text_span": "ترحيل اليمنه مطلب وضروره وطنية",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "انهم اكبر خطر علينا وعلى البلد",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "عثوا فالبلد خراب ونهب لخيراته وفساد",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "جميعهم وجوه لعملة واحدة ",
+				"hate_speech_category": "Generalization"
+			},
+			{
+				"text_span": "رحلوهم رحلوهم",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"tweet": {
+		"id": "1657475173287616517",
+		"span": [
+			{
+				"text_span": "قبل مايجون الاجانب لوطنا لم يكن هناك جرائم ولا قتل ولا مخدرات",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "الحل الصحيح ترحيل الاجانب",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "بدل ماتضع كاميرات رحل الاجانب وشوف بعدها النتيجه",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

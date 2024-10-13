@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658050645876789248",
+		"span": [
+			{
+				"text_span": "ترحيل_اليمنيين_مطلب_امني_ووطني",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

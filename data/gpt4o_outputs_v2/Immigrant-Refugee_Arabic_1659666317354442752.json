@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1659666317354442752",
+		"span": [
+			{
+				"text_span": "الرجال في بلدك إنقرضو فمن حقك شق البحار وعبور القارات بحثا عن من يسقي بستانك القاحللعل ووعسى أن تنجبي جيل فيه ريحة الرجولة",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "ليسو مخانيث مثل ابناء بلدك البوسبيريين",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "#ترحيل_المغربيات_مطلب_امني #ترحيل_المغربيات_مطلب #ترحيل_المراركه_مطلبنا",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

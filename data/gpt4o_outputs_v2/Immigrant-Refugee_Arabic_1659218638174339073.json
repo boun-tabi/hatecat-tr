@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1659218638174339073",
+		"span": [
+			{
+				"text_span": "ابن الحرام المغربي",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "يظن الكل مثله",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "نصفكم مواليد غير شرعيين",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

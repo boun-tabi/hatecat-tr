@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1659780946764132352",
+		"span": [
+			{
+				"text_span": "ترحيل كل الخالفين ومجهولين الاقامه لان ما وراهم غير المشاكل",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "تنظيف البلد السعوديه للسعودين والمقيمين",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

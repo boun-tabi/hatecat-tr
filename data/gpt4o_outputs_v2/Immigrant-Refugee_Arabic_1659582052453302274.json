@@ -1,0 +1,32 @@
+
+{
+	"tweet": {
+		"id": "1659582052453302274",
+		"span": [ 
+			{
+			"text_span": "المستوى المقرف من المصريين الدو.نيين",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "الزيباله دي بيبجحو و يقلو ادبهم علينا",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "مستني ايه ياروح امك يحصل علشان تفوق؟",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+			"text_span": "#ترحيل_السوريين_مطلب_امني_ووطني",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "#طرد_السوریین_من_مصر",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "#ارجع_يا_سوري_ابنى_بلدك",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

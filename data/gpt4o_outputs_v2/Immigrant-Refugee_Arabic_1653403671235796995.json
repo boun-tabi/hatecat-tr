@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1653403671235796995",
+		"span": [
+			{
+				"text_span": "يلعبو ويسرحو ويمرحو ويقتلو ويسرقو ويغتصبو أرضنا وعرضنا",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "مفكرين لبنان مدينه ملاهي كل شي مستباح عندهن وما بخافو من الدوله ولا بيحترموها",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

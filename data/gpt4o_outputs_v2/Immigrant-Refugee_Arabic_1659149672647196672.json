@@ -1,0 +1,12 @@
+
+{ 
+	"tweet": {
+		"id": "1659149672647196672",
+		"span": [ 
+			{
+			"text_span": "عقبال ترحيل السوريين واليمنيين",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

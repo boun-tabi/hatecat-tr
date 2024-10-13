@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1659862341805129728",
+		"span": [
+			{
+				"text_span": "#وطن_بلا_مخالف",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

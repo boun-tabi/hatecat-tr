@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1657840146090270722",
+		"span": [
+			{
+				"text_span": "يحمار",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "يسميها محترفات الدوري الخليجي",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#ترحيل_المغربيات_مطلب",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

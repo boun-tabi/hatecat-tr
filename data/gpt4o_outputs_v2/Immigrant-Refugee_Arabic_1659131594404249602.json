@@ -1,0 +1,20 @@
+
+{ 
+	"tweet": {
+		"id": "1659131594404249602",
+		"span": [ 
+			{
+			"text_span": "ثلاثه ارباع الشعب اليمني هارب اقصد مغترب",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "وتركين الأرض والعرض للحوثيين مستباح",
+			"hate_speech_category": "Defamation"
+			},
+			{
+			"text_span": "هياطون في مواقع التواصل الاجتماعي",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

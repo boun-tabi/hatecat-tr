@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1659845218374492163",
+		"span": [
+			{
+				"text_span": "ترحيل جميع العمال الي بلادهم",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "كفاية من هذه العمالة الي ما منها اي فايدة لا الدولة و الناس",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "كل واحد يدز عربانته في المطار",
+				"hate_speech_category": "Dehumanization"
+			}
+		]
+	}
+}

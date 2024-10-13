@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658112285615742977",
+		"span": [
+			{
+				"text_span": "ترحيل كل شمالي",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

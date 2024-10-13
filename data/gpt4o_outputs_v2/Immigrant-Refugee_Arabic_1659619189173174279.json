@@ -1,0 +1,24 @@
+
+{
+	"tweet": {
+		"id": "1659619189173174279",
+		"span": [
+			{
+				"text_span": "فشرت ولاك كلب",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "ارحل_يا سوركي",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "الشعب السعودي يريد ترحيل السواريه",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "اكبر جاليه مؤذيه حول العالم",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

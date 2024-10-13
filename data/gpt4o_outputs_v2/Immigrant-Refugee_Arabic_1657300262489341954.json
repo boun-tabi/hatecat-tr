@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1657300262489341954",
+		"span": [
+			{
+				"text_span": "كل سوري متهم بعملية اجرام أو قتل يجب أن يعدم في الساحات",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "#نازحين مجرمين",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

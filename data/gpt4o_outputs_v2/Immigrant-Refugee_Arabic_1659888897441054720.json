@@ -1,0 +1,24 @@
+
+{
+	"tweet": {
+		"id": "1659888897441054720",
+		"span": [
+			{
+				"text_span": "ترحيل جميع المغردين من السوركيين",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "مصادرة أموالهم التي اكتسبوها من المملكة العربية السعودية",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "إخراجهم لأي خازوق",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "فهؤلاء الرعاع",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

@@ -1,0 +1,24 @@
+
+{
+	"tweet": {
+		"id": "1659602840925487119",
+		"span": [
+			{
+				"text_span": "أوسخ شعب خائن مرتزق طائفي عنصري فاسد مفسد",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "يضرب ويدعس السوريين بالصرماية القديمة على دماغهم",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "#ترحيل_السوريين_مطلب_امني_ووطني",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#السوريين_اقارب_الدواعش",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

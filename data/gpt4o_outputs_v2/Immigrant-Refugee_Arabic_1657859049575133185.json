@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1657859049575133185",
+		"span": [
+			{
+				"text_span": "ترحيل الشماليين مطلب شعبي",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

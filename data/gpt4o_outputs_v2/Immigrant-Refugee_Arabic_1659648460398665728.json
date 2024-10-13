@@ -1,0 +1,23 @@
+{ 
+	"tweet": {
+		"id": "1659648460398665728",
+		"span": [ 
+			{
+			"text_span": "ترحيل فوري",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+			"text_span": "يبجون عشان يدخلون الكويت",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "يفسقون ويرفسون النعمه",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "ترحيل جماعي",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

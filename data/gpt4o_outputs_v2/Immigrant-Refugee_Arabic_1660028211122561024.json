@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1660028211122561024",
+		"span": [
+			{
+				"text_span": "الكابوس للمغتربين",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "ترحيل نهائي",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

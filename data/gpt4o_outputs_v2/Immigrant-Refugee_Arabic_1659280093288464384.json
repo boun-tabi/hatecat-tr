@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1659280093288464384",
+		"span": [
+			{
+				"text_span": "السنغوليه تقارن حالها فينا",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "مو السنغوليات",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

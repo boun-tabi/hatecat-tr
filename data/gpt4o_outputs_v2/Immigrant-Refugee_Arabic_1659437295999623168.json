@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1659437295999623168",
+		"span": [
+			{
+				"text_span": "الركب السود",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "#ترحيل_المغربيات_مطلب2",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

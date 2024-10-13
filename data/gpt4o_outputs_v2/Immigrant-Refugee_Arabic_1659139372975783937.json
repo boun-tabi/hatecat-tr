@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1659139372975783937",
+		"span": [
+			{
+				"text_span": "هم سبب دمار الأوطان",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

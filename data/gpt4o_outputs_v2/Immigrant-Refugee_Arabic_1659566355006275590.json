@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1659566355006275590",
+		"span": [
+			{
+				"text_span": "يجب ترحيل هاؤلاء لمراركة الأجناس من الجزائر إلى زريبة سيدهم",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "فإنهم وباء",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

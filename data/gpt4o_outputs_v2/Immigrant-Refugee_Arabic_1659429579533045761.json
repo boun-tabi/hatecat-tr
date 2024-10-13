@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1659429579533045761",
+		"span": [
+			{
+				"text_span": "ترحيل العمالة السائبة والمخالفة",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "حملة شرسة لتطهير الوطن",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

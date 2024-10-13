@@ -1,0 +1,24 @@
+
+{
+	"tweet": {
+		"id": "1659651973673525274",
+		"span": [
+			{
+				"text_span": "ام شنطة",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "كلمه اطلقوها المغاربه عالمغربيه الي تعبر القارات للدعا^ره",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "#ترحيل_المغربيات_مطلب",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#ترحيل_المغربيات_مطلب2",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658149039236341764",
+		"span": [
+			{
+				"text_span": "ترحيل 4 مليون سوري الى بلادهم",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

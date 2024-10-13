@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1659611779402547233",
+		"span": [
+			{
+				"text_span": "ترحيل الهندوس",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "اول ناس يغدرون فينا",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

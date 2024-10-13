@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1659564001527840770",
+		"span": [ 
+			{
+				"text_span": "ترحيل النازحين السوريين من لبنان",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

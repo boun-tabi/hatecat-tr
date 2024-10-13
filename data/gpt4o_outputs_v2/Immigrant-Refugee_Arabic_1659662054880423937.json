@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1659662054880423937",
+		"span": [
+			{
+				"text_span": "مغربيه كا العاده متنكره كا سعودي",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "#ترحيل_المغربيات_مطلب2",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#متنكرين_كالسعوديين",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

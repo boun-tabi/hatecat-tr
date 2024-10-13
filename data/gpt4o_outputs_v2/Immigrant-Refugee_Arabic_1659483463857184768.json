@@ -1,0 +1,24 @@
+
+{
+	"tweet": {
+		"id": "1659483463857184768",
+		"span": [ 
+			{
+				"text_span": "ما استقبلتكم السعودية عزتكم و جعلتكم بشر و لكم كرامه",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "اصبحتم مروجون للمخدرات في السعودية و اصبحتم تديرون بيوت الدعاره في السعودية و اصبحتم اكثر جالية تستقبل اطنان المخدرات في السعودية",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "اصبح واجب ترحيل السوريين و طردهم",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "أنذال",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

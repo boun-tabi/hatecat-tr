@@ -1,0 +1,19 @@
+{ 
+	"tweet": {
+		"id": "1659969816231391235",
+		"span": [ 
+			{
+			"text_span": "ترحيل العمال الغير شرعيين",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "ياكلو الغلة و يسبو الملة",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "بني مركع",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

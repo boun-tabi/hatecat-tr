@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1659469078686322689",
+		"span": [
+			{
+				"text_span": "لابد من ترحيل السوررين",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

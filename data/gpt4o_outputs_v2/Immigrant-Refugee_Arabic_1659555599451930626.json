@@ -1,0 +1,32 @@
+
+{
+	"tweet": {
+		"id": "1659555599451930626",
+		"span": [
+			{
+				"text_span": "ترحيل ملايين اللاجئين",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "استفزاز مش حل",
+				"hate_speech_category": "Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "#ضد_توطين_وتجنيس_اللاجئين",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#مصر_مش_تكية",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#مصر_للمصريين",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#اللاجئين_خراب_لمصر",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

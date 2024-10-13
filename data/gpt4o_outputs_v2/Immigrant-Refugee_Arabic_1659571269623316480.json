@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1659571269623316480",
+		"span": [
+			{
+				"text_span": "عبيد اردوغان",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "باقي ترحيل كل سوري ببلدنا له",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

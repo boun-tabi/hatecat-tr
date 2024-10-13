@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1658084222953725953",
+		"span": [
+			{
+				"text_span": "اغلب الي يدعمه المواليد",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "ان شاء الله جميعهم ترحيل",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "رْق الحمامه",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1659357580999663619",
+		"span": [
+			{
+				"text_span": "المفروض ترحيل لبلادهم البرماوية والافارقة",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "والله ما شوهو منظر وسمعة مكة وجدة والمدينة الا هم",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1659158879161262080",
+		"span": [ 
+			{
+			"text_span": "إزالة هذا التلوث البصري",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "يتوالدون بكثرة",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

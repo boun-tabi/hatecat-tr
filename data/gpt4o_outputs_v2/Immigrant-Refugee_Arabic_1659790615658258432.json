@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1659790615658258432",
+		"span": [
+			{
+				"text_span": "المخربيه",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "تعيش في بلدنا و تتمتع في خيراتها",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

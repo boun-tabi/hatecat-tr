@@ -1,0 +1,28 @@
+
+{
+	"tweet": {
+		"id": "1657688586286772225",
+		"span": [
+			{
+				"text_span": "اغبياء",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "خرجين المستوردين تربية الموساد",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "جواسيس ولصالح جاليتهم",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "عفستوا ابو القانون",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "زادت حالات الطلاق",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

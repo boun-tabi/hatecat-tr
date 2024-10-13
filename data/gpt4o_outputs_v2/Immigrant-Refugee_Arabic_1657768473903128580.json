@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1657768473903128580",
+		"span": [ 
+			{
+			"text_span": "#ترحيل_المغربيات_مطلب",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

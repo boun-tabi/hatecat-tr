@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1659977028274143233",
+		"span": [
+			{
+				"text_span": "نطالب ترحيل يمنيين من ارضنا لارضهم بقوة",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

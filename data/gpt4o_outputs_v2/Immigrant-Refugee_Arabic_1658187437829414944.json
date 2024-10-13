@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658187437829414944",
+		"span": [ 
+			{
+			"text_span": "انتم إلى مزابل ومجاري التاريخ",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

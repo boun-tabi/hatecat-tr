@@ -1,0 +1,16 @@
+
+{ 
+	"tweet": {
+		"id": "1659510381079846913",
+		"span": [ 
+			{
+			"text_span": "الأفارقة واليمنيين",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "سردادي مردادي",
+			"hate_speech_category": "Defamation"
+			}
+		] 
+	}
+}

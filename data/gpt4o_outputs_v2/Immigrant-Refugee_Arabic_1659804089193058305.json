@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1659804089193058305",
+		"span": [
+			{
+				"text_span": "ريحة بقالتكم فاحت",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "#ترحيل_المغربيات_مطلب",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "#ترحيل_المغربيات_مطلب_امني",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1659986726834634753",
+		"span": [
+			{
+				"text_span": "يتم ترحيل تريزيتش من المانيا",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "مصادرة أمواله",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

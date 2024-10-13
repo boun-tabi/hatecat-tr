@@ -1,0 +1,16 @@
+
+{ 
+	"tweet": {
+		"id": "1659543650940878848",
+		"span": [ 
+			{
+			"text_span": "ثلاث ملايين حاقد جديد على لبنان",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+			"text_span": "يشوهوا صورتنا برا قائلين انهم لبنانيين ولبنان بلدهم",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

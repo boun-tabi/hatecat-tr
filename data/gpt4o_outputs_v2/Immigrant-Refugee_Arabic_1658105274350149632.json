@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1658105274350149632",
+		"span": [ 
+			{
+			"text_span": "حيوانات",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "حرام نسلمهم لبلدهم",
+			"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		] 
+	}
+}

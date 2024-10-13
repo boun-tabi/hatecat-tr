@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1659573385645498377",
+		"span": [
+			{
+				"text_span": "يستاهلون ترحيل خارج حياتنا",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

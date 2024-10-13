@@ -1,0 +1,12 @@
+
+{ 
+	"tweet": {
+		"id": "1659546924213477376",
+		"span": [ 
+			{
+			"text_span": "ما فيش ترحيل للاخوان اخوان سوريا ضموا علي اخوان مصر",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

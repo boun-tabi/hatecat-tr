@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1657582575420882945",
+		"span": [
+			{
+				"text_span": "الكل مثلكم نصكم مواليد غير شرعيين",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "#ترحيل_المغربيات_مطلب_امني",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

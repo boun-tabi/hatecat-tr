@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1659721934400106496",
+		"span": [ 
+			{
+			"text_span": "ترحيل كلهم",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

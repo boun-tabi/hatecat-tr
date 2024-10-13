@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1657488056411209729",
+		"span": [
+			{
+				"text_span": "#ترحيل_المغربيات_مطلب",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "البغله",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "تشويه سمعة السعوديات من طرف المغربيات",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

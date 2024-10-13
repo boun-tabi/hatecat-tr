@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1658432404942462978",
+		"span": [ 
+			{
+				"text_span": "المخربي",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "نسوانكم ف كل مكان يتنكرون بأنهم ساعوطيات",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "#ترحيل_المغربيات_مطلب",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

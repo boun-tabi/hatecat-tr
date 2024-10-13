@@ -1,0 +1,19 @@
+{ 
+	"tweet": {
+		"id": "1659580979273424897",
+		"span": [ 
+			{
+			"text_span": "#ترحيل_المغربيات_مطلب",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "#ترحيل_المغربيات_مطلب2",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "المخربيه",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

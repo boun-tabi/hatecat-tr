@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1659525601101791233",
+		"span": [ 
+			{
+			"text_span": "#ترحيل_المغربيات_مطلب",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "#المغرب_يسرق_تراث_الجزائر",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

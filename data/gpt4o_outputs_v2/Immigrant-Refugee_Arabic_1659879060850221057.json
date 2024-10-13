@@ -1,0 +1,28 @@
+
+{
+	"tweet": {
+		"id": "1659879060850221057",
+		"span": [
+			{
+				"text_span": "يأكلون من خير البلد",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "السعودين جالسين ( البطاله نسبتها عاليه )",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "هما فساد ومخدرات وزعزعة امن",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "التطاول على حكومتنا الرشيده",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "وهما يسرحون ويمرحون",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

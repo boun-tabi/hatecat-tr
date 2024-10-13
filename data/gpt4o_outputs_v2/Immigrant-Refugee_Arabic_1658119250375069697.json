@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658119250375069697",
+		"span": [ 
+			{
+			"text_span": "المطلوب ترحيل الوافدين ممن يعانون من امراض نفسية",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

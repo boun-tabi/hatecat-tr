@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1659562936782946304",
+		"span": [ 
+			{
+				"text_span": "بطرد جميع #اللاجئين",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "حذر من وصول 10 ملايين #لاجئ",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

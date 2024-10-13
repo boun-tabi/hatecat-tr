@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1659686610915426306",
+		"span": [
+			{
+				"text_span": "مجرماً",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "شلال المخدرات القادم من كارتيلات الشام",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "ترحيل اللاجئين السوريين",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

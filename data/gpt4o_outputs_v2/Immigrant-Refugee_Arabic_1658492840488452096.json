@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658492840488452096",
+		"span": [
+			{
+				"text_span": "ترحيلك صار قريب",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			},
+			{
+				"text_span": "ترحيل جماعة إسرائيل الى اوروبا او اميركا",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

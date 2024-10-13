@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1659342631472619524",
+		"span": [ 
+			{
+			"text_span": "المفروض ترحيل فورى خارج البلاد لهم ولكل من عاونهم",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "نعانى من ويلات مايفعلوه",
+			"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

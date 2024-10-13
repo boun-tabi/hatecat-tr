@@ -1,0 +1,11 @@
+{ 
+	"tweet": {
+		"id": "1658120413057015813",
+		"span": [ 
+			{
+			"text_span": "ترحيل نهائي من السعودية",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

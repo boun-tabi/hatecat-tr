@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1659163454668779521",
+		"span": [
+			{
+				"text_span": "#ترحيل_السوريين لإعمار بلادهم",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "دمرتها الثورة المزعومة والحرب الطويلة بين الفصائل المختلفة",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1659502480428789761",
+		"span": [
+			{
+				"text_span": "ترحيل كل برماوي",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

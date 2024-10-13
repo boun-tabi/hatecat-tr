@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1659854520208310273",
+		"span": [
+			{
+				"text_span": "ترحيل المصرييين عن السعوديه والخليج",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "يسبب لهم ازمه اقتصاديه واجتماعيه",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

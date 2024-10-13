@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1659575617656848386",
+		"span": [ 
+			{
+				"text_span": "يجب ترحيل الجنسيه هذي وما تطب السعودية الا للعمره وللحج فقط وبعدها لديارهم",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "افسدوا من الشباب ما افسدوا بسبب الدعا^ره والامراض الجنسيه",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			} 
+		] 
+	}
+}

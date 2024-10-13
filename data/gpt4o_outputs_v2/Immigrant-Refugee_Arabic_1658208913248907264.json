@@ -1,0 +1,20 @@
+
+{
+	"tweet": {
+		"id": "1658208913248907264",
+		"span": [
+			{
+				"text_span": "80% السوريين اللى فى مصر محتاجين يتربو فى القسم و يترحلو على بلدهم",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "ال20% تترفع عليهم الإقامات ل 3000دولار فى السنة",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "اللى مش عاجبة سوريا بلده اولى بيه",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}

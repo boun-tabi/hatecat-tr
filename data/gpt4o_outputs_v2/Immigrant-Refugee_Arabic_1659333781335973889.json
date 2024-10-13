@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1659333781335973889",
+		"span": [
+			{
+				"text_span": "ترحيل المغربيات مطلب",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "الفئه القـ.ذره",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

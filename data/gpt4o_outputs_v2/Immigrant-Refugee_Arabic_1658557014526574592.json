@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658557014526574592",
+		"span": [
+			{
+				"text_span": "ماتعيش ولا تحس بقيمتها إلا اذا انتحلت غيرهاا",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			},
+			{
+				"text_span": "معدومين الهوية والتاريخ والقيمة",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		]
+	}
+}

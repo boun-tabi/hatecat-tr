@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1659487055007694849",
+		"span": [ 
+			{
+			"text_span": "ترحيل عاهرات",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			}
+		] 
+	}
+}

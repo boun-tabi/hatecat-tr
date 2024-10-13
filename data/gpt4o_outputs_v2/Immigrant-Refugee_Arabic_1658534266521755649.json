@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1658534266521755649",
+		"span": [
+			{
+				"text_span": "هاد فقرولية كرغولية",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "#مطلبنا_ترحيل_الجزائر_من_المغرب_والمغرب_العربي_",
+				"hate_speech_category": "Threat of Enmity; War; Attack; Murder; or Harm"
+			}
+		]
+	}
+}

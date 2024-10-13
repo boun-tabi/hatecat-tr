@@ -1,0 +1,15 @@
+{
+	"tweet": {
+		"id": "1659162855281766405",
+		"span": [
+			{
+				"text_span": "تعوسي الزاني",
+				"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+				"text_span": "لانهم ما جوا الا و هم عليهم طلب",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		]
+	}
+}

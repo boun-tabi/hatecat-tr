@@ -1,0 +1,20 @@
+
+{ 
+	"tweet": {
+		"id": "1659879612531326976",
+		"span": [ 
+			{
+			"text_span": "يتكلمون كأنهم في بلدهم",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+			"text_span": "ببجاحه يتكلم",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "ترحيل هالاشكال",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

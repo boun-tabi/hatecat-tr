@@ -1,0 +1,16 @@
+
+{
+	"tweet": {
+		"id": "1659508272783585280",
+		"span": [ 
+			{
+				"text_span": "ترحيل لسولايا لبلدك",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			},
+			{
+				"text_span": "اجرام السوريين في بيع الحبوب وغسل الاموال منتشرة بالسعودية وفي تحارة المواد البنائية",
+				"hate_speech_category": "Exaggeration; Generalization; Attribution; Distortion"
+			}
+		] 
+	}
+}

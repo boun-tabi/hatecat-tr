@@ -1,0 +1,11 @@
+{
+	"tweet": {
+		"id": "1658551781738139652",
+		"span": [ 
+			{
+				"text_span": "ترحيل نهائي له ولكل الاجانب",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

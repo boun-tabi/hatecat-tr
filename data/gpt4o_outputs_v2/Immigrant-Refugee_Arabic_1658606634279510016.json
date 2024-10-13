@@ -1,0 +1,15 @@
+{ 
+	"tweet": {
+		"id": "1658606634279510016",
+		"span": [ 
+			{
+			"text_span": "لهالشعب المؤذي المتخلف",
+			"hate_speech_category": "Swearing; Insult; Defamation; Dehumanization"
+			},
+			{
+			"text_span": "#ترحيل_اليمنيين_مطلب_امني_ووطني",
+			"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		] 
+	}
+}

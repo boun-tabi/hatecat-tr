@@ -1,0 +1,12 @@
+
+{
+	"tweet": {
+		"id": "1658089847796510721",
+		"span": [
+			{
+				"text_span": "لن نتمكن من ترحيل اللاجئين",
+				"hate_speech_category": "Exclusive/Discriminatory Discourse"
+			}
+		]
+	}
+}
