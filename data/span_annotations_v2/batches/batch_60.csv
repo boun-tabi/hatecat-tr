@@ -1,0 +1,101 @@
+tweet_id,target,text,span,category
+1390202343380111361,Jew,"@username @username Ramazanda özellikle yapıp, özellikle paylaşıma sokuyor itrail.",itrail,Swearing; Insult; Defamation; Dehumanization
+1658112793487322880,Armenian,"@HaberReport Ulan adama sormazlar mı 
+Hdp nin sözcüsü Ermeni soykırımını ,Dersim soykırımı izledi dedi ve sözde Atatürkçülerin partisi buna cevap bile vermedi yazıklar olsun sana Tasmali Kemal","Ermeni soykırımını ,Dersim soykırımı",Exaggeration; Generalization; Attribution; Distortion
+1658105536343055872,Arab,"@reci_19 @ErdemOzveren571 Hee hee, kesin öyledir. ""Türkleri lanetlemeyi unutuyoruz"", ""Türkler işgalci"" diyenlerin damatları (Nusayri Arap Deniz Bustani) ile takılıyor ondan Japon Ümit.
+
+Biz Türkmenlerin celladına muhabbet besleyenler Türklükten bahsedemez. Boş yapmayın o yüzden. https://t.co/p737sqCqGJ","Türklerin celladına muhabbet besleyenler,Boş yapmayın o yüzden","Exclusive/Discriminatory Discourse,Swearing; Insult; Defamation; Dehumanization"
+1392041026269941760,Jew,"#TerroristIsrael 
+#AksadaBaskinVar 
+#Gazze 
+#AlAqsaUnderAttack 
+#Israel https://t.co/4ZnTrUsBF0",TerroristIsrael,Swearing; Insult; Defamation; Dehumanization
+1658762278659825920,Arab,"@mimarifacialar Lunapark a çevirmişler evi. klasik zengin Ortadoğulu, Arap kafası ve iğrenç mimari tasarımları. Maddi açıdan zenginler ama zihinleri fakir. O kadar Işık ve renk gözünü ve Zihnini müthiş yorar. RAM den yersin boş yere. Gel de anlat..","klasik zengin Ortadoğulu, Arap kafası ve iğrenç mimari tasarımları,zihinleri fakir","Exaggeration; Generalization; Attribution; Distortion,Swearing; Insult; Defamation; Dehumanization"
+1394915018630696960,Jew,#Kudusİslamındır https://t.co/hv1SNyB12O,#Kudusİslamındır,Exclusive/Discriminatory Discourse
+1658134758499467008,LGBTI+,ulan alaman sığınmacısı zavallı @RTErdogan mecliste çoğunluğu aldı cb swçiminde önde kıl pyı kaçırdı 7düvel haini ibnesi pkklısı feröcüsü ne kadar azılı azgın sapkın terörist varsa @kilicdarogluk etrafına topladı bi bo@a yaramadı yaramaycak ta..reis sevinmesinde sen mi sevin! https://t.co/SzHfH46MzO,"ibnesi,ne kadar azılı azgın sapkın","Swearing; Insult; Defamation; Dehumanization,Exclusive/Discriminatory Discourse"
+1391011027614060545,Jew,"Ey Yöneticiler! Size soruyorum; ABD’nin Kudüs’ü bölme kararına ses çıkarmadınız, Mescidi Aksa’nın işgaline, Yahudi varlığının Müslümanlara karşı bu alçak saldırısına da sessiz mi kalacaksınız?   
+#OrdularAksaya
+#MescidiAksa 
+#KadirGecesi",Yahudi varlığının Müslümanlara karşı bu alçak saldırısına,Swearing; Insult; Defamation; Dehumanization
+1658259069629595904,Armenian,"@UfukUras “Bırakın Türkiye’de Türk, Türk olduğunu Kürt Kürt olduğunu söylesin. Bunda ne var? Benim için bir ara neler dediler. Gürcü dediler. Affedersin daha çirkinini söylediler, Ermeni dediler. Ama ben Türküm”  RTE","Affedersin daha çirkinini söylediler, Ermeni dediler.",Swearing; Insult; Defamation; Dehumanization
+1532814573560074240,Greek,"Yaklaşık 2 yıldır Ege’de 20 adamızın işgal edildiğine dair haber yapıyoruz. 
+“Esas yangın Ege’de “ diye başlık attık. Aşağıdaki yazı 2021’de Ümit Yalım ile yaptığım röportajdan. 
+Yunan Başbakan’ın işgal ettiği adalardan bize mesaj vermesi doğal. Bu #sessizistila ya kim göz yumdu? https://t.co/yWY5doUGOb","Yunan Başbakan’ın işgal ettiği adalardan bize mesaj vermesi doğal.,#sessizistila","Exaggeration; Generalization; Attribution; Distortion,Threat of Enmity; War; Attack; Murder; or Harm"
+1658364860244144128,Armenian,@RTErdogan Of ya....içimdeki yağlar eridi....Buda sana kapak olsun....Azerbaycana sinir koyacakdın ekşı erik yersin.Dunya Erdoğan gibi muhteşem varlık gelmiş. Sizin kibi ermeni şerefsizlerin  icabına baxmağa. https://t.co/fPCTzfrNjV,"ermeni şerefsizlerin,icabına baxmağa","Swearing; Insult; Defamation; Dehumanization,Threat of Enmity; War; Attack; Murder; or Harm"
+1658289383865295104,Arab,@SelimIsikTR @DrSinanOgan Türkiye Arap Cumhuriyeti'ne hoş geldin sevgili kardeşim. 2. Yüzyılımızda bizi Suriyeliler güdecek...,"Türkiye Arap Cumhuriyeti'ne hoş geldin,bizi Suriyeliler güdecek","Exclusive/Discriminatory Discourse,Exaggeration; Generalization; Attribution; Distortion"
+1658668137993187072,Armenian,@thhsynkrgz @Musa76779616 @herkesicinCHP Taha cım... Cumhuriyet Halk partisi diye bir şey kalmamış... Hepsi devşirme kuklalardır. Atatürk'ün savaştığı Ermeni Yunan ve Bulgar çetelerinin torunları CHP'yi içerden işgal etmişlerdir... Şimdi de sıra Türkiye'de... https://t.co/zICVlVnaWx,"devşirme kuklalardır,Atatürk'ün savaştığı Ermeni Yunan ve Bulgar çetelerinin torunları,CHP'yi içerden işgal etmişlerdir","Swearing; Insult; Defamation; Dehumanization,Exaggeration; Generalization; Attribution; Distortion,Threat of Enmity; War; Attack; Murder; or Harm"
+1564318490638647297,Greek,"@username Doğrusunu söylemem gerekirse ben muhalefetten o kadar ümitsizim ki iktidardan medet  umuyorum .. 
+Bakın bir örnek ; Yunanistan taciz edip duruyor muhalefetten tek çıkış yok! 
+Muhalefeti de beslemiyor mu bu millet, boş koltuk doldursun diye mi ???",Yunanistan taciz edip duruyor,Exaggeration; Generalization; Attribution; Distortion
+1658706680719319040,LGBTI+,@furkancerkes Yaa ne alakası var benim kız kardeşim başı açık benim örtülü ikimizde aynı siyasi değerleri taşıyoruz 28 Şubat'ı unuttugumuzu sanıyorlar biz lgbt sapkın akımlar dışında açık kapalı gözetmeksizin bir birimizi seviyoruz kendi pisliğini bizim üstümüze yıkıyorlar.. ahlaksız zihinler.,"lgbt sapkın akımlar,kendi pisliğini bizim üstümüze yıkıyorlar.. ahlaksız zihinler","Swearing; Insult; Defamation; Dehumanization,Swearing; Insult; Defamation; Dehumanization"
+1394049660805951490,Jew,"İsrail'in saldırılarında 58'i çocuk, 197 Filistinli hayatını kaybetti @username https://t.co/BFQJIl1XBE
+#katilisrail
+#GazaHear
+#Soykırımcıİsrail","#katilisrail,#Soykırımcıİsrail","Swearing; Insult; Defamation; Dehumanization,Exaggeration; Generalization; Attribution; Distortion"
+1391187031972270080,Jew,@username @username @username Ne o ağırınamı gittide hakaret ediyorsun inşallah öyledir öylede olur de ama senin kalbin niyetin itrail diye atıyorsa o başka,kalbin niyetin itrail diye atıyorsa,Exaggeration; Generalization; Attribution; Distortion
+1658538504068947968,Armenian,"@ekrem_imamoglu @kilicdarogluk @mansuryavas23 Bugün verdiğimiz şehitlerin kanı var ellerinizde PKK seviciler, Allah belanızı versin, Bu ermeni desteklemeye devam edin 🤬","PKK seviciler,Allah belanızı versin,Bu ermeni desteklemeye devam edin","Swearing; Insult; Defamation; Dehumanization,Swearing; Insult; Defamation; Dehumanization,Exclusive/Discriminatory Discourse"
+1658357563472113920,LGBTI+,@xmasteralp @tanerceyeni Beyefendi lgbt gibi sapkın akımlara kimin destek verdiği ortada.Hem de kendileri defalarca ikrar etti.,lgbt gibi sapkın akımlar,Swearing; Insult; Defamation; Dehumanization
+1657904659451846912,Arab,"@hzl_grbz @bendjango0 @bpthaber biraz da mansur yavaş'a doğu niye oy vermiyor bunun üstüne düşünün bunu niye normal karşılıyorsunuz? :D yoksa ırkçılar mi ki acaba
+bide arap sevici teröristlere de gayet sesi çıkıyo",arap sevici teröristlere,Swearing; Insult; Defamation; Dehumanization
+1568810262244823040,Greek,İşine gelmedi değilmi. Hani yunanı denize dökmüştünüz. Şimdi bak yunan pislik yapıyor cevaplasana. Vatanseverliğiniz nerde yunan tohumu katil çocuğu. https://t.co/jWxdJxaXbd,"yunan pislik,yunan tohumu katil çocuğu","Swearing; Insult; Defamation; Dehumanization,Swearing; Insult; Defamation; Dehumanization"
+1658037465704194048,Armenian,@BRCNYLDRM78 O defolup gider misin Yunanistan'a burası Türk yurdu ve Yunan yada ermeni atıklarının işi yok.,"O defolup gider misin Yunanistan'a,ermeni atıkları","Swearing; Insult; Defamation; Dehumanization,Swearing; Insult; Defamation; Dehumanization"
+1392627922398289922,Jew,Size insan diyenin yüzüne tüküreyim. İçimizdeki itrail işte.. https://t.co/LNGe6gqzdu,itrail,Swearing; Insult; Defamation; Dehumanization
+1515724584447877130,Jew,"İşgalci yahudi varlığının saldırılarını durduracak açıklama geldi.! Bu saatten sonra artık  ABD ve ""İsrail"" düşünsün.!
+#GözümüzKulağımızAksada
+#OrdularAksaya https://t.co/icpamb458b",İşgalci yahudi varlığının,Swearing; Insult; Defamation; Dehumanization
+1557088536364466176,Jew,İsrail işgal güçlerinin saldırılarında Gazze'de yıkılan binalar… #İsrailHaddiniBil https://t.co/GCMaWnGtsm,#İsrailHaddiniBil,Exaggeration; Generalization; Attribution; Distortion
+1392641361195806723,Jew,#katilisrail,#katilisrail,Swearing; Insult; Defamation; Dehumanization
+1391041670536433669,Jew,"Yahudi varlığını bu derece cesaretlendiren şey nedir? Her sene şiddetini artıran saldırıların sebebi nedir?
+Bütün bunların tek bir sebebi vardır. O sebep te Müslümanların başında “Ordular Aksa’ya” diyebilecek bir yöneticinin olmamasıdır. 
+#OrdularAksaya","Yahudi varlığını bu derece cesaretlendiren şey nedir?,Her sene şiddetini artıran saldırıların sebebi nedir?","Exaggeration; Generalization; Attribution; Distortion,Exaggeration; Generalization; Attribution; Distortion"
+1541703884137193473,Greek,"@IHosrafoglu @AlcayirCengiz İhsan,
+Varan-2
+
+Hani sizler hep öğündüz ya,biz Yunan’ı denize döktük,”Yalan”
+O denize döktüğümüz Yunan,Ankara’dan karaya çıktığından haberin olmuşmuyudu..? 
+Not;
+İstersen daha da derin tarih dersi verim.. https://t.co/ppeRA0XffO",O denize döktüğümüz Yunan,Exaggeration; Generalization; Attribution; Distortion
+1544769583000739843,Greek,@username Savaş çıkacak ise Yunanistan ile çıksın aga Afgan suri bilumum kaçak yavşaklar ve tırtlar ile iç savaş çıkmasın da dışarıdaki düşman ile savaşmak bana koymaz,"Yunanistan ile çıksın,dışarıdaki düşman","Threat of Enmity; War; Attack; Murder; or Harm,Symbolization"
+1394972347308945410,Jew,#Yıkılasınisrail https://t.co/Q002Qk4vWn,#Yıkılasınisrail,Threat of Enmity; War; Attack; Murder; or Harm
+1393710677043335171,Jew,#HearGaze itraillerin korkudan yerden kalkamayışları ecelleri olsun. Dilerim Allahtan hiç kalkamazsınız süründüğünüz o yerlerden #Katilİsrail https://t.co/V7KzMsCC7j,"itraillerin,ecelleri olsun,Dilerim Allahtan hiç kalkamazsınız süründüğünüz o yerlerden,#Katilİsrail","Symbolization,Threat of Enmity; War; Attack; Murder; or Harm,Threat of Enmity; War; Attack; Murder; or Harm,Swearing; Insult; Defamation; Dehumanization"
+1566369554766471171,Greek,@username @username Mademki iktidarın bir düşman yaratma ihtiyacı var ozaman yunanistana söyleyin buna alet olmasın taciz eden ihlal eden onlar suçlusu erdoğan bu düşünce sadece yunan aklı olabilir,"iktidarın bir düşman yaratma ihtiyacı var,bu düşünce sadece yunan aklı olabilir","Threat of Enmity; War; Attack; Murder; or Harm,Swearing; Insult; Defamation; Dehumanization"
+1528516842012262400,Jew,Şimdinin emperyalist ülkelerini 110 yıl önce  bir mektupla hizaya getirin bir Pâdişâhımız vardı ! Ona bugün dil uzatanlar Ya ingilizin gönüllü tasmalı köpeğidir ya da Siyonist itrail'in eniği dir ! https://t.co/oafTxOcMw3,"Siyonist itrail'in eniği,Siyonist","Swearing; Insult; Defamation; Dehumanization,Exclusive/Discriminatory Discourse"
+1392977579011985409,Jew,"Döktüğünüz kanda boğulun! 
+
+#GazzedeKatliamVar
+#Palestine
+#IsraeliTerrorism 
+#GazzaUnderAttack",Döktüğünüz kanda boğulun,Threat of Enmity; War; Attack; Murder; or Harm
+1567727467229581312,Greek,"@MehmetArdic_ kesinlikle Filistin. Türkiye'yi sosyal medyada bile her alanda destekleyeceğiz. Sizi temin ederim Gazze direnişi ""eğer savaşabilirlerse"" bir hafta içinde Yunanistan'ı işgal edecek.",Yunanistan'ı işgal edecek,Threat of Enmity; War; Attack; Murder; or Harm
+1565034588862390274,Greek,Yunan köpeğini masa yapma#Katil abd,Yunan köpeğini,Swearing; Insult; Defamation; Dehumanization
+1392804097066246145,Jew,"Türk beklenendir 🇹🇷
+
+Elindeki Türk bayrağını gösterip bir gün gelecekler diyen Filistinli kardeşlerimize yardım et YARABBİ
+#katilisrail https://t.co/lUy2iYzvkb",#katilisrail,Swearing; Insult; Defamation; Dehumanization
+1535172670052081665,Greek,#OttomanLoading Yunanistan #Greece ANSIZIN GELEBİLİRİZ #Efes2022Tatbikatı #SakamızYokYunanistan Atina Adalar #EFES2022 SOYLU SOYUNUZU KURUTACAK Soylu https://t.co/Tt3AJLmAA6,"ANSIZIN GELEBİLİRİZ,SOYUNUZU KURUTACAK","Threat of Enmity; War; Attack; Murder; or Harm,Threat of Enmity; War; Attack; Murder; or Harm"
+1515585504217083904,Jew,"Allahım sen İsrail köpeğinin belasını ver. Kahret onları. Cehennemleeinden en güzel yerler ayır onlara🔥🔥😭😭
+#Katilİsrail 
+#Teröristisrail
+#UYANÜMMETİMUHAMMED
+🇵🇸🇹🇷🕌
+https://t.co/6Oxua2dUbl","İsrail köpeğinin,Kahret onları,Cehennemleeinden en güzel yerler ayır onlara","Swearing; Insult; Defamation; Dehumanization,Threat of Enmity; War; Attack; Murder; or Harm,Threat of Enmity; War; Attack; Murder; or Harm"
+1658245707864633088,LGBTI+,@tanjuozcanchp He birde Lgbt var sakın desteğinizi özgürlük adı altında bu sapkın zihniyetten esirgemeyin,sapkın zihniyet,Swearing; Insult; Defamation; Dehumanization
+1391813543708827650,Jew,"""Kudüsü savunmak gerçek bağımsızlığı savunmaktır.""
+
+Nuri PAKDİL
+
+#AksadaBaskınVar
+#المسجد_الأقصى https://t.co/LtV162Jue0",,
+1394443845627260928,Jew,"@kosif0733 @YairNetanyahu Bunlar oldurdugunuz cocuklar.
+Içinde insanlık kaldıysa katil @YairNetanyahu 
+#Teroristİsrail 
+#GazzedeKatliamVar https://t.co/gWxx1mcAsB","Bunlar oldurdugunuz cocuklar.,katil @YairNetanyahu,#Teroristİsrail,#GazzedeKatliamVar","Exaggeration; Generalization; Attribution; Distortion,Swearing; Insult; Defamation; Dehumanization,Swearing; Insult; Defamation; Dehumanization,Exaggeration; Generalization; Attribution; Distortion"
+1658222433763983104,Arab,@kilicdarogluk Urfa Erzurum gibi bozuk illeri şuan düzeltemezsin hiç uğraşma fetö ve Arap kültürü yerleşmiş  Karadeniz'e rizedeki değişim rüzgarını anlat ve Atatürk Tişörtünü sakın çıkarma belirgin olsun Türk bayrağıda kare şekilde göğsünde olsun Araba ve reklam afişinde hep bu,"bozuk illeri,Arap kültürü yerleşmiş","Exaggeration; Generalization; Attribution; Distortion,Exclusive/Discriminatory Discourse"
+1658029129579494912,LGBTI+,@omerhankrm Özündeki meziyetlerden kasıt nedir lgbt gibi sapkın şeyleri desteklemek mi zannediyorsun kuranı bu işleri alet etmeyin tırnakla ayet çekip bunu da kendinizi destekler gibi paylaşmayın,lgbt gibi sapkın şeyleri,Swearing; Insult; Defamation; Dehumanization
+1571110095161028608,Greek,"@ZeynSec @ilker9415 @Mehmetalipromax @yzbprice_ Biz savas istemiyoruz ama haklarimizi korumak icin savastan da kacmayiz.
+Yunani butunuyle isgal etmeyi kimse dusunmuyordur ama bati trakya ve 12  ada yunan hata yaparsa aliriz",Yunani butunuyle isgal etmeyi kimse dusunmuyordur ama bati trakya ve 12 ada yunan hata yaparsa aliriz,Threat of Enmity; War; Attack; Murder; or Harm
+1658272026191183872,Armenian,@imtihanistt Proje büyük israili kurulmasi neden abd İsrail bekliyo Yunanistan bekliyo chp destek veriyo .rte dussun isgal etsin diye.chp cikip 25 eyalete bolecegiz diyo .pkk bayragini yakiyo Atatürk e it diyo . güneydoğu ermeniler inchp birbayan milletvekili. Ermeni soykırımtaniyacaksinizdiy,"güneydoğu ermeniler,Ermeni soykırımtaniyacaksinizdiy","Exclusive/Discriminatory Discourse,Exaggeration; Generalization; Attribution; Distortion"
+1658472160095257088,Armenian,@kilicdarogluk Bölücülerle ve fetöcülerle işbirliği tutmayan Ermeni @kilicdarigluk ve CHP taraftarları Atatürk'ü hatırladı. Tamam iyi güzel de zamanında @kilicdarogluk gibi Kripto Ermenileri Sabiha Gökçen'e Atatürk bombalattı. Unutmuşsunuzdur dedik. Oy verirken bunu da hatırlayın 😁 https://t.co/HIRub7Lnua,"Kripto Ermenileri,Ermeni","Exclusive/Discriminatory Discourse,Swearing; Insult; Defamation; Dehumanization"
+1658475715820655104,Armenian,@kilicdarogluk PKK' lı Ermeni artıklarına bir sözün varmı? Yoksa söz söylersen ortakların sana kızarmı?,PKK' lı Ermeni artıklarına,Swearing; Insult; Defamation; Dehumanization
+1658061049923337984,Arab,"@DrSinanOgan 14 gün sonra kimin yanında duracağını belirlemek çok kolay;önceliğin mültecileri   yollayacak olanın yanında olman‼️İçerideki düşmanları temizlemek daha kolay. Akp kaybetmezse daha çok Suriyeli gelir,sonraki seçimlerde Arap partisi yönetimde söz sahibi olur‼️Bunu istemezsiniz‼️","Akp kaybetmezse daha çok Suriyeli gelir,sonraki seçimlerde Arap partisi yönetimde söz sahibi olur,içerideki düşmanları temizlemek","Exaggeration; Generalization; Attribution; Distortion,Exaggeration; Generalization; Attribution; Distortion,Threat of Enmity; War; Attack; Murder; or Harm"
+1395575548932464642,Jew,@yucebenq @oz_877 @drfahrettinkoca Bildiğim kadarıyla itrail aşı yapmadı enjekte ettikleri vitamin,itrail,Swearing; Insult; Defamation; Dehumanization
