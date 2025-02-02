@@ -8,40 +8,65 @@ from transformers import AutoTokenizer
 from transformers import DataCollatorForTokenClassification
 from transformers import AutoModelForTokenClassification, TrainingArguments, Trainer, EarlyStoppingCallback
 from huggingface_hub import login
+import wandb
 from dotenv import load_dotenv
-import os 
+import os
 
 load_dotenv()
 HF_TOKEN =  os.environ["HF_TOKEN"]
+WANDB_TOKEN = os.environ["WANDB_TOKEN"]
 
-df_spans = pd.read_csv(f'/users/hasan.seker/baseline/full_match.csv')
+df_all_anno = pd.read_csv(f'/users/hasan.seker/baseline/all_annotations.csv')
+df_gpt = pd.read_csv(f'/users/hasan.seker/baseline/gpt_anno.csv')
+df_full = pd.read_csv(f'/users/hasan.seker/baseline/full_match.csv')
+
 df_not_spans = pd.read_csv(f'/users/hasan.seker/baseline/nonhateful_tweets_with_tags.csv')
 
+df_full['tokens'] = df_full['tokens'].apply(literal_eval)
+df_full['tags'] = df_full['tags'].apply(literal_eval)
+df_full['Tweet_id'] = df_full['Tweet_id']
+
+df_gpt['tokens'] = df_gpt['tokens'].apply(literal_eval)
+df_gpt['tags'] = df_gpt['tags'].apply(literal_eval)
+df_gpt['Tweet_id'] = df_gpt['Tweet_id']
+
+df_all_anno['tokens'] = df_all_anno['tokens'].apply(literal_eval)
+df_all_anno['tags'] = df_all_anno['tags'].apply(literal_eval)
+df_all_anno['Tweet_id'] = df_all_anno['Tweet_id']
+
+df_not_spans['tokens'] = df_not_spans['tokens'].apply(literal_eval)
+df_not_spans['tags'] = df_not_spans['tags'].apply(literal_eval)
+df_not_spans['Tweet_id'] = df_not_spans['Tweet_id']
+
 #df_all = pd.concat([df_spans, df_not_spans.sample(df_spans.shape[0])])
-df_all = pd.concat([df_spans, df_not_spans])
+df_all_gpt = pd.concat([df_gpt, df_not_spans])
+df_all_full = pd.concat([df_full, df_not_spans])
+df_all_anno2 = pd.concat([df_all_anno, df_not_spans])
+
+df_test = df_full.sample(300)
+
+df_all_anno2 = df_all_anno2[~df_all_anno2['Tweet_id'].isin(df_test['Tweet_id'].tolist())]
+df_all_gpt = df_all_gpt[~df_all_gpt['Tweet_id'].isin(df_test['Tweet_id'].tolist())]
+df_all_full = df_all_full[~df_all_full['Tweet_id'].isin(df_test['Tweet_id'].tolist())]
 
 
-df_all['tokens'] = df_all['tokens'].apply(literal_eval)
-df_all['tags'] = df_all['tags'].apply(literal_eval)
-
-train_df, temp_df = train_test_split(df_all, test_size=0.2, random_state=42)
-
-# Split temp set into validation and test sets (50% validation, 50% test of the temp set which is 10% each of the original)
-val_df, test_df = train_test_split(temp_df, test_size=0.5, random_state=42)
 
 # Convert to Dataset
-train_dataset = Dataset.from_pandas(train_df)
-val_dataset = Dataset.from_pandas(val_df)
-test_dataset = Dataset.from_pandas(test_df)
+all_dataset = Dataset.from_pandas(df_all_anno2)
+gpt_dataset = Dataset.from_pandas(df_all_gpt)
+full_dataset = Dataset.from_pandas(df_all_full)
+test_dataset = Dataset.from_pandas(df_test)
 
 # Create DatasetDict
 ds = DatasetDict({
-    'train': train_dataset,
-    'validation': val_dataset,
-    'test': test_dataset
+    'all': all_dataset,
+    'gpt': gpt_dataset,
+    'full': full_dataset,
+    'test':test_dataset 
 })
 
 seqeval = evaluate.load("seqeval")
+wandb.login(key=WANDB_TOKEN)
 
 
 def compute_metrics(p):
@@ -112,40 +137,55 @@ label2id = {
 label_list = list(id2label.values())
 tokenizer = AutoTokenizer.from_pretrained("dbmdz/bert-base-turkish-cased",add_prefix_space=True)
 tokenized_dataset = ds.map(tokenize_and_align_labels, batched=True)
-
-model = AutoModelForTokenClassification.from_pretrained(
-    "dbmdz/bert-base-turkish-cased", num_labels=6
-)
-data_collator = DataCollatorForTokenClassification(tokenizer=tokenizer)
-experiments = []
-best_experiment = {}
-best_model = None
 max_f1 = 0
-for _ in range(1):
+learn_rate = 5e-5
+batch_size = 4
+num_epoch = 10
+warm_up = 0.1
+for dataset in ds.keys():
+    if dataset == "test":
+        continue
+    model = AutoModelForTokenClassification.from_pretrained(
+        "dbmdz/bert-base-turkish-cased", num_labels=6
+    )
+    data_collator = DataCollatorForTokenClassification(tokenizer=tokenizer)
+    wandb.init(
+        project="categorization_final",  # Replace with your project name
+        name=f"{dataset}_lr-{learn_rate}_bs-{batch_size}_epochs-{num_epoch}_warmup-{warm_up}",  # Unique name
+        config={
+            "learning_rate": learn_rate,
+            "batch_size": batch_size,
+            "num_epochs": num_epoch,
+            "warm_up": warm_up,
+        },
+    )
     training_args = TrainingArguments(
-        output_dir='bert-base-turkish-cased_hate_span_categorization_final/',
-        #learning_rate=2e-5,
-        #per_device_train_batch_size=2,
-        #per_device_eval_batch_size=2,
-        metric_for_best_model='eval_loss',
+        output_dir=f"{dataset}_{learn_rate}_{batch_size}_{num_epoch}_categorize",
+        learning_rate=learn_rate,
+        per_device_train_batch_size=batch_size,
+        per_device_eval_batch_size=batch_size,
+        metric_for_best_model='eval_f1',
         load_best_model_at_end=True,
-        greater_is_better=False,
-        num_train_epochs=5,
+        greater_is_better=True,
+        num_train_epochs=num_epoch,
         evaluation_strategy="epoch",
         save_strategy="epoch",
         logging_dir="./logs",
         logging_steps=100,
         save_total_limit=1,
         push_to_hub=False,
+        warmup_ratio=warm_up,
         #weight_decay=0.01,
-        #report_to="wandb",
+        report_to="wandb",
     )
-
+    split_ds = tokenized_dataset[dataset].train_test_split(test_size=0.1, seed=42)
+    train_dataset = split_ds["train"]
+    eval_dataset = split_ds["test"]
     trainer = Trainer(
         model=model,
         args=training_args,
-        train_dataset=tokenized_dataset["train"],
-        eval_dataset=tokenized_dataset["validation"],
+        train_dataset=train_dataset,
+        eval_dataset=eval_dataset,
         tokenizer=tokenizer,
         data_collator=data_collator,
         compute_metrics=compute_metrics,
@@ -155,30 +195,21 @@ for _ in range(1):
     trainer.train()
     trainer.evaluate(tokenized_dataset["test"])
     predictions, label_ids, metrics = trainer.predict(tokenized_dataset["test"])
-    experiments.append({'metrics': metrics})
     print(metrics)
-    if metrics['test_f1'] > max_f1:
-        max_f1 = metrics['test_f1']
-        best_experiment = {'metrics': metrics}
-        best_model = trainer
-ix = np.random.randint(len(tokenized_dataset["test"]))
+    
 
-predictions, labels, metrics = best_model.predict(tokenized_dataset["test"])
-print("Test set metrics:", metrics)
+    ix = np.random.randint(len(tokenized_dataset["test"]))
 
-# Same for validation set
-val_predictions, val_labels, val_metrics = best_model.predict(tokenized_dataset["validation"])
-print("Validation set metrics:", val_metrics)
+    predictions, labels, metrics = trainer.predict(tokenized_dataset["test"])
+    print("Test set metrics:", metrics)
 
+    print('Text', tokenized_dataset["test"]['Text'][ix])
+    print('Label', ''.join([tokenizer.convert_ids_to_tokens(token) if label in list(range(1,6)) else '-' for label, token in zip(tokenized_dataset["test"]['labels'][ix],tokenized_dataset["test"]['input_ids'][ix] ) ]))
+    ' '.join([tokenizer.convert_ids_to_tokens(token) if label in list(range(1,6)) else '-' for label, token in zip( np.argmax(predictions[ix],axis=1)[:len(tokenized_dataset["test"]['input_ids'][ix])],tokenized_dataset["test"]['input_ids'][ix] ) ]).replace(' ##' , '')
+    login(HF_TOKEN)
 
-print('Text', tokenized_dataset["test"]['Text'][ix])
-print('Label', ''.join([tokenizer.convert_ids_to_tokens(token) if label in list(range(1,6)) else '-' for label, token in zip(tokenized_dataset["test"]['labels'][ix],tokenized_dataset["test"]['input_ids'][ix] ) ]))
-' '.join([tokenizer.convert_ids_to_tokens(token) if label in list(range(1,6)) else '-' for label, token in zip( np.argmax(predictions[ix],axis=1)[:len(tokenized_dataset["test"]['input_ids'][ix])],tokenized_dataset["test"]['input_ids'][ix] ) ]).replace(' ##' , '')
-login(HF_TOKEN)
+    print("Result:", metrics, dataset)
 
-for i in experiments:
-    print(i)
+    trainer.push_to_hub()
+    wandb.finish()
 
-print("Best experiment", best_experiment)
-
-best_model.push_to_hub()
