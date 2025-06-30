@@ -1,0 +1,2031 @@
+Kappa for Arabic: 0.53
+Relaxed Kappa for Arabic: 0.76
+Precision and Recall for Arabic annotations:
+--------------------------------------------------
+
+Micro-Averaged Precision: 0.69
+
+Micro-Averaged Recall: 0.69
+
+Macro-Averaged Precision: 0.60
+
+Macro-Averaged Recall: 0.50
+
+Micro-Averaged Precision (Excluding Unannotated): 0.62
+
+Micro-Averaged Recall (Excluding Unannotated): 0.48
+
+Macro-Averaged Precision (Excluding Unannotated): 0.57
+
+Macro-Averaged Recall (Excluding Unannotated): 0.41
+
+Micro-Averaged Precision for Detection:0.92
+
+Micro-Averaged Recall for Detection:0.71
+
+Precision for Exclusive/Discriminatory Discourse: 0.65
+
+Precision for Exaggeration; Generalization; Attribution; Distortion: 0.7437425506555423
+
+Precision for Threat of Enmity; War; Attack; Murder; or Harm: 0.3374485596707819
+
+Precision for Symbolization: 0.3
+
+Precision for Swearing; Insult; Defamation; Dehumanization: 0.8291571753986332
+
+Precision for Unannotated: 0.7323420074349443
+
+Recall for Exclusive/Discriminatory Discourse: 0.2975124378109453
+
+Recall for Exaggeration; Generalization; Attribution; Distortion: 0.5735294117647058
+
+Recall for Threat of Enmity; War; Attack; Murder; or Harm: 0.5324675324675324
+
+Recall for Symbolization: 0.08571428571428572
+
+Recall for Swearing; Insult; Defamation; Dehumanization: 0.5768621236133122
+
+Recall for Unannotated: 0.9302579004722121
+
+Cohen's Kappa Scores for Arabic:
+--------------------------------------------------
+Batch 1: 0.43
+Relaxed Kappa for Batch 1: 0.59
+Batch 2: 0.59
+Relaxed Kappa for Batch 2: 0.84
+Batch 3: 0.64
+Relaxed Kappa for Batch 3: 0.85
+Batch 4: 0.48
+Relaxed Kappa for Batch 4: 0.73
+Batch 5: 0.52
+Relaxed Kappa for Batch 5: 0.75
+
+Detailed Batch Information for Arabic:
+--------------------------------------------------
+
+Batch 1:
+Precision for Exclusive/Discriminatory Discourse: 0.7083333333333334
+Precision for Exaggeration; Generalization; Attribution; Distortion: 0.6666666666666666
+Precision for Threat of Enmity; War; Attack; Murder; or Harm: 0.25190839694656486
+Precision for Symbolization: 0.0
+Precision for Swearing; Insult; Defamation; Dehumanization: 0.9634146341463414
+Precision for Unannotated: 0.6747404844290658
+Recall for Exclusive/Discriminatory Discourse: 0.16748768472906403
+Recall for Exaggeration; Generalization; Attribution; Distortion: 0.34517766497461927
+Recall for Threat of Enmity; War; Attack; Murder; or Harm: 0.5238095238095238
+Recall for Symbolization: 0.0
+Recall for Swearing; Insult; Defamation; Dehumanization: 0.5064102564102564
+Recall for Unannotated: 0.9669421487603306
+Category Statistics:
+  full match and label match: 3 (6.00%)
+  full match and label mismatch: 14 (28.00%)
+  partial match and label match: 12 (24.00%)
+  partial match and label mismatch: 13 (26.00%)
+  no match: 8 (16.00%)
+
+Detailed Matches:
+
+  Text ID: 51
+  Overall Category: partial match and label match
+  Text: المغربيات مسوين آلاف البثوث في تك توك كلها عبارة عن قذف وسب وشتائم وإساءة للمرأة السعودية والسعوديات ،، وطبعا هذا الجزء بسيط جدا من بذاءة لسانهم والفاظهم البذيئة التي تمثلهم.
+
+#ترحيل_المغربيات_مطلب
+  IOU: 0.89
+
+
+  Text ID: 52
+  Overall Category: partial match and label mismatch
+  Text: بالآونه الاخيرة اكثر الحسابات المتنكرة كسعوديين من المغرب 
+يقومون بنشر الرذيلة والانحلال باسماء سعوديات قبيليات 
+وذلك لتشويه سمعتهم عمداً ولزيادة المتابعين ورفع المشاهدات على حساب المرأة السعودية  #ترحيل_المغربيات_مطلب2
+  IOU: 0.34
+
+
+  Text ID: 53
+  Overall Category: partial match and label mismatch
+  Text: سبحان الله ماتحسونهم جيران ذولاك يعني الفرق كيف ابوها مهتم فيها ومحافظ عليها وبين اللي تسحب شنطتها بكل مكان وتوزع امراض #ترحيل_المغربيات_مطلب #ترحيل_المغربيات_مطلب_امني
+  IOU: 0.98
+
+
+  Text ID: 54
+  Overall Category: partial match and label match
+  Text: مو بس سحر.. كذلك هي تتنكر بحسابات.. مره تتنكر كرجل سعودي يسنقص ويسب المرأة السعودية ويمدحها هي.. ومره تتنكر كامرأة سعودية تشتم وتسب الرجل السعودي.. هي من افتعل المشاكل بين المرأة السعودية والرجل السعودي.
+#ترحيل_المغربيات_مطلب
+#ترحيل_المغربيات_مطلب2 https://twitter.com/WE_ARE_MBS/status/1659663152449978373…
+  IOU: 0.19
+
+
+  Text ID: 55
+  Overall Category: no match
+  Text: كذا ممتاز حفاظاً على النظام .. وأتوقع يكون فيه اتفاقية معينة بين البورميين وباكستان  كشرط من شروط إعطاءه الجواز وإذا خالف النظام في السعودية تطبق هذه الشروط .. وأتوقع يكون فيه ترحيل أو غرامات كبيرة .. لكن العاقل منهم سيعيش معيشة طيبة .
+  IOU: 0.00
+
+
+  Text ID: 56
+  Overall Category: full match and label mismatch
+  Text: بدون تحدى احنا مع الحكومه ولامانع عندنا بالعوده اهم شي يتم ترحيل السوريين
+  IOU: 1.00
+
+
+  Text ID: 57
+  Overall Category: partial match and label match
+  Text: ليش
+اذا انتوا اغبياء وماتفهمون للقانون
+شبابنا المحاميين
+سواء خريج الكويت
+اوخريجين باحسن جامعات العالم
+افضل مليون مره
+من خرجين المستوردين تربية الموساد
+اسم. وهو بالحقيقه جواسيس
+ولصالح جاليتهم
+براءه
+وقف تنفيذ
+ترحيل
+عفستوا ابو القانون
+من جبتوهم زادت حالات الطلاق
+  IOU: 0.75
+
+
+  Text ID: 58
+  Overall Category: full match and label match
+  Text: انت افجر واكذب دحباشي الحضارم الجنوبيين كانو ف السعودية ويلقون كل إحترام وترحيب خلينا نرجع لموضوعنا كيف تحب ترحيل أبناء جلدتك من بلادنا الي بلادكم العربيه اليمنيه بالباص بالشيول ام بطريقة سعادة اللواء شلال علي شايع
+  IOU: 1.00
+
+
+  Text ID: 59
+  Overall Category: no match
+  Text: ترحيل المصرين من مصر واجب وطنى لعيون السورى واليمنى والسوداني واى لاجى
+  IOU: 0.00
+
+
+  Text ID: 60
+  Overall Category: partial match and label mismatch
+  Text: ام شنطه حنا نطالب بترحيلكم لان ريحتكم فاحت في الرياض وجده
+اعتراضك يدل ع انك بدون كرامه
+روحي انشغلي بزباينك
+#ترحيل_المغربيات_مطلب2
+#ترحيل_المغربيات_مطلب
+  IOU: 0.95
+
+
+  Text ID: 61
+  Overall Category: partial match and label mismatch
+  Text: اقطع واخس يالمخربي 
+نسوانكم ف كل مكان يتنكرون بأنهم ساعوطيات
+#ترحيل_المغربيات_مطلب
+  IOU: 0.88
+
+
+  Text ID: 62
+  Overall Category: full match and label mismatch
+  Text: نتمني من الحكومة الفلبينية انهم يسمعوا كلامك ويتم ترحيل جميع العمالة الفلبينية اللهم امين
+  IOU: 1.00
+
+
+  Text ID: 63
+  Overall Category: partial match and label mismatch
+  Text: #ترحيل_اليمنيين_مطلب_امني_ووطثلاثه ارباع الشعب اليمني هارب اقصد مغترب وتاركين الأرض والعرض للحوثيين مستباح وهياطون في مواقع التواصل الاجتماعي وغيرها. اين الغيره والرجولة
+  IOU: 0.57
+
+
+  Text ID: 64
+  Overall Category: full match and label mismatch
+  Text: يارب عاجلًا غير اجل فكونا منهم 
+
+#ترحيل_السوريين_مطلب_امني_ووطني
+  IOU: 1.00
+
+
+  Text ID: 65
+  Overall Category: partial match and label mismatch
+  Text: فديت ولي عهدنا وعسا عمره طويل من أولوياته تحقيق الرؤيا وراحة وسعادة شعبه السعودي وتحقيق رغبة شعبه برحيل السوريين إلى بلادهم والله ودي ابوس راسه على السعي في ترحيل السوريين إلى بلادهم وحنا شعبه وحنا درعه وهو كفو أحبه
+  IOU: 0.43
+
+
+  Text ID: 66
+  Overall Category: full match and label mismatch
+  Text: انا أؤيد ترحيل اللاجئين السوريين
+  IOU: 1.00
+
+
+  Text ID: 67
+  Overall Category: full match and label mismatch
+  Text: تقبري قلبي على فكرة انا من اكثر الناس حبا للسعوديين ارضا وشعبا وزعيما ونحنا نتناقش بي نقطة محددة وجميل الأختلاف دون خلاف وتشرفت بل حديث معك وعلى فكرة انا بشد على ايدك ترحيل المغربين واجب 
+  IOU: 1.00
+
+
+  Text ID: 68
+  Overall Category: full match and label mismatch
+  Text: افضل شيء صار للسعودية هالفترة هو قرار ترحيل البرماوية واللاجئين السوريين لأن اغلب مهربين المخدرات اللي عندنا منهم.. دمروا ابناء بلدنا لذلك ترحيلهم اصبح وااااجب
+  IOU: 1.00
+
+
+  Text ID: 69
+  Overall Category: partial match and label mismatch
+  Text: المستوى المقرف من المصريين الدو.نيين فى التعليقات بجد يعرفك ليه الأشكال الزىباله دي بيبجحو و يقلو ادبهم علينا
+رسالة لكل مصرى شرم"وط دوني مستني ايه ياروح امك يحصل علشان تفوق؟
+#ترحيل_السوريين_مطلب_امني_ووطني
+#طرد_السوریین_من_مصر 
+#ارجع_يا_سوري_ابنى_بلدك 
+#سوريا_الاسد
+  IOU: 0.65
+
+
+  Text ID: 70
+  Overall Category: full match and label mismatch
+  Text: يجب ترحيل جميع المغردين من السوركيين من أتباع سيد قطب والذين عارضوا قمة جدة ومصادرة أموالهم التي اكتسبوها من المملكة العربية السعودية وإخراجهم لأي خازوق فهؤلاء الرعاع لا يستحق
+  IOU: 1.00
+
+
+  Text ID: 71
+  Overall Category: partial match and label mismatch
+  Text: ملوك الخونة في المرروك تحت احضان ديڨول اولاد الدعارة 
+
+#المغرب
+#الجزائر 
+#ترحيل_المغربيات_مطلب 
+#غزة_تنتصر
+  IOU: 0.85
+
+
+  Text ID: 72
+  Overall Category: full match and label mismatch
+  Text: لن يتم ترحيلهم ولهم      هم سبب دمار الأوطان #ترحيل_المغربيات_مطلب2
+  IOU: 1.00
+
+
+  Text ID: 73
+  Overall Category: full match and label mismatch
+  Text: ترحيل فوري #يبجون عشان يدخلون الكويت #واذا شبعوا  يفسقون ويرفسون النعمه #خلوهم عبرها لغيرهم ترحيل جماعي
+  IOU: 1.00
+
+
+  Text ID: 74
+  Overall Category: partial match and label mismatch
+  Text: الحكمة ضالة المؤمن ورأسها مخافة الله ، المطلوب ترحيل الوافدين ممن يعانون من امراض نفسية وتطبيق نظام صحي صارم لمنع الوافد من دخول البلاد تحت اي ظرف
+  IOU: 0.51
+
+
+  Text ID: 75
+  Overall Category: partial match and label mismatch
+  Text: ابسط قرار واسهلها هو ترحيل  المصرييين عن السعوديه والخليج   هذا. بحد ذاته. يسبب لهم ازمه اقتصاديه واجتماعيه  فكيف لو  صدرت قرارات اكبر   
+
+ سياستنا. تعتمد على ضبط النفس وعدم الدخول في المهاترات     الكلام سهل على كل شخص.  والفعل صعب ولا يجيده  الا السعوديه العظمى
+  IOU: 0.53
+
+
+  Text ID: 76
+  Overall Category: no match
+  Text: ولا واحد يبقى الكل ترحيل
+  IOU: 0.00
+
+
+  Text ID: 77
+  Overall Category: partial match and label match
+  Text: اجانب الهلال على شويه محلييين يبغالهم ترحيل
+  IOU: 0.30
+
+
+  Text ID: 78
+  Overall Category: partial match and label match
+  Text: #مشكاتي_تحبك
+#ساعة_استحابة 
+#ترحيل_المغربيات_مطلب 
+#ترحيل_المغربيات_مطلب2 
+هذا مسكين سارقه صورته مخربيه عشان تغرد على اساس انها سعودي وتسب السعوديات وتمدح المخربيات
+  IOU: 0.46
+
+
+  Text ID: 79
+  Overall Category: full match and label mismatch
+  Text: لابد من ترحيل  اللاجيين قبل  تحديد  النسل
+  IOU: 1.00
+
+
+  Text ID: 80
+  Overall Category: partial match and label mismatch
+  Text: ورشة البناء السعودية لم تعد مجرد بنيان وسن قوانين وانشطة اقتصادية وفكرية وعلمية. انتقلت الآن لتنظيف المناخ العام. مصالحات سياسية، ترحيل العمالة السائبة والمخالفة، حملة شرسة لتطهير الوطن من المخدرات. عندما تحلم وتريد تحقيق الحلم، تسحق كل ما يمكنه تعطيل حلمك.
+  IOU: 0.82
+
+
+  Text ID: 81
+  Overall Category: no match
+  Text: ترحيلك صار قريب، جزء من التسويات بالمنطقة، ترحيل جماعة إسرائيل الى اوروبا او اميركا.
+  IOU: 0.00
+
+
+  Text ID: 82
+  Overall Category: partial match and label match
+  Text: ضلوا كذبوا ليل نهار
+ترحيل يعني ترحيل
+#اللاجئين_السوريين
+  IOU: 0.49
+
+
+  Text ID: 83
+  Overall Category: partial match and label mismatch
+  Text: #ترحيل_المغربيات_مطلب -  هذي البغله ليل نهار تقذف السعوديين والمشكله انها عكست السالفه عشان تتهرب من الحقيقه  والصحيح تشويه سمعة السعوديات من طرف المغربيات
+  IOU: 0.51
+
+
+  Text ID: 84
+  Overall Category: partial match and label match
+  Text: تذكرين يوم يبتزونكم بصوركم وتبكبكن بالمقاطع.
+
+الله يالايام
+لعبوا السواعدة بنفسيتكم 
+تطلع معاه عبالها يتزوجها
+بالاخير يسفل فيها
+
+اكثر مجتمع تعرضت بناته للابتزاز والسفاله من رخومها 
+
+الركب السود 
+#ترحيل_المغربيات_مطلب2 https://twitter.com/n_II7q/status/1659403063503757312…
+  IOU: 0.45
+
+
+  Text ID: 85
+  Overall Category: full match and label mismatch
+  Text: لعل خطوه اخرى تشمل ترحيل الافارقه
+  IOU: 1.00
+
+
+  Text ID: 86
+  Overall Category: no match
+  Text: النظام والمعارضة في سوريا 
+وجهان لعملة واحدة
+يا لبناني لا تناصر ولا تدافع عن أي طرف منهما
+لأن الإثنين لا يريدان الخير لوطنك
+
+ما يهمنا كلبنانيين ترحيل النازحين من لبنان
+وفخار يطبش بعضو
+#ترحيل_السوريين_مطلب_امني_ووطني
+  IOU: 0.00
+
+
+  Text ID: 87
+  Overall Category: partial match and label match
+  Text: لما تسأل مروكي 
+لماذا لم تحرر جزيرتي سبة ومليلية المحتلتين من طرف اسبانيا اضافة لجزيرة ليلى التي تم احتلالها سنة 2002؟؟؟ 
+جوابه 
+#المغرب_اضحوكة_العالم #المغرب_مملكة_التلوين #المغرب_مملكه_الثقوب #ترحيل_المراركة_مطلبنا
+  IOU: 0.94
+
+
+  Text ID: 88
+  Overall Category: no match
+  Text: https://ye-now.com/news85294063.html…
+اول ايام ذو القعدة الكابوس للمغتربين العاملين بهذه المهن ترحيل نهائي من السعودية.. "اسماء المهن "
+  IOU: 0.00
+
+
+  Text ID: 89
+  Overall Category: partial match and label match
+  Text: بصحتها وراحتها تقول اللي ودها تقوله
+
+إذا ودك تعطيج تفاصيل بعد متى تزق بالحمام تواصلي معها ههههههههه..
+ياليل هالركب  هههههه 
+صباح مايد ان موركو 
+عسى نمتي زين وتفكيرج مرتاح 
+عسى المغربيه ما اشغلتج
+
+#ترحيل_المغربيات_مطلب_امني 
+#جوري_المغربيه
+  IOU: 0.14
+
+
+  Text ID: 90
+  Overall Category: full match and label mismatch
+  Text: ترحيل الشماليين مطلب شعبي 
+وهي بداية مرحلة 
+
+#الجنوب_يعلن_انتهاء_الوحدة
+  IOU: 1.00
+
+
+  Text ID: 91
+  Overall Category: full match and label mismatch
+  Text: اللـه يعز الاماراتييـن، ويعز القطرييـن، نبقى عيال عـم وأهـل، انتم  إلى مزابل ومجاري التاريخ. 
+#ترحيل_المغربيات_مطلب
+  IOU: 1.00
+
+
+  Text ID: 92
+  Overall Category: no match
+  Text: لا اعتقد لأن باكستان ليست موطنهم الأصلي فلو كان فيه ترحيل كانت الاتفاقية مع دولتهم بورما لكن يبدو أن دولتهم ترفض رجوعهم رفضا باتا فلم يكن معهم سوى هذا الحل فتستفيد باكستان من رسوم الاستخراج والتجديد وكذلك تستفيد السعودية
+  IOU: 0.00
+
+
+  Text ID: 93
+  Overall Category: partial match and label match
+  Text: هم وكت عندهم سجون امنه وفيها  خدمات   مش الاولى كان  ترحيل منسوبي النظام المباد  والمجرمين الذين تم إطلاق سراحهم  ويمارسوا  في السلب والنهب  الان
+  IOU: 0.69
+
+
+  Text ID: 94
+  Overall Category: full match and label match
+  Text: احد، بترجم وش تقول هالخنزيرة الله يعجل ب ترحيل وطردكم مع مجنسبيكم
+  IOU: 1.00
+
+
+  Text ID: 95
+  Overall Category: partial match and label match
+  Text: بعد فتره تطلع تسوي نفسها مشهوره سعوديه
+وهاتك بثوث ودعم
+ومن خلاله #غسيل_اموال
+واضحه الفكره؟
+#الحرب_ضد_المخدرات #المخدرات_افة_خطيرة 
+#ترحيل_اليمنيين_مطلب_امني_ووطني
+  IOU: 0.24
+
+
+  Text ID: 96
+  Overall Category: full match and label match
+  Text: مرحبا عبيد اردوغان باقي ترحيل كل سوري ببلدنا له
+  IOU: 1.00
+
+
+  Text ID: 97
+  Overall Category: no match
+  Text: ترحيل الأمم المتحدة من لبنان قبل السوري هم أخطر من النازح .
+  IOU: 0.00
+
+
+  Text ID: 98
+  Overall Category: partial match and label mismatch
+  Text: شو هالوقاحة
+بتعرفو ليش؟ لأنو في حيوانات عنا بتدافع عنن حرام نسلمهم لبلدهم 
+
+#لا_للتوطين
+#ترحيل_السوريين_مطلب_امني_ووطني
+  IOU: 0.88
+
+
+  Text ID: 99
+  Overall Category: full match and label mismatch
+  Text: مغربيه كا العاده متنكره كا سعودي 
+#ترحيل_المغربيات_مطلب2 
+#متنكرين_كالسعوديين
+  IOU: 1.00
+
+
+  Text ID: 100
+  Overall Category: partial match and label match
+  Text: لا تشملو اولاد الام البنانيه التي تزوجت من سوري مع نازحين ويجب ترحيل النازح والاجى الى بلدهم
+  IOU: 0.37
+
+
+Batch 2:
+Precision for Exclusive/Discriminatory Discourse: 1.0
+Precision for Exaggeration; Generalization; Attribution; Distortion: 0.6990740740740741
+Precision for Threat of Enmity; War; Attack; Murder; or Harm: 0.3333333333333333
+Precision for Symbolization: 1.0
+Precision for Swearing; Insult; Defamation; Dehumanization: 0.9615384615384616
+Precision for Unannotated: 0.74375
+Recall for Exclusive/Discriminatory Discourse: 0.23788546255506607
+Recall for Exaggeration; Generalization; Attribution; Distortion: 0.7626262626262627
+Recall for Threat of Enmity; War; Attack; Murder; or Harm: 0.6461538461538462
+Recall for Symbolization: 0.1875
+Recall for Swearing; Insult; Defamation; Dehumanization: 0.5128205128205128
+Recall for Unannotated: 0.9883720930232558
+Category Statistics:
+  full match and label match: 6 (12.24%)
+  full match and label mismatch: 12 (24.49%)
+  partial match and label match: 9 (18.37%)
+  partial match and label mismatch: 14 (28.57%)
+  no match: 8 (16.33%)
+
+Detailed Matches:
+
+  Text ID: 101
+  Overall Category: no match
+  Text: كيف يتم ترحيل الأفارقة واليمنيين ولحدود مع اليمن سردادي مردادي
+  IOU: 0.00
+
+
+  Text ID: 102
+  Overall Category: partial match and label match
+  Text: شوفي انا عارفه انك انجنتي من حمله ترحيل المغربيات من بلدنا بس مو لدرجه تقذفينهم و شكرا لانك ترفعين الهاشتاق و يوصل للجهات المختصه اسرع و نشوفكم بوساختكم في بلدكم
+  IOU: 0.44
+
+
+  Text ID: 103
+  Overall Category: partial match and label mismatch
+  Text: #ترحيل_المغربيات_مطلب
+المخربيه تخليك تبيع الي وراك والي قدامك بالشرويطه 
+لاحظو حبيبها  يعني علاقات محرمه
+وتلقونها تعرف غيره ١٠
+  IOU: 0.82
+
+
+  Text ID: 104
+  Overall Category: partial match and label match
+  Text: هذي الجنسية  ماتعيش ولا تحس بقيمتها إلا اذا انتحلت غيرهاا، تأكدت ع هالاساليب انهم معدومين الهوية والتاريخ والقيمة.
+#ترحيل_المغربيات_مطلب
+  IOU: 0.79
+
+
+  Text ID: 105
+  Overall Category: partial match and label mismatch
+  Text: يالله عقبال اليمنيين والبرماويه واقلعوا معهم ام الشرويطه #ترحيل_المغربيات_مطلب2
+  IOU: 0.64
+
+
+  Text ID: 106
+  Overall Category: partial match and label mismatch
+  Text: #ترحيل_المغربيات_مطلب
+نتمنى حملة مثل حملة مكافحة المخدرات تحمل المغربيات في باصات وختم نهائي وترحيل جماعي ومنع المغاربه من دخول السعودية الا من العمره والحج ولايخرجون عن نطاق الحرمين
+  IOU: 0.74
+
+
+  Text ID: 107
+  Overall Category: no match
+  Text: اللي فاليمين باكستاني المفروض ترحيل
+  IOU: 0.00
+
+
+  Text ID: 108
+  Overall Category: partial match and label mismatch
+  Text: زواج المتعـ،، ـة للسعوديين بالمروكيات أثناء زيارتهم للمروك يجسده هذا المسلسل السعودي الذي صُور بمدينة مراكش 
+شفتو السلعة كيف معروضة وهما يخيرو
+ والله حتى في تايلند ماحصلتش
+#المغرب_مملكة_التلوين #المغرب_اضحوكة_العالم #ترحيل_المغربيات_مطلب #ترحيل_المغربيات_مطلب_امني
+  IOU: 0.56
+
+
+  Text ID: 109
+  Overall Category: full match and label match
+  Text: وبعد هالصوره اثبات تسويقهم صار فاشل انكشفو المخربيات
+#ترحيل_المغربيات_مطلب 
+#ترحيل_المغربيات_مطلب2 
+#متنكرين_كالسعوديين
+  IOU: 1.00
+
+
+  Text ID: 110
+  Overall Category: partial match and label mismatch
+  Text: الجزيرة عاملة تقرير عن ترحيل اللاجئين قسرا وقديش اللبنانية  méchant  بس ما خبروا الناس شو عم يعملوا السوريين بالبنان وهيدك بدو يبلغ عني قديش انا عنصري و مستفز بحق السوريين للي ما إلهم ذنب
+طيب تفضلوا ضلوا يعذبوه لحتى مات الشاب.
+هول مش نازحين هول داعش
+نعم لرفع احتلال النازحين
+  IOU: 0.49
+
+
+  Text ID: 111
+  Overall Category: full match and label match
+  Text: اللي اطلق عليهم اللقب 
+بعض ذكور الخليج 
+
+شايفين سواتهم بهالدول
+
+خصوصا مع بعض الجنسيات الخليجيه يركضن وراءهن 
+
+اللي يعيش بالخليج وشايف مو الي برا مو داري 
+
+ريحة بقالتكم فاحت 
+
+تحملوا 
+#ترحيل_المغربيات_مطلب 
+#ترحيل_المغربيات_مطلب_امني
+  IOU: 1.00
+
+
+  Text ID: 112
+  Overall Category: partial match and label mismatch
+  Text: ترحيل هالجاليه واجب وطني للحفاظ على الكويت كافي يا حكومه تجاوزاتهم وتجار الاقامات بلك ومنعهم من الكفاله
+  IOU: 0.75
+
+
+  Text ID: 113
+  Overall Category: partial match and label match
+  Text: الي حكومتنا الموقره ترحيل العماله واحضار عماله اخري عن طريق الحكومه وليس المكاتب او الشركات وتكون رواتبهم بالبنوك افضل والعماله تقتصر علي النظافه فقط اما دفع العربه للحقائب مجموعه قليله من العماله لكبار السن ذوي الاحتياجات للنساء يتم دفع 100 فلس لخروج العربه ويكون هناك مكان مخصص
+  IOU: 0.31
+
+
+  Text ID: 114
+  Overall Category: no match
+  Text: #وزارة_الداخلية : ترحيل (6219) مخالفًا للأنظمة ، خلال الأسبوع الماضي . 
+
+#وطن_بلا_مخالف
+  IOU: 0.00
+
+
+  Text ID: 115
+  Overall Category: no match
+  Text: سوف يتم ترحيل جميع المهاجرين  الي بلادهم
+  IOU: 0.00
+
+
+  Text ID: 116
+  Overall Category: partial match and label match
+  Text: الشايب المفروض انه ينتبه لاخرته بدل ماياخذ وحده صغيره وهو يدري انها متزوجته ع طمع وتنتظره يموت 
+وللمعلوميه المغربي مايتزوج مغربيه العنوسه عندهم مرتفعه يروح يتزوج من برى لان المغربيه سمعتها فايحه 
+مايتزوجها الا واحد خبل ماتهمه السمعه 
+#ترحيل_المغربيات_مطلب 
+#ترحيل_المغربيات_مطلب2
+  IOU: 0.75
+
+
+  Text ID: 117
+  Overall Category: partial match and label mismatch
+  Text: كل سوري متهم بعملية اجرام أو قتل يجب أن يعدم في الساحات أو رميه في البحر وليس على الحدود 
+#نازحين مجرمين
+  IOU: 0.68
+
+
+  Text ID: 118
+  Overall Category: partial match and label match
+  Text: @TebbouneAmadjid
+ناقصة غير تاشيرة على المراريك و نولوا لاباس
+#تاشيرة_على_كل_مغربي
+#طرد_المراكشين_من_الجزائر
+#ترحيل_المراركة_مطلبنا
+  IOU: 0.52
+
+
+  Text ID: 119
+  Overall Category: partial match and label match
+  Text: اكيد نعم 
+المغربيات مصوتين لانفسهم لا
+#ترحيل_المغربيات_مطلب
+  IOU: 0.43
+
+
+  Text ID: 120
+  Overall Category: partial match and label mismatch
+  Text: و نرجوا ترحيل الفلسطن إلى #غزة . الفلسطني باع أرضه و نزح عالة و عبء و عاهة على دول و شعوب المنطقة و نزح عالة و عبء و عاهة على دول و شعوب العالم .
+  IOU: 0.94
+
+
+  Text ID: 121
+  Overall Category: no match
+  Text: نستغرب من اوغلو ومن الشعب التركي لما يصرح به في ترحيل 4 مليون سوري الى بلادهم اليس هذا عدلا تركو بلادهم بسبب الحرب اللي اكلت الاخضر واليابس
+  IOU: 0.00
+
+
+  Text ID: 122
+  Overall Category: partial match and label mismatch
+  Text: ترحيل اليمنه مطلب وضروره وطنية
+ترحيل اليمنه مطلب وضروره وطنية
+ترحيل اليمنه مطلب وضروره وطنية
+
+قلناه مرارا وتكرارا
+
+ولا حياة لمن تنادي
+
+والله انهم اكبر خطر علينا وعلى البلد وتنظيفه منهم مطلب وضروره
+
+فاللهم فرحنا بترحيلهم عاجلا غير آجل مكفولهم ومجهولهم وشرعيتهم وحضارمهم
+  IOU: 0.72
+
+
+  Text ID: 123
+  Overall Category: full match and label mismatch
+  Text: ما الفائدة من وجود هؤلاء العاهات في وطنناء ماهو الانجاز الذي قدموه او سيقدمونة ….
+انهم غثاء ونشر بلبلة وتشوية لمجتمعناء……
+#ترحيل_السوريين_مطلب_امني_ووطني
+  IOU: 1.00
+
+
+  Text ID: 124
+  Overall Category: full match and label match
+  Text: اتمنى ترحيل كل العرب من السعوديه مو معقول اغلب المدراء علينا غير سعوديييين شي يقهر ويغبن راحت علينا الوظايف عشان كذا هم مايبغون يتركون السعوديه لانهم مبسوطين واكثر شعب يكره السعوديه سبهم وكلامهم فيني نسمعه ونشوفه مصلحجييييين
+  IOU: 1.00
+
+
+  Text ID: 125
+  Overall Category: partial match and label match
+  Text: مراحل ترحيل العمالة السائبة,تمضي قدوما وعلى أكمل وجهه وذلك عبر البدء بالملفات الأصعب مثل ترحيل الأفارقة (التكارنة) واليوم تم إصدار جواز سفر باكستانية "للبرماويين" تمهيدًا لتسفيرهم,والملف القادم من المتوقع التركيز على السوريين واليمنيين لأنهم حسب الإحصاءات الرسمية الأعلى إجرامًا.
+  IOU: 0.12
+
+
+  Text ID: 126
+  Overall Category: full match and label mismatch
+  Text: طفح الكيل خلاص رحلوو ابوقات ابوقات  ترحيل اليمني، مطلب امني، ووطني  اطردو ابوقات 
+  IOU: 1.00
+
+
+  Text ID: 127
+  Overall Category: no match
+  Text: ترحيل وإبعاد 186 لاجئا مِصريا خلال أسبوع من #ليبيا إلى بلادهم،بينهم نساء وأطفال، حيث استلمتهم السلطات المصرية عند المنفذ الحدودي بين البلدين
+اعتُقِل 162 من هؤلاء اللاجئين في مدينة سرت قبيل ترحيلهم إلى #بنغازي ومنها إلى الأراضي المصرية
+(جهاز مكافحة الهجرة غير النظامية في بنغازي)
+  IOU: 0.00
+
+
+  Text ID: 128
+  Overall Category: partial match and label mismatch
+  Text: انا نعرف مقولة وحدة
+عشرة مراركا في اسباني 
+#ترحيل_المغربيات_مطلب
+  IOU: 0.75
+
+
+  Text ID: 129
+  Overall Category: full match and label match
+  Text: والله يفترض ان يكون فيه ترحيل لكل وحده مالها شغل شريف في شركه او مصنع او غيرها وتجمعهم من اي جنسيه يعتبر مشكله على البلد باكمله خاصة ان الغالبيه مزورين ويقولون سعوديات ويسئون الى سمعة بلدنا واهلها
+  IOU: 1.00
+
+
+  Text ID: 130
+  Overall Category: full match and label match
+  Text: ما بدنا لا دعم ولا فلوس
+احكي عن حالك فقط يا نجيب ميقاتي 
+خليتو الناس تفكرنا شحادين وهي كل المصاري راحت لجيوبكم بسبب فسادكم 
+لا نريد من العرب شيئاً 
+نريد فقط من هذا الاتفاق مع بشار الاسد ان يؤدي الى ترحيل النازحين السوريين من لبنان
+  IOU: 1.00
+
+
+  Text ID: 131
+  Overall Category: no match
+  Text: الكورة بتضحك لدورتموند ورويس  وبتديهم فرصة تانية 
+المفروض لو دورتموند اتعثر بكره يتم ترحيل تريزيتش من المانيا ومصادرة أمواله 
+  IOU: 0.00
+
+
+  Text ID: 132
+  Overall Category: no match
+  Text: الواقع أن المملكة لم تجبر أحدا على الرحيل لعند بشار ولكن اللي يصدر بحقه ترحيل بيترحل حتما ولكن لدولة هو يختارها، يحجز تذكره وفيزة للدولة المقصودة ومع السلامة.
+  IOU: 0.00
+
+
+  Text ID: 133
+  Overall Category: full match and label mismatch
+  Text: اقترح ترحيل السوريين واليمنيين واللبنانيين لتحرير اوطانهم لننهي هرطقاتهم في شبكات التواصل لسنا وكلاء ادم على ذريته السعوديه وثرواتها للسعوديين
+  IOU: 1.00
+
+
+  Text ID: 134
+  Overall Category: full match and label mismatch
+  Text: ومن قال يعيبه أصله
+بالعكس
+السودان بلد حبيب وقريب للقلب
+والأسطورة حبيب لنا
+لكن المشكلة بعض الجاليات يبي لهم ترحيل 
+  IOU: 1.00
+
+
+  Text ID: 135
+  Overall Category: full match and label mismatch
+  Text: ادخل تاق ترحيل المغربيات مطلب وشف العجب العُجاب ،، البعض من مجتمعنا مازال جاهل بهولاء الفئه القـ.ذره
+  IOU: 1.00
+
+
+  Text ID: 136
+  Overall Category: full match and label mismatch
+  Text: يا ام شنطه اتركي التنكر عيب
+من ١٦ سنه وانتم تتنكرون مامليتو ؟!
+#ترحيل_المغربيات_مطلب 
+#ترحيل_المغربيات_مطلب2
+  IOU: 1.00
+
+
+  Text ID: 137
+  Overall Category: full match and label mismatch
+  Text: هذا كله نقطه في بحر وهذا مغربي اعترف بهالشي وان اغلب المغاربه اذا مو كلهم يفضلون الزواج من الخارج لهالسبب وكلنا عارفين #ترحيل_المغربيات_مطلب #ترحيل_السوريين_مطلب_امني #ترحيل_المغربيات_مطلب2
+  IOU: 1.00
+
+
+  Text ID: 138
+  Overall Category: partial match and label mismatch
+  Text: اعوذ بلله من شرهن ياليت يتم ترحيلهن مهنتهن دعاره فقط #ترحيل_المغربيات_مطلب_امني
+  IOU: 0.84
+
+
+  Text ID: 139
+  Overall Category: partial match and label match
+  Text: تغيير التركيبه الديمغرافيه 
+وادخال عادات وتقاليد ماانزل الله بها من سلطان 
+#ترحيل_المغربيات_مطلب 
+#ترحيل_المغربيات_مطلب2
+  IOU: 0.77
+
+
+  Text ID: 140
+  Overall Category: partial match and label mismatch
+  Text: مغربيه حسابك قذف وصخ ما الومك تضنين الكل مثلكم نصكم مواليد غير شرعيين 
+#المغرب_اضحوكة_العالم 
+#ترحيل_المغربيات_مطلب_امني
+  IOU: 0.89
+
+
+  Text ID: 141
+  Overall Category: partial match and label mismatch
+  Text: وهل يخفى القمر؟؟  لما يجتمع المر،،،//'"_ قة خمس قرو،،//ش تغير رايهم وتبدله من هنا لهناك نموذج عنهم 
+#المغرب_مملكه_الثقوب #المغرب_اضحوكة_العالم #المغرب_مملكه_التلوين #المغرب_مملكة_الدعارة #ترحيل_المراركة_مطلبنا
+  IOU: 0.74
+
+
+  Text ID: 142
+  Overall Category: full match and label mismatch
+  Text: و بيقول "بلدنا"
+حضروا حالكن لثلاث ملايين حاقد جديد على لبنان يشوهوا صورتنا برا قائلين انهم لبنانيين ولبنان بلدهم
+
+#ترحيل_السوريين_مطلب_امني_ووطني
+  IOU: 1.00
+
+
+  Text ID: 143
+  Overall Category: partial match and label match
+  Text: يارب الله يسمع منك  ترحيل نهائي لاعودة وغلق المنفذ وياليت بعد، مع مجنسينهم بيكون اسعد خبر
+  IOU: 0.45
+
+
+  Text ID: 144
+  Overall Category: full match and label match
+  Text: قريبا راح يتم ترحيل البرماوية عقبال باقي الجنسيات
+  IOU: 1.00
+
+
+  Text ID: 145
+  Overall Category: partial match and label mismatch
+  Text: #ترحيل_المغربيات_مطلب 
+حسبنا الله ونعم الوكيل شوفو وين وصلو يشربون الرجال البول ويأكلونه هو با الأكل اعزكم اللهواعز النعمه
+  IOU: 0.69
+
+
+  Text ID: 146
+  Overall Category: full match and label mismatch
+  Text: وانا مثلك بعد هذا الاقرب 
+المفروض ترحيل ومثلتم مثل اي اجنبي مايجي الا بفيزا وباكستان ترحب بهم وراح يتم تربيتهم هناك
+  IOU: 1.00
+
+
+  Text ID: 147
+  Overall Category: full match and label mismatch
+  Text: فرنسية حطوها مغربية وليتهم سكتوا ما خلوا جنسية عربية الا واساؤوا لهن
+
+#ترحيل_المغربيات_مطلب
+  IOU: 1.00
+
+
+  Text ID: 148
+  Overall Category: full match and label mismatch
+  Text: مفوه قوي، ولكنه يبقى مجرماً مثله مثل رؤساء الغرب وتركيا وغيرهم، نتعامل معه كسياسة لاستقرار المنطقة، ايقاف شلال المخدرات القادم من كارتيلات الشام، وأخيراً ترحيل اللاجئين السوريين ال2 مليون من السعودية
+  IOU: 1.00
+
+
+  Text ID: 149
+  Overall Category: full match and label mismatch
+  Text: دا امن وطنى يافندم
+المفروض مفيش هنا حاجه اسمها قضاء اساساً
+احنا مش هنستفيد حاجه من سجنه
+المفروض ترحيل فورى خارج البلاد لهم ولكل من عاونهم
+فنحن كشعب نعانى من ويلات مايفعلوه .
+  IOU: 1.00
+
+
+Batch 3:
+Precision for Exclusive/Discriminatory Discourse: 0.4426229508196721
+Precision for Exaggeration; Generalization; Attribution; Distortion: 0.6324110671936759
+Precision for Threat of Enmity; War; Attack; Murder; or Harm: 0.6564885496183206
+Precision for Symbolization: 0.0
+Precision for Swearing; Insult; Defamation; Dehumanization: 0.5970149253731343
+Precision for Unannotated: 0.998046875
+Recall for Exclusive/Discriminatory Discourse: 1.0
+Recall for Exaggeration; Generalization; Attribution; Distortion: 0.7692307692307693
+Recall for Threat of Enmity; War; Attack; Murder; or Harm: 0.5375
+Recall for Symbolization: 0.0
+Recall for Swearing; Insult; Defamation; Dehumanization: 0.6956521739130435
+Recall for Unannotated: 0.7581602373887241
+Category Statistics:
+  full match and label match: 14 (28.00%)
+  full match and label mismatch: 10 (20.00%)
+  partial match and label match: 5 (10.00%)
+  partial match and label mismatch: 18 (36.00%)
+  no match: 3 (6.00%)
+
+Detailed Matches:
+
+  Text ID: 249
+  Overall Category: partial match and label mismatch
+  Text: ماشفت بحياتي إيجابية وحده لهالشعب المؤذي المتخلف لا ماضي ولا حاضر 
+#ترحيل_اليمنيين_مطلب_امني_ووطني
+  IOU: 0.76
+
+
+  Text ID: 250
+  Overall Category: full match and label mismatch
+  Text: ماذا ينتظر السياسيون الفاسدون لتوجيه انذار لهذه المفوضية وطردها هي واللاجئين السوريين؟
+#لا_للتوطين
+#ترحيل_السوريين_مطلب_امني_ووطني
+  IOU: 1.00
+
+
+  Text ID: 251
+  Overall Category: full match and label mismatch
+  Text: #ترحيل_المغربيات_مطلب 
+اهم شي عندها المخربيه تجيب عيال سعوديين و تجي و تعيش في بلدنا و تتمتع في خيراتها ، https://twitter.com/alruhaily_a/status/1659756115226251265…
+  IOU: 1.00
+
+
+  Text ID: 252
+  Overall Category: partial match and label mismatch
+  Text: ما يكثر من الحلف الا شخص متربي مع مهايطيه 
+
+وليه ما اشكك في اصلك وجنسيتك واضح انك اجنبي وعايش با السعوديه حالك حال المغربيات متنكر ومسوي تتذاكى 
+
+اي مع ترحيل السوريين بلدهم وش عندك …البرماويين الان الدوله تبي ترحلهم لباكستان وش عندك 
+
+وارجع واحلف مره ثاني على اشياء كذب وهذا… Show more
+  IOU: 0.95
+
+
+  Text ID: 253
+  Overall Category: full match and label mismatch
+  Text: مروكية مسطية هههههههههههههههههه 
+تدركون جيداا انو #الجزائر ناضلت وكل العالم يفتخر بتاريخنا وثورتنا ولله الحمد واكرمنا الله بشهداء ومأدراك ماشهداء
+واكرم #المروك كذالك #بالعـ3ـا@ـرات  لانو مكاش عدكم رجاLلة مكاش لي ضحـhـى خوIفين
+#متنكرين_كالسعوديين27
+#ترحيل_المغربيات_مطلب
+  IOU: 1.00
+
+
+  Text ID: 254
+  Overall Category: partial match and label mismatch
+  Text: فشرت ولاك كلب ارجع وطنك يا سوركي
+ارحل_يا سوركي الشعب السعودي يريد ترحيل السواريه انتو اكثر جاليه مؤذيه حول العالم ارجعو وطنكم
+  IOU: 0.85
+
+
+  Text ID: 255
+  Overall Category: partial match and label match
+  Text: السعودية.. القبض على سوري نفذ عمليات نصب بحوالات وهمية https://arabic.cnn.com/business/article/2022/02/10/saudi-arabia-syria… via 
+@cnnarabic
+ 
+#ترحيل_السوريين_مطلب_امني_ووطني
+  IOU: 0.41
+
+
+  Text ID: 256
+  Overall Category: partial match and label mismatch
+  Text: فهمنا انن نازحين بس يلي ما فهمناه ليش تاركينن يلعبو ويسرحو ويمرحو ويقتلو ويسرقو ويغتصبو أرضنا وعرضنا ، شو هالدوله يلي ما عندها سياده وين الجيش والامن العام لك هني مفكرين لبنان مدينه ملاهي  كل شي مستباح عندهن وما بخافو من الدوله ولا بيحترموها
+#ترحيل_السوريين_مطلب_امني_ووطني
+  IOU: 0.74
+
+
+  Text ID: 257
+  Overall Category: full match and label match
+  Text: نطالب ترحيل يمنيين من ارضنا لارضهم بقوة
+  IOU: 1.00
+
+
+  Text ID: 258
+  Overall Category: full match and label mismatch
+  Text: ترحيل اليمنه مطلب
+
+كهوفهم اولى بهم
+
+شعب قات وشمه
+  IOU: 1.00
+
+
+  Text ID: 259
+  Overall Category: partial match and label match
+  Text: كارثه بتحصل جوا مصر و محدش مركز ، سؤال لو فعلآ تم ترحيل الاجئيين ياتري ال اشتري محالات و شقق و خدو الجنسيه و استوطنو مصيرهم ايه ؟ لان دول اكتر  
+#غلق_المفوضية_وطرد_اللاجئين
+#غير_مرحب_بالاجئين_في_مصر
+  IOU: 0.63
+
+
+  Text ID: 260
+  Overall Category: no match
+  Text: اول ايام ذو القعدة الكابوس للمغتربين العاملين بهذه المهن ترحيل نهائي من السعودية.. "اسماء المهن "
+  IOU: 0.00
+
+
+  Text ID: 261
+  Overall Category: partial match and label mismatch
+  Text: شفت البيوت الحمرا اللي وأنت داخل على الحرم هذي بيوتهم
+
+طبعا الدولة من سنة أزالت هذا التلوث البصري وبإذن الله ترحيل 
+
+عددهم وصل  ٢ مليون وليس ٥٠٠ ألف يتوالدون بكثرة
+  IOU: 0.27
+
+
+  Text ID: 262
+  Overall Category: full match and label match
+  Text: كنا ظالمينك ياأم شنطة بما أن الرجال في بلدك إنقرضو فمن حقك شق البحار وعبور القارات بحثا عن من يسقي بستانك القاحللعل ووعسى أن تنجبي جيل فيه ريحة الرجولة وليسو مخانيث مثل ابناء بلدك البوسبيريين
+#ترحيل_المغربيات_مطلب_امني 
+#ترحيل_المغربيات_مطلب #ترحيل_المراركه_مطلبنا
+  IOU: 1.00
+
+
+  Text ID: 263
+  Overall Category: partial match and label mismatch
+  Text: حكومتنا السعودية بالها وصبرها طويل على اليمنيين.. لو الامر بيد الشعب السعودي لتم ترحيل جميع اليمنيين الى اليمن وبناء سور السعودية العظيم على حدود اليمن مدعم بكهرباء 360 فولت وليزر لصيد المتسللين اليمنيين..
+
+بعدها ورينا القصاص والعين بالعين
+  IOU: 0.83
+
+
+  Text ID: 264
+  Overall Category: no match
+  Text: طبيعي اذا وافدين على الرياض وما معهم تصريح من وزارة الهجرة ولا من ادارة الملز اكيد يزيلو اللافته وممكن اجراءات ترحيل اذا كررو الفعل
+  IOU: 0.00
+
+
+  Text ID: 265
+  Overall Category: full match and label match
+  Text: #ترحيل اللاجئـــــين النازحيـــــن من ولايــــة الجزيرة لمعـــــسكر الــولايات الشـــــرقية
+  IOU: 1.00
+
+
+  Text ID: 266
+  Overall Category: partial match and label mismatch
+  Text: المغربيه البيور اب عن جد بدون تدخل سلالة استعمارات #ترحيل_المغربيات_مطلب2
+  IOU: 0.58
+
+
+  Text ID: 267
+  Overall Category: partial match and label mismatch
+  Text: #ترحيل_الاجانب_مطلب_وطني
+إلى متى ؟! وهما موجودين وياكلون من خير البلد 
+ويشتغلون والسعودين جالسين ( البطاله نسبتها عاليه ) وهما فساد ومخدرات و زعزعة امن وفوق هذا التطاول على حكومتنا الرشيده ..
+ونحنه اولادنا يموتون دفاع عن الوطن وهما يسرحون ويمرحون
+  IOU: 0.69
+
+
+  Text ID: 268
+  Overall Category: partial match and label mismatch
+  Text: ترحيل السوريين النور مطلب وأمن وطني
+  IOU: 1.00
+
+
+  Text ID: 269
+  Overall Category: full match and label mismatch
+  Text: ليش ناطرين غيركم؟
+انتو وينكم؟ هربتوا على الخيم وعلى بلاد اللجوء لتعيشوا عالة على اموال المساعدات
+جبناء خربتوا بلدكم و تريدون من غيركم ان يعمل عنكم
+
+#ترحيل_السوريين_مطلب_امني_ووطني
+  IOU: 1.00
+
+
+  Text ID: 270
+  Overall Category: partial match and label match
+  Text: مع ترحيل العاهرات الأجانب عادةًقامت الإمارات بترحيل 4,300 عاهرة أجنبية.إلا أن الدعارة منتشرة على نطاق واسع، خاصة في دبي وأبو ظبي وتغض السلطات النظر عمومًا بشرط أن تبقى بعيدة عن الأنظار العامة.
+
+اليوم كم وصل العدد
+  IOU: 0.67
+
+
+  Text ID: 271
+  Overall Category: partial match and label mismatch
+  Text: #ترحيل_المغربيات_مطلب
+دركا حبيت نفهم هذه عندها وجه ولا بيدون ما ارخسك يا القردة https://twitter.com/SamirSl85007884/status/1657849241421639682…
+  IOU: 0.39
+
+
+  Text ID: 272
+  Overall Category: partial match and label mismatch
+  Text: #ترحيل_السوريين_مطلب_امني_ووطني
+كلها كم يوم ويتم ترحيلهم لبلدهم ان شاء الله تعالى.
+  IOU: 0.49
+
+
+  Text ID: 273
+  Overall Category: partial match and label mismatch
+  Text: نتطلع الى ترحيل السوريين الى بلدهم لأنهم غير محترمين لأنظمة السعودية العظمى التي آوتهم واطعمتهم وامنتهم بعد الله بكل احترام ٠
+  IOU: 0.55
+
+
+  Text ID: 274
+  Overall Category: partial match and label mismatch
+  Text: ابن الحرام المغربي يظن الكل مثله انتم في احصائياتكم نصفكم مواليد غير شرعيين 
+#ترحيل_المغربيات_مطلب2
+  IOU: 1.00
+
+
+  Text ID: 275
+  Overall Category: full match and label mismatch
+  Text: سواء سورين او غيرهم من الجنسيات ترحيل كل الخالفين ومجهولين الاقامه لان ما وراهم غير المشاكل وتنظيف البلد السعوديه للسعودين والمقيمين اللي وفق النظام والقانون
+  IOU: 1.00
+
+
+  Text ID: 276
+  Overall Category: partial match and label mismatch
+  Text: طيب كل الي بالهشتاق متجاوزات ماحطوا محتشمات وشريفات
+يجب ترحيل الجنسيه هذي وما تطب السعودية الا للعمره وللحج فقط وبعدها لديارهم افسدوا من الشباب ما افسدوا بسبب الدعا^ره والامراض الجنسيه
+  IOU: 0.72
+
+
+  Text ID: 277
+  Overall Category: full match and label mismatch
+  Text: اؤيدك
+و نرجو من الريس ترحيل الاجءين
+#ترحيل_السوريين_مطلب_شعبي
+  IOU: 1.00
+
+
+  Text ID: 278
+  Overall Category: partial match and label mismatch
+  Text: #ترحيل_السوريين_مطلب_امني_ووطني 
+
+السوريين  لم يقدموا شيء غير الخراب والتكسير وقلة الادب و اخلاقهم زي الزباله 
+
+ترحيلهم من السعودية سيجعل السعودية بلد أكثر أمان وتخف مستوى الجريمه
+  IOU: 1.00
+
+
+  Text ID: 279
+  Overall Category: partial match and label mismatch
+  Text: يجب ترحيل هاؤلاء لمراركة الأجناس من الجزائر إلى زريبة سيدهم فإنهم وباء .
+  IOU: 1.00
+
+
+  Text ID: 280
+  Overall Category: full match and label mismatch
+  Text: داخليين السعوديه ومعهم متفجرات ويبون يذبحون الابرياء وتقول طائفيه وسياسيه ؟؟؟؟
+قبلهم طارت رقاب سعوديين لان امن السعوديه خط احمر ومن يتجرأ على ترويع الامنيين سيكون هذا مصيره سواء سعودي او بحريني سني ولا شيعي السيف مصيرهم
+  IOU: 1.00
+
+
+  Text ID: 281
+  Overall Category: full match and label match
+  Text: قبل مايجون الاجانب لوطنا لم يكن هناك جرائم ولا قتل ولا مخدرات الحل الصحيح ترحيل الاجانب لما كنا سعوديين قبل اربعين سنه لافي اجرام ولا قتل ولا مخدرات كأن البلد نظيف صلاه وذهاب للمسجد وبعد صلاة العشاء نوم بدل ماتضع كاميرات رحل الاجانب وشوف بعدها النتيجه
+  IOU: 1.00
+
+
+  Text ID: 282
+  Overall Category: full match and label match
+  Text: شفنا خير دليل ترحيل عاهرات 
+  IOU: 1.00
+
+
+  Text ID: 283
+  Overall Category: partial match and label mismatch
+  Text: يجب اعادتهم بشكل قسري لا طوعي
+لأنهم يرفضون العودة من بلاد اللجوء حيث يحصلون على المساعدات والتقديمات اضافة الى اعمالهم غير الشرعية في لبنان مثلاً
+
+#لا_للدمج #لا_للتوطين #ترحيل
+  IOU: 0.98
+
+
+  Text ID: 284
+  Overall Category: full match and label match
+  Text: شفت الفيديو خارجة كدور او كتقول ليهم قفطان جزائري هاد فقرولية كرغولية ولله ما عندها علاش تحشم عجبها الثراث المغربي او مشات سرقاتو فضيحة #مطلبنا_ترحيل_الجزائر_من_المغرب_والمغرب_العربي_
+  IOU: 1.00
+
+
+  Text ID: 285
+  Overall Category: full match and label match
+  Text: قريبا سيتم ترحيل المشردين الى بلدانهم ووطنهم الاصلي حسب قول وزير الخارجية السعودية
+  IOU: 1.00
+
+
+  Text ID: 286
+  Overall Category: partial match and label match
+  Text: سوريا عندها وزير مغتربين 
+تعا عزيزي خود تلات ملايين مغترب سوري من عنا
+شو شغلتك انت؟
+#لا_للدمج #لا_للتوطين #ترحيل
+  IOU: 0.36
+
+
+  Text ID: 287
+  Overall Category: full match and label match
+  Text: حتى عيالهم يقولون المرأة المغربية التي تتقن اللهجة السعودية لا تصلح للزواج ولو فُتح لنا المجال للزواج من السعوديات لتزوج أغلبنا منهم يدورون "للعفيفات " 
+#ترحيل_المغربيات_مطلب2
+  IOU: 1.00
+
+
+  Text ID: 288
+  Overall Category: no match
+  Text: وداعا للمغتربين العاملين بهذه المهن ترحيل نهائي من السعودية ابتداء من هذا الموعد
+  IOU: 0.00
+
+
+  Text ID: 289
+  Overall Category: partial match and label match
+  Text: و ترحيل لتعوسي الزاني لي يطلبهم لانهم ما جوا الا و هم عليهم طلب وع قرفونا باثنين
+  IOU: 0.88
+
+
+  Text ID: 290
+  Overall Category: full match and label match
+  Text: ليت ماقطعنا أيران
+وليت ما ارسلنا جنودنا دفاعا عنكم 
+
+وليت وليت
+
+#ترحيل_المغربيات_مطلب 
+
+#ترحيل_المغربيات_مطلب_امني
+  IOU: 1.00
+
+
+  Text ID: 291
+  Overall Category: full match and label match
+  Text: الرد المُلجم للفلبين هو ترحيل عمالتهم . فالكويت لاتُهدد من قبل رئيس عصابه .
+  IOU: 1.00
+
+
+  Text ID: 292
+  Overall Category: full match and label match
+  Text: سامجة على ذي السامجة يبيلك ترحيل
+  IOU: 1.00
+
+
+  Text ID: 293
+  Overall Category: partial match and label mismatch
+  Text: اليوم رحت جده بارك وحرفيا حسيت نفسي بقلب دمشق او القاهره ، ولكن يبقى التساؤل متى بتم ترحيل هالجنسيتين العاله على المجتمع وفوق ذلك لاحمدا ولا شكورا
+  IOU: 0.59
+
+
+  Text ID: 294
+  Overall Category: full match and label match
+  Text: باذن الله ترحيل كل برماوي
+  IOU: 1.00
+
+
+  Text ID: 295
+  Overall Category: full match and label mismatch
+  Text: ليش مسموح يرجعوا؟؟
+بدنا ياهن يفلوا من دون عودة
+
+#ترحيل
+  IOU: 1.00
+
+
+  Text ID: 296
+  Overall Category: full match and label match
+  Text: الحجز علي كل ممتلكات الشركة و حسابتها البنكية ، و وقف جميع تعاملاتها في الدولة ، بعدها صرف رواتبهم من فلوس الشركة ، ترحيل جميع العمال الي بلادهم مع اغلاق الشركة ، و كفاية من هذه العمالة الي ما منها اي فايدة لا الدولة و الناس ، كل واحد يدز عربانته في المطار ، الجمعيات
+  IOU: 1.00
+
+
+  Text ID: 297
+  Overall Category: full match and label match
+  Text: الله يرحمه واتمنى ترحيل كل الاجانب
+  IOU: 1.00
+
+
+  Text ID: 298
+  Overall Category: full match and label mismatch
+  Text: ليت اولا يتم ترحيل الهندوس الي اول ماتصير مصيبه بالبلد لا قدر الله هم اول ناس يغدرون فينا  
+اخواننا السوريين امرهم سهل ومشاكلهم قليل
+  IOU: 1.00
+
+
+Batch 4:
+Precision for Exclusive/Discriminatory Discourse: 0.8809523809523809
+Precision for Exaggeration; Generalization; Attribution; Distortion: 0.9
+Precision for Threat of Enmity; War; Attack; Murder; or Harm: 0.2542372881355932
+Precision for Symbolization: 0.0
+Precision for Swearing; Insult; Defamation; Dehumanization: 0.8064516129032258
+Precision for Unannotated: 0.6028169014084507
+Recall for Exclusive/Discriminatory Discourse: 0.2569444444444444
+Recall for Exaggeration; Generalization; Attribution; Distortion: 0.5588235294117647
+Recall for Threat of Enmity; War; Attack; Murder; or Harm: 0.35714285714285715
+Recall for Symbolization: 0.0
+Recall for Swearing; Insult; Defamation; Dehumanization: 0.6410256410256411
+Recall for Unannotated: 1.0
+Category Statistics:
+  full match and label match: 3 (6.00%)
+  full match and label mismatch: 17 (34.00%)
+  partial match and label match: 3 (6.00%)
+  partial match and label mismatch: 20 (40.00%)
+  no match: 7 (14.00%)
+
+Detailed Matches:
+
+  Text ID: 299
+  Overall Category: partial match and label mismatch
+  Text: مخربيه متنكره كسعوديه 
+الموقع المخرب 
+#متنكرين_كالسعوديين 
+#متنكرين_كالسعوديين26 
+#متنكرين_كالسعوديين27
+#ترحيل_المغربيات_مطلب 
+#ترحيل_المغربيات_مطلب2
+  IOU: 0.90
+
+
+  Text ID: 300
+  Overall Category: partial match and label mismatch
+  Text: نحنا صرنا غربا بالوطن 
+نعم مع ترحيل كل اللاجئين من أي جنسية كانت
+  IOU: 0.65
+
+
+  Text ID: 301
+  Overall Category: partial match and label mismatch
+  Text: أطالب الاداره بخصم مع ترحيل على جميل 
+- هو المسؤول ، حُرمان من فعاليات قويه وصباحيه
+  IOU: 0.27
+
+
+  Text ID: 302
+  Overall Category: full match and label mismatch
+  Text: تحلمون حلم بالاقامة عندنا ترحيل يعني ترحيل قالها وزير خارجيتنا خلاص 
+  IOU: 1.00
+
+
+  Text ID: 303
+  Overall Category: full match and label match
+  Text: مطالبون ترحيل المرراكة من الجزائر مثل ما فعل راحل الرائيس الهوري بومدين  رحمه الله تحيا الجزائر 
+  IOU: 1.00
+
+
+  Text ID: 304
+  Overall Category: partial match and label match
+  Text: تفاقمت أزمة وجود السوريين في لبنان، فهم من بداية الحرب نزحوا الى لبنان والى الآن بالرغم من إنحلال الحرب وإمكانهم العودة الى سوريا إلا أنهم لم يذهبوا الى بلدهم . فالحملات قائمة على ترحيل السوريين لأنهم من الواضح أنهم رفضوا العودة الى بلدهم بالرغم من الأزمات الإقتصادية المتصاعدة.
+  IOU: 0.44
+
+
+  Text ID: 305
+  Overall Category: full match and label mismatch
+  Text: يكفي انتشار الامراض وعمليات الابتزاز التي تقوم عن طريق بعضهن حتى يكون  #ترحيل_المغربيات_مطلب2
+  IOU: 1.00
+
+
+  Text ID: 306
+  Overall Category: partial match and label mismatch
+  Text: تكتظ الأحياء العشوائية في جدة ومكة بالجنسيات الأفريقية من المخالفين ونتمنى أن يتم  إن شاء الله ترحيل جميع هؤلاء لخطورة تجمعاتهم، حفظ الله البلاد والعباد من شرهم ومكرهم.
+  IOU: 0.63
+
+
+  Text ID: 307
+  Overall Category: no match
+  Text: #كليتشدار_أوغلو يتعهد بطرد جميع #اللاجئين من #تركيا
+
+• حذر من وصول 10 ملايين #لاجئ إذا أعيد انتخاب #أردوغان
+  IOU: 0.00
+
+
+  Text ID: 308
+  Overall Category: partial match and label mismatch
+  Text: عقبال مايترحلون
+ كل السعوديين والسعوديات متبهذلين منهم #ترحيل_المغربيات_مطلب امين استمري وطن
+  IOU: 0.94
+
+
+  Text ID: 309
+  Overall Category: partial match and label mismatch
+  Text: كل الموردين للسعودية من جبل علي
+
+اغلبهم يمنه
+
+من أمن العقوبة اساء الادب للأسف
+
+ترحيل اليمنه مطلب وضروره وطنية
+
+رحلوهم ينظف بلدنا منهم ومن قرفهم
+
+وراء كل غش وفساد تجاري وعبث يمنه
+  IOU: 0.74
+
+
+  Text ID: 310
+  Overall Category: full match and label mismatch
+  Text: اتمنى يطبق هذا القانون قريبا
+
+#ترحيل_المغربيات_مطلب
+  IOU: 1.00
+
+
+  Text ID: 311
+  Overall Category: full match and label mismatch
+  Text: متى يجي القرار ترحيل بلادهم معززين مكرمين يكملون حياتهم  الناس تبغى ترتاح من الحروب المآسي يااخت هيام 
+  IOU: 1.00
+
+
+  Text ID: 312
+  Overall Category: partial match and label mismatch
+  Text: يلا  حبيبي الان ترحيل لسولايا لبلدك و اشوف ايش بتقول لفخامة الرئيس بشار الاسد 
+اجرام السوريين في بيع الحبوب وغسل الاموال منتشرة بالسعودية وفي تحارة المواد البنائية
+  IOU: 0.68
+
+
+  Text ID: 313
+  Overall Category: no match
+  Text: #جعجع: "لم تعد هناك حاجة لتسمية هؤلاء #نازحين او لاجئين، بل يجب ان نسمّيهم من الآن فصاعداً #السوريين الموجودين في #لبنان ويجب تطبيق القوانين المرعية عليهم".
+  IOU: 0.00
+
+
+  Text ID: 314
+  Overall Category: partial match and label match
+  Text: والله المملكة تحتاج اما القانون الاسلامي لعمل قوم لوط او تفعل مثل بريطانيا  ترحيل الى رواندا … نشوف حل للاشكال هذة المتسعوده….
+  IOU: 0.78
+
+
+  Text ID: 315
+  Overall Category: full match and label mismatch
+  Text: عارف ليش .. 
+لما استقبلتكم السعودية عزتكم و جعلتكم بشر و لكم كرامه .. و لكن ماذا فعلتم اصبحتم مروجون للمخدرات في السعودية و اصبحتم تديرون بيوت الدعاره في السعودية و اصبحتم اكثر جالية تستقبل اطنان المخدرات في السعودية ووووو الخ 
+
+لذا اصبح واجب ترحيل السوريين و طردهم لانهم أنذال
+  IOU: 1.00
+
+
+  Text ID: 316
+  Overall Category: full match and label match
+  Text: انا الي برحلك !!!؟ يا رجل انا مع ولاة امرنا حفظهم الله وسوف يتم ترحيل الاجئين السوريين 
+
+ليه زعلان انت
+  IOU: 1.00
+
+
+  Text ID: 317
+  Overall Category: partial match and label mismatch
+  Text: ليت الحمله تستمررر بشكل دائم..مو مؤقته
+وتوقف مثل حملات ترحيل المتخلفين والمخالفين..؟؟
+  IOU: 0.46
+
+
+  Text ID: 318
+  Overall Category: partial match and label mismatch
+  Text: العنوسه عندهم ٦٠٪
+ال٤٠٪ متزوجين بنغال وهنود وسنقال وحبوش 
+عشان كذا حاقدات على الخليجيات 
+وتحاول تتزوج خليجي بالسحر والشعوذه 
+يعني تتزوج مخربيه يصير نسيبك سنغالي ولا هندي 
+#ترحيل_المغربيات_مطلب2 
+#ترحيل_المغربيات_مطلب
+  IOU: 0.69
+
+
+  Text ID: 319
+  Overall Category: full match and label mismatch
+  Text: لابد من ترحيل السوررين  لسوري
+  IOU: 1.00
+
+
+  Text ID: 320
+  Overall Category: full match and label mismatch
+  Text: ترحيل نهائي له ولكل الاجانب لاهنتو
+  IOU: 1.00
+
+
+  Text ID: 321
+  Overall Category: full match and label mismatch
+  Text: #ترحيل_المغربيات_مطلب حتى المصري اكل خازوق من المخربيه 
+  IOU: 1.00
+
+
+  Text ID: 322
+  Overall Category: partial match and label mismatch
+  Text: الغايه ترحيل النور اللي نجسوا بلدنا
+  IOU: 1.00
+
+
+  Text ID: 323
+  Overall Category: partial match and label mismatch
+  Text: المغربيات اذونا بسحرهم وشعوذتهم محد سلم منهم كم عايله دخلو فيها مغربيات وسحروهم وسرقوهم على اي اساس تقول ماذونا!!  هدفهم تفكيك المجتمع السعودي ترحيل مطلب شعبي وامني 
++++مايدافع عن المغربيات الا الاجنبي متنكر كسعودي.
+  IOU: 0.75
+
+
+  Text ID: 324
+  Overall Category: partial match and label match
+  Text: البرماوي مثل مسمار مصدي معووج
+في خشبه مهترئه ملصقه بجدار
+ياتضحي بالجدار ياتخلع الخشبه
+ومسمارها فيها
+ضحى بالخشبه ومعها المسمار
+ في سبيل ترحيل البورما ضحي
+بأي ثمن حفاظا على أمن جدار الوطن السعودي العظيم 
+  IOU: 0.68
+
+
+  Text ID: 325
+  Overall Category: partial match and label mismatch
+  Text: إحنا آسفين يا بشار
+بعد ما عاشرنا السوريين
+و عرفناهم إنهم أوسخ شعب خائن مرتزق طائفي عنصري فاسد مفسد
+عرفنا ان بشار راجل واسد اسم على مسمى
+وهو عنده حق يضرب ويدعس السوريين بالصرماية القديمة على دماغهم
+#ترحيل_السوريين_مطلب_امني_ووطني
+#السورى_يرجع_بلده
+#السوريين_اقارب_الدواعش
+  IOU: 0.67
+
+
+  Text ID: 326
+  Overall Category: full match and label mismatch
+  Text: #الزوجه_الثانيه #ترحيل_المغربيات_مطلب
+  المغربية تتزوجك وتتزوج بآخر بنفس الوقت وتعـدد.. 
+و(أنت على عماك ماتدري)..
+  IOU: 1.00
+
+
+  Text ID: 327
+  Overall Category: partial match and label mismatch
+  Text: ترحيل اليمنه مطلب وضروره وطنية
+ترحيل اليمنه مطلب وضروره وطنية
+
+والله ثم والله ثم والله انهم اكبر خطر علينا وعلى البلد
+عثوا فالبلد خراب ونهب لخيراته وفساد حسبنا الله ونعم الوكيل عليهم
+
+جنوبهم وشمالهم وحوثيهم وحضارمهم جميعهم وجوه لعملة واحدة بإختصار
+
+لا فرق بينهم
+رحلوهم رحلوهم
+  IOU: 0.79
+
+
+  Text ID: 328
+  Overall Category: no match
+  Text: أوزداغ يفقد مقعده بالبرلمان ويعتذر: لن نتمكن من ترحيل اللاجئين
+  IOU: 0.00
+
+
+  Text ID: 329
+  Overall Category: full match and label mismatch
+  Text: مع هذه التغريدة لهذا البرتقالي ..نؤكد ضرورة ترحيل السوريين من بلادنا قبل ان يكونو عون وخدم لاعداءنا انتقاماً لرجوع العلاقات السعوديه السوريه 
+
+تغريدة تعني با التحريض على القتل والاغتيالات والفوضى 
+
+#ترحيل_السوريين_مطلب_امني_ووطني
+  IOU: 1.00
+
+
+  Text ID: 330
+  Overall Category: partial match and label mismatch
+  Text: #ليه_البنت_تحب_الفلوس #ترحيل_المغربيات_مطلب
+كفوووو على السعوديات الجاي اشد واعظم، وادعائكم للمظلومية اضحكوا فيه على نفسكم بس
+  IOU: 0.51
+
+
+  Text ID: 331
+  Overall Category: full match and label mismatch
+  Text: يجب ان يكون اول قرار هو ترحيل السوريين بلدهم
+  IOU: 1.00
+
+
+  Text ID: 332
+  Overall Category: no match
+  Text: اوربا تريد ترحيل كل السورين وتأخذ نساء والاطفال فقط
+  IOU: 0.00
+
+
+  Text ID: 333
+  Overall Category: full match and label mismatch
+  Text: المفروض ترحيل لبلادهم البرماوية والافارقة والله ما شوهو منظر وسمعة مكة وجدة والمدينة الا هم
+  IOU: 1.00
+
+
+  Text ID: 334
+  Overall Category: no match
+  Text: بعد تحقيق "النهار" عن تزوير ملكيات عقارية لـ #نازحين في #البقاع... الأجهزة الأمنية تتحرّك
+  IOU: 0.00
+
+
+  Text ID: 335
+  Overall Category: partial match and label mismatch
+  Text: حسابك كله عن سوريا مصدقين انك سعودية كملي او كمل معروف عنكم انتحال شخصيات نسائيه  ، و ان شاء الله يتم ترحيل السوريين الى بلدهم ونرتاح 
+  IOU: 0.44
+
+
+  Text ID: 336
+  Overall Category: full match and label mismatch
+  Text: مصدر الرزق الوحيد للبنانيين المنهارين اقتصاديا
+بيشيلوهن و بيحلّ محلن السوري اكيد
+
+#ترحيل_السوريين_مطلب_امني_ووطني
+  IOU: 1.00
+
+
+  Text ID: 337
+  Overall Category: full match and label mismatch
+  Text: اتمنى ترحيل اي كائن غير سعودي من البلد
+  IOU: 1.00
+
+
+  Text ID: 338
+  Overall Category: full match and label mismatch
+  Text: عقبال ترحيل السوريين واليمنيين ويرجعون يعمرون اوطانهم ويخدمونها ويطورنها
+  IOU: 1.00
+
+
+  Text ID: 339
+  Overall Category: no match
+  Text: أوًلا سورية أبًا عن جد 
+ثانيًا فيه ملايين لكن باسم الزيارة والإقامة بدون لجوء 
+ثالثًا قرارنا أمس بسبب اللاجئين تحت غطاء الزيارة والإقامة ماطلع من غير سبب . 
+إنكار وجود ملايين السوريين في السعودية ضرب من الجنون ويحتاج ترحيل وليس علاج
+  IOU: 0.00
+
+
+  Text ID: 340
+  Overall Category: no match
+  Text: وكأنهم يقولون انت يا أبن الوطن 
+اقسم بالله انا نعيشك في ضيق 
+ماهذا التعاون والتكاتف بينهم
+اسواق الخضار والفواكه اجانب 
+الذهب اجانب التوصيل اجانب
+بعض الشركات توظفهم حراسات
+اقسم بالله الوضع بحاجة وقفه
+من جميع اجهزة ألدولة في ترحيل
+٥٠٪ منهم او ٦٠٪ 
+يالربع قسم بالله امس في حلقة… Show more
+  IOU: 0.00
+
+
+  Text ID: 341
+  Overall Category: partial match and label mismatch
+  Text: انهبلووااا  مير ذولا صلعوا عيني عينك  بكل وقاحه و يتكلمون كأنهم في بلدهم !!؟؟ من سمح له و كيف يطلع في بث مدري تصوير و كذا علني و ببجاحه يتكلم  لكن الحمدلله كلنا ثقة و أمل في حكومتنا الرشيدة تنظيف البلد و ترحيل هالاشكال منها ياالله يارب عاجلا غير آجل
+  IOU: 0.71
+
+
+  Text ID: 342
+  Overall Category: full match and label match
+  Text: ما فيش ترحيل للاخوان اخوان   سوريا ضموا علي اخوان مصر  رشيد رضا ضم علي محمد عبده ممكن نقرأ تاريخ وهنعرف اللعبة اللي لبستها مصر والريس عارف
+  IOU: 1.00
+
+
+  Text ID: 343
+  Overall Category: partial match and label mismatch
+  Text: المفروض ترحيل كل الأجانب من السعودية عشان يعرفون قيمة النعمة اللي سمحنا لهم يعيشون فيها بيننا 
+
+خلوهم يرجعون بلدانهم أفضل لهم ولنا عشان مانشوف عينات العفن إللي في المقطع
+  IOU: 0.75
+
+
+  Text ID: 344
+  Overall Category: partial match and label mismatch
+  Text: الحين كل مغربيه مصاحبه لها عشره هنا راح تبدأ تفرزهم وتختار تيس منهم للتزواج عشان ماتترحل 
+خطه بديله
+والتيس طبعا مايدري انه بقرنين 
+#ترحيل_المغربيات_مطلب2
+  IOU: 0.93
+
+
+  Text ID: 345
+  Overall Category: partial match and label mismatch
+  Text: الاسد و نظامه سفاحين
+ولكن من قال ان المعارضين للأسد افضل منه او اقل اجراماً؟
+
+رأينا اجرامهم بحق الجيش اللبناني في عرسال
+وإجرامهم في سوريا نفسها حيث شكلوا فصائل ضاهت بإرتكاباتها افعال النظام وشبيحته
+
+لا يعنيني من صراع السوريين بين بعضهم سوى ان يكون لبنان خالياً من النازحين
+#ترحيل
+  IOU: 0.37
+
+
+  Text ID: 346
+  Overall Category: full match and label mismatch
+  Text: احنا السعوديات طيبات وعلى نياتنا ولو تسال كثير سعوديات صديقاتهم مغربيات من سنين طلعنا على نياتنا بس الان راح يتربو اما المحترمات عالعين والراس #ترحيل_المغربيات_مطلب
+  IOU: 1.00
+
+
+  Text ID: 347
+  Overall Category: partial match and label mismatch
+  Text: لا وع مانبي مصاريه واتمنى ترحيل الموجودين بعد
+  IOU: 0.64
+
+
+  Text ID: 348
+  Overall Category: full match and label mismatch
+  Text: سوريا آمنة وهم في زيارات مستمرة اليها ولكنهم يعودون الى بلدان اللجوء طمعاً بالمساعدات السخية من الدول او الامم المتحدة
+
+#لا_للدمج
+#لا_للتوطين
+#ترحيل #النازحين_السوريين
+  IOU: 1.00
+
+
+Batch 5:
+Precision for Exclusive/Discriminatory Discourse: 0.9666666666666667
+Precision for Exaggeration; Generalization; Attribution; Distortion: 0.9487179487179487
+Precision for Threat of Enmity; War; Attack; Murder; or Harm: 0.24390243902439024
+Precision for Symbolization: 0.0
+Precision for Swearing; Insult; Defamation; Dehumanization: 0.9649122807017544
+Precision for Unannotated: 0.7269736842105263
+Recall for Exclusive/Discriminatory Discourse: 0.16201117318435754
+Recall for Exaggeration; Generalization; Attribution; Distortion: 0.4134078212290503
+Recall for Threat of Enmity; War; Attack; Murder; or Harm: 0.8333333333333334
+Recall for Symbolization: 0.0
+Recall for Swearing; Insult; Defamation; Dehumanization: 0.632183908045977
+Recall for Unannotated: 0.9954954954954955
+Category Statistics:
+  full match and label match: 5 (11.63%)
+  full match and label mismatch: 15 (34.88%)
+  partial match and label match: 6 (13.95%)
+  partial match and label mismatch: 14 (32.56%)
+  no match: 3 (6.98%)
+
+Detailed Matches:
+
+  Text ID: 399
+  Overall Category: full match and label mismatch
+  Text: يا ريت يتعمل حمله توقيع للمصريين علي الموافقه علي ترحيل اللاجئيين من مصر
+  IOU: 1.00
+
+
+  Text ID: 400
+  Overall Category: full match and label mismatch
+  Text: عقبال ترحيل السوريين من مصر وجودهم خطر و ظلم للمصريين
+  IOU: 1.00
+
+
+  Text ID: 401
+  Overall Category: partial match and label mismatch
+  Text: وتجي السنغوليه تقارن حالها فينا  طبعا محد يعترف بهالشي الا الواثقات بنفسهم مو السنغوليات 
+@karizma14195583
+ #ترحيل_المغربيات_مطلب_امني #ترحيل_المغربيات_مطلب2
+  IOU: 0.53
+
+
+  Text ID: 402
+  Overall Category: no match
+  Text: لا هذول كانوا جواسيس ومنعا للمصائب تم ترحيل الكل
+  IOU: 0.00
+
+
+  Text ID: 403
+  Overall Category: full match and label mismatch
+  Text: اول خطوة ترحيل كل شمالي من الجنوب
+  IOU: 1.00
+
+
+  Text ID: 404
+  Overall Category: no match
+  Text: صح عليك اخوي ليث الادارات ترحيل والكيان ثابت 
+  IOU: 0.00
+
+
+  Text ID: 405
+  Overall Category: partial match and label mismatch
+  Text: الحمدلله الذي عافانا مما ابتلاهم به 
+#ترحيل_المغربيات_مطلب2 
+#متنكرين_كالسعوديين27  
+  IOU: 0.56
+
+
+  Text ID: 406
+  Overall Category: partial match and label mismatch
+  Text: أسأل الخليجيين وذانيال الاسباني والسائح البلجيكي فليب سرفاتي الاب الشرعي لكل المغاربة معروفين ومشهوريين عند الخليجيين والهلوندين والاطاليين حتى في اندونيسيا وتركيا بانكوك العرب تعرف هذا التريند عند السعودين #ترحيل_المغربيات_مطلب بوس وركاع وأنتظر أختك ترجع من حقول الفراولة حامل
+  IOU: 0.73
+
+
+  Text ID: 407
+  Overall Category: full match and label mismatch
+  Text: اطلب ولي  محمد بن سلمان ب ترحيل البورما والفلسطينيه  واي واحد عليه قضيه نصب ماليه  او مخدرات
+  IOU: 1.00
+
+
+  Text ID: 408
+  Overall Category: full match and label match
+  Text: المصريين يعملو استفتاء كبير ضد قانون التجنيس الجديد و ترحيل اللاجئيين  والله و نوصله و نعرفهم ان معدش مرحب بيهم
+  IOU: 1.00
+
+
+  Text ID: 409
+  Overall Category: full match and label mismatch
+  Text: كل الاحانب صارو غثاا عندنا كلهم كلهم يبغالهم ترحيل على بلادهم ما نبغا نشوف ولا اجنبي عندنا
+  IOU: 1.00
+
+
+  Text ID: 410
+  Overall Category: full match and label mismatch
+  Text: #ترحيل_زريعة_بوسبير_من_ارض_الشهداء  نريد تطهير بلادنا من نجاستهم
+  IOU: 1.00
+
+
+  Text ID: 411
+  Overall Category: full match and label mismatch
+  Text: عطاهم العلم الصحيح
+
+
+بدون مجاملة دبلوماسيه
+ولا لغة الخشب
+
+#ترحيل_المغربيات_مطلب 
+#ترحيل_المغربيات_مطلب2
+  IOU: 1.00
+
+
+  Text ID: 412
+  Overall Category: full match and label mismatch
+  Text: 80% السوريين اللى فى مصر محتاجين يتربو فى القسم و يترحلو على بلدهم
+و ال20% تترفع عليهم الإقامات ل 3000دولار فى السنة و اللى مش عاجبة سوريا بلده اولى بيه 
+#ارجع_يا_سوري_ابنى_بلدك 
+#ترحيل_السوريين
+  IOU: 1.00
+
+
+  Text ID: 413
+  Overall Category: full match and label mismatch
+  Text: نتمنى ترحيل السوريين في اقرب وقت لكي يبني وطنة لان ثورتهم كانت كلها سربته اشعلها الاخونج وركبوها وتاجروا بها
+  IOU: 1.00
+
+
+  Text ID: 414
+  Overall Category: partial match and label match
+  Text: لازم فرض التأشيرة و ترحيل العمال الغير شرعيين ماشي ياكلو الغلة و يسبو الملة بني مركع
+  IOU: 0.86
+
+
+  Text ID: 415
+  Overall Category: full match and label mismatch
+  Text: ياليت بلدك الديوث العاهر في ربع شرف السعودية وهي تقضي ع هذي الأشكال #ترحيل_المغربيات_مطلب
+  IOU: 1.00
+
+
+  Text ID: 416
+  Overall Category: full match and label mismatch
+  Text: بعون الله
+بعد القمه العربيه
+سيبدأ نهايه ازمه سوريا  والعراق
+واليمن ولبنان لانها قضايا متشابكه فيها عامل مشترك مزدوج(تركيا/ايران)
+وسوف يتم رأب هذا الصدع
+[[[وبعد ثلاث سنوات من الان
+سيبدأ ترحيل خليني اقول(الضيوف)من مصر]]]
+  IOU: 1.00
+
+
+  Text ID: 417
+  Overall Category: full match and label mismatch
+  Text: في الطريق الصحيح الى ان يتم ترحيل هؤلاء الوافدين بعد اتخاذ وتنفيذ عقوبات صارمة تجاههم واحلال العماني ووضع كاميرات مراقبة
+  IOU: 1.00
+
+
+  Text ID: 418
+  Overall Category: partial match and label match
+  Text: هذا اغلب تحريضه لمواليد السعوديه واغلب الي يدعمه المواليد وان شاء الله جميعهم ترحيل مع رْق الحمامه
+  IOU: 0.60
+
+
+  Text ID: 419
+  Overall Category: no match
+  Text: مافيه ترحيل للسوريين بالقوة لـ #سوريا . اي واحد يحصل دوله اخرى تقبله سيسُمح له بالسفر إليها كما حصل مع اللاجئيين العراقيين في رفحاء . 1991 - 2003 .
+ إذا لم يجد يرجع لوطنه مع ضمانات دولية .
+  IOU: 0.00
+
+
+  Text ID: 420
+  Overall Category: full match and label match
+  Text: مهم رايحين صاحي انت الشركات اللي يدعمونها ورواتبهم ودراستهم كلها هنا لكن نقول ان شاء الله ترحيل اجباري هههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههه
+  IOU: 1.00
+
+
+  Text ID: 421
+  Overall Category: full match and label match
+  Text: #مشكاتي_تحبك
+#السيارات_المستعملة
+#ترحيل_المغربيات_مطلب
+#ترحيل_المغربيات_مطلب2
+ويجيك حمار يقولك تزوج مخربيه
+  IOU: 1.00
+
+
+  Text ID: 422
+  Overall Category: full match and label match
+  Text: ومين قال النساء انا اقو للعموم ترحيل أمرك عجيب
+  IOU: 1.00
+
+
+  Text ID: 423
+  Overall Category: partial match and label match
+  Text: طبيعي ياحمار هم طايحات بحركه نتزوج كم واحد بنفس الوقت وحتى لو ماكانت متزوجه غيرك قبلها كم علاقه دخلت اذا ولد بلدها هارب منها ويسميها محترفات الدوري الخليجي وانت تلمها؟ #ترحيل_المغربيات_مطلب
+  IOU: 0.35
+
+
+  Text ID: 424
+  Overall Category: partial match and label mismatch
+  Text: لا انا ماروح عند مخربيات
+اخاف اذا قصقصت اظافري تاخذها وتسحرني 
+#ترحيل_المغربيات_مطلب 
+#ترحيل_المغربيات_مطلب_امني
+  IOU: 0.69
+
+
+  Text ID: 425
+  Overall Category: full match and label mismatch
+  Text: البوسبيري شكام بطبعه  المهم السعودي يقولك سير خذ اختك العاهرة ام الفطريات من عندنا  #ترحيل_المغربيات_مطلب
+  IOU: 1.00
+
+
+  Text ID: 426
+  Overall Category: partial match and label mismatch
+  Text: friday in algeria 
+ من بين عادات الجزائريين يوم الجمعة التي تأبى الاندثار 
+لمة العائلة عند بيت الجد و الجدة ...الحمام ..الكسكسي الجزائري الاصيل بالمرقة ..
+#الجزائر #ترحيل_المغربيات_مطلب #المغرب_يسرق_تراث_الجزائر #جمعة_مباركة
+  IOU: 0.46
+
+
+  Text ID: 427
+  Overall Category: partial match and label match
+  Text: لو بس يتم ترحيل الوافدين وأحلالهم بالمواطنيين الباحثين والمسرحيين من العمل أحنا في خير... العماله الوافده ومنها المصريه الهنديه مسيطره على الأعمال..
+  IOU: 0.80
+
+
+  Text ID: 428
+  Overall Category: partial match and label mismatch
+  Text: الجنسية اليمنية
+أكثر جنسية تم ضبطها
+في الحملة المباركة للقضاء
+على المخدرات
+حيث تم حتى الآن
+ القبض على ١٦٣ يمني
+وبذلك يتضح أهمية ترحيل هذه الجنسية وان ترحيلهم بات
+مطلب أمن وطني
+  IOU: 0.86
+
+
+  Text ID: 429
+  Overall Category: partial match and label mismatch
+  Text: #ترحيل_المغربيات_مطلب 
+شوقي لهاذ، الهاشتاق  الخليجي
+ههه 
+تبهديلة 
+  IOU: 0.72
+
+
+  Text ID: 430
+  Overall Category: partial match and label mismatch
+  Text: دخولهم الى دولنا خطير بسبب 
+اعمال السحر والشعوذه والدعارة وتنكرهم كا سعوديين في السوشل ميديا وهم ورا حسابات النسويه والذكوريه ينشرون الفتن بينا خدام الماسونيه وصهيونية 
+#ترحيل_المغربيات_مطلب2
+  IOU: 0.70
+
+
+  Text ID: 431
+  Overall Category: partial match and label mismatch
+  Text: يا نور عيوني #نازحين 
+مغارة علي بابا بتعبي جيوبهم بحجة توزيع المساعدات المالية على النازحين السوريين 
+باب  شحادة يعني…
+  IOU: 0.90
+
+
+  Text ID: 432
+  Overall Category: partial match and label mismatch
+  Text: بظبط، ترحيل ملايين اللاجئين من #مصر حيكون حافز كبير للمصريين إنهم يحددو النسل. لكن فتح البلد لملايين اللاجئين و كمان توطينهم و تجنيسهم و ياخدو مزايا و اعفائات ف قطاعات مختلفة ده استفزاز مش حل.
+#ضد_توطين_وتجنيس_اللاجئين
+#مصر_مش_تكية
+#مصر_للمصريين
+#اللاجئين_خراب_لمصر
+  IOU: 0.46
+
+
+  Text ID: 433
+  Overall Category: partial match and label mismatch
+  Text: مع ترحيل كل اللاجىين من لبنان والضغط على سوريا بالعفو العام تحت رعاية كل المنظمات والمفوضية 
+رحيلهم يخفف الكثير من الأعباء التي تحملها لبنان والشعب اللبناني زهقنا كل يوم جرائم متعددة ومخالفات وتزوير عملات ومخدرات فليرحلوا بسلام
+  IOU: 0.47
+
+
+  Text ID: 434
+  Overall Category: full match and label match
+  Text: وانت حضرتك فاكر انهم هيرجعوا بسهوله ولا بمزاجهم مستحيل مش هايرجعوا الا ترحيل وبالقوة الجبريه
+  IOU: 1.00
+
+
+  Text ID: 435
+  Overall Category: partial match and label match
+  Text: @samira12738339
+ 
+حشومةةةةة بلاد الفـfـضائــــــــــــح 
+#المغرب_مملكه_الثقوب 
+#المغرب_مملكة_التلوين 
+#المغرب_اضحوكة_العالم 
+#ترحيل_المغربيات_مطلب_امني https://twitter.com/bohmydi/status/1657868805429755904…
+  IOU: 0.22
+
+
+  Text ID: 436
+  Overall Category: partial match and label mismatch
+  Text: الرجال المغاربه المساكين طلعوا من طورهم بس جميل ان فيه رجال فعلا وينكرون الي يسوونه بنات بلدهم بارك الله بكل مغربي/ه شرفاء ينكرون هذي الافعال 
+ومعنى ام شنطة هي كلمه اطلقوها المغاربه عالمغربيه الي تعبر القارات للدعا^ره والبحث عن زوج 
+#ترحيل_المغربيات_مطلب #ترحيل_المغربيات_مطلب2
+  IOU: 0.54
+
+
+  Text ID: 437
+  Overall Category: full match and label mismatch
+  Text: انششششهد يستاهلون ترحيل خارج حياتنا
+  IOU: 1.00
+
+
+  Text ID: 438
+  Overall Category: partial match and label match
+  Text: لازم ترحيل اجبااااارى وتضخيم قيمة الاقامة بالدولار
+  IOU: 0.38
+
+
+  Text ID: 439
+  Overall Category: full match and label mismatch
+  Text: حنا بنسوي ماسمعتي كلام الامير فيصل بن فرحان ان شاء لله ترحيل كلهم
+  IOU: 1.00
+
+
+  Text ID: 440
+  Overall Category: partial match and label mismatch
+  Text: #ترحيل_اليمنيين_مطلب_امني_ووطني 
+حجم العماله  في السعودية 
+لاحظ عدد متخلفي الدحابشه أحفاد الاحباش اليمن التعيس   لاكثرهم الله ولا ابقاهم
+  IOU: 0.78
+
+
+  Text ID: 441
+  Overall Category: partial match and label mismatch
+  Text: نرحّب به ضيفًا على قيادتنا كغيره من القادة العرب، ونرجوه أن يطلب من مضيفيه الأجلاء #ترحيل_السوريين لإعمار بلادهم التي تضررت كثيرا من هجرة مواطنيها، ودمرتها الثورة المزعومة والحرب الطويلة بين الفصائل المختلفة.
+#قمة_جدة 
+ #بشار_الاسد
+  IOU: 0.22
+

@@ -16,11 +16,11 @@ load_dotenv()
 HF_TOKEN =  os.environ["HF_TOKEN"]
 WANDB_TOKEN = os.environ["WANDB_TOKEN"]
 
-df_all_anno = pd.read_csv(f'/users/hasan.seker/baseline/all_annotations.csv')
-df_gpt = pd.read_csv(f'/users/hasan.seker/baseline/gpt_anno.csv')
-df_full = pd.read_csv(f'/users/hasan.seker/baseline/full_match.csv')
+df_all_anno = pd.read_csv(f'../merged_annotations/all_annotations_tr.csv')
+df_gpt = pd.read_csv(f'../gpt_predictions/gpt_anno.csv')
+df_full = pd.read_csv(f'../matching_annotations/full_match.csv')
 
-df_not_spans = pd.read_csv(f'/users/hasan.seker/baseline/nonhateful_tweets_with_tags.csv')
+df_not_spans = pd.read_csv(f'../non_hateful/nonhateful_tweets_with_tags.csv')
 
 df_full['tokens'] = df_full['tokens'].apply(literal_eval)
 df_full['tags'] = df_full['tags'].apply(literal_eval)
