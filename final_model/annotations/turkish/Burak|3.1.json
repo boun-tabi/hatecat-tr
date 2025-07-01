@@ -1,0 +1,5202 @@
+[
+  {
+    "id": 534,
+    "annotations": [
+      {
+        "id": 5970,
+        "completed_by": 9,
+        "result": [],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-11-11T07:03:14.038393Z",
+        "updated_at": "2024-11-11T07:03:14.038424Z",
+        "draft_created_at": null,
+        "lead_time": 6.724,
+        "prediction": {
+          "id": 36240,
+          "result": [
+            {
+              "id": "5dff7e48-d9d4-45ff-975a-1fbbf18988e0",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 112,
+                "end": 127,
+                "score": 1,
+                "text": "#AksadaZulumVar",
+                "labels": ["Abartma, Genelleme, Yükleme, Çarpıtma"]
+              },
+              "error": null
+            }
+          ],
+          "model_version": "v1",
+          "created_ago": "2 weeks",
+          "score": 1.0,
+          "cluster": null,
+          "neighbors": null,
+          "mislabeling": 0.0,
+          "created_at": "2024-10-27T20:41:20.300846Z",
+          "updated_at": "2024-10-27T20:41:20.300875Z",
+          "model": null,
+          "model_run": null,
+          "task": 534,
+          "project": 703
+        },
+        "result_count": 0,
+        "unique_id": "ce87dc45-46cb-47c4-a9c6-f471fcbaee02",
+        "import_id": null,
+        "last_action": null,
+        "task": 534,
+        "project": 703,
+        "updated_by": 9,
+        "parent_prediction": 36240,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "drafts": [],
+    "predictions": [36240],
+    "data": {
+      "text": "Sırtını Allah’a dayamış MÜCAHİT yiğitlerin gülüşü!\nSizlerinde RAMAZAN BAYRAMINIZ\nMÜBAREK OLSUN.\n#RAMAZANBAYRAMI\n#AksadaZulumVar https://t.co/ANrGW7BriS",
+      "id": "1392738142134931458",
+      "target": "Hedef: Yahudi Karşıtı"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T20:41:20.292701Z",
+    "updated_at": "2024-11-11T07:03:14.113648Z",
+    "inner_id": 1,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 703,
+    "updated_by": 9,
+    "comment_authors": []
+  },
+  {
+    "id": 535,
+    "annotations": [
+      {
+        "id": 5971,
+        "completed_by": 9,
+        "result": [
+          {
+            "value": {
+              "start": 90,
+              "end": 96,
+              "text": "Ermeni",
+              "labels": ["Simgeleştirme"]
+            },
+            "id": "0d641a86-a916-47bd-9627-327d6f2dfd3a",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-11-11T07:03:26.908841Z",
+        "updated_at": "2024-11-11T07:03:26.908867Z",
+        "draft_created_at": null,
+        "lead_time": 11.519,
+        "prediction": {
+          "id": 36241,
+          "result": [
+            {
+              "id": "0d641a86-a916-47bd-9627-327d6f2dfd3a",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 90,
+                "end": 96,
+                "score": 1,
+                "text": "Ermeni",
+                "labels": ["Simgeleştirme"]
+              },
+              "error": null
+            },
+            {
+              "id": "87f4bcd0-5735-4eb4-a08d-1617be09ae55",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 111,
+                "end": 126,
+                "score": 1,
+                "text": "uşaklık edersin",
+                "labels": ["Küfür, Hakaret, Aşağılama, İnsandışılaştırma"]
+              },
+              "error": null
+            }
+          ],
+          "model_version": "v1",
+          "created_ago": "2 weeks",
+          "score": 1.0,
+          "cluster": null,
+          "neighbors": null,
+          "mislabeling": 0.0,
+          "created_at": "2024-10-27T20:41:20.300915Z",
+          "updated_at": "2024-10-27T20:41:20.300924Z",
+          "model": null,
+          "model_run": null,
+          "task": 535,
+          "project": 703
+        },
+        "result_count": 0,
+        "unique_id": "19d2106b-6e1d-4e8d-9e1d-2c976c5b5699",
+        "import_id": null,
+        "last_action": null,
+        "task": 535,
+        "project": 703,
+        "updated_by": 9,
+        "parent_prediction": 36241,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "drafts": [],
+    "predictions": [36241],
+    "data": {
+      "text": "@TC_KemalBildis @kilicdarogluk Mesala nasıl bir rejim provakatif Kemal Bildiş ; Yunan PKK Ermeni Rum gelse ona uşaklık edersin sen nasıl bir insansın…Cebini düşünen",
+      "id": "1658388496543777024",
+      "target": "Hedef: Ermeni Karşıtı"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T20:41:20.292771Z",
+    "updated_at": "2024-11-11T07:03:26.946576Z",
+    "inner_id": 2,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 703,
+    "updated_by": 9,
+    "comment_authors": []
+  },
+  {
+    "id": 536,
+    "annotations": [
+      {
+        "id": 5972,
+        "completed_by": 9,
+        "result": [
+          {
+            "value": {
+              "start": 26,
+              "end": 38,
+              "text": "#Katilİsrail",
+              "labels": ["Küfür, Hakaret, Aşağılama, İnsandışılaştırma"]
+            },
+            "id": "c6a226fd-e2b9-49f9-97b5-16cdab5a1618",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-11-11T07:03:32.227671Z",
+        "updated_at": "2024-11-11T07:03:32.227701Z",
+        "draft_created_at": null,
+        "lead_time": 2.332,
+        "prediction": {
+          "id": 36242,
+          "result": [
+            {
+              "id": "c6a226fd-e2b9-49f9-97b5-16cdab5a1618",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 26,
+                "end": 38,
+                "score": 1,
+                "text": "#Katilİsrail",
+                "labels": ["Küfür, Hakaret, Aşağılama, İnsandışılaştırma"]
+              },
+              "error": null
+            }
+          ],
+          "model_version": "v1",
+          "created_ago": "2 weeks",
+          "score": 1.0,
+          "cluster": null,
+          "neighbors": null,
+          "mislabeling": 0.0,
+          "created_at": "2024-10-27T20:41:20.300967Z",
+          "updated_at": "2024-10-27T20:41:20.300975Z",
+          "model": null,
+          "model_run": null,
+          "task": 536,
+          "project": 703
+        },
+        "result_count": 0,
+        "unique_id": "0bfddea6-3dd3-4ea8-b332-92319721044e",
+        "import_id": null,
+        "last_action": null,
+        "task": 536,
+        "project": 703,
+        "updated_by": 9,
+        "parent_prediction": 36242,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "drafts": [],
+    "predictions": [36242],
+    "data": {
+      "text": "Kudüs ilelebet İslamındır\n#Katilİsrail\n#RAMAZANBAYRAMI\n#GazaUnderAttack\n#AksadaZulumVar https://t.co/6VizIEe4yV",
+      "id": "1392834845508882432",
+      "target": "Hedef: Yahudi Karşıtı"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T20:41:20.292812Z",
+    "updated_at": "2024-11-11T07:03:32.280452Z",
+    "inner_id": 3,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 703,
+    "updated_by": 9,
+    "comment_authors": []
+  },
+  {
+    "id": 537,
+    "annotations": [
+      {
+        "id": 5973,
+        "completed_by": 9,
+        "result": [
+          {
+            "value": {
+              "start": 17,
+              "end": 29,
+              "text": "Yunan tohumu",
+              "labels": ["Simgeleştirme"]
+            },
+            "id": "zocoFPSaEU",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 30,
+              "end": 50,
+              "text": "kaçarken unuttukları",
+              "labels": ["Simgeleştirme"]
+            },
+            "id": "DNvJTYYQGm",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-11-11T07:03:54.036515Z",
+        "updated_at": "2024-11-11T07:03:54.036543Z",
+        "draft_created_at": "2024-11-11T07:03:41.245323Z",
+        "lead_time": 20.499,
+        "prediction": {
+          "id": 36243,
+          "result": [
+            {
+              "id": "1fb251a2-1d87-46f8-ae03-be7ecc95c855",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 17,
+                "end": 29,
+                "score": 1,
+                "text": "Yunan tohumu",
+                "labels": ["Abartma, Genelleme, Yükleme, Çarpıtma"]
+              },
+              "error": null
+            },
+            {
+              "id": "01891eeb-da52-4f17-a7d8-0cf409a79eca",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 51,
+                "end": 57,
+                "score": 1,
+                "text": "piçler",
+                "labels": ["Küfür, Hakaret, Aşağılama, İnsandışılaştırma"]
+              },
+              "error": null
+            }
+          ],
+          "model_version": "v1",
+          "created_ago": "2 weeks",
+          "score": 1.0,
+          "cluster": null,
+          "neighbors": null,
+          "mislabeling": 0.0,
+          "created_at": "2024-10-27T20:41:20.301007Z",
+          "updated_at": "2024-10-27T20:41:20.301015Z",
+          "model": null,
+          "model_run": null,
+          "task": 537,
+          "project": 703
+        },
+        "result_count": 0,
+        "unique_id": "000a686c-a20e-44ff-b2bf-362ac43b7ebf",
+        "import_id": null,
+        "last_action": null,
+        "task": 537,
+        "project": 703,
+        "updated_by": 9,
+        "parent_prediction": 36243,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "drafts": [],
+    "predictions": [36243],
+    "data": {
+      "text": "@username Bunlar Yunan tohumu kaçarken unuttukları piçler",
+      "id": "1568997120140623872",
+      "target": "Hedef: Yunan Karşıtı"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T20:41:20.292849Z",
+    "updated_at": "2024-11-11T07:03:54.077475Z",
+    "inner_id": 4,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 703,
+    "updated_by": 9,
+    "comment_authors": []
+  },
+  {
+    "id": 538,
+    "annotations": [
+      {
+        "id": 5974,
+        "completed_by": 9,
+        "result": [
+          {
+            "value": {
+              "start": 182,
+              "end": 203,
+              "text": "eğitimsiz sünni halka",
+              "labels": ["Küfür, Hakaret, Aşağılama, İnsandışılaştırma"]
+            },
+            "id": "U0197g9GT1",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 15,
+              "end": 58,
+              "text": "Bir aleviyi alevi olduğu için seçilmediğine",
+              "labels": ["Dışlama; Ayrımcı Söylem"]
+            },
+            "id": "K0D8zjd7Oj",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-11-11T07:04:39.063137Z",
+        "updated_at": "2024-11-11T07:04:39.063164Z",
+        "draft_created_at": "2024-11-11T07:04:31.605767Z",
+        "lead_time": 43.728,
+        "prediction": {
+          "id": 36244,
+          "result": [
+            {
+              "id": "7ca7470e-af86-49ed-a4a0-001efd1ab027",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 182,
+                "end": 242,
+                "score": 1,
+                "text": "eğitimsiz sünni halka zorla kendini dayatırsan olacak budur!",
+                "labels": ["Dışlama; Ayrımcı Söylem"]
+              },
+              "error": null
+            },
+            {
+              "id": "fb0299d6-c502-403b-88ca-3be810ad7d9f",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 113,
+                "end": 147,
+                "score": 1,
+                "text": "Karşında böyle masaya vurup durur.",
+                "labels": ["Abartma, Genelleme, Yükleme, Çarpıtma"]
+              },
+              "error": null
+            }
+          ],
+          "model_version": "v1",
+          "created_ago": "2 weeks",
+          "score": 1.0,
+          "cluster": null,
+          "neighbors": null,
+          "mislabeling": 0.0,
+          "created_at": "2024-10-27T20:41:20.301046Z",
+          "updated_at": "2024-10-27T20:41:20.301054Z",
+          "model": null,
+          "model_run": null,
+          "task": 538,
+          "project": 703
+        },
+        "result_count": 0,
+        "unique_id": "09a9b02f-87da-49cc-a190-8bee7e087de7",
+        "import_id": null,
+        "last_action": null,
+        "task": 538,
+        "project": 703,
+        "updated_by": 9,
+        "parent_prediction": 36244,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "drafts": [],
+    "predictions": [36244],
+    "data": {
+      "text": "@kilicdarogluk Bir aleviyi alevi olduğu için seçilmediğine faşist damgası yemeden nasıl ikna edersin? Edemezsin. Karşında böyle masaya vurup durur. Elinde garantili tercihler varken eğitimsiz sünni halka zorla kendini dayatırsan olacak budur!",
+      "id": "1658180767216721920",
+      "target": "Hedef: Alevi Karşıtı"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T20:41:20.292886Z",
+    "updated_at": "2024-11-11T07:04:39.120938Z",
+    "inner_id": 5,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 703,
+    "updated_by": 9,
+    "comment_authors": []
+  },
+  {
+    "id": 539,
+    "annotations": [
+      {
+        "id": 5975,
+        "completed_by": 9,
+        "result": [
+          {
+            "value": {
+              "start": 55,
+              "end": 80,
+              "text": "işgalci israil kuvvetleri",
+              "labels": ["Küfür, Hakaret, Aşağılama, İnsandışılaştırma"]
+            },
+            "id": "1b7cfd6e-b7ea-4ca6-bd4f-8c53df486a3f",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 147,
+              "end": 159,
+              "text": "#Katilİsrail",
+              "labels": ["Küfür, Hakaret, Aşağılama, İnsandışılaştırma"]
+            },
+            "id": "dece35ac-9554-4849-b695-70b0628fc538",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-11-11T07:04:56.459922Z",
+        "updated_at": "2024-11-11T07:04:56.459951Z",
+        "draft_created_at": null,
+        "lead_time": 14.495,
+        "prediction": {
+          "id": 36245,
+          "result": [
+            {
+              "id": "1b7cfd6e-b7ea-4ca6-bd4f-8c53df486a3f",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 55,
+                "end": 80,
+                "score": 1,
+                "text": "işgalci israil kuvvetleri",
+                "labels": ["Küfür, Hakaret, Aşağılama, İnsandışılaştırma"]
+              },
+              "error": null
+            },
+            {
+              "id": "dece35ac-9554-4849-b695-70b0628fc538",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 147,
+                "end": 159,
+                "score": 1,
+                "text": "#Katilİsrail",
+                "labels": ["Küfür, Hakaret, Aşağılama, İnsandışılaştırma"]
+              },
+              "error": null
+            }
+          ],
+          "model_version": "v1",
+          "created_ago": "2 weeks",
+          "score": 1.0,
+          "cluster": null,
+          "neighbors": null,
+          "mislabeling": 0.0,
+          "created_at": "2024-10-27T20:41:20.301084Z",
+          "updated_at": "2024-10-27T20:41:20.301091Z",
+          "model": null,
+          "model_run": null,
+          "task": 539,
+          "project": 703
+        },
+        "result_count": 0,
+        "unique_id": "18b8f298-f778-4d38-88fa-083dad546191",
+        "import_id": null,
+        "last_action": null,
+        "task": 539,
+        "project": 703,
+        "updated_by": 9,
+        "parent_prediction": 36245,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "drafts": [],
+    "predictions": [36245],
+    "data": {
+      "text": "Meslektaşım @username Filistin muhabiri Şirin Ebu Akle işgalci israil kuvvetleri tarafından şehit düştü😢\nAllah rahmet eylesin mekanı cennet olsun.\n#Katilİsrail https://t.co/IOq27ZBpem",
+      "id": "1524276290223845376",
+      "target": "Hedef: Yahudi Karşıtı"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T20:41:20.292923Z",
+    "updated_at": "2024-11-11T07:04:56.523734Z",
+    "inner_id": 6,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 703,
+    "updated_by": 9,
+    "comment_authors": []
+  },
+  {
+    "id": 540,
+    "annotations": [
+      {
+        "id": 5976,
+        "completed_by": 9,
+        "result": [
+          {
+            "value": {
+              "start": 28,
+              "end": 145,
+              "text": "Yunanistan arasında herhangi  bir savaş durumunda Selanik’i 12 saatte Atina’yı ise 24 saat içinde kontrol altına alma",
+              "labels": ["Düşmanlık, Savaş, Saldırı, Öldürme, Yaralama Tehditi"]
+            },
+            "id": "9582d498-8968-48b9-a8dd-c8d3acad025b",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 170,
+              "end": 191,
+              "text": "Akıllı ol #yunanistan",
+              "labels": ["Düşmanlık, Savaş, Saldırı, Öldürme, Yaralama Tehditi"]
+            },
+            "id": "c4c105f7-e923-47b2-8ccf-4c3c520ec8b1",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-11-11T07:05:02.089604Z",
+        "updated_at": "2024-11-11T07:05:02.089632Z",
+        "draft_created_at": null,
+        "lead_time": 4.343,
+        "prediction": {
+          "id": 36246,
+          "result": [
+            {
+              "id": "9582d498-8968-48b9-a8dd-c8d3acad025b",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 28,
+                "end": 145,
+                "score": 1,
+                "text": "Yunanistan arasında herhangi  bir savaş durumunda Selanik’i 12 saatte Atina’yı ise 24 saat içinde kontrol altına alma",
+                "labels": [
+                  "Düşmanlık, Savaş, Saldırı, Öldürme, Yaralama Tehditi"
+                ]
+              },
+              "error": null
+            },
+            {
+              "id": "c4c105f7-e923-47b2-8ccf-4c3c520ec8b1",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 170,
+                "end": 191,
+                "score": 1,
+                "text": "Akıllı ol #yunanistan",
+                "labels": [
+                  "Düşmanlık, Savaş, Saldırı, Öldürme, Yaralama Tehditi"
+                ]
+              },
+              "error": null
+            }
+          ],
+          "model_version": "v1",
+          "created_ago": "2 weeks",
+          "score": 1.0,
+          "cluster": null,
+          "neighbors": null,
+          "mislabeling": 0.0,
+          "created_at": "2024-10-27T20:41:20.301123Z",
+          "updated_at": "2024-10-27T20:41:20.301130Z",
+          "model": null,
+          "model_run": null,
+          "task": 540,
+          "project": 703
+        },
+        "result_count": 0,
+        "unique_id": "5526066e-0c49-415f-94c9-5b16a4873db6",
+        "import_id": null,
+        "last_action": null,
+        "task": 540,
+        "project": 703,
+        "updated_by": 9,
+        "parent_prediction": 36246,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "drafts": [],
+    "predictions": [36246],
+    "data": {
+      "text": "Türk Silahlı Kuvvetleri ile Yunanistan arasında herhangi  bir savaş durumunda Selanik’i 12 saatte Atina’yı ise 24 saat içinde kontrol altına alma kabiliyetine sahiptir.! Akıllı ol #yunanistan",
+      "id": "1566134996963835904",
+      "target": "Hedef: Yunan Karşıtı"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T20:41:20.292979Z",
+    "updated_at": "2024-11-11T07:05:02.141541Z",
+    "inner_id": 7,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 703,
+    "updated_by": 9,
+    "comment_authors": []
+  },
+  {
+    "id": 541,
+    "annotations": [
+      {
+        "id": 5977,
+        "completed_by": 9,
+        "result": [
+          {
+            "value": {
+              "start": 111,
+              "end": 127,
+              "text": "Ebû Leheb ölmedi",
+              "labels": ["Simgeleştirme"]
+            },
+            "id": "c83180ac-39e6-496d-b234-749da441aa4f",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-11-11T07:05:17.544007Z",
+        "updated_at": "2024-11-11T07:05:17.544034Z",
+        "draft_created_at": null,
+        "lead_time": 13.911,
+        "prediction": {
+          "id": 36247,
+          "result": [
+            {
+              "id": "c83180ac-39e6-496d-b234-749da441aa4f",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 111,
+                "end": 127,
+                "score": 1,
+                "text": "Ebû Leheb ölmedi",
+                "labels": ["Simgeleştirme"]
+              },
+              "error": null
+            }
+          ],
+          "model_version": "v1",
+          "created_ago": "2 weeks",
+          "score": 1.0,
+          "cluster": null,
+          "neighbors": null,
+          "mislabeling": 0.0,
+          "created_at": "2024-10-27T20:41:20.301154Z",
+          "updated_at": "2024-10-27T20:41:20.301161Z",
+          "model": null,
+          "model_run": null,
+          "task": 541,
+          "project": 703
+        },
+        "result_count": 0,
+        "unique_id": "03cd7bf3-de66-4a66-adcd-555637e972d6",
+        "import_id": null,
+        "last_action": null,
+        "task": 541,
+        "project": 703,
+        "updated_by": 9,
+        "parent_prediction": 36247,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "drafts": [],
+    "predictions": [36247],
+    "data": {
+      "text": "Yeryüzünde riyâ, inkâr, hıyanet\nAltın devrini yaşıyor...\nDiller, sayfalar, satırlar\n“Ebu Leheb öldü” diyorlar.\nEbû Leheb ölmedi, yâ Muhammed\nEbû Cehil kıt’alar dolaşıyor!\n\n#GazzeDireniyor #MescidiAksa \n#KuduseBayramGelsin \n#hayirlicumalar",
+      "id": "1393111373513637889",
+      "target": "Hedef: Yahudi Karşıtı"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T20:41:20.293023Z",
+    "updated_at": "2024-11-11T07:05:17.586100Z",
+    "inner_id": 8,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 703,
+    "updated_by": 9,
+    "comment_authors": []
+  },
+  {
+    "id": 542,
+    "annotations": [
+      {
+        "id": 5978,
+        "completed_by": 9,
+        "result": [],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-11-11T07:05:51.137752Z",
+        "updated_at": "2024-11-11T07:05:51.137865Z",
+        "draft_created_at": null,
+        "lead_time": 32.287,
+        "prediction": {
+          "id": 36248,
+          "result": [
+            {
+              "id": "7e76b382-a644-4b5e-9089-b699762fe6dd",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 42,
+                "end": 70,
+                "score": 1,
+                "text": "sakat kelime ‘Alevi ve Kürt’",
+                "labels": ["Küfür, Hakaret, Aşağılama, İnsandışılaştırma"]
+              },
+              "error": null
+            }
+          ],
+          "model_version": "v1",
+          "created_ago": "2 weeks",
+          "score": 1.0,
+          "cluster": null,
+          "neighbors": null,
+          "mislabeling": 0.0,
+          "created_at": "2024-10-27T20:41:20.301186Z",
+          "updated_at": "2024-10-27T20:41:20.301193Z",
+          "model": null,
+          "model_run": null,
+          "task": 542,
+          "project": 703
+        },
+        "result_count": 0,
+        "unique_id": "f324af8d-ec7b-4089-b63d-fc5556fe43a8",
+        "import_id": null,
+        "last_action": null,
+        "task": 542,
+        "project": 703,
+        "updated_by": 9,
+        "parent_prediction": 36248,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "drafts": [],
+    "predictions": [36248],
+    "data": {
+      "text": "@kemalistharika O kadar haklısınız ki iki sakat kelime ‘Alevi ve Kürt’ , @kilicdarogluk Ayasofya’yıda ziyaret edebilirdi ama yapmadı dini kullanmadı. Eğer Kılıçdaroğlu Doğru bir adam olmasa Alevi olduğunu açıklamazdı , bu bile bizim için yeterlidir.  Bende Kürdüm , bunu ben mi seçtim ? El insaf",
+      "id": "1658332651126758912",
+      "target": "Hedef: Alevi Karşıtı"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T20:41:20.293060Z",
+    "updated_at": "2024-11-11T07:05:51.184153Z",
+    "inner_id": 9,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 703,
+    "updated_by": 9,
+    "comment_authors": []
+  },
+  {
+    "id": 543,
+    "annotations": [
+      {
+        "id": 5979,
+        "completed_by": 9,
+        "result": [
+          {
+            "value": {
+              "start": 37,
+              "end": 56,
+              "text": "bu Ermeni soylarına",
+              "labels": ["Simgeleştirme"]
+            },
+            "id": "FhSYSBs_9G",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-11-11T07:06:01.354961Z",
+        "updated_at": "2024-11-11T07:06:01.354989Z",
+        "draft_created_at": null,
+        "lead_time": 8.521,
+        "prediction": {
+          "id": 36249,
+          "result": [
+            {
+              "id": "6550590a-67db-44f8-ae41-bea45f5baa9f",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 40,
+                "end": 56,
+                "score": 1,
+                "text": "Ermeni soylarına",
+                "labels": ["Küfür, Hakaret, Aşağılama, İnsandışılaştırma"]
+              },
+              "error": null
+            }
+          ],
+          "model_version": "v1",
+          "created_ago": "2 weeks",
+          "score": 1.0,
+          "cluster": null,
+          "neighbors": null,
+          "mislabeling": 0.0,
+          "created_at": "2024-10-27T20:41:20.301217Z",
+          "updated_at": "2024-10-27T20:41:20.301224Z",
+          "model": null,
+          "model_run": null,
+          "task": 543,
+          "project": 703
+        },
+        "result_count": 0,
+        "unique_id": "f6e1a418-deb5-4c84-bfd3-48439fe68514",
+        "import_id": null,
+        "last_action": null,
+        "task": 543,
+        "project": 703,
+        "updated_by": 9,
+        "parent_prediction": 36249,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "drafts": [],
+    "predictions": [36249],
+    "data": {
+      "text": "@iyiparti \nbu nasıl bir ülkücülüktür bu Ermeni soylarına bu PKK lı piçlere nasıl oy veriyorsunuz.\nHadi gözünüz kör kulaklarınız da mı duymuyor.\nYazıklar olsun. https://t.co/3RFMkjPf0G",
+      "id": "1658242720530416128",
+      "target": "Hedef: Ermeni Karşıtı"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T20:41:20.293096Z",
+    "updated_at": "2024-11-11T07:06:01.404707Z",
+    "inner_id": 10,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 703,
+    "updated_by": 9,
+    "comment_authors": []
+  },
+  {
+    "id": 544,
+    "annotations": [
+      {
+        "id": 5980,
+        "completed_by": 9,
+        "result": [
+          {
+            "value": {
+              "start": 33,
+              "end": 54,
+              "text": "#ŞakamızYokYunanistan",
+              "labels": ["Düşmanlık, Savaş, Saldırı, Öldürme, Yaralama Tehditi"]
+            },
+            "id": "3e231691-0fb2-42a7-85dc-18dd8494539d",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 55,
+              "end": 74,
+              "text": "ANSIZIN GELEBİLİRİZ",
+              "labels": ["Düşmanlık, Savaş, Saldırı, Öldürme, Yaralama Tehditi"]
+            },
+            "id": "548a2d1e-99de-4986-9a42-adf5471b1088",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-11-11T07:06:06.568032Z",
+        "updated_at": "2024-11-11T07:06:06.568064Z",
+        "draft_created_at": null,
+        "lead_time": 2.801,
+        "prediction": {
+          "id": 36250,
+          "result": [
+            {
+              "id": "3e231691-0fb2-42a7-85dc-18dd8494539d",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 33,
+                "end": 54,
+                "score": 1,
+                "text": "#ŞakamızYokYunanistan",
+                "labels": [
+                  "Düşmanlık, Savaş, Saldırı, Öldürme, Yaralama Tehditi"
+                ]
+              },
+              "error": null
+            },
+            {
+              "id": "548a2d1e-99de-4986-9a42-adf5471b1088",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 55,
+                "end": 74,
+                "score": 1,
+                "text": "ANSIZIN GELEBİLİRİZ",
+                "labels": [
+                  "Düşmanlık, Savaş, Saldırı, Öldürme, Yaralama Tehditi"
+                ]
+              },
+              "error": null
+            }
+          ],
+          "model_version": "v1",
+          "created_ago": "2 weeks",
+          "score": 1.0,
+          "cluster": null,
+          "neighbors": null,
+          "mislabeling": 0.0,
+          "created_at": "2024-10-27T20:41:20.301253Z",
+          "updated_at": "2024-10-27T20:41:20.301260Z",
+          "model": null,
+          "model_run": null,
+          "task": 544,
+          "project": 703
+        },
+        "result_count": 0,
+        "unique_id": "9ddab4ce-0195-4b27-a7ae-42dae7721e84",
+        "import_id": null,
+        "last_action": null,
+        "task": 544,
+        "project": 703,
+        "updated_by": 9,
+        "parent_prediction": 36250,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "drafts": [],
+    "predictions": [36250],
+    "data": {
+      "text": "@semtinmukaddesi YANINDAYIZ REİS\n#ŞakamızYokYunanistan\nANSIZIN GELEBİLİRİZ",
+      "id": "1534968635160154127",
+      "target": "Hedef: Yunan Karşıtı"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T20:41:20.293131Z",
+    "updated_at": "2024-11-11T07:06:06.612979Z",
+    "inner_id": 11,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 703,
+    "updated_by": 9,
+    "comment_authors": []
+  },
+  {
+    "id": 545,
+    "annotations": [
+      {
+        "id": 5981,
+        "completed_by": 9,
+        "result": [
+          {
+            "value": {
+              "start": 0,
+              "end": 16,
+              "text": "Çocuk katilleri!",
+              "labels": ["Küfür, Hakaret, Aşağılama, İnsandışılaştırma"]
+            },
+            "id": "e82de9e3-6e91-4cd5-be82-e83dd6184a0a",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 32,
+              "end": 76,
+              "text": "Çöllere düşün son kez ve bir daha çıkamayın.",
+              "labels": ["Düşmanlık, Savaş, Saldırı, Öldürme, Yaralama Tehditi"]
+            },
+            "id": "11cee482-b67f-40de-abcf-f589b2e50466",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 17,
+              "end": 31,
+              "text": "Lanetli kavim!",
+              "labels": ["Küfür, Hakaret, Aşağılama, İnsandışılaştırma"]
+            },
+            "id": "I-jS9536eH",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-11-11T07:06:21.279052Z",
+        "updated_at": "2024-11-11T07:06:21.279083Z",
+        "draft_created_at": "2024-11-11T07:06:18.852480Z",
+        "lead_time": 13.247,
+        "prediction": {
+          "id": 36251,
+          "result": [
+            {
+              "id": "e82de9e3-6e91-4cd5-be82-e83dd6184a0a",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 0,
+                "end": 16,
+                "score": 1,
+                "text": "Çocuk katilleri!",
+                "labels": ["Küfür, Hakaret, Aşağılama, İnsandışılaştırma"]
+              },
+              "error": null
+            },
+            {
+              "id": "d18c9a27-9c3d-4e11-bab7-4d81758355ff",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 17,
+                "end": 31,
+                "score": 1,
+                "text": "Lanetli kavim!",
+                "labels": ["Dışlama; Ayrımcı Söylem"]
+              },
+              "error": null
+            },
+            {
+              "id": "11cee482-b67f-40de-abcf-f589b2e50466",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 32,
+                "end": 76,
+                "score": 1,
+                "text": "Çöllere düşün son kez ve bir daha çıkamayın.",
+                "labels": [
+                  "Düşmanlık, Savaş, Saldırı, Öldürme, Yaralama Tehditi"
+                ]
+              },
+              "error": null
+            }
+          ],
+          "model_version": "v1",
+          "created_ago": "2 weeks",
+          "score": 1.0,
+          "cluster": null,
+          "neighbors": null,
+          "mislabeling": 0.0,
+          "created_at": "2024-10-27T20:41:20.301295Z",
+          "updated_at": "2024-10-27T20:41:20.301302Z",
+          "model": null,
+          "model_run": null,
+          "task": 545,
+          "project": 703
+        },
+        "result_count": 0,
+        "unique_id": "c2f42648-a479-4ae3-8832-b8d0b2c2dc1c",
+        "import_id": null,
+        "last_action": null,
+        "task": 545,
+        "project": 703,
+        "updated_by": 9,
+        "parent_prediction": 36251,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "drafts": [],
+    "predictions": [36251],
+    "data": {
+      "text": "Çocuk katilleri!\nLanetli kavim!\nÇöllere düşün son kez ve bir daha çıkamayın.\n\n#GazaUnderAttack \n#GazzeAtesAltında \n#Gazze",
+      "id": "1556025770488774658",
+      "target": "Hedef: Yahudi Karşıtı"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T20:41:20.293165Z",
+    "updated_at": "2024-11-11T07:06:21.350723Z",
+    "inner_id": 12,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 703,
+    "updated_by": 9,
+    "comment_authors": []
+  },
+  {
+    "id": 546,
+    "annotations": [
+      {
+        "id": 5982,
+        "completed_by": 9,
+        "result": [
+          {
+            "value": {
+              "start": 0,
+              "end": 60,
+              "text": "tüm anadolunun göz göre türk yurdundan arap yurduna dönüşüne",
+              "labels": ["Abartma, Genelleme, Yükleme, Çarpıtma"]
+            },
+            "id": "9473014c-f110-40dd-af21-fde45d6b6c31",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-11-11T07:06:30.578208Z",
+        "updated_at": "2024-11-11T07:06:30.578233Z",
+        "draft_created_at": null,
+        "lead_time": 7.557,
+        "prediction": {
+          "id": 36252,
+          "result": [
+            {
+              "id": "9473014c-f110-40dd-af21-fde45d6b6c31",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 0,
+                "end": 60,
+                "score": 1,
+                "text": "tüm anadolunun göz göre türk yurdundan arap yurduna dönüşüne",
+                "labels": ["Abartma, Genelleme, Yükleme, Çarpıtma"]
+              },
+              "error": null
+            },
+            {
+              "id": "11d3860f-df01-4799-a3bd-d0b8713339d2",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 99,
+                "end": 114,
+                "score": 1,
+                "text": "anasını sikiyim",
+                "labels": ["Küfür, Hakaret, Aşağılama, İnsandışılaştırma"]
+              },
+              "error": null
+            }
+          ],
+          "model_version": "v1",
+          "created_ago": "2 weeks",
+          "score": 1.0,
+          "cluster": null,
+          "neighbors": null,
+          "mislabeling": 0.0,
+          "created_at": "2024-10-27T20:41:20.301330Z",
+          "updated_at": "2024-10-27T20:41:20.301338Z",
+          "model": null,
+          "model_run": null,
+          "task": 546,
+          "project": 703
+        },
+        "result_count": 0,
+        "unique_id": "ad374614-3c98-4772-9fa9-9001293a8b66",
+        "import_id": null,
+        "last_action": null,
+        "task": 546,
+        "project": 703,
+        "updated_by": 9,
+        "parent_prediction": 36252,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "drafts": [],
+    "predictions": [36252],
+    "data": {
+      "text": "tüm anadolunun göz göre türk yurdundan arap yurduna dönüşüne seyirci kalan milliyetci oylarinin da anasını sikiyim",
+      "id": "1658098176052583936",
+      "target": "Hedef: Arap Karşıtı"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T20:41:20.293199Z",
+    "updated_at": "2024-11-11T07:06:30.641737Z",
+    "inner_id": 13,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 703,
+    "updated_by": 9,
+    "comment_authors": []
+  },
+  {
+    "id": 547,
+    "annotations": [
+      {
+        "id": 5983,
+        "completed_by": 9,
+        "result": [
+          {
+            "value": {
+              "start": 20,
+              "end": 35,
+              "text": "Ağla Yunan ağla",
+              "labels": ["Küfür, Hakaret, Aşağılama, İnsandışılaştırma"]
+            },
+            "id": "7166e09b-da94-412e-982b-0f3498db30fc",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 91,
+              "end": 106,
+              "text": "Haddinizi bilin",
+              "labels": ["Düşmanlık, Savaş, Saldırı, Öldürme, Yaralama Tehditi"]
+            },
+            "id": "393604f6-354e-40c4-a390-c46f2c30f20b",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 124,
+              "end": 156,
+              "text": "ki adaciklari siz işgal ettiniz.",
+              "labels": ["Abartma, Genelleme, Yükleme, Çarpıtma"]
+            },
+            "id": "wppcCMDk40",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 36,
+              "end": 90,
+              "text": "hep mi başka devletlerin eteğinin altına gireceksiniz?",
+              "labels": ["Küfür, Hakaret, Aşağılama, İnsandışılaştırma"]
+            },
+            "id": "2dVR0I5XRl",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-11-11T07:06:58.390264Z",
+        "updated_at": "2024-11-11T07:06:58.390294Z",
+        "draft_created_at": "2024-11-11T07:06:47.714827Z",
+        "lead_time": 26.564,
+        "prediction": {
+          "id": 36253,
+          "result": [
+            {
+              "id": "7166e09b-da94-412e-982b-0f3498db30fc",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 20,
+                "end": 35,
+                "score": 1,
+                "text": "Ağla Yunan ağla",
+                "labels": ["Küfür, Hakaret, Aşağılama, İnsandışılaştırma"]
+              },
+              "error": null
+            },
+            {
+              "id": "2aec09ec-502e-4d66-89ec-4e74d9487f44",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 36,
+                "end": 90,
+                "score": 1,
+                "text": "hep mi başka devletlerin eteğinin altına gireceksiniz?",
+                "labels": ["Dışlama; Ayrımcı Söylem"]
+              },
+              "error": null
+            },
+            {
+              "id": "393604f6-354e-40c4-a390-c46f2c30f20b",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 91,
+                "end": 106,
+                "score": 1,
+                "text": "Haddinizi bilin",
+                "labels": [
+                  "Düşmanlık, Savaş, Saldırı, Öldürme, Yaralama Tehditi"
+                ]
+              },
+              "error": null
+            },
+            {
+              "id": "d60328f9-f512-4032-9c15-920f820cc731",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 127,
+                "end": 155,
+                "score": 1,
+                "text": "adaciklari siz işgal ettiniz",
+                "labels": ["Abartma, Genelleme, Yükleme, Çarpıtma"]
+              },
+              "error": null
+            }
+          ],
+          "model_version": "v1",
+          "created_ago": "2 weeks",
+          "score": 1.0,
+          "cluster": null,
+          "neighbors": null,
+          "mislabeling": 0.0,
+          "created_at": "2024-10-27T20:41:20.301376Z",
+          "updated_at": "2024-10-27T20:41:20.301383Z",
+          "model": null,
+          "model_run": null,
+          "task": 547,
+          "project": 703
+        },
+        "result_count": 0,
+        "unique_id": "eb49c40e-15d8-4b08-a78a-425f25308a12",
+        "import_id": null,
+        "last_action": null,
+        "task": 547,
+        "project": 703,
+        "updated_by": 9,
+        "parent_prediction": 36253,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "drafts": [],
+    "predictions": [36253],
+    "data": {
+      "text": "@username @username Ağla Yunan ağla hep mi başka devletlerin eteğinin altına gireceksiniz? Haddinizi bilin Adalar denizinde ki adaciklari siz işgal ettiniz.",
+      "id": "1566833304816570370",
+      "target": "Hedef: Yunan Karşıtı"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T20:41:20.293234Z",
+    "updated_at": "2024-11-11T07:06:58.457763Z",
+    "inner_id": 14,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 703,
+    "updated_by": 9,
+    "comment_authors": []
+  },
+  {
+    "id": 548,
+    "annotations": [
+      {
+        "id": 5984,
+        "completed_by": 9,
+        "result": [
+          {
+            "value": {
+              "start": 139,
+              "end": 145,
+              "text": "Ermeni",
+              "labels": ["Simgeleştirme"]
+            },
+            "id": "2EHOtZiHQv",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 146,
+              "end": 158,
+              "text": "itini korur!",
+              "labels": ["Küfür, Hakaret, Aşağılama, İnsandışılaştırma"]
+            },
+            "id": "gRduxsZMw4",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-11-11T07:07:29.714205Z",
+        "updated_at": "2024-11-11T07:07:29.714253Z",
+        "draft_created_at": "2024-11-11T07:07:24.957927Z",
+        "lead_time": 29.77,
+        "prediction": {
+          "id": 36254,
+          "result": [
+            {
+              "id": "8caada29-36df-4988-97c6-0fa2bf694121",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 139,
+                "end": 151,
+                "score": 1,
+                "text": "Ermeni itini",
+                "labels": ["Küfür, Hakaret, Aşağılama, İnsandışılaştırma"]
+              },
+              "error": null
+            }
+          ],
+          "model_version": "v1",
+          "created_ago": "2 weeks",
+          "score": 1.0,
+          "cluster": null,
+          "neighbors": null,
+          "mislabeling": 0.0,
+          "created_at": "2024-10-27T20:41:20.301406Z",
+          "updated_at": "2024-10-27T20:41:20.301413Z",
+          "model": null,
+          "model_run": null,
+          "task": 548,
+          "project": 703
+        },
+        "result_count": 0,
+        "unique_id": "08312ecf-6bee-4ebc-b960-e7fc2c95d1c3",
+        "import_id": null,
+        "last_action": null,
+        "task": 548,
+        "project": 703,
+        "updated_by": 9,
+        "parent_prediction": 36254,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "drafts": [],
+    "predictions": [36254],
+    "data": {
+      "text": "@SoldByOktay @YasharH3 Sebe şu! Erdoğan çok güclü ve kararlı! Farsi faşistler ondan korkuyor! Erdoğan olmazsa Farslar Azerbaycana saldırır Ermeni itini korur!",
+      "id": "1658010991341486080",
+      "target": "Hedef: Ermeni Karşıtı"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T20:41:20.293268Z",
+    "updated_at": "2024-11-11T07:07:29.775770Z",
+    "inner_id": 15,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 703,
+    "updated_by": 9,
+    "comment_authors": []
+  },
+  {
+    "id": 549,
+    "annotations": [
+      {
+        "id": 5985,
+        "completed_by": 9,
+        "result": [
+          {
+            "value": {
+              "start": 1,
+              "end": 12,
+              "text": "katilisrail",
+              "labels": ["Düşmanlık, Savaş, Saldırı, Öldürme, Yaralama Tehditi"]
+            },
+            "id": "bdf6f958-5032-4652-83d9-b02af8855983",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-11-11T07:07:33.515576Z",
+        "updated_at": "2024-11-11T07:07:33.515605Z",
+        "draft_created_at": null,
+        "lead_time": 2.326,
+        "prediction": {
+          "id": 36255,
+          "result": [
+            {
+              "id": "bdf6f958-5032-4652-83d9-b02af8855983",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 1,
+                "end": 12,
+                "score": 1,
+                "text": "katilisrail",
+                "labels": [
+                  "Düşmanlık, Savaş, Saldırı, Öldürme, Yaralama Tehditi"
+                ]
+              },
+              "error": null
+            }
+          ],
+          "model_version": "v1",
+          "created_ago": "2 weeks",
+          "score": 1.0,
+          "cluster": null,
+          "neighbors": null,
+          "mislabeling": 0.0,
+          "created_at": "2024-10-27T20:41:20.301437Z",
+          "updated_at": "2024-10-27T20:41:20.301444Z",
+          "model": null,
+          "model_run": null,
+          "task": 549,
+          "project": 703
+        },
+        "result_count": 0,
+        "unique_id": "104be3d5-1106-44f4-bd8a-3e140caccd4e",
+        "import_id": null,
+        "last_action": null,
+        "task": 549,
+        "project": 703,
+        "updated_by": 9,
+        "parent_prediction": 36255,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "drafts": [],
+    "predictions": [36255],
+    "data": {
+      "text": "#katilisrail #FreePalestine #Kudues https://t.co/xsIhY72jbs",
+      "id": "1392614453531844618",
+      "target": "Hedef: Yahudi Karşıtı"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T20:41:20.293303Z",
+    "updated_at": "2024-11-11T07:07:33.589555Z",
+    "inner_id": 16,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 703,
+    "updated_by": 9,
+    "comment_authors": []
+  },
+  {
+    "id": 550,
+    "annotations": [
+      {
+        "id": 5986,
+        "completed_by": 9,
+        "result": [
+          {
+            "value": {
+              "start": 171,
+              "end": 191,
+              "text": "#israiliLANETLİYORUM",
+              "labels": ["Küfür, Hakaret, Aşağılama, İnsandışılaştırma"]
+            },
+            "id": "db02907f-2d77-49e3-a5d2-e986f2d15692",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-11-11T07:07:41.939235Z",
+        "updated_at": "2024-11-11T07:07:41.939265Z",
+        "draft_created_at": null,
+        "lead_time": 6.813,
+        "prediction": {
+          "id": 36256,
+          "result": [
+            {
+              "id": "db02907f-2d77-49e3-a5d2-e986f2d15692",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 171,
+                "end": 191,
+                "score": 1,
+                "text": "#israiliLANETLİYORUM",
+                "labels": ["Küfür, Hakaret, Aşağılama, İnsandışılaştırma"]
+              },
+              "error": null
+            }
+          ],
+          "model_version": "v1",
+          "created_ago": "2 weeks",
+          "score": 1.0,
+          "cluster": null,
+          "neighbors": null,
+          "mislabeling": 0.0,
+          "created_at": "2024-10-27T20:41:20.301468Z",
+          "updated_at": "2024-10-27T20:41:20.301475Z",
+          "model": null,
+          "model_run": null,
+          "task": 550,
+          "project": 703
+        },
+        "result_count": 0,
+        "unique_id": "e5feff64-d40c-49e3-9677-6fff5e6f2012",
+        "import_id": null,
+        "last_action": null,
+        "task": 550,
+        "project": 703,
+        "updated_by": 9,
+        "parent_prediction": 36256,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "drafts": [],
+    "predictions": [36256],
+    "data": {
+      "text": "Allahım ne olur yardım et!Biz aciziz.. Biz uyuşturulmuş,aptal bir gündemle uyutulmuş acizleriz.. Sen emanetini koru.Orada ki kardeşlerimizi koru.. #MescidiAksaOnurumuzdur #israiliLANETLİYORUM",
+      "id": "1391647329548132359",
+      "target": "Hedef: Yahudi Karşıtı"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T20:41:20.293338Z",
+    "updated_at": "2024-11-11T07:07:41.994321Z",
+    "inner_id": 17,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 703,
+    "updated_by": 9,
+    "comment_authors": []
+  },
+  {
+    "id": 551,
+    "annotations": [
+      {
+        "id": 5987,
+        "completed_by": 9,
+        "result": [
+          {
+            "value": {
+              "start": 27,
+              "end": 37,
+              "text": "Yunan dölü",
+              "labels": ["Simgeleştirme"]
+            },
+            "id": "9xEUb8zQDW",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-11-11T07:07:50.300749Z",
+        "updated_at": "2024-11-11T07:07:50.300775Z",
+        "draft_created_at": null,
+        "lead_time": 6.266,
+        "prediction": {
+          "id": 36257,
+          "result": [
+            {
+              "id": "e6d1c7e2-05e6-4aa3-993a-f9199c8c253d",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 27,
+                "end": 37,
+                "score": 1,
+                "text": "Yunan dölü",
+                "labels": ["Küfür, Hakaret, Aşağılama, İnsandışılaştırma"]
+              },
+              "error": null
+            }
+          ],
+          "model_version": "v1",
+          "created_ago": "2 weeks",
+          "score": 1.0,
+          "cluster": null,
+          "neighbors": null,
+          "mislabeling": 0.0,
+          "created_at": "2024-10-27T20:41:20.301498Z",
+          "updated_at": "2024-10-27T20:41:20.301505Z",
+          "model": null,
+          "model_run": null,
+          "task": 551,
+          "project": 703
+        },
+        "result_count": 0,
+        "unique_id": "898b7ba1-5701-4205-8031-99bde4c3eb28",
+        "import_id": null,
+        "last_action": null,
+        "task": 551,
+        "project": 703,
+        "updated_by": 9,
+        "parent_prediction": 36257,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "drafts": [],
+    "predictions": [36257],
+    "data": {
+      "text": "@YasinnDRSNN @plainststone Yunan dölü",
+      "id": "1517911741711241219",
+      "target": "Hedef: Yunan Karşıtı"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T20:41:20.293372Z",
+    "updated_at": "2024-11-11T07:07:50.354103Z",
+    "inner_id": 18,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 703,
+    "updated_by": 9,
+    "comment_authors": []
+  },
+  {
+    "id": 552,
+    "annotations": [
+      {
+        "id": 5988,
+        "completed_by": 9,
+        "result": [
+          {
+            "value": {
+              "start": 264,
+              "end": 282,
+              "text": "erkek sevici sapık",
+              "labels": ["Küfür, Hakaret, Aşağılama, İnsandışılaştırma"]
+            },
+            "id": "584dbc73-8dce-41f8-9282-2f8a711e0b85",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 348,
+              "end": 355,
+              "text": "Gaykurt",
+              "labels": ["Simgeleştirme"]
+            },
+            "id": "b706e93e-42da-44ec-b370-794d733ef75b",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction-changed"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-11-11T07:08:11.440787Z",
+        "updated_at": "2024-11-11T07:08:11.440813Z",
+        "draft_created_at": null,
+        "lead_time": 19.891,
+        "prediction": {
+          "id": 36258,
+          "result": [
+            {
+              "id": "584dbc73-8dce-41f8-9282-2f8a711e0b85",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 264,
+                "end": 282,
+                "score": 1,
+                "text": "erkek sevici sapık",
+                "labels": ["Küfür, Hakaret, Aşağılama, İnsandışılaştırma"]
+              },
+              "error": null
+            },
+            {
+              "id": "b706e93e-42da-44ec-b370-794d733ef75b",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 348,
+                "end": 355,
+                "score": 1,
+                "text": "Gaykurt",
+                "labels": ["Küfür, Hakaret, Aşağılama, İnsandışılaştırma"]
+              },
+              "error": null
+            }
+          ],
+          "model_version": "v1",
+          "created_ago": "2 weeks",
+          "score": 1.0,
+          "cluster": null,
+          "neighbors": null,
+          "mislabeling": 0.0,
+          "created_at": "2024-10-27T20:41:20.301533Z",
+          "updated_at": "2024-10-27T20:41:20.301540Z",
+          "model": null,
+          "model_run": null,
+          "task": 552,
+          "project": 703
+        },
+        "result_count": 0,
+        "unique_id": "a2a49892-c620-47e6-a9bb-76f5138540a7",
+        "import_id": null,
+        "last_action": null,
+        "task": 552,
+        "project": 703,
+        "updated_by": 9,
+        "parent_prediction": 36258,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "drafts": [],
+    "predictions": [36258],
+    "data": {
+      "text": "@rnghonz @TugrulTurkes @DrSinanOgan @kilicdarogluk @meral_aksener @umitozdag Hahaha iftiracı kurtçuk! Gayette Atatürk Milliyetçisi biriyim. Hdp ve türevlerine 1 oyum bile nasip olmamıştır. Ben teröre karşı kürtleri kucaklayalım ki şu adamdan kurtulalım derken siz erkek sevici sapık bir şekilde kucağımızı açtık yazdınız! Ayyy nasıl Bozkurtluk bu? Gaykurt!",
+      "id": "1658213051143692032",
+      "target": "Hedef: LGBTI+ Karşıtı"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T20:41:20.293409Z",
+    "updated_at": "2024-11-11T07:08:11.497672Z",
+    "inner_id": 19,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 703,
+    "updated_by": 9,
+    "comment_authors": []
+  },
+  {
+    "id": 553,
+    "annotations": [
+      {
+        "id": 5989,
+        "completed_by": 9,
+        "result": [
+          {
+            "value": {
+              "start": 78,
+              "end": 101,
+              "text": "gancık virüslü kanlılar",
+              "labels": ["Küfür, Hakaret, Aşağılama, İnsandışılaştırma"]
+            },
+            "id": "77683f24-d21e-41cd-a07f-00014fe9ea33",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 163,
+              "end": 173,
+              "text": "döl artığı",
+              "labels": ["Küfür, Hakaret, Aşağılama, İnsandışılaştırma"]
+            },
+            "id": "d07eb90e-f016-425a-9a8f-b30eafb4dcb5",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-11-11T07:08:27.904179Z",
+        "updated_at": "2024-11-11T07:08:27.904211Z",
+        "draft_created_at": null,
+        "lead_time": 15.118,
+        "prediction": {
+          "id": 36259,
+          "result": [
+            {
+              "id": "77683f24-d21e-41cd-a07f-00014fe9ea33",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 78,
+                "end": 101,
+                "score": 1,
+                "text": "gancık virüslü kanlılar",
+                "labels": ["Küfür, Hakaret, Aşağılama, İnsandışılaştırma"]
+              },
+              "error": null
+            },
+            {
+              "id": "d07eb90e-f016-425a-9a8f-b30eafb4dcb5",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 163,
+                "end": 173,
+                "score": 1,
+                "text": "döl artığı",
+                "labels": ["Küfür, Hakaret, Aşağılama, İnsandışılaştırma"]
+              },
+              "error": null
+            }
+          ],
+          "model_version": "v1",
+          "created_ago": "2 weeks",
+          "score": 1.0,
+          "cluster": null,
+          "neighbors": null,
+          "mislabeling": 0.0,
+          "created_at": "2024-10-27T20:41:20.301567Z",
+          "updated_at": "2024-10-27T20:41:20.301574Z",
+          "model": null,
+          "model_run": null,
+          "task": 553,
+          "project": 703
+        },
+        "result_count": 0,
+        "unique_id": "7d55379d-af40-4283-a071-8c122c5d81af",
+        "import_id": null,
+        "last_action": null,
+        "task": 553,
+        "project": 703,
+        "updated_by": 9,
+        "parent_prediction": 36259,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "drafts": [],
+    "predictions": [36259],
+    "data": {
+      "text": "Seni, Yunanistan'a göndermeyen iktidara yazıklar olsun!?\nBu vatan da ne kadar gancık virüslü kanlılar yetişmiş. Akapayla yaranacağım diye g*tünü yırtıyor ahlaksız döl artığı (! ( https://t.co/q9QBEyeMs4",
+      "id": "1569014984646234113",
+      "target": "Hedef: Yunan Karşıtı"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T20:41:20.293444Z",
+    "updated_at": "2024-11-11T07:08:27.963736Z",
+    "inner_id": 20,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 703,
+    "updated_by": 9,
+    "comment_authors": []
+  },
+  {
+    "id": 554,
+    "annotations": [
+      {
+        "id": 5990,
+        "completed_by": 9,
+        "result": [
+          {
+            "value": {
+              "start": 80,
+              "end": 128,
+              "text": "sizinkiler Afgan seriati mi getiri yoksa Arap mi",
+              "labels": ["Abartma, Genelleme, Yükleme, Çarpıtma"]
+            },
+            "id": "51e8a4e1-c75c-4ad3-8039-80b550b780bc",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-11-11T07:08:33.107828Z",
+        "updated_at": "2024-11-11T07:08:33.107855Z",
+        "draft_created_at": null,
+        "lead_time": 3.864,
+        "prediction": {
+          "id": 36260,
+          "result": [
+            {
+              "id": "51e8a4e1-c75c-4ad3-8039-80b550b780bc",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 80,
+                "end": 128,
+                "score": 1,
+                "text": "sizinkiler Afgan seriati mi getiri yoksa Arap mi",
+                "labels": ["Abartma, Genelleme, Yükleme, Çarpıtma"]
+              },
+              "error": null
+            }
+          ],
+          "model_version": "v1",
+          "created_ago": "2 weeks",
+          "score": 1.0,
+          "cluster": null,
+          "neighbors": null,
+          "mislabeling": 0.0,
+          "created_at": "2024-10-27T20:41:20.301597Z",
+          "updated_at": "2024-10-27T20:41:20.301604Z",
+          "model": null,
+          "model_run": null,
+          "task": 554,
+          "project": 703
+        },
+        "result_count": 0,
+        "unique_id": "1f8fadbd-2ba5-48ee-a208-2346ef773a73",
+        "import_id": null,
+        "last_action": null,
+        "task": 554,
+        "project": 703,
+        "updated_by": 9,
+        "parent_prediction": 36260,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "drafts": [],
+    "predictions": [36260],
+    "data": {
+      "text": "@b_ysabri @nursse_hemsire @aykuterdogdu Sabri hudaparin istediği şeriat gelirse sizinkiler Afgan seriati mi getiri yoksa Arap mi tercihin hangisi ona göre sana çarşaf hediye alcamda",
+      "id": "1658782144322313984",
+      "target": "Hedef: Arap Karşıtı"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T20:41:20.293478Z",
+    "updated_at": "2024-11-11T07:08:33.148014Z",
+    "inner_id": 21,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 703,
+    "updated_by": 9,
+    "comment_authors": []
+  },
+  {
+    "id": 555,
+    "annotations": [
+      {
+        "id": 5991,
+        "completed_by": 9,
+        "result": [
+          {
+            "value": {
+              "start": 0,
+              "end": 169,
+              "text": "Yunanistan savaş mottosuyla halkını diri tutup, adalar üzerinden baskın bir savaşla 48 saat içinde \"sözde\" kendi mavi vatan noktaları olan adalardan saldırmayı planlıyor",
+              "labels": ["Düşmanlık, Savaş, Saldırı, Öldürme, Yaralama Tehditi"]
+            },
+            "id": "id9YPZF-hz",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-11-11T07:09:00.506483Z",
+        "updated_at": "2024-11-11T07:09:00.506516Z",
+        "draft_created_at": "2024-11-11T07:09:00.203953Z",
+        "lead_time": 25.816,
+        "prediction": {
+          "id": 36261,
+          "result": [
+            {
+              "id": "41af47bd-e802-4a13-803e-ed50e7e1a3ca",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 0,
+                "end": 46,
+                "score": 1,
+                "text": "Yunanistan savaş mottosuyla halkını diri tutup",
+                "labels": ["Abartma, Genelleme, Yükleme, Çarpıtma"]
+              },
+              "error": null
+            },
+            {
+              "id": "34dbf4b1-aa3a-4da8-99eb-4858a9b6ccd9",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 48,
+                "end": 169,
+                "score": 1,
+                "text": "adalar üzerinden baskın bir savaşla 48 saat içinde \"sözde\" kendi mavi vatan noktaları olan adalardan saldırmayı planlıyor",
+                "labels": ["Abartma, Genelleme, Yükleme, Çarpıtma"]
+              },
+              "error": null
+            },
+            {
+              "id": "1622cef2-f5ae-44c3-aba4-ed7c2907d220",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 171,
+                "end": 226,
+                "score": 1,
+                "text": "Meriç nehri kenarına kazdıkları hendekler kara değil de",
+                "labels": ["Abartma, Genelleme, Yükleme, Çarpıtma"]
+              },
+              "error": null
+            }
+          ],
+          "model_version": "v1",
+          "created_ago": "2 weeks",
+          "score": 1.0,
+          "cluster": null,
+          "neighbors": null,
+          "mislabeling": 0.0,
+          "created_at": "2024-10-27T20:41:20.301636Z",
+          "updated_at": "2024-10-27T20:41:20.301643Z",
+          "model": null,
+          "model_run": null,
+          "task": 555,
+          "project": 703
+        },
+        "result_count": 0,
+        "unique_id": "117a67a2-5cac-4c88-af2a-4932c2736c9c",
+        "import_id": null,
+        "last_action": null,
+        "task": 555,
+        "project": 703,
+        "updated_by": 9,
+        "parent_prediction": 36261,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "drafts": [],
+    "predictions": [36261],
+    "data": {
+      "text": "Yunanistan savaş mottosuyla halkını diri tutup, adalar üzerinden baskın bir savaşla 48 saat içinde \"sözde\" kendi mavi vatan noktaları olan adalardan saldırmayı planlıyor. Meriç nehri kenarına kazdıkları hendekler kara değil de, donanma ve deniz savaşı yapacaklarını gösteriyor.",
+      "id": "1568882424578203648",
+      "target": "Hedef: Yunan Karşıtı"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T20:41:20.293514Z",
+    "updated_at": "2024-11-11T07:09:00.554013Z",
+    "inner_id": 22,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 703,
+    "updated_by": 9,
+    "comment_authors": []
+  },
+  {
+    "id": 556,
+    "annotations": [
+      {
+        "id": 5992,
+        "completed_by": 9,
+        "result": [
+          {
+            "value": {
+              "start": 97,
+              "end": 122,
+              "text": "firavunların torunlarının",
+              "labels": ["Simgeleştirme"]
+            },
+            "id": "89557087-e01f-4a0a-9b74-ece3ed3cb7e6",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 86,
+              "end": 96,
+              "text": "Ölüm kusan",
+              "labels": ["Abartma, Genelleme, Yükleme, Çarpıtma"]
+            },
+            "id": "J_wy-lxjvo",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-11-11T07:09:21.758272Z",
+        "updated_at": "2024-11-11T07:09:21.758300Z",
+        "draft_created_at": "2024-11-11T07:09:18.480963Z",
+        "lead_time": 19.318,
+        "prediction": {
+          "id": 36262,
+          "result": [
+            {
+              "id": "89557087-e01f-4a0a-9b74-ece3ed3cb7e6",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 97,
+                "end": 122,
+                "score": 1,
+                "text": "firavunların torunlarının",
+                "labels": ["Simgeleştirme"]
+              },
+              "error": null
+            },
+            {
+              "id": "9b5741db-da7d-47a6-9cb1-19a13bbfb3a8",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 86,
+                "end": 96,
+                "score": 1,
+                "text": "Ölüm kusan",
+                "labels": ["Abartma, Genelleme, Yükleme, Çarpıtma"]
+              },
+              "error": null
+            }
+          ],
+          "model_version": "v1",
+          "created_ago": "2 weeks",
+          "score": 1.0,
+          "cluster": null,
+          "neighbors": null,
+          "mislabeling": 0.0,
+          "created_at": "2024-10-27T20:41:20.301671Z",
+          "updated_at": "2024-10-27T20:41:20.301677Z",
+          "model": null,
+          "model_run": null,
+          "task": 556,
+          "project": 703
+        },
+        "result_count": 0,
+        "unique_id": "4860ad36-0026-4cb7-8670-dc90b0a5fd63",
+        "import_id": null,
+        "last_action": null,
+        "task": 556,
+        "project": 703,
+        "updated_by": 9,
+        "parent_prediction": 36262,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "drafts": [],
+    "predictions": [36262],
+    "data": {
+      "text": "ZAFER ALLAHINDIR!\nFilistin’in bütün mücâhidlerine bin selam olsun!\n#Palestine #Gazze  Ölüm kusan firavunların torunlarının  attıkları füze ve bomba sesleri yerine sevinç çığlıkları duyarak izlettiren rabbime şükürler olsun \nALLAH'U EKBER !!!\n#FilistinKazanıyor https://t.co/hqrhzqDHXq",
+      "id": "1395693212451409920",
+      "target": "Hedef: Yahudi Karşıtı"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T20:41:20.293548Z",
+    "updated_at": "2024-11-11T07:09:21.818735Z",
+    "inner_id": 23,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 703,
+    "updated_by": 9,
+    "comment_authors": []
+  },
+  {
+    "id": 557,
+    "annotations": [
+      {
+        "id": 5993,
+        "completed_by": 9,
+        "result": [
+          {
+            "value": {
+              "start": 64,
+              "end": 73,
+              "text": "kalleşlir",
+              "labels": ["Küfür, Hakaret, Aşağılama, İnsandışılaştırma"]
+            },
+            "id": "076adf76-3514-4ccb-8ea6-24e1e3046c7c",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 46,
+              "end": 63,
+              "text": "Ermeni destekçisi",
+              "labels": ["Simgeleştirme"]
+            },
+            "id": "Sx1prH1Yry",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-11-11T07:09:39.879792Z",
+        "updated_at": "2024-11-11T07:09:39.879824Z",
+        "draft_created_at": "2024-11-11T07:09:38.427630Z",
+        "lead_time": 16.709,
+        "prediction": {
+          "id": 36263,
+          "result": [
+            {
+              "id": "8badfd90-9024-40dc-ad11-dbd1206b7c38",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 46,
+                "end": 63,
+                "score": 1,
+                "text": "Ermeni destekçisi",
+                "labels": ["Küfür, Hakaret, Aşağılama, İnsandışılaştırma"]
+              },
+              "error": null
+            },
+            {
+              "id": "076adf76-3514-4ccb-8ea6-24e1e3046c7c",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 64,
+                "end": 73,
+                "score": 1,
+                "text": "kalleşlir",
+                "labels": ["Küfür, Hakaret, Aşağılama, İnsandışılaştırma"]
+              },
+              "error": null
+            }
+          ],
+          "model_version": "v1",
+          "created_ago": "2 weeks",
+          "score": 1.0,
+          "cluster": null,
+          "neighbors": null,
+          "mislabeling": 0.0,
+          "created_at": "2024-10-27T20:41:20.301704Z",
+          "updated_at": "2024-10-27T20:41:20.301711Z",
+          "model": null,
+          "model_run": null,
+          "task": 557,
+          "project": 703
+        },
+        "result_count": 0,
+        "unique_id": "397d5135-3bb6-49d4-a43b-79aa91136441",
+        "import_id": null,
+        "last_action": null,
+        "task": 557,
+        "project": 703,
+        "updated_by": 9,
+        "parent_prediction": 36263,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "drafts": [],
+    "predictions": [36263],
+    "data": {
+      "text": "@sanaainat Kürt Türk alevi kardeşdir örgüt ve Ermeni destekçisi kalleşlir PKK şerefsiz bir örğütür onu destekleyende o çocuğudur ..",
+      "id": "1658218387003023104",
+      "target": "Hedef: Ermeni Karşıtı"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T20:41:20.293583Z",
+    "updated_at": "2024-11-11T07:09:39.951428Z",
+    "inner_id": 24,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 703,
+    "updated_by": 9,
+    "comment_authors": []
+  },
+  {
+    "id": 558,
+    "annotations": [
+      {
+        "id": 5994,
+        "completed_by": 9,
+        "result": [
+          {
+            "value": {
+              "start": 128,
+              "end": 134,
+              "text": "itrail",
+              "labels": ["Küfür, Hakaret, Aşağılama, İnsandışılaştırma"]
+            },
+            "id": "f3b832b8-3593-4653-b751-2d492546ff4b",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-11-11T07:09:45.083943Z",
+        "updated_at": "2024-11-11T07:09:45.083973Z",
+        "draft_created_at": null,
+        "lead_time": 3.661,
+        "prediction": {
+          "id": 36264,
+          "result": [
+            {
+              "id": "f3b832b8-3593-4653-b751-2d492546ff4b",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 128,
+                "end": 134,
+                "score": 1,
+                "text": "itrail",
+                "labels": ["Küfür, Hakaret, Aşağılama, İnsandışılaştırma"]
+              },
+              "error": null
+            }
+          ],
+          "model_version": "v1",
+          "created_ago": "2 weeks",
+          "score": 1.0,
+          "cluster": null,
+          "neighbors": null,
+          "mislabeling": 0.0,
+          "created_at": "2024-10-27T20:41:20.301734Z",
+          "updated_at": "2024-10-27T20:41:20.301741Z",
+          "model": null,
+          "model_run": null,
+          "task": 558,
+          "project": 703
+        },
+        "result_count": 0,
+        "unique_id": "a2139737-f6b0-4ffc-be37-bb79df20fcd8",
+        "import_id": null,
+        "last_action": null,
+        "task": 558,
+        "project": 703,
+        "updated_by": 9,
+        "parent_prediction": 36264,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "drafts": [],
+    "predictions": [36264],
+    "data": {
+      "text": "@username Devletler kendi çıkarları için düşman olduğu ile pazarlık yapabilir..\nÖnemli olan Ülkenin menfaatidir.\nLakin zannımca itrail den önce Mısır gelecek gibi..Gelmekte zorunda.\nAkdenizde sınırlarımızı BM biliyor müdahale edemezler\netmek için darbe istediler oda olmadı Elhamdülillah",
+      "id": "1368540706864824324",
+      "target": "Hedef: Yahudi Karşıtı"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T20:41:20.293619Z",
+    "updated_at": "2024-11-11T07:09:45.131908Z",
+    "inner_id": 25,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 703,
+    "updated_by": 9,
+    "comment_authors": []
+  },
+  {
+    "id": 559,
+    "annotations": [
+      {
+        "id": 5995,
+        "completed_by": 9,
+        "result": [
+          {
+            "value": {
+              "start": 93,
+              "end": 120,
+              "text": "Eski Türkiye yok dikkat et.",
+              "labels": ["Düşmanlık, Savaş, Saldırı, Öldürme, Yaralama Tehditi"]
+            },
+            "id": "2feb2168-569b-490a-9b99-7e714aaad5bb",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-11-11T07:09:54.955452Z",
+        "updated_at": "2024-11-11T07:09:54.955481Z",
+        "draft_created_at": null,
+        "lead_time": 8.374,
+        "prediction": {
+          "id": 36265,
+          "result": [
+            {
+              "id": "2feb2168-569b-490a-9b99-7e714aaad5bb",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 93,
+                "end": 120,
+                "score": 1,
+                "text": "Eski Türkiye yok dikkat et.",
+                "labels": [
+                  "Düşmanlık, Savaş, Saldırı, Öldürme, Yaralama Tehditi"
+                ]
+              },
+              "error": null
+            }
+          ],
+          "model_version": "v1",
+          "created_ago": "2 weeks",
+          "score": 1.0,
+          "cluster": null,
+          "neighbors": null,
+          "mislabeling": 0.0,
+          "created_at": "2024-10-27T20:41:20.301764Z",
+          "updated_at": "2024-10-27T20:41:20.301771Z",
+          "model": null,
+          "model_run": null,
+          "task": 559,
+          "project": 703
+        },
+        "result_count": 0,
+        "unique_id": "f79d1000-2d85-4973-ab51-049caf6e6746",
+        "import_id": null,
+        "last_action": null,
+        "task": 559,
+        "project": 703,
+        "updated_by": 9,
+        "parent_prediction": 36265,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "drafts": [],
+    "predictions": [36265],
+    "data": {
+      "text": "@username Fransız duymuş, ne anlama geldiğinin farkında. Fransa Yunan’a uyarı mesajı vermiş. Eski Türkiye yok dikkat et.",
+      "id": "1566103119431360512",
+      "target": "Hedef: Yunan Karşıtı"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T20:41:20.293653Z",
+    "updated_at": "2024-11-11T07:09:54.993880Z",
+    "inner_id": 26,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 703,
+    "updated_by": 9,
+    "comment_authors": []
+  },
+  {
+    "id": 560,
+    "annotations": [
+      {
+        "id": 5996,
+        "completed_by": 9,
+        "result": [],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-11-11T07:10:02.244663Z",
+        "updated_at": "2024-11-11T07:10:02.244695Z",
+        "draft_created_at": null,
+        "lead_time": 6.066,
+        "prediction": {
+          "id": 36266,
+          "result": [
+            {
+              "id": "fb989e2c-e34b-4b18-aa6c-61004fa6b945",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 58,
+                "end": 74,
+                "score": 1,
+                "text": "#TerroristIsrael",
+                "labels": ["Küfür, Hakaret, Aşağılama, İnsandışılaştırma"]
+              },
+              "error": null
+            }
+          ],
+          "model_version": "v1",
+          "created_ago": "2 weeks",
+          "score": 1.0,
+          "cluster": null,
+          "neighbors": null,
+          "mislabeling": 0.0,
+          "created_at": "2024-10-27T20:41:20.301793Z",
+          "updated_at": "2024-10-27T20:41:20.301800Z",
+          "model": null,
+          "model_run": null,
+          "task": 560,
+          "project": 703
+        },
+        "result_count": 0,
+        "unique_id": "6d5164ac-affc-4f5e-9220-cf065ad3c457",
+        "import_id": null,
+        "last_action": null,
+        "task": 560,
+        "project": 703,
+        "updated_by": 9,
+        "parent_prediction": 36266,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "drafts": [],
+    "predictions": [36266],
+    "data": {
+      "text": "#İsrailSavaşSuçuİşliyor #FreePalaestine #GazaUnderAttackk #TerroristIsrael #FilistinYalnizDegil #MescidiAksaOnurumuzdur #AksayaBaskınVar  #HopeToGaza https://t.co/rmtfloSatg",
+      "id": "1394083067824902147",
+      "target": "Hedef: Yahudi Karşıtı"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T20:41:20.293687Z",
+    "updated_at": "2024-11-11T07:10:02.294265Z",
+    "inner_id": 27,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 703,
+    "updated_by": 9,
+    "comment_authors": []
+  },
+  {
+    "id": 561,
+    "annotations": [
+      {
+        "id": 5997,
+        "completed_by": 9,
+        "result": [
+          {
+            "value": {
+              "start": 216,
+              "end": 261,
+              "text": "1453’ü zulüm gören Bizans tohumlarına dikkat!",
+              "labels": ["Simgeleştirme"]
+            },
+            "id": "da02258b-6479-448b-8fc4-07e6b73f994f",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-11-11T07:10:07.824405Z",
+        "updated_at": "2024-11-11T07:10:07.824437Z",
+        "draft_created_at": null,
+        "lead_time": 3.968,
+        "prediction": {
+          "id": 36267,
+          "result": [
+            {
+              "id": "da02258b-6479-448b-8fc4-07e6b73f994f",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 216,
+                "end": 261,
+                "score": 1,
+                "text": "1453’ü zulüm gören Bizans tohumlarına dikkat!",
+                "labels": ["Simgeleştirme"]
+              },
+              "error": null
+            }
+          ],
+          "model_version": "v1",
+          "created_ago": "2 weeks",
+          "score": 1.0,
+          "cluster": null,
+          "neighbors": null,
+          "mislabeling": 0.0,
+          "created_at": "2024-10-27T20:41:20.301824Z",
+          "updated_at": "2024-10-27T20:41:20.301830Z",
+          "model": null,
+          "model_run": null,
+          "task": 561,
+          "project": 703
+        },
+        "result_count": 0,
+        "unique_id": "bf4df8fb-1429-40c0-9c56-b1483b88f3c6",
+        "import_id": null,
+        "last_action": null,
+        "task": 561,
+        "project": 703,
+        "updated_by": 9,
+        "parent_prediction": 36267,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "drafts": [],
+    "predictions": [36267],
+    "data": {
+      "text": "Yunanistan’daki ABD üsleri ve askeri yığınak, İstanbul’u ve Batı Anadolu’yu işgal anaçlıdır.\n\nİBB’ye ve CHP’li Belediyelere terör örgütü mensup ve sempatizanlarının yerleştirilmesi Yunanistan’dan bağımsız değildir.\n\n1453’ü zulüm gören Bizans tohumlarına dikkat!",
+      "id": "1531147973371076608",
+      "target": "Hedef: Yunan Karşıtı"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T20:41:20.293722Z",
+    "updated_at": "2024-11-11T07:10:07.866631Z",
+    "inner_id": 28,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 703,
+    "updated_by": 9,
+    "comment_authors": []
+  },
+  {
+    "id": 562,
+    "annotations": [
+      {
+        "id": 5998,
+        "completed_by": 9,
+        "result": [
+          {
+            "value": {
+              "start": 17,
+              "end": 30,
+              "text": "Yunan’ı değil",
+              "labels": ["Düşmanlık, Savaş, Saldırı, Öldürme, Yaralama Tehditi"]
+            },
+            "id": "6dabf1e0-1404-4eed-be7d-a13753badb5d",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction-changed"
+          },
+          {
+            "value": {
+              "start": 32,
+              "end": 82,
+              "text": "içimizdeki Yunana hizmet eden yerli işbirlikçileri",
+              "labels": ["Simgeleştirme"]
+            },
+            "id": "Ln7oFJiIZV",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 86,
+              "end": 100,
+              "text": "denize döktük.",
+              "labels": ["Düşmanlık, Savaş, Saldırı, Öldürme, Yaralama Tehditi"]
+            },
+            "id": "oh9AAlSRwS",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-11-11T07:10:30.347414Z",
+        "updated_at": "2024-11-11T07:10:30.347442Z",
+        "draft_created_at": "2024-11-11T07:10:19.300713Z",
+        "lead_time": 20.781,
+        "prediction": {
+          "id": 36268,
+          "result": [
+            {
+              "id": "6dabf1e0-1404-4eed-be7d-a13753badb5d",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 17,
+                "end": 30,
+                "score": 1,
+                "text": "Yunan’ı değil",
+                "labels": [
+                  "Düşmanlık, Savaş, Saldırı, Öldürme, Yaralama Tehditi"
+                ]
+              },
+              "error": null
+            }
+          ],
+          "model_version": "v1",
+          "created_ago": "2 weeks",
+          "score": 1.0,
+          "cluster": null,
+          "neighbors": null,
+          "mislabeling": 0.0,
+          "created_at": "2024-10-27T20:41:20.301853Z",
+          "updated_at": "2024-10-27T20:41:20.301860Z",
+          "model": null,
+          "model_run": null,
+          "task": 562,
+          "project": 703
+        },
+        "result_count": 0,
+        "unique_id": "6c7d1c93-ae52-44e5-9a1e-5310687f663f",
+        "import_id": null,
+        "last_action": null,
+        "task": 562,
+        "project": 703,
+        "updated_by": 9,
+        "parent_prediction": 36268,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "drafts": [],
+    "predictions": [36268],
+    "data": {
+      "text": "@username Sadece Yunan’ı değil, içimizdeki Yunana hizmet eden yerli işbirlikçileri de denize döktük. Şimdi anlamışsındır.",
+      "id": "1569420122917322753",
+      "target": "Hedef: Yunan Karşıtı"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T20:41:20.293758Z",
+    "updated_at": "2024-11-11T07:10:30.415909Z",
+    "inner_id": 29,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 703,
+    "updated_by": 9,
+    "comment_authors": []
+  },
+  {
+    "id": 563,
+    "annotations": [
+      {
+        "id": 5999,
+        "completed_by": 9,
+        "result": [
+          {
+            "value": {
+              "start": 121,
+              "end": 148,
+              "text": "emevi dinbaz bakış açısıyla",
+              "labels": ["Simgeleştirme"]
+            },
+            "id": "-ZJ_8SgQXz",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-11-11T07:10:49.211230Z",
+        "updated_at": "2024-11-11T07:10:49.211259Z",
+        "draft_created_at": "2024-11-11T07:10:48.906393Z",
+        "lead_time": 16.522,
+        "prediction": {
+          "id": 36269,
+          "result": [
+            {
+              "id": "edb1232e-2936-42bb-b3f1-60289dc74815",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 121,
+                "end": 148,
+                "score": 1,
+                "text": "emevi dinbaz bakış açısıyla",
+                "labels": ["Küfür, Hakaret, Aşağılama, İnsandışılaştırma"]
+              },
+              "error": null
+            }
+          ],
+          "model_version": "v1",
+          "created_ago": "2 weeks",
+          "score": 1.0,
+          "cluster": null,
+          "neighbors": null,
+          "mislabeling": 0.0,
+          "created_at": "2024-10-27T20:41:20.301882Z",
+          "updated_at": "2024-10-27T20:41:20.301889Z",
+          "model": null,
+          "model_run": null,
+          "task": 563,
+          "project": 703
+        },
+        "result_count": 0,
+        "unique_id": "e06e7601-3453-4f13-b791-5ae9e1ec5d90",
+        "import_id": null,
+        "last_action": null,
+        "task": 563,
+        "project": 703,
+        "updated_by": 9,
+        "parent_prediction": 36269,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "drafts": [],
+    "predictions": [36269],
+    "data": {
+      "text": "Allah bu gece melek ladar temiz, peygamber kadar dürüst, dosdoğru bir adam gönderiyorum onu seçin ama alevi dese Türkiye emevi dinbaz bakış açısıyla hayır kabul etmiyoruz der bizim vatandaş..",
+      "id": "1658281435004805120",
+      "target": "Hedef: Alevi Karşıtı"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T20:41:20.293792Z",
+    "updated_at": "2024-11-11T07:10:49.258838Z",
+    "inner_id": 30,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 703,
+    "updated_by": 9,
+    "comment_authors": []
+  },
+  {
+    "id": 564,
+    "annotations": [
+      {
+        "id": 6000,
+        "completed_by": 9,
+        "result": [
+          {
+            "value": {
+              "start": 57,
+              "end": 71,
+              "text": "İzmir'i unutma",
+              "labels": ["Düşmanlık, Savaş, Saldırı, Öldürme, Yaralama Tehditi"]
+            },
+            "id": "1f009f37-9355-49f7-aee4-5095a22d5084",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 73,
+              "end": 102,
+              "text": "bir gece ansızın gelebiliriz'",
+              "labels": ["Düşmanlık, Savaş, Saldırı, Öldürme, Yaralama Tehditi"]
+            },
+            "id": "_2wAuiLNto",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 0,
+              "end": 55,
+              "text": "Cumhurbaşkanı Erdoğan'dan Yunanistan'ı titreten sözler:",
+              "labels": ["Düşmanlık, Savaş, Saldırı, Öldürme, Yaralama Tehditi"]
+            },
+            "id": "0lNvogxOij",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-11-11T07:12:35.648210Z",
+        "updated_at": "2024-11-11T07:12:35.648241Z",
+        "draft_created_at": "2024-11-11T07:12:32.660741Z",
+        "lead_time": 14.808,
+        "prediction": {
+          "id": 36270,
+          "result": [
+            {
+              "id": "1f009f37-9355-49f7-aee4-5095a22d5084",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 57,
+                "end": 71,
+                "score": 1,
+                "text": "İzmir'i unutma",
+                "labels": [
+                  "Düşmanlık, Savaş, Saldırı, Öldürme, Yaralama Tehditi"
+                ]
+              },
+              "error": null
+            }
+          ],
+          "model_version": "v1",
+          "created_ago": "2 weeks",
+          "score": 1.0,
+          "cluster": null,
+          "neighbors": null,
+          "mislabeling": 0.0,
+          "created_at": "2024-10-27T20:41:20.301911Z",
+          "updated_at": "2024-10-27T20:41:20.301918Z",
+          "model": null,
+          "model_run": null,
+          "task": 564,
+          "project": 703
+        },
+        "result_count": 0,
+        "unique_id": "16da755f-4501-4a8a-8c3c-36ab6945d46e",
+        "import_id": null,
+        "last_action": null,
+        "task": 564,
+        "project": 703,
+        "updated_by": 9,
+        "parent_prediction": 36270,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "drafts": [
+      {
+        "id": 1735,
+        "user": "isikbburak@gmail.com",
+        "created_username": "isikbburak@gmail.com, 9",
+        "created_ago": "1 month, 3 weeks",
+        "result": [],
+        "lead_time": 40.619,
+        "was_postponed": false,
+        "import_id": null,
+        "created_at": "2024-11-11T07:12:20.613621Z",
+        "updated_at": "2024-11-11T07:12:20.613650Z",
+        "task": 564,
+        "annotation": 5999
+      }
+    ],
+    "predictions": [36270],
+    "data": {
+      "text": "Cumhurbaşkanı Erdoğan'dan Yunanistan'ı titreten sözler: 'İzmir'i unutma, bir gece ansızın gelebiliriz'\n\n#TeknoFestKaradeniz #SONDAKIKA\n\nhttps://t.co/WBUzGkxp7a",
+      "id": "1566044437041582085",
+      "target": "Hedef: Yunan Karşıtı"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T20:41:20.293826Z",
+    "updated_at": "2024-11-11T07:12:35.705551Z",
+    "inner_id": 31,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 703,
+    "updated_by": 9,
+    "comment_authors": []
+  },
+  {
+    "id": 565,
+    "annotations": [
+      {
+        "id": 6001,
+        "completed_by": 9,
+        "result": [
+          {
+            "value": {
+              "start": 15,
+              "end": 27,
+              "text": "#Katilİsrail",
+              "labels": ["Küfür, Hakaret, Aşağılama, İnsandışılaştırma"]
+            },
+            "id": "f81d568e-f5d5-4cdb-b1b6-7e445c9f7628",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-11-11T07:12:45.766729Z",
+        "updated_at": "2024-11-11T07:12:45.766759Z",
+        "draft_created_at": null,
+        "lead_time": 8.664,
+        "prediction": {
+          "id": 36271,
+          "result": [
+            {
+              "id": "f81d568e-f5d5-4cdb-b1b6-7e445c9f7628",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 15,
+                "end": 27,
+                "score": 1,
+                "text": "#Katilİsrail",
+                "labels": ["Küfür, Hakaret, Aşağılama, İnsandışılaştırma"]
+              },
+              "error": null
+            }
+          ],
+          "model_version": "v1",
+          "created_ago": "2 weeks",
+          "score": 1.0,
+          "cluster": null,
+          "neighbors": null,
+          "mislabeling": 0.0,
+          "created_at": "2024-10-27T20:41:20.301940Z",
+          "updated_at": "2024-10-27T20:41:20.301947Z",
+          "model": null,
+          "model_run": null,
+          "task": 565,
+          "project": 703
+        },
+        "result_count": 0,
+        "unique_id": "f5219e39-dd0d-4b4c-951e-e9f9292570af",
+        "import_id": null,
+        "last_action": null,
+        "task": 565,
+        "project": 703,
+        "updated_by": 9,
+        "parent_prediction": 36271,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "drafts": [],
+    "predictions": [36271],
+    "data": {
+      "text": "@username Amin\n#Katilİsrail",
+      "id": "1394471382554226692",
+      "target": "Hedef: Yahudi Karşıtı"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T20:41:20.293860Z",
+    "updated_at": "2024-11-11T07:12:45.817526Z",
+    "inner_id": 32,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 703,
+    "updated_by": 9,
+    "comment_authors": []
+  },
+  {
+    "id": 566,
+    "annotations": [
+      {
+        "id": 6002,
+        "completed_by": 9,
+        "result": [
+          {
+            "value": {
+              "start": 266,
+              "end": 277,
+              "text": "katilisrail",
+              "labels": ["Küfür, Hakaret, Aşağılama, İnsandışılaştırma"]
+            },
+            "id": "640f5ab6-a802-4a35-a031-ae685a9d6415",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-11-11T07:24:50.449907Z",
+        "updated_at": "2024-11-11T07:24:50.449941Z",
+        "draft_created_at": null,
+        "lead_time": 0.921,
+        "prediction": {
+          "id": 36272,
+          "result": [
+            {
+              "id": "640f5ab6-a802-4a35-a031-ae685a9d6415",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 266,
+                "end": 277,
+                "score": 1,
+                "text": "katilisrail",
+                "labels": ["Küfür, Hakaret, Aşağılama, İnsandışılaştırma"]
+              },
+              "error": null
+            }
+          ],
+          "model_version": "v1",
+          "created_ago": "2 weeks",
+          "score": 1.0,
+          "cluster": null,
+          "neighbors": null,
+          "mislabeling": 0.0,
+          "created_at": "2024-10-27T20:41:20.301969Z",
+          "updated_at": "2024-10-27T20:41:20.301976Z",
+          "model": null,
+          "model_run": null,
+          "task": 566,
+          "project": 703
+        },
+        "result_count": 0,
+        "unique_id": "c0c580db-9dcb-438f-b533-f868ca1f27a5",
+        "import_id": null,
+        "last_action": null,
+        "task": 566,
+        "project": 703,
+        "updated_by": 9,
+        "parent_prediction": 36272,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "drafts": [],
+    "predictions": [36272],
+    "data": {
+      "text": "\"İsrail\" hapishaneler yönetimi, Filistinli esir Zekeriya ez-Zubeydi'yi Biru's Sebi Hapishanesi'ndeki tecrit hücresinden bilinmeyen bir yere nakletti.\n\n#filistinliesirler #esirler_tehlikede #esirlerikurtarın #kelepçeleri_beraber_kıralım #filistineözgürlük #filistin #katilisrail https://t.co/3oL01BwrIr",
+      "id": "1486430732310437889",
+      "target": "Hedef: Yahudi Karşıtı"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T20:41:20.293895Z",
+    "updated_at": "2024-11-11T07:24:50.550529Z",
+    "inner_id": 33,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 703,
+    "updated_by": 9,
+    "comment_authors": []
+  },
+  {
+    "id": 567,
+    "annotations": [
+      {
+        "id": 6003,
+        "completed_by": 9,
+        "result": [
+          {
+            "value": {
+              "start": 236,
+              "end": 279,
+              "text": "#yunanistan a vur kaç yaptıracakları ortada",
+              "labels": ["Düşmanlık, Savaş, Saldırı, Öldürme, Yaralama Tehditi"]
+            },
+            "id": "c7a6b75a-3245-4936-abec-3043beef81d9",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-11-11T07:24:56.994580Z",
+        "updated_at": "2024-11-11T07:24:56.994664Z",
+        "draft_created_at": null,
+        "lead_time": 5.192,
+        "prediction": {
+          "id": 36273,
+          "result": [
+            {
+              "id": "c7a6b75a-3245-4936-abec-3043beef81d9",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 236,
+                "end": 279,
+                "score": 1,
+                "text": "#yunanistan a vur kaç yaptıracakları ortada",
+                "labels": [
+                  "Düşmanlık, Savaş, Saldırı, Öldürme, Yaralama Tehditi"
+                ]
+              },
+              "error": null
+            }
+          ],
+          "model_version": "v1",
+          "created_ago": "2 weeks",
+          "score": 1.0,
+          "cluster": null,
+          "neighbors": null,
+          "mislabeling": 0.0,
+          "created_at": "2024-10-27T20:41:20.301999Z",
+          "updated_at": "2024-10-27T20:41:20.302006Z",
+          "model": null,
+          "model_run": null,
+          "task": 567,
+          "project": 703
+        },
+        "result_count": 0,
+        "unique_id": "dce72c8a-6e7c-46e6-820e-cfa7fe1b69b2",
+        "import_id": null,
+        "last_action": null,
+        "task": 567,
+        "project": 703,
+        "updated_by": 9,
+        "parent_prediction": 36273,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "drafts": [],
+    "predictions": [36273],
+    "data": {
+      "text": "#TBMM #tsk #mit \n#tusas #MMU da neden ingiltereyle ortağız 1.dünya savaşından hemen önce parasını peşin verip yaptırdığımız savaş gemilerine el koyup bize karşı kullandığını ne çabuk unuttuk, F35 ler desen aynı MMU tamamen yerli olmalı #yunanistan a vur kaç yaptıracakları ortada https://t.co/F0rotvWpye",
+      "id": "1567294932188004352",
+      "target": "Hedef: Yunan Karşıtı"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T20:41:20.293930Z",
+    "updated_at": "2024-11-11T07:24:57.049054Z",
+    "inner_id": 34,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 703,
+    "updated_by": 9,
+    "comment_authors": []
+  },
+  {
+    "id": 568,
+    "annotations": [
+      {
+        "id": 6004,
+        "completed_by": 9,
+        "result": [
+          {
+            "value": {
+              "start": 105,
+              "end": 139,
+              "text": "Anadolu'da temizliğin başlamasıdır",
+              "labels": ["Düşmanlık, Savaş, Saldırı, Öldürme, Yaralama Tehditi"]
+            },
+            "id": "bf71c992-e437-425e-96de-77753cbe7f7b",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 236,
+              "end": 283,
+              "text": "o azgınlaşmış toplumları istediği gibi temizler",
+              "labels": ["Düşmanlık, Savaş, Saldırı, Öldürme, Yaralama Tehditi"]
+            },
+            "id": "cb604551-4ac3-4dbb-a615-7960cfdca9c1",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-11-11T07:25:06.055718Z",
+        "updated_at": "2024-11-11T07:25:06.055748Z",
+        "draft_created_at": null,
+        "lead_time": 6.934,
+        "prediction": {
+          "id": 36274,
+          "result": [
+            {
+              "id": "bf71c992-e437-425e-96de-77753cbe7f7b",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 105,
+                "end": 139,
+                "score": 1,
+                "text": "Anadolu'da temizliğin başlamasıdır",
+                "labels": [
+                  "Düşmanlık, Savaş, Saldırı, Öldürme, Yaralama Tehditi"
+                ]
+              },
+              "error": null
+            },
+            {
+              "id": "cb604551-4ac3-4dbb-a615-7960cfdca9c1",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 236,
+                "end": 283,
+                "score": 1,
+                "text": "o azgınlaşmış toplumları istediği gibi temizler",
+                "labels": [
+                  "Düşmanlık, Savaş, Saldırı, Öldürme, Yaralama Tehditi"
+                ]
+              },
+              "error": null
+            }
+          ],
+          "model_version": "v1",
+          "created_ago": "2 weeks",
+          "score": 1.0,
+          "cluster": null,
+          "neighbors": null,
+          "mislabeling": 0.0,
+          "created_at": "2024-10-27T20:41:20.302033Z",
+          "updated_at": "2024-10-27T20:41:20.302040Z",
+          "model": null,
+          "model_run": null,
+          "task": 568,
+          "project": 703
+        },
+        "result_count": 0,
+        "unique_id": "d373f6d5-f92f-4758-8fa8-ca6552e57c06",
+        "import_id": null,
+        "last_action": null,
+        "task": 568,
+        "project": 703,
+        "updated_by": 9,
+        "parent_prediction": 36274,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "drafts": [],
+    "predictions": [36274],
+    "data": {
+      "text": "@hhakkikahveci 15 Mayıs 1919 Yunanistan'ın İzmir'i işgal etmeye başlaması ama Tanrı katında aynı zamanda Anadolu'da temizliğin başlamasıdır. 9 Eylül 1922 ise Türk askerinin işgali sona erdirmesidir. Yeryüzündeki ordular Tanrı'ya ait ve o azgınlaşmış toplumları istediği gibi temizler. Görebilene",
+      "id": "1525730324298219520",
+      "target": "Hedef: Yunan Karşıtı"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T20:41:20.293965Z",
+    "updated_at": "2024-11-11T07:25:06.122637Z",
+    "inner_id": 35,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 703,
+    "updated_by": 9,
+    "comment_authors": []
+  },
+  {
+    "id": 569,
+    "annotations": [
+      {
+        "id": 6005,
+        "completed_by": 9,
+        "result": [
+          {
+            "value": {
+              "start": 43,
+              "end": 72,
+              "text": "Yunan Ermeni Yahudi torunları",
+              "labels": ["Simgeleştirme"]
+            },
+            "id": "5RRakiXjOJ",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-11-11T07:25:54.417344Z",
+        "updated_at": "2024-11-11T07:25:54.417373Z",
+        "draft_created_at": null,
+        "lead_time": 17.944,
+        "prediction": {
+          "id": 36275,
+          "result": [
+            {
+              "id": "4f98608a-3f94-4f95-bcb0-3e4f2904dcf8",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 43,
+                "end": 72,
+                "score": 1,
+                "text": "Yunan Ermeni Yahudi torunları",
+                "labels": ["Abartma, Genelleme, Yükleme, Çarpıtma"]
+              },
+              "error": null
+            }
+          ],
+          "model_version": "v1",
+          "created_ago": "2 weeks",
+          "score": 1.0,
+          "cluster": null,
+          "neighbors": null,
+          "mislabeling": 0.0,
+          "created_at": "2024-10-27T20:41:20.302062Z",
+          "updated_at": "2024-10-27T20:41:20.302069Z",
+          "model": null,
+          "model_run": null,
+          "task": 569,
+          "project": 703
+        },
+        "result_count": 0,
+        "unique_id": "7b717a49-0ff9-4c53-81e4-4284fca75e3b",
+        "import_id": null,
+        "last_action": null,
+        "task": 569,
+        "project": 703,
+        "updated_by": 9,
+        "parent_prediction": 36275,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "drafts": [],
+    "predictions": [36275],
+    "data": {
+      "text": "DEPREM bölgesinde istedikleri oyu alamayan Yunan Ermeni Yahudi torunları küfür etmeye başladılar, Lut kavminde an beş yirmi kişi olan LGBT nin yüzünden Lut kavmi helak oldu.  şimdi LGBT binlerce ahlaksızlıkları yüzünden Türkiye DEPREMLER oluyor suçlu Müslümanları gösteriyorlar.",
+      "id": "1658414252774810112",
+      "target": "Hedef: Ermeni Karşıtı"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T20:41:20.294001Z",
+    "updated_at": "2024-11-11T07:25:54.468420Z",
+    "inner_id": 36,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 703,
+    "updated_by": 9,
+    "comment_authors": []
+  },
+  {
+    "id": 570,
+    "annotations": [
+      {
+        "id": 6006,
+        "completed_by": 9,
+        "result": [
+          {
+            "value": {
+              "start": 109,
+              "end": 120,
+              "text": "arap sevici",
+              "labels": ["Simgeleştirme"]
+            },
+            "id": "c2-fcOTP_6",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-11-11T07:26:09.912836Z",
+        "updated_at": "2024-11-11T07:26:09.912870Z",
+        "draft_created_at": null,
+        "lead_time": 13.234,
+        "prediction": {
+          "id": 36276,
+          "result": [
+            {
+              "id": "ce1f9432-41fe-4150-9e4c-73dd09324883",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 109,
+                "end": 134,
+                "score": 1,
+                "text": "arap sevici orospu ccougu",
+                "labels": ["Küfür, Hakaret, Aşağılama, İnsandışılaştırma"]
+              },
+              "error": null
+            }
+          ],
+          "model_version": "v1",
+          "created_ago": "2 weeks",
+          "score": 1.0,
+          "cluster": null,
+          "neighbors": null,
+          "mislabeling": 0.0,
+          "created_at": "2024-10-27T20:41:20.302092Z",
+          "updated_at": "2024-10-27T20:41:20.302099Z",
+          "model": null,
+          "model_run": null,
+          "task": 570,
+          "project": 703
+        },
+        "result_count": 0,
+        "unique_id": "7235b385-c99a-446c-89a7-4e3fd6bb4844",
+        "import_id": null,
+        "last_action": null,
+        "task": 570,
+        "project": 703,
+        "updated_by": 9,
+        "parent_prediction": 36276,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "drafts": [],
+    "predictions": [36276],
+    "data": {
+      "text": "@bhdrkm58 @gizemyceee @sadecesidde @berkcanguven profilde nie noodle diliyle bir seyler yazilmis la okunmuyo arap sevici orospu ccougu seni kapali anani skecemm yolla bana izmirdeyim",
+      "id": "1658076704982565120",
+      "target": "Hedef: Arap Karşıtı"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T20:41:20.294036Z",
+    "updated_at": "2024-11-11T07:26:09.964028Z",
+    "inner_id": 37,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 703,
+    "updated_by": 9,
+    "comment_authors": []
+  },
+  {
+    "id": 571,
+    "annotations": [
+      {
+        "id": 6007,
+        "completed_by": 9,
+        "result": [
+          {
+            "value": {
+              "start": 14,
+              "end": 35,
+              "text": "Yunan’ı denize döktük",
+              "labels": ["Düşmanlık, Savaş, Saldırı, Öldürme, Yaralama Tehditi"]
+            },
+            "id": "812e3e7a-d017-4e23-885e-e1cdbb96c5da",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-11-11T07:26:18.515455Z",
+        "updated_at": "2024-11-11T07:26:18.515483Z",
+        "draft_created_at": null,
+        "lead_time": 7.074,
+        "prediction": {
+          "id": 36277,
+          "result": [
+            {
+              "id": "812e3e7a-d017-4e23-885e-e1cdbb96c5da",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 14,
+                "end": 35,
+                "score": 1,
+                "text": "Yunan’ı denize döktük",
+                "labels": [
+                  "Düşmanlık, Savaş, Saldırı, Öldürme, Yaralama Tehditi"
+                ]
+              },
+              "error": null
+            },
+            {
+              "id": "e0da2947-54d9-470c-9eb8-46ec703275ac",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 75,
+                "end": 101,
+                "score": 1,
+                "text": "Yunanistan niye kutlamıyor",
+                "labels": ["Abartma, Genelleme, Yükleme, Çarpıtma"]
+              },
+              "error": null
+            }
+          ],
+          "model_version": "v1",
+          "created_ago": "2 weeks",
+          "score": 1.0,
+          "cluster": null,
+          "neighbors": null,
+          "mislabeling": 0.0,
+          "created_at": "2024-10-27T20:41:20.302126Z",
+          "updated_at": "2024-10-27T20:41:20.302133Z",
+          "model": null,
+          "model_run": null,
+          "task": 571,
+          "project": 703
+        },
+        "result_count": 0,
+        "unique_id": "75b357e9-09aa-4416-9b2d-69886de6627d",
+        "import_id": null,
+        "last_action": null,
+        "task": 571,
+        "project": 703,
+        "updated_by": 9,
+        "parent_prediction": 36277,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "drafts": [],
+    "predictions": [36277],
+    "data": {
+      "text": "@username Ben Yunan’ı denize döktük sanıyordum. Meğer Osmanlı’yı dökmüşüz. Yunanistan niye kutlamıyor bunu?",
+      "id": "1568357106813739008",
+      "target": "Hedef: Yunan Karşıtı"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T20:41:20.294071Z",
+    "updated_at": "2024-11-11T07:26:18.579678Z",
+    "inner_id": 38,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 703,
+    "updated_by": 9,
+    "comment_authors": []
+  },
+  {
+    "id": 572,
+    "annotations": [
+      {
+        "id": 6008,
+        "completed_by": 9,
+        "result": [
+          {
+            "value": {
+              "start": 83,
+              "end": 116,
+              "text": "ermeni tohumlarınıda siler atarız",
+              "labels": ["Düşmanlık, Savaş, Saldırı, Öldürme, Yaralama Tehditi"]
+            },
+            "id": "5bb91899-2362-4f5a-bf08-2cb5c13071bc",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction-changed"
+          },
+          {
+            "value": {
+              "start": 74,
+              "end": 103,
+              "text": "yunan ve ermeni tohumlarınıda",
+              "labels": ["Simgeleştirme"]
+            },
+            "id": "3wMinybjgr",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-11-11T07:26:33.011558Z",
+        "updated_at": "2024-11-11T07:26:33.011608Z",
+        "draft_created_at": "2024-11-11T07:26:28.621793Z",
+        "lead_time": 13.016,
+        "prediction": {
+          "id": 36278,
+          "result": [
+            {
+              "id": "5bb91899-2362-4f5a-bf08-2cb5c13071bc",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 83,
+                "end": 116,
+                "score": 1,
+                "text": "ermeni tohumlarınıda siler atarız",
+                "labels": [
+                  "Düşmanlık, Savaş, Saldırı, Öldürme, Yaralama Tehditi"
+                ]
+              },
+              "error": null
+            }
+          ],
+          "model_version": "v1",
+          "created_ago": "2 weeks",
+          "score": 1.0,
+          "cluster": null,
+          "neighbors": null,
+          "mislabeling": 0.0,
+          "created_at": "2024-10-27T20:41:20.302155Z",
+          "updated_at": "2024-10-27T20:41:20.302162Z",
+          "model": null,
+          "model_run": null,
+          "task": 572,
+          "project": 703
+        },
+        "result_count": 0,
+        "unique_id": "9cbc7953-4216-4516-8433-18028188090d",
+        "import_id": null,
+        "last_action": null,
+        "task": 572,
+        "project": 703,
+        "updated_by": 9,
+        "parent_prediction": 36278,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "drafts": [],
+    "predictions": [36278],
+    "data": {
+      "text": "@KemalMelissa @umitozdag Ülkeyi pkklastırmasında arabı bir sekilde atarız yunan ve ermeni tohumlarınıda siler atarız",
+      "id": "1658210872110587904",
+      "target": "Hedef: Ermeni Karşıtı"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T20:41:20.294105Z",
+    "updated_at": "2024-11-11T07:26:33.068735Z",
+    "inner_id": 39,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 703,
+    "updated_by": 9,
+    "comment_authors": []
+  },
+  {
+    "id": 573,
+    "annotations": [
+      {
+        "id": 6009,
+        "completed_by": 9,
+        "result": [
+          {
+            "value": {
+              "start": 57,
+              "end": 67,
+              "text": "Rum tohumu",
+              "labels": ["Simgeleştirme"]
+            },
+            "id": "Al9R6awsyg",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-11-11T07:26:47.847469Z",
+        "updated_at": "2024-11-11T07:26:47.847498Z",
+        "draft_created_at": "2024-11-11T07:26:44.224172Z",
+        "lead_time": 11.424999999999999,
+        "prediction": {
+          "id": 36279,
+          "result": [
+            {
+              "id": "0d3277fa-a162-4b43-9c09-7a1f25d8a8a1",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 57,
+                "end": 67,
+                "score": 1,
+                "text": "Rum tohumu",
+                "labels": ["Küfür, Hakaret, Aşağılama, İnsandışılaştırma"]
+              },
+              "error": null
+            }
+          ],
+          "model_version": "v1",
+          "created_ago": "2 weeks",
+          "score": 1.0,
+          "cluster": null,
+          "neighbors": null,
+          "mislabeling": 0.0,
+          "created_at": "2024-10-27T20:41:20.302184Z",
+          "updated_at": "2024-10-27T20:41:20.302191Z",
+          "model": null,
+          "model_run": null,
+          "task": 573,
+          "project": 703
+        },
+        "result_count": 0,
+        "unique_id": "9386d7b4-de57-4a21-a9e8-2cd4eff72f99",
+        "import_id": null,
+        "last_action": null,
+        "task": 573,
+        "project": 703,
+        "updated_by": 9,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "drafts": [],
+    "predictions": [36279],
+    "data": {
+      "text": "@username @username Allahtan Yunan vekiller yemiyor yese Rum tohumu oluvericekler..",
+      "id": "1512453874229075979",
+      "target": "Hedef: Yunan Karşıtı"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T20:41:20.294140Z",
+    "updated_at": "2024-11-11T07:26:47.904975Z",
+    "inner_id": 40,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 703,
+    "updated_by": 9,
+    "comment_authors": []
+  },
+  {
+    "id": 574,
+    "annotations": [
+      {
+        "id": 6010,
+        "completed_by": 9,
+        "result": [],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-11-11T07:27:02.530505Z",
+        "updated_at": "2024-11-11T07:27:02.530531Z",
+        "draft_created_at": null,
+        "lead_time": 13.161,
+        "prediction": {
+          "id": 36280,
+          "result": [
+            {
+              "id": "68fab52b-e0d8-4425-868b-0555a6705046",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 107,
+                "end": 150,
+                "score": 1,
+                "text": "Selo mevzusu da tamamen Kürt oyları içindir",
+                "labels": ["Abartma, Genelleme, Yükleme, Çarpıtma"]
+              },
+              "error": null
+            }
+          ],
+          "model_version": "v1",
+          "created_ago": "2 weeks",
+          "score": 1.0,
+          "cluster": null,
+          "neighbors": null,
+          "mislabeling": 0.0,
+          "created_at": "2024-10-27T20:41:20.302213Z",
+          "updated_at": "2024-10-27T20:41:20.302220Z",
+          "model": null,
+          "model_run": null,
+          "task": 574,
+          "project": 703
+        },
+        "result_count": 0,
+        "unique_id": "6cbaa378-30b3-4466-955d-69427ddd3941",
+        "import_id": null,
+        "last_action": null,
+        "task": 574,
+        "project": 703,
+        "updated_by": 9,
+        "parent_prediction": 36280,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "drafts": [],
+    "predictions": [36280],
+    "data": {
+      "text": "@mustaafaarslan Birader o lgbt mevzusu karışık benim şahsi fikrim müslümanım ama tr de lgbtyi yediremezsin Selo mevzusu da tamamen Kürt oyları içindir kimse elini kolunu sallayarak çıkaramaz zaten eski mahkeme kararları çıkması yönünde de neyse",
+      "id": "1657912734753627904",
+      "target": "Hedef: Kürt Karşıtı"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T20:41:20.294176Z",
+    "updated_at": "2024-11-11T07:27:02.571525Z",
+    "inner_id": 41,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 703,
+    "updated_by": 9,
+    "comment_authors": []
+  },
+  {
+    "id": 575,
+    "annotations": [
+      {
+        "id": 6011,
+        "completed_by": 9,
+        "result": [
+          {
+            "value": {
+              "start": 0,
+              "end": 20,
+              "text": "Yok olacaksın İsrail",
+              "labels": ["Düşmanlık, Savaş, Saldırı, Öldürme, Yaralama Tehditi"]
+            },
+            "id": "3a6e5a59-8980-42bc-917b-700302199351",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 38,
+              "end": 55,
+              "text": "yokta olmalısınız",
+              "labels": ["Düşmanlık, Savaş, Saldırı, Öldürme, Yaralama Tehditi"]
+            },
+            "id": "30bbb028-c173-4f9e-b36e-9cebb4730b5d",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 56,
+              "end": 68,
+              "text": "#Katilİsrail",
+              "labels": ["Küfür, Hakaret, Aşağılama, İnsandışılaştırma"]
+            },
+            "id": "43397212-6647-452a-b853-f8179867c3c3",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-11-11T07:27:10.281472Z",
+        "updated_at": "2024-11-11T07:27:10.281502Z",
+        "draft_created_at": null,
+        "lead_time": 5.69,
+        "prediction": {
+          "id": 36281,
+          "result": [
+            {
+              "id": "3a6e5a59-8980-42bc-917b-700302199351",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 0,
+                "end": 20,
+                "score": 1,
+                "text": "Yok olacaksın İsrail",
+                "labels": [
+                  "Düşmanlık, Savaş, Saldırı, Öldürme, Yaralama Tehditi"
+                ]
+              },
+              "error": null
+            },
+            {
+              "id": "30bbb028-c173-4f9e-b36e-9cebb4730b5d",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 38,
+                "end": 55,
+                "score": 1,
+                "text": "yokta olmalısınız",
+                "labels": [
+                  "Düşmanlık, Savaş, Saldırı, Öldürme, Yaralama Tehditi"
+                ]
+              },
+              "error": null
+            },
+            {
+              "id": "43397212-6647-452a-b853-f8179867c3c3",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 56,
+                "end": 68,
+                "score": 1,
+                "text": "#Katilİsrail",
+                "labels": ["Küfür, Hakaret, Aşağılama, İnsandışılaştırma"]
+              },
+              "error": null
+            }
+          ],
+          "model_version": "v1",
+          "created_ago": "2 weeks",
+          "score": 1.0,
+          "cluster": null,
+          "neighbors": null,
+          "mislabeling": 0.0,
+          "created_at": "2024-10-27T20:41:20.302251Z",
+          "updated_at": "2024-10-27T20:41:20.302258Z",
+          "model": null,
+          "model_run": null,
+          "task": 575,
+          "project": 703
+        },
+        "result_count": 0,
+        "unique_id": "1cdb2823-4b40-43e3-a257-7ad5cc503311",
+        "import_id": null,
+        "last_action": null,
+        "task": 575,
+        "project": 703,
+        "updated_by": 9,
+        "parent_prediction": 36281,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "drafts": [],
+    "predictions": [36281],
+    "data": {
+      "text": "Yok olacaksın İsrail en kısa zamanda .yokta olmalısınız #Katilİsrail",
+      "id": "1515368227404136453",
+      "target": "Hedef: Yahudi Karşıtı"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T20:41:20.294211Z",
+    "updated_at": "2024-11-11T07:27:10.344558Z",
+    "inner_id": 42,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 703,
+    "updated_by": 9,
+    "comment_authors": []
+  },
+  {
+    "id": 576,
+    "annotations": [
+      {
+        "id": 6012,
+        "completed_by": 9,
+        "result": [
+          {
+            "value": {
+              "start": 57,
+              "end": 119,
+              "text": "sözde Ermeni soykırımını kabul eden ve anan canan Kaftancıoğlu",
+              "labels": ["Dışlama; Ayrımcı Söylem"]
+            },
+            "id": "wLCu3Uirs6",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-11-11T07:27:27.716804Z",
+        "updated_at": "2024-11-11T07:27:27.716835Z",
+        "draft_created_at": "2024-11-11T07:27:27.367742Z",
+        "lead_time": 15.832,
+        "prediction": {
+          "id": 36282,
+          "result": [
+            {
+              "id": "a4670ffb-1291-4305-99d9-f0a2cacdf3ff",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 57,
+                "end": 81,
+                "score": 1,
+                "text": "sözde Ermeni soykırımını",
+                "labels": ["Abartma, Genelleme, Yükleme, Çarpıtma"]
+              },
+              "error": null
+            }
+          ],
+          "model_version": "v1",
+          "created_ago": "2 weeks",
+          "score": 1.0,
+          "cluster": null,
+          "neighbors": null,
+          "mislabeling": 0.0,
+          "created_at": "2024-10-27T20:41:20.302280Z",
+          "updated_at": "2024-10-27T20:41:20.302287Z",
+          "model": null,
+          "model_run": null,
+          "task": 576,
+          "project": 703
+        },
+        "result_count": 0,
+        "unique_id": "27300c69-e2af-4028-b401-c578e1553af1",
+        "import_id": null,
+        "last_action": null,
+        "task": 576,
+        "project": 703,
+        "updated_by": 9,
+        "parent_prediction": 36282,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "drafts": [],
+    "predictions": [36282],
+    "data": {
+      "text": "@zehhraayildzz @yunusozturks @tanjuozcanchp Zehra hanım; sözde Ermeni soykırımını kabul eden ve anan canan Kaftancıoğlu başı çekiyor partide, pkk yanlısı olup kendisini Kürt milliyetçisi adleden sezgin Tanrıkulu ha keza :) Söyleyeceklerim bu kadar. Sizce Atatürk bunu ister miydi?",
+      "id": "1658588258933133056",
+      "target": "Hedef: Ermeni Karşıtı"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T20:41:20.294247Z",
+    "updated_at": "2024-11-11T07:27:27.793495Z",
+    "inner_id": 43,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 703,
+    "updated_by": 9,
+    "comment_authors": []
+  },
+  {
+    "id": 577,
+    "annotations": [
+      {
+        "id": 6013,
+        "completed_by": 9,
+        "result": [
+          {
+            "value": {
+              "start": 0,
+              "end": 34,
+              "text": "Yaşattıklarınızı yaşamadan ölmeyin",
+              "labels": ["Düşmanlık, Savaş, Saldırı, Öldürme, Yaralama Tehditi"]
+            },
+            "id": "01b83dd7-9017-4ba0-8704-98117b64bdf7",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 140,
+              "end": 152,
+              "text": "#katilisrail",
+              "labels": ["Abartma, Genelleme, Yükleme, Çarpıtma"]
+            },
+            "id": "ab8e1880-cb32-42fe-9874-8ddb4ae6bb7d",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-11-11T07:27:35.527581Z",
+        "updated_at": "2024-11-11T07:27:35.527608Z",
+        "draft_created_at": null,
+        "lead_time": 6.115,
+        "prediction": {
+          "id": 36283,
+          "result": [
+            {
+              "id": "01b83dd7-9017-4ba0-8704-98117b64bdf7",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 0,
+                "end": 34,
+                "score": 1,
+                "text": "Yaşattıklarınızı yaşamadan ölmeyin",
+                "labels": [
+                  "Düşmanlık, Savaş, Saldırı, Öldürme, Yaralama Tehditi"
+                ]
+              },
+              "error": null
+            },
+            {
+              "id": "ab8e1880-cb32-42fe-9874-8ddb4ae6bb7d",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 140,
+                "end": 152,
+                "score": 1,
+                "text": "#katilisrail",
+                "labels": ["Abartma, Genelleme, Yükleme, Çarpıtma"]
+              },
+              "error": null
+            },
+            {
+              "id": "6380000e-298b-49ce-978b-29f53591e0dd",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 153,
+                "end": 181,
+                "score": 1,
+                "text": "#Israil_Is_Terrorist_country",
+                "labels": ["Abartma, Genelleme, Yükleme, Çarpıtma"]
+              },
+              "error": null
+            }
+          ],
+          "model_version": "v1",
+          "created_ago": "2 weeks",
+          "score": 1.0,
+          "cluster": null,
+          "neighbors": null,
+          "mislabeling": 0.0,
+          "created_at": "2024-10-27T20:41:20.302317Z",
+          "updated_at": "2024-10-27T20:41:20.302324Z",
+          "model": null,
+          "model_run": null,
+          "task": 577,
+          "project": 703
+        },
+        "result_count": 0,
+        "unique_id": "f733c2e3-9303-47ee-9e28-0d110d5ea40f",
+        "import_id": null,
+        "last_action": null,
+        "task": 577,
+        "project": 703,
+        "updated_by": 9,
+        "parent_prediction": 36283,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "drafts": [
+      {
+        "id": 1956,
+        "user": "sekerhasan164@gmail.com",
+        "created_username": "sekerhasan164@gmail.com, 2",
+        "created_ago": "1 month",
+        "result": [
+          {
+            "value": {
+              "start": 0,
+              "end": 34,
+              "text": "Yaşattıklarınızı yaşamadan ölmeyin",
+              "labels": ["Düşmanlık, Savaş, Saldırı, Öldürme, Yaralama Tehditi"]
+            },
+            "id": "01b83dd7-9017-4ba0-8704-98117b64bdf7",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 140,
+              "end": 152,
+              "text": "#katilisrail",
+              "labels": ["Abartma, Genelleme, Yükleme, Çarpıtma"]
+            },
+            "id": "ab8e1880-cb32-42fe-9874-8ddb4ae6bb7d",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          }
+        ],
+        "lead_time": 16.471,
+        "was_postponed": false,
+        "import_id": null,
+        "created_at": "2024-12-01T09:08:35.665551Z",
+        "updated_at": "2024-12-01T09:08:35.665580Z",
+        "task": 577,
+        "annotation": 6013
+      }
+    ],
+    "predictions": [36283],
+    "data": {
+      "text": "Yaşattıklarınızı yaşamadan ölmeyin\nYaşattıklarınızı yaşamadan ölmeyin\nYaşattıklarınızı yaşamadan ölmeyin\nYaşattıklarınızı yaşamadan ölmeyin\n#katilisrail #Israil_Is_Terrorist_country\n#FreePalestine #FreeQuds",
+      "id": "1391457134135717899",
+      "target": "Hedef: Yahudi Karşıtı"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T20:41:20.294284Z",
+    "updated_at": "2024-11-11T07:27:35.570256Z",
+    "inner_id": 44,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 703,
+    "updated_by": 9,
+    "comment_authors": []
+  },
+  {
+    "id": 578,
+    "annotations": [
+      {
+        "id": 6014,
+        "completed_by": 9,
+        "result": [
+          {
+            "value": {
+              "start": 0,
+              "end": 14,
+              "text": "#OrdularAksaya",
+              "labels": ["Düşmanlık, Savaş, Saldırı, Öldürme, Yaralama Tehditi"]
+            },
+            "id": "vVQz8HHQHe",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-11-11T07:27:53.169923Z",
+        "updated_at": "2024-11-11T07:27:53.169950Z",
+        "draft_created_at": null,
+        "lead_time": 16.317,
+        "prediction": {
+          "id": 36284,
+          "result": [
+            {
+              "id": "58954601-03a4-4a82-bd86-4536eb9c29a7",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 15,
+                "end": 29,
+                "score": 1,
+                "text": "İşgalci İsrail",
+                "labels": ["Dışlama; Ayrımcı Söylem"]
+              },
+              "error": null
+            }
+          ],
+          "model_version": "v1",
+          "created_ago": "2 weeks",
+          "score": 1.0,
+          "cluster": null,
+          "neighbors": null,
+          "mislabeling": 0.0,
+          "created_at": "2024-10-27T20:41:20.302347Z",
+          "updated_at": "2024-10-27T20:41:20.302353Z",
+          "model": null,
+          "model_run": null,
+          "task": 578,
+          "project": 703
+        },
+        "result_count": 0,
+        "unique_id": "f04b0d5f-fc67-49f6-a421-cb488e239743",
+        "import_id": null,
+        "last_action": null,
+        "task": 578,
+        "project": 703,
+        "updated_by": 9,
+        "parent_prediction": 36284,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "drafts": [],
+    "predictions": [36284],
+    "data": {
+      "text": "#OrdularAksaya İşgalci İsrail",
+      "id": "1391129701138173954",
+      "target": "Hedef: Yahudi Karşıtı"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T20:41:20.294317Z",
+    "updated_at": "2024-11-11T07:27:53.225780Z",
+    "inner_id": 45,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 703,
+    "updated_by": 9,
+    "comment_authors": []
+  },
+  {
+    "id": 579,
+    "annotations": [
+      {
+        "id": 6015,
+        "completed_by": 9,
+        "result": [
+          {
+            "value": {
+              "start": 123,
+              "end": 161,
+              "text": "Ermeni veya Sebateyistlik olabilirler.",
+              "labels": ["Simgeleştirme"]
+            },
+            "id": "XB9CHIN71Z",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-11-11T07:28:08.954062Z",
+        "updated_at": "2024-11-11T07:28:08.954089Z",
+        "draft_created_at": "2024-11-11T07:28:08.229637Z",
+        "lead_time": 14.027,
+        "prediction": {
+          "id": 36285,
+          "result": [
+            {
+              "id": "0673e4bf-3ad7-4e0b-ba06-ddc36c8b517c",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 123,
+                "end": 160,
+                "score": 1,
+                "text": "Ermeni veya Sebateyistlik olabilirler",
+                "labels": ["Abartma, Genelleme, Yükleme, Çarpıtma"]
+              },
+              "error": null
+            }
+          ],
+          "model_version": "v1",
+          "created_ago": "2 weeks",
+          "score": 1.0,
+          "cluster": null,
+          "neighbors": null,
+          "mislabeling": 0.0,
+          "created_at": "2024-10-27T20:41:20.302375Z",
+          "updated_at": "2024-10-27T20:41:20.302382Z",
+          "model": null,
+          "model_run": null,
+          "task": 579,
+          "project": 703
+        },
+        "result_count": 0,
+        "unique_id": "4acf351f-9845-4969-a43a-bad03aedbe6d",
+        "import_id": null,
+        "last_action": null,
+        "task": 579,
+        "project": 703,
+        "updated_by": 9,
+        "parent_prediction": 36285,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "drafts": [],
+    "predictions": [36285],
+    "data": {
+      "text": "@sevdaturkusev Böyle bir durumda ben inanmıyorum Türk’ün Türk’e küfrettiğini. O küfredenlerin DNA zinciri araştırılmalıdır Ermeni veya Sebateyistlik olabilirler.",
+      "id": "1658766253123591936",
+      "target": "Hedef: Ermeni Karşıtı"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T20:41:20.294353Z",
+    "updated_at": "2024-11-11T07:28:09.008181Z",
+    "inner_id": 46,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 703,
+    "updated_by": 9,
+    "comment_authors": []
+  },
+  {
+    "id": 580,
+    "annotations": [
+      {
+        "id": 6016,
+        "completed_by": 9,
+        "result": [
+          {
+            "value": {
+              "start": 208,
+              "end": 236,
+              "text": "Yunanla tek başıma savasirim",
+              "labels": ["Düşmanlık, Savaş, Saldırı, Öldürme, Yaralama Tehditi"]
+            },
+            "id": "113560aa-1413-4d8b-9f8f-f569c9df4fda",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 180,
+              "end": 205,
+              "text": "Yunan işgal edecek ülkeyi",
+              "labels": ["Düşmanlık, Savaş, Saldırı, Öldürme, Yaralama Tehditi"]
+            },
+            "id": "WgRK4fr3Jk",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-11-11T07:28:20.786884Z",
+        "updated_at": "2024-11-11T07:28:20.786916Z",
+        "draft_created_at": null,
+        "lead_time": 10.474,
+        "prediction": {
+          "id": 36286,
+          "result": [
+            {
+              "id": "4b7d4ebb-52b1-40b6-ba0e-21bdba3ec106",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 180,
+                "end": 205,
+                "score": 1,
+                "text": "Yunan işgal edecek ülkeyi",
+                "labels": ["Abartma, Genelleme, Yükleme, Çarpıtma"]
+              },
+              "error": null
+            },
+            {
+              "id": "113560aa-1413-4d8b-9f8f-f569c9df4fda",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 208,
+                "end": 236,
+                "score": 1,
+                "text": "Yunanla tek başıma savasirim",
+                "labels": [
+                  "Düşmanlık, Savaş, Saldırı, Öldürme, Yaralama Tehditi"
+                ]
+              },
+              "error": null
+            }
+          ],
+          "model_version": "v1",
+          "created_ago": "2 weeks",
+          "score": 1.0,
+          "cluster": null,
+          "neighbors": null,
+          "mislabeling": 0.0,
+          "created_at": "2024-10-27T20:41:20.302407Z",
+          "updated_at": "2024-10-27T20:41:20.302414Z",
+          "model": null,
+          "model_run": null,
+          "task": 580,
+          "project": 703
+        },
+        "result_count": 0,
+        "unique_id": "44cc2c8e-6cae-4f88-876f-ab5569679121",
+        "import_id": null,
+        "last_action": null,
+        "task": 580,
+        "project": 703,
+        "updated_by": 9,
+        "parent_prediction": 36286,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "drafts": [],
+    "predictions": [36286],
+    "data": {
+      "text": "@username @username Gitmezlerse ,daha da kıyamete kadar bu millet kıçını toplayamaz ,gitmezlerse ben dahil çoğu muhalif seçmene altın verseler kimse sandığa goturemez , diyecekler Yunan işgal edecek ülkeyi , Yunanla tek başıma savasirim yine o sandığa gitmem",
+      "id": "1503429440872800262",
+      "target": "Hedef: Yunan Karşıtı"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T20:41:20.294388Z",
+    "updated_at": "2024-11-11T07:28:20.851733Z",
+    "inner_id": 47,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 703,
+    "updated_by": 9,
+    "comment_authors": []
+  },
+  {
+    "id": 581,
+    "annotations": [
+      {
+        "id": 6017,
+        "completed_by": 9,
+        "result": [
+          {
+            "value": {
+              "start": 96,
+              "end": 108,
+              "text": "yunan tohumu",
+              "labels": ["Simgeleştirme"]
+            },
+            "id": "Sem6HvopKx",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-11-11T07:28:32.347012Z",
+        "updated_at": "2024-11-11T07:28:32.347040Z",
+        "draft_created_at": "2024-11-11T07:28:30.110356Z",
+        "lead_time": 10.068,
+        "prediction": {
+          "id": 36287,
+          "result": [
+            {
+              "id": "6b3fd94a-967b-4f4e-9f76-65d1876bfbc4",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 96,
+                "end": 108,
+                "score": 1,
+                "text": "yunan tohumu",
+                "labels": ["Küfür, Hakaret, Aşağılama, İnsandışılaştırma"]
+              },
+              "error": null
+            }
+          ],
+          "model_version": "v1",
+          "created_ago": "2 weeks",
+          "score": 1.0,
+          "cluster": null,
+          "neighbors": null,
+          "mislabeling": 0.0,
+          "created_at": "2024-10-27T20:41:20.302436Z",
+          "updated_at": "2024-10-27T20:41:20.302442Z",
+          "model": null,
+          "model_run": null,
+          "task": 581,
+          "project": 703
+        },
+        "result_count": 0,
+        "unique_id": "96fa68f7-91e6-4c94-b6e2-0462b9b58e33",
+        "import_id": null,
+        "last_action": null,
+        "task": 581,
+        "project": 703,
+        "updated_by": 9,
+        "parent_prediction": 36287,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "drafts": [],
+    "predictions": [36287],
+    "data": {
+      "text": "@Sezzenaksu Sezenaksu aptalın önde gidenisin.sigirsin.peygamber düşmanısin.ulkeyi terket.oruspu.yunan tohumu.salakahpe.icindeki o Müslüman düşmanlığını bikelime ile kusdun.gerizekali.itoluit babanin 60yil önceki 5dk Lik hatası yüzünden bugün senin gibi bı hayvanla uğraşıyor müslümanlar",
+      "id": "1484862550202331139",
+      "target": "Hedef: Yunan Karşıtı"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T20:41:20.294423Z",
+    "updated_at": "2024-11-11T07:28:32.407839Z",
+    "inner_id": 48,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 703,
+    "updated_by": 9,
+    "comment_authors": []
+  },
+  {
+    "id": 582,
+    "annotations": [
+      {
+        "id": 6018,
+        "completed_by": 9,
+        "result": [
+          {
+            "value": {
+              "start": 60,
+              "end": 75,
+              "text": "sapık zihniyete",
+              "labels": ["Küfür, Hakaret, Aşağılama, İnsandışılaştırma"]
+            },
+            "id": "c8fcf881-55bb-4f5c-bf89-acab8f64c324",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 207,
+              "end": 221,
+              "text": "dinsiz imansız",
+              "labels": ["Dışlama; Ayrımcı Söylem"]
+            },
+            "id": "5fa27d95-9390-4a8c-8a8f-c0622209ee86",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-11-11T07:28:46.887968Z",
+        "updated_at": "2024-11-11T07:28:46.887999Z",
+        "draft_created_at": null,
+        "lead_time": 13.199,
+        "prediction": {
+          "id": 36288,
+          "result": [
+            {
+              "id": "c8fcf881-55bb-4f5c-bf89-acab8f64c324",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 60,
+                "end": 75,
+                "score": 1,
+                "text": "sapık zihniyete",
+                "labels": ["Küfür, Hakaret, Aşağılama, İnsandışılaştırma"]
+              },
+              "error": null
+            },
+            {
+              "id": "5fa27d95-9390-4a8c-8a8f-c0622209ee86",
+              "from_name": "label",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "start": 207,
+                "end": 221,
+                "score": 1,
+                "text": "dinsiz imansız",
+                "labels": ["Dışlama; Ayrımcı Söylem"]
+              },
+              "error": null
+            }
+          ],
+          "model_version": "v1",
+          "created_ago": "2 weeks",
+          "score": 1.0,
+          "cluster": null,
+          "neighbors": null,
+          "mislabeling": 0.0,
+          "created_at": "2024-10-27T20:41:20.302468Z",
+          "updated_at": "2024-10-27T20:41:20.302474Z",
+          "model": null,
+          "model_run": null,
+          "task": 582,
+          "project": 703
+        },
+        "result_count": 0,
+        "unique_id": "95545526-6450-4097-b721-f6acce71604c",
+        "import_id": null,
+        "last_action": null,
+        "task": 582,
+        "project": 703,
+        "updated_by": 9,
+        "parent_prediction": 36288,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "drafts": [],
+    "predictions": [36288],
+    "data": {
+      "text": "@bernalacin35 Defol şeytan CHP pkk lgbt lilere versinler şu sapık zihniyete bak sen geberdiğinde görürsün kim hak ediyor kıyametin kopacak artık son pişmanlık fayda etmez yol yekınken tövbe et rabbine sarıl dinsiz imansız gitme öbür tarafa",
+      "id": "1658005454822285056",
+      "target": "Hedef: LGBTI+ Karşıtı"
+    },
+    "meta": {},
+    "created_at": "2024-10-27T20:41:20.294459Z",
+    "updated_at": "2024-11-11T07:28:46.957106Z",
+    "inner_id": 49,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 703,
+    "updated_by": 9,
+    "comment_authors": []
+  }
+]
