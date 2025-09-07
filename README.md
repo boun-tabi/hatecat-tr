@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 ⚠️ Note: Due to platform terms and ethical considerations, the dataset itself is not distributed with this repository. The commands below are illustrative. If you prepare your own data in the required format, you can use the scripts as shown.
 
-** Data Format**: The CSV files must include the following fields: `tokens`, `tags`, `Tweet_id`
+**Data Format**: The CSV files must include the following fields: `tokens`, `tags`, `Tweet_id`
 
 
 ### Detection
@@ -97,5 +97,6 @@ If you use HATECAT-TR in your research, please cite our paper:
   year         = {2025}
 }
 ```
+
 
 
