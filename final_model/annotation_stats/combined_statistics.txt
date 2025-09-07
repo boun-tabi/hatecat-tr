@@ -1,9 +1,0 @@
-Overall Category Statistics:
---------------------------------------------------
-full match and label match: 1049 (28.60%)
-full match and label mismatch: 510 (13.90%)
-partial match and label match: 554 (15.10%)
-partial match and label mismatch: 980 (26.72%)
-no match: 575 (15.68%)
-Total Count: 3668
-
