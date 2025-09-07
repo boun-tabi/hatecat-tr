@@ -7,28 +7,29 @@ import evaluate
 from transformers import AutoTokenizer
 from transformers import DataCollatorForTokenClassification
 from transformers import AutoModelForTokenClassification, TrainingArguments, Trainer, EarlyStoppingCallback
-from huggingface_hub import login
-import wandb
-from dotenv import load_dotenv
-import os
 
-load_dotenv()
-HF_TOKEN =  os.environ["HF_TOKEN"]
-WANDB_TOKEN = os.environ["WANDB_TOKEN"]
+max_f1 = 0
+learn_rate = 5e-5
+batch_size = 4
+num_epoch = 10
+warm_up = 0.1
+early_stop_patience = 3
+weight_decay = 0
+test_set_sample_size = 300
 
-df_all_anno = pd.read_csv(f'../merged_annotations/all_annotations_tr.csv')
-df_gpt = pd.read_csv(f'../gpt_predictions/gpt_anno.csv')
-df_full = pd.read_csv(f'../matching_annotations/full_match.csv')
+test_set_directory = f'../matching_annotations/full_match.csv'
+train_set_directory = f'../merged_annotations/all_annotations_tr.csv'
+not_hateful_tweets_directory = f'../non_hateful/nonhateful_tweets_with_tags.csv'
 
-df_not_spans = pd.read_csv(f'../non_hateful/nonhateful_tweets_with_tags.csv')
+df_all_anno = pd.read_csv(train_set_directory)
+df_full = pd.read_csv(test_set_directory)
+
+df_not_spans = pd.read_csv(not_hateful_tweets_directory)
 
 df_full['tokens'] = df_full['tokens'].apply(literal_eval)
 df_full['tags'] = df_full['tags'].apply(literal_eval)
 df_full['Tweet_id'] = df_full['Tweet_id']
 
-df_gpt['tokens'] = df_gpt['tokens'].apply(literal_eval)
-df_gpt['tags'] = df_gpt['tags'].apply(literal_eval)
-df_gpt['Tweet_id'] = df_gpt['Tweet_id']
 
 df_all_anno['tokens'] = df_all_anno['tokens'].apply(literal_eval)
 df_all_anno['tags'] = df_all_anno['tags'].apply(literal_eval)
@@ -38,36 +39,29 @@ df_not_spans['tokens'] = df_not_spans['tokens'].apply(literal_eval)
 df_not_spans['tags'] = df_not_spans['tags'].apply(literal_eval)
 df_not_spans['Tweet_id'] = df_not_spans['Tweet_id']
 
-#df_all = pd.concat([df_spans, df_not_spans.sample(df_spans.shape[0])])
-df_all_gpt = pd.concat([df_gpt, df_not_spans])
 df_all_full = pd.concat([df_full, df_not_spans])
 df_all_anno2 = pd.concat([df_all_anno, df_not_spans])
 
-df_test = df_full.sample(300)
+df_test = df_full.sample(test_set_sample_size)
 
 df_all_anno2 = df_all_anno2[~df_all_anno2['Tweet_id'].isin(df_test['Tweet_id'].tolist())]
-df_all_gpt = df_all_gpt[~df_all_gpt['Tweet_id'].isin(df_test['Tweet_id'].tolist())]
 df_all_full = df_all_full[~df_all_full['Tweet_id'].isin(df_test['Tweet_id'].tolist())]
 
 
 
 # Convert to Dataset
 all_dataset = Dataset.from_pandas(df_all_anno2)
-gpt_dataset = Dataset.from_pandas(df_all_gpt)
 full_dataset = Dataset.from_pandas(df_all_full)
 test_dataset = Dataset.from_pandas(df_test)
 
 # Create DatasetDict
 ds = DatasetDict({
     'all': all_dataset,
-    'gpt': gpt_dataset,
     'full': full_dataset,
     'test':test_dataset 
 })
 
 seqeval = evaluate.load("seqeval")
-wandb.login(key=WANDB_TOKEN)
-
 
 def compute_metrics(p):
     predictions, labels = p
@@ -137,11 +131,7 @@ label2id = {
 label_list = list(id2label.values())
 tokenizer = AutoTokenizer.from_pretrained("dbmdz/bert-base-turkish-cased",add_prefix_space=True)
 tokenized_dataset = ds.map(tokenize_and_align_labels, batched=True)
-max_f1 = 0
-learn_rate = 5e-5
-batch_size = 4
-num_epoch = 10
-warm_up = 0.1
+
 for dataset in ds.keys():
     if dataset == "test":
         continue
@@ -149,16 +139,6 @@ for dataset in ds.keys():
         "dbmdz/bert-base-turkish-cased", num_labels=6
     )
     data_collator = DataCollatorForTokenClassification(tokenizer=tokenizer)
-    wandb.init(
-        project="categorization_final",  # Replace with your project name
-        name=f"{dataset}_lr-{learn_rate}_bs-{batch_size}_epochs-{num_epoch}_warmup-{warm_up}",  # Unique name
-        config={
-            "learning_rate": learn_rate,
-            "batch_size": batch_size,
-            "num_epochs": num_epoch,
-            "warm_up": warm_up,
-        },
-    )
     training_args = TrainingArguments(
         output_dir=f"{dataset}_{learn_rate}_{batch_size}_{num_epoch}_categorize",
         learning_rate=learn_rate,
@@ -175,8 +155,7 @@ for dataset in ds.keys():
         save_total_limit=1,
         push_to_hub=False,
         warmup_ratio=warm_up,
-        #weight_decay=0.01,
-        report_to="wandb",
+        weight_decay=weight_decay,
     )
     split_ds = tokenized_dataset[dataset].train_test_split(test_size=0.1, seed=42)
     train_dataset = split_ds["train"]
@@ -189,7 +168,7 @@ for dataset in ds.keys():
         tokenizer=tokenizer,
         data_collator=data_collator,
         compute_metrics=compute_metrics,
-        callbacks = [EarlyStoppingCallback(early_stopping_patience=3)]
+        callbacks = [EarlyStoppingCallback(early_stopping_patience=early_stop_patience)]
     )
 
     trainer.train()
@@ -206,10 +185,6 @@ for dataset in ds.keys():
     print('Text', tokenized_dataset["test"]['Text'][ix])
     print('Label', ''.join([tokenizer.convert_ids_to_tokens(token) if label in list(range(1,6)) else '-' for label, token in zip(tokenized_dataset["test"]['labels'][ix],tokenized_dataset["test"]['input_ids'][ix] ) ]))
     ' '.join([tokenizer.convert_ids_to_tokens(token) if label in list(range(1,6)) else '-' for label, token in zip( np.argmax(predictions[ix],axis=1)[:len(tokenized_dataset["test"]['input_ids'][ix])],tokenized_dataset["test"]['input_ids'][ix] ) ]).replace(' ##' , '')
-    login(HF_TOKEN)
 
     print("Result:", metrics, dataset)
-
-    trainer.push_to_hub()
-    wandb.finish()
 
